@@ -1,0 +1,60 @@
+html
+{
+	font-size: 16px;
+	line-height: 1.5;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #000000;
+}
+
+a, a:link
+{
+	color: black;
+	-webkit-text-decoration: skip;
+	text-decoration: skip;
+	-webkit-text-decoration-style: solid;
+	text-decoration-style: solid;
+	-webkit-text-decoration-color: var(--limegreen100);
+	text-decoration-color: var(--limegreen100);
+}
+
+}
+a:visited { color: grey; }
+a:hover { color: lightgrey; }
+a:active { color: orange; }
+a:focus { outline: 2px solid black; }
+
+::-moz-selection
+{
+	background: #FFD479;
+	/* WebKit/Blink Browsers */
+}
+
+::selection
+{
+	background: #FFD479;
+	/* WebKit/Blink Browsers */
+}
+
+::-moz-selection
+{
+	background: #FFD479;
+	/* Gecko Browsers */
+}
+
+p { font-family: Georgia, serif; }
+
+.nav
+{
+	list-style-type: none;
+	padding-left: .5em;
+}
+
+li.l2 { padding-left: .75em; }
+
+p.page-intro
+{
+	font-weight: bold;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
