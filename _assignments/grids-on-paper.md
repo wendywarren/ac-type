@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Grids on Paper"
-Content: |
+details: |
   Page layout grids create structure and harmony on the page. 
 
   Create layout grids for print. We'll consider: 
