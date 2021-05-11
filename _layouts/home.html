@@ -1,25 +1,33 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
         "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
-<html lang=en>
+<html lang="en">
 <head>
 	<title>DSN1534 Typography 3</title>
 	<link href="{{site.baseurl}}/css/layout.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/typography.css" rel="stylesheet">
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=2">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <main> 
 <div class="wrapper">
-Left Column
+	<h4>
+		Assignments 
+	</h4>
+	{% assign all_assignments = site.documents %} 
+	<nav>
+		<ul>
+			{% for item in all_assignments %} 
+			<li><a href="{{ site.baseurl }}{{item.url}}">{{item.title}}</a></li>
+			{% endfor %} 
+		</ul>
+	</nav>
 </div>
 <div class="wrapper">
-	<h1>
-		Main Title
-	</h1>
-	<p>
-		This course will convey typographic concepts for the page and for screens. We'll use the same content for both intents. The goal is to emphasize the fundamentals of type-based page layouts, no matter the intent. 
-	</p>
+<h1>
+	{{page.title}} 
+</h1>
+{{ page.content | markdownify }}
 </div>
 </main> 
 </body>
