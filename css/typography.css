@@ -2,7 +2,7 @@ html
 {
 	font-size: 16px;
 	line-height: 1.5;
-	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font-family: franklin-gothic-urw,sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	color: #000000;
@@ -15,8 +15,8 @@ a, a:link
 	text-decoration: skip;
 	-webkit-text-decoration-style: solid;
 	text-decoration-style: solid;
-	-webkit-text-decoration-color: var(--limegreen100);
-	text-decoration-color: var(--limegreen100);
+	-webkit-text-decoration-color: green;
+	text-decoration-color: blue;
 }
 
 }
@@ -43,18 +43,15 @@ a:focus { outline: 2px solid black; }
 	/* Gecko Browsers */
 }
 
-p { font-family: Georgia, serif; }
-
 .nav
 {
 	list-style-type: none;
 	padding-left: .5em;
 }
 
-li.l2 { padding-left: .75em; }
 
-p.page-intro
-{
-	font-weight: bold;
-	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+h6, h5, h4, h3, h2, h1 {
+	font-family: franklin-gothic-urw-cond,sans-serif;
+	font-weight: 500;
+	font-style: normal;
 }
