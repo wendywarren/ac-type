@@ -17,4 +17,7 @@ details: |
   ## Invisible Type 
 
   Manage line breaks, discretionary hyphens, various white spaces, etc... 
+
+  [Setting punctuation in CSS](https://www.smashingmagazine.com/2020/05/micro-typography-space-kern-punctuation-marks-symbols/)
+
 ---
