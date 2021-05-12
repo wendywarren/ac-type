@@ -28,3 +28,10 @@ main {
 .cell {
 	margin-bottom: 10px;
 	}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 103, 62, 0.3);
+}
