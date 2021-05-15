@@ -2,6 +2,7 @@
 layout: home
 title: Typography 3
 details: |
+
   ## General Resources
 
   - [Type Basics for Screens](https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/)
@@ -14,5 +15,6 @@ details: |
   - [Type fundamentals](https://cssclass.com/2020/05/18/css-basics-for-typography/)
 
   Cover the basics of typography applied for the screen.
+
 
 ---
