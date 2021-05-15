@@ -3,8 +3,8 @@ title: Typography Three
 email: paradia@algonquincollege.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the curriculum web site for DSN1543 Typography 3 course in the Graphic Design program at Algonquin College in Ottawa, Canada.
-baseurl: ""
-url: "alainparadis.github.io/type-3/"
+baseurl: "/"
+url: "alainparadis.github.io/type-3"
 twitter_username: alainparadis
 github_username:  alainparadis
 # Build settings
