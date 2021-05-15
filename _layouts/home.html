@@ -3,8 +3,8 @@
 <html lang="en">
 <head>
 	<title>DSN1534 Typography 3</title>
-	<link href="{{site.baseurl}}/css/layout.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/typography.css" rel="stylesheet">
+	<link href="{{site.baseurl}}css/layout.css" rel="stylesheet">
+	<link href="{{site.baseurl}}css/typography.css" rel="stylesheet">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://use.typekit.net/nuy7flm.css">
@@ -12,14 +12,25 @@
 <body>
 <main> 
 <div class="wrapper">
-	{% assign all_assignments = site.documents %} 
+  <div><a href="{{site.baseurl}}">HOME</a></div>
+  <h3>Assignments</h3>
+	{% assign all_assignments = site.assignments %} 
 	<nav>
-		<ul class="nav" >
-			<li><a href="/">HOME</a></li>
+		<ul class="nav">
 			{% for item in all_assignments %} 
 			<li><a href="{{item.url}}">{{item.title}}</a></li>
 			{% endfor %} 
 		</ul>
+  
+  <h3>Micro-Assignments</h3>
+	{% assign all_micros = site.micro-assignments %} 
+	<nav>
+		<ul class="nav" >
+			{% for item in all_micros %} 
+			<li><a href="{{item.url}}">{{item.title}}</a></li>
+			{% endfor %} 
+		</ul>
+	</nav>
 	</nav>
 </div>
 <div class="wrapper">
@@ -27,14 +38,13 @@
 		{{page.title}} 
 	</h1>
 	<p>
-	{{ page.description | markdownify }}
+		{{ page.description | markdownify }} 
 	</p>
-
-	{{ page.details | markdownify }}
+	{{ page.details | markdownify }} 
 </div>
-</main>
+</main> 
 <footer>
-	{% include footer.html %}
+	{% include footer.html %} 
 </footer>
 </body>
 </html>
