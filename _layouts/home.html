@@ -12,8 +12,12 @@
 <body>
 <main> 
 <div class="wrapper">
-  <div><a href="/">HOME</a></div>
-  <h3>Assignments</h3>
+	<div>
+		<a href="/">HOME</a>
+	</div>
+	<h3>
+		Assignments
+	</h3>
 	{% assign all_assignments = site.assignments %} 
 	<nav>
 		<ul class="nav">
@@ -21,16 +25,17 @@
 			<li><a href="{{item.url}}">{{item.title}}</a></li>
 			{% endfor %} 
 		</ul>
-  
-  <h3>Micro-Assignments</h3>
-	{% assign all_micros = site.micro-assignments %} 
-	<nav>
-		<ul class="nav" >
-			{% for item in all_micros %} 
-			<li><a href="{{item.url}}">{{item.title}}</a></li>
-			{% endfor %} 
-		</ul>
-	</nav>
+		<h3>
+			Micro-Assignments
+		</h3>
+		{% assign all_micros = site.micro-assignments %} 
+		<nav>
+			<ul class="nav">
+				{% for item in all_micros %} 
+				<li><a href="{{item.url}}">{{item.title}}</a></li>
+				{% endfor %} 
+			</ul>
+		</nav>
 	</nav>
 </div>
 <div class="wrapper">

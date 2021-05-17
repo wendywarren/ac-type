@@ -3,7 +3,7 @@ layout: home
 title: Typography 3
 details: |
 
- v1
+ v2
 
   ## General Resources
 
