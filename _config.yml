@@ -7,10 +7,6 @@ baseurl: ""
 url: "alainparadis.github.io/type-3"
 twitter_username: alainparadis
 github_username:  alainparadis
-# Build settings
-plugins:
-  - jekyll-feed
-
 collections:
   assignments:
       output: true
