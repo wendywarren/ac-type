@@ -3,6 +3,8 @@ layout: home
 title: Typography 3
 details: |
 
+ v1
+
   ## General Resources
 
   - [Type Basics for Screens](https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/)
