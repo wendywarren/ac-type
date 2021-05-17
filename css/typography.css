@@ -58,3 +58,11 @@ h6, h5, h4, h3, h2, h1 {
 	font-weight: 500;
 	font-style: normal;
 }
+
+dt {
+	font-weight: 500;
+}
+
+.description {
+	font-weight: 500;
+}
