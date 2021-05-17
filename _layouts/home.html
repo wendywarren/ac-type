@@ -3,10 +3,10 @@
 <html lang="en">
 <head>
 	<title>DSN1534 Typography 3</title>
-	<link rel="stylesheet" href="{{ "css/layout.css" | prepend: site.baseurl }}">
-	<link rel="stylesheet" href="{{ "css/typography.css" | prepend: site.baseurl }}">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/css/layout.css" type="text/css">
+	<link rel="stylesheet" href="/css/typography.css" type="text/css">
 	<link rel="stylesheet" href="https://use.typekit.net/nuy7flm.css">
 </head>
 <body>
@@ -18,7 +18,7 @@
 	<nav>
 		<ul class="nav">
 			{% for item in all_assignments %} 
-			<li><a href="{{base.url}}{{item.url}}">{{item.title}}</a></li>
+			<li><a href="{{item.url}}">{{item.title}}</a></li>
 			{% endfor %} 
 		</ul>
   
@@ -27,7 +27,7 @@
 	<nav>
 		<ul class="nav" >
 			{% for item in all_micros %} 
-			<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+			<li><a href="{{item.url}}">{{item.title}}</a></li>
 			{% endfor %} 
 		</ul>
 	</nav>
