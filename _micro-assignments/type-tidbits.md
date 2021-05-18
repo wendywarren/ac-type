@@ -15,5 +15,6 @@ details: |
   - Faux bold vs true bold 
   - Quotation marks & apostrophes 
   - Dashes & hyphens
+  - What's a Grotesque font?
 
 ---
