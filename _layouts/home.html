@@ -13,10 +13,10 @@
 <main> 
 <div class="wrapper">
 	<div>
-		<a href="{{site.url}}">HOME</a>
+		<a href="{{site.url}}">HOME</a> 
 	</div>
 	<h3>
-		Assignments
+		Assignments 
 	</h3>
 	{% assign all_assignments = site.assignments %} 
 	<nav>
@@ -26,16 +26,23 @@
 			{% endfor %} 
 		</ul>
 		<h3>
-			Micro-Assignments
+			Micro-Assignments 
 		</h3>
 		{% assign all_micros = site.micro-assignments %} 
-		<nav>
-			<ul class="nav">
-				{% for item in all_micros %} 
-				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
-				{% endfor %} 
-			</ul>
-		</nav>
+		<ul class="nav">
+			{% for item in all_micros %} 
+			<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+			{% endfor %} 
+		</ul>
+		<h3>
+			Type Facts
+		</h3>
+		{% assign all_facts = site.type-facts %} 
+		<ul class="nav">
+			{% for item in all_facts %} 
+			<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+			{% endfor %} 
+		</ul>
 	</nav>
 </div>
 <div class="wrapper">
