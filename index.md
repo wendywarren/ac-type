@@ -30,9 +30,30 @@ details: |
 
   Submit a single PDF file.
 
-  ## Designing Grids
+  ### Designing Grids
 
   We're always told to create a grid to guide our page layouts. But where do we start? How do we decide how to divide the page? We'll use [various formula](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml#ch8) to create harmonious grids.
+
+  ### Web Typography
+
+  Create a layout using [this information](https://learn-the-web.algonquindesign.ca/topics/web-typography-cheat-sheet/). We'll create a page layout with multiple columns. Choose a pair of fonts that work well together and create sufficient contrast. We'll control hyphenation, and other variables listed on the page linked above.
+
+  Submit the HTML page and the CSS file or a link to GitHub.
+
+  ### Magazine Layout
+
+  Create a [six-page magazine feature article](https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch34.xhtml#ch34) combining text, pictures, call outs, and captions, and making effective use of white space
+
+  We'll design layouts with [varied page elements](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/15_Chapter09.xhtml#ch9), such as:
+
+  - Headings
+  - Subheads
+  - Body copy
+  - Table data
+  - Pull quotes
+  - Folios
+  - Running headlines
+  - Block quotes
 
   <hr />
 
@@ -48,6 +69,4 @@ details: |
   - [Type fundamentals](https://cssclass.com/2020/05/18/css-basics-for-typography/)
 
   Cover the basics of typography applied for the screen.
-
-
 ---
