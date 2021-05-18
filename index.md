@@ -59,6 +59,8 @@ details: |
 
   ## Links
 
+  [MyFonts Font Field Guides](https://www.myfonts.com/content/font-field-guide). Learn about how to use these fonts. There are also alternate cuts of each font.
+
   - [Type Basics for Screens](https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/)
   - [Smashing Type Newsletter](https://mailchi.mp/smashingmagazine/smashing-newsletter-298-web-typography?e=db00feeaa2)
   - [CapSize: Font Sizing site](https://seek-oss.github.io/capsize/)
@@ -68,5 +70,21 @@ details: |
   - [Bootstrap Typography](https://getbootstrap.com/docs/3.3/css/)
   - [Type fundamentals](https://cssclass.com/2020/05/18/css-basics-for-typography/)
 
-  Cover the basics of typography applied for the screen.
+  ### Foundries
+
+  - [FontShop](https://www.fontshop.com)
+  - [Adobe Type](https://en.wikipedia.org/wiki/Apple_Inc.), a division of Adobe Systems
+  - [Apple Inc.](https://developer.apple.com/videos/play/wwdc2020/10175/)
+  - [Google LLC](https://fonts.google.com)
+  - [Monotype Imaging](https://www.monotype.com)
+    - [Ascender Corporation](https://www.fontshop.com/foundries/ascender) a subsidiary of Monotype Imaging
+    - [Bitstream](https://www.myfonts.com/foundry/Bitstream/) a subsidiary of Monotype Imaging
+    - [FontFont](https://www.fontshop.com/foundries/fontfont) a subsidiary of Monotype Imaging, Located in Germany
+    - [International Typeface Corporation](https://en.wikipedia.org/wiki/International_Typeface_Corporation) (ITC) a subsidiary of Monotype Imaging
+    - [Linotype GmbH](https://www.linotype.com) a subsidiary of Monotype Imaging, Located in Germany
+    - [Fontsmith](https://www.fontsmith.com) a subsidiary of Monotype Imaging, Located in United Kingdom
+    - [URW Type Foundry](https://en.wikipedia.org/wiki/URW_Type_Foundry) a subsidiary of Monotype Imaging, Located in Germany
+
+  - [Lots more small foundries](https://www.fontshop.com/foundries)
+
 ---
