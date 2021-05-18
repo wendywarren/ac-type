@@ -9,6 +9,8 @@ details: |
 
   Show two families that go well together. Explain why they do. 
 
-  Have a student choose two fonts, then explain why they go together. 
+  Have a student choose two fonts, then explain why they go together.
+  
+  [Reference Reading](https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch05.xhtml) on pairing fonts.
 
 ---
