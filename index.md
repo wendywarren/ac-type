@@ -69,22 +69,21 @@ details: |
     - Creates type scales automatically.
   - [Bootstrap Typography](https://getbootstrap.com/docs/3.3/css/)
   - [Type fundamentals](https://cssclass.com/2020/05/18/css-basics-for-typography/)
+  - [Practical Typography](https://practicaltypography.com/)
+  - [A List Apart](https://alistapart.com/article/how-we-read/)
+  - [TypeKit Blog](https://blog.typekit.com/)
+  - [Type Ed: Font Weight](https://type-ed.com/resources/rag-right/2017/11/13/font-weight-size)
+  - [Type Connection](http://www.typeconnection.com/index.php)
+  - [Type Method](https://type.method.ac/)
+  - [Creative Bloq: Grids on the Web](https://www.creativebloq.com/web-design/grid-theory-41411345)
 
-  ### Foundries
 
-  - [FontShop](https://www.fontshop.com)
-  - [Adobe Type](https://en.wikipedia.org/wiki/Apple_Inc.), a division of Adobe Systems
-  - [Apple Inc.](https://developer.apple.com/videos/play/wwdc2020/10175/)
-  - [Google LLC](https://fonts.google.com)
-  - [Monotype Imaging](https://www.monotype.com)
-    - [Ascender Corporation](https://www.fontshop.com/foundries/ascender) a subsidiary of Monotype Imaging
-    - [Bitstream](https://www.myfonts.com/foundry/Bitstream/) a subsidiary of Monotype Imaging
-    - [FontFont](https://www.fontshop.com/foundries/fontfont) a subsidiary of Monotype Imaging, Located in Germany
-    - [International Typeface Corporation](https://en.wikipedia.org/wiki/International_Typeface_Corporation) (ITC) a subsidiary of Monotype Imaging
-    - [Linotype GmbH](https://www.linotype.com) a subsidiary of Monotype Imaging, Located in Germany
-    - [Fontsmith](https://www.fontsmith.com) a subsidiary of Monotype Imaging, Located in United Kingdom
-    - [URW Type Foundry](https://en.wikipedia.org/wiki/URW_Type_Foundry) a subsidiary of Monotype Imaging, Located in Germany
+<hr />
 
-  - [Lots more small foundries](https://www.fontshop.com/foundries)
+  ## Reference Materials
+  
+  - [The Art of Typography](https://learning.oreilly.com/library/view/the-art-of/9781315301532/)
+  - 
+
 
 ---
