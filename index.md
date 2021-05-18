@@ -15,7 +15,7 @@ details: |
   - Place
   - Descriptive text
 
-  I'll provide printed sheets of paper with a grid printed on them. These will be used to sketch layouts before building them. Sharpies, Fineliners and pencils will be best for this. Well use:
+  I'll provide printed sheets of paper with a grid printed on them. These will be used to sketch layouts before building them. Sharpies, Fineliners and pencils will be best for this. We'll use:
 
   - Size
   - Weight
