@@ -78,7 +78,7 @@ details: |
   - [Creative Bloq: Grids on the Web](https://www.creativebloq.com/web-design/grid-theory-41411345)
 
 
-<hr />
+  <hr />
 
   ## Reference Materials
   
