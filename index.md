@@ -55,7 +55,7 @@ details: |
   - Running headlines
   - Block quotes
 
-  <hr />
+  ---- 
 
   ## Links
 
@@ -78,12 +78,14 @@ details: |
   - [Creative Bloq: Grids on the Web](https://www.creativebloq.com/web-design/grid-theory-41411345)
 
 
-  <hr />
+  ----
 
   ## Reference Materials
   
   - [The Art of Typography](https://learning.oreilly.com/library/view/the-art-of/9781315301532/)
-  - 
-
+  - [Magazine Layout Assignment](https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch34.xhtml#ch34)
+  - [Page Layout](https://learning.oreilly.com/library/view/lessons-in-typography/9780133993738/ch05.html)
+  - [Good reference for fundamentals](https://learning.oreilly.com/library/view/design-elements-typography/9781592537679/)
+  - [Great historical book](https://learning.oreilly.com/library/view/typography-referenced/9781592537020/) It includes a list of type designers.
 
 ---
