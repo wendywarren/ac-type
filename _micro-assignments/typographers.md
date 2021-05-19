@@ -27,4 +27,6 @@ details: |
   - Max Miedinger 
   - Tobias Frere-Jones
 
+  [This is a good list](https://learning.oreilly.com/library/view/typography-referenced/9781592537020/) of type designers.
+
 ---
