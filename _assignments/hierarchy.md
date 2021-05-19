@@ -53,6 +53,15 @@ details: |
 
   Before working on the actual hierarchy of the type, we need to inventory our content. If our text has three levels of titles and various types of lists, this will affect how we design our type system. That's why it's important to read everything and inventory what we're working with.
 
+  You will be given printed sheets of paper with a grid printed on them. These will be used to sketch layouts before building them. Sharpies, Fineliners and pencils will be best for this.
+  
+  Beyond the sketches, you'll choose only one font family with varied weights and widths. Limit yourself to only greyscale. No graphics are allowed.
+
+  ## Deliverables
+
+  Submit a single multi-page PDF file. Create a cover page to identify yourself. Include your full name, the project name and the due date.
+---
+
   Create hierarchy with the given text as shown on [this page](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/13_Chapter07.xhtml#ch7). The text will be short. It should be an event announcement. There will be different versions for students to work on. It will include:
 
   - Title
@@ -60,10 +69,3 @@ details: |
   - Date
   - Place
   - Descriptive text
-
-  You will be given printed sheets of paper with a grid printed on them. These will be used to sketch layouts before building them. Sharpies, Fineliners and pencils will be best for this.
-  
-  Beyond the sketches, you'll choose only one font family with varied weights and widths. Limit yourself to only greyscale. No graphics are allowed.
-
-  Submit a single PDF file.
----
