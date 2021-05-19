@@ -28,4 +28,6 @@ details: |
 
   We'll learn the anatomy of page grids including, margins, columns, gutters, etc… 
 
+  [Good layout/grids info here](https://learning.oreilly.com/library/view/typography-referenced/9781592537020/chapter-49.html)
+
 ---
