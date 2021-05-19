@@ -1,5 +1,6 @@
 ---
 layout: home
+sortorder: 1.2
 title: "Hierarchy on Screen"
 description: |
   Copy fitting entails fitting the given content into a limited number of pages.

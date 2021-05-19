@@ -1,5 +1,6 @@
 ---
 layout: home
+sortorder: 1.1
 title: "Hierarchy"
 details: |
 

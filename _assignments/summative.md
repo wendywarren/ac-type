@@ -1,5 +1,6 @@
 ---
 layout: home
+sortorder: 1.9
 title: "Summative Activity"
 details: |
   This assignment is about applying the skills learned during the semester for the page and for the screen. 

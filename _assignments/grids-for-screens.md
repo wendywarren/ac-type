@@ -1,5 +1,6 @@
 ---
 layout: home
+sortorder: 1.4
 title: "Grids for Screens"
 details: |
   How does one create a grid when the dimensions and orientation of screens is so variable?

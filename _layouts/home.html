@@ -20,7 +20,7 @@
 	<h3>
 		Assignments 
 	</h3>
-	{% assign all_assignments = site.assignments %} 
+	{% assign all_assignments = site.assignments | sort: 'sortorder' %} 
 	<nav>
 		<ul class="nav">
 			{% for item in all_assignments %} 

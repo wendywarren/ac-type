@@ -1,5 +1,6 @@
 ---
 layout: home
+sortorder: 1.3
 title: "Copy Fitting"
 description: |
   Copy fitting entails fitting the given content into a limited number of pages.

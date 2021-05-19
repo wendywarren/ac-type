@@ -1,5 +1,6 @@
 ---
 layout: home
+sortorder: 1.0
 title: "Grids on Paper"
 description: |
   Page layout grids create structure and harmony on the page.
