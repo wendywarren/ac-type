@@ -5,31 +5,6 @@ details: |
 
   ## Assignment Ideas
 
-  ### Hierarchy
-
-  Create hierarchy with the given text as shown on [this page](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/13_Chapter07.xhtml#ch7). The text will be short. It should be an event announcement. There will be different versions for students to work on. It will include:
-
-  - Title
-  - Sub-title
-  - Date
-  - Place
-  - Descriptive text
-
-  I'll provide printed sheets of paper with a grid printed on them. These will be used to sketch layouts before building them. Sharpies, Fineliners and pencils will be best for this. We'll use:
-
-  - Size
-  - Weight
-  - Width
-  - Alignment
-  - Tracking
-  - Greys
-  - Orientation
-  - Italics
-  
-  Beyond the sketches, you'll choose only one font family with varied weights and widths. Limit yourself to only greyscale. No graphics are allowed.
-
-  Submit a single PDF file.
-
   ### Designing Grids
 
   We're always told to create a grid to guide our page layouts. But where do we start? How do we decide how to divide the page? We'll use [various formula](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml#ch8) to create harmonious grids.
