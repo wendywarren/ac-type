@@ -78,3 +78,12 @@ dd { margin-bottom: .25em; }
 .description {
 	font-weight: 500;
 }
+
+code {
+	background: #ededed;
+	font-size: .80rem;
+	font-weight: 400;
+	padding: .2em;
+	border-radius: 4px;
+	border: 1px solid lightgrey;
+}
