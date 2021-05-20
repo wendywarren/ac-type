@@ -33,6 +33,10 @@ details: |
   - [Type Method](https://type.method.ac/)
   - [Creative Bloq: Grids on the Web](https://www.creativebloq.com/web-design/grid-theory-41411345)
 
+  ### Accessibility
+
+  - [IASR](https://www.aoda.ca/what-is-the-integrated-accessibility-standards-regulation-iasr/)
+  - [WCAG](https://www.w3.org/TR/WCAG20/)
 
   ----
 
