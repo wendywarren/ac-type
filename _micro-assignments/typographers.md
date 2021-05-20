@@ -1,5 +1,6 @@
 ---
 layout: home
+sortorder: 
 title: "Typographer of the week"
 description: |
   These are small assignments we'll do weekly.

@@ -1,5 +1,6 @@
 ---
 layout: home
+sortorder: 
 title: "Font Pairs"
 description: |
   These are small assignments we'll do weekly.

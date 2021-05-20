@@ -1,5 +1,6 @@
 ---
 layout: home
+sortorder: 
 title: "Type Tidbits"
 description: |
   These are small assignments we'll do weekly.
