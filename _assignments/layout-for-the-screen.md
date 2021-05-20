@@ -1,7 +1,7 @@
 ---
 layout: home
 sortorder: 1.2
-title: "Hierarchy on Screen"
+title: "Layout for the screen"
 description: |
   Copy fitting entails fitting the given content into a limited number of pages.
 details: |
