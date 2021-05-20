@@ -33,6 +33,12 @@ details: |
 
   Modular grids allow for an great amount of versatility for your page layouts. The designer can achieve movement and rhythm when they really make the most of such a grid.
 
+  ### The Anatomy of the Grid
+
+  Grids are made of columns, gutters, modules, margins, flow lines and the marker.
+
+  `image of page layout grid with element names`
+
   Create layout grids. We'll consider: 
 
   - Balance 
@@ -45,7 +51,7 @@ details: |
 
   ## The Design Brief
 
-  Design an informal, a single-column and a modular grid using the formula we've learned. Once you're done, add content in the form of grey boxes where the elements would be. The darker the grey, the more emphasis it has. The lighter, the less important it is.
+  Design an informal, a single-column and a modular grid using the formula we've learned to accomodate the provided text. You'll use the two provided type families.
 
 ---
 
