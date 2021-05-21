@@ -4,6 +4,10 @@ sortorder: 1.0
 title: "Grids"
 description: |
   Page layout grids create structure and harmony on the page.
+resources: |
+  - This is a really good example using formulas to [create grids](http://retinart.net/graphic-design/secret-law-of-page-harmony/)
+  - [Good layout/grids info here](https://learning.oreilly.com/library/view/typography-referenced/9781592537020/chapter-49.html)
+  - [About grids](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml#ch8-5)
 details: |
 
   ## The Theory
@@ -52,8 +56,5 @@ details: |
   ## The Design Brief
 
   Design an informal, a single-column and a modular grid using the formula we've learned to accomodate the provided text. You'll use the two provided type families.
-
 ---
 
-  [Good layout/grids info here](https://learning.oreilly.com/library/view/typography-referenced/9781592537020/chapter-49.html)
-  [About grids](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml#ch8-5)
