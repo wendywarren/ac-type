@@ -5,7 +5,37 @@ description: |
   Web site notes and Todo's.
 details: |
 
-  # Ideas for Type 3 & Type 4
+  ## Assignment Flow
+
+  - Grids
+  - Hierarchy
+    - print
+    - web
+  - Font Pairs
+  - test
+
+  ### Grids
+  #### Regular Assignment
+
+  This should come first, since they're the underlying structure of all layouts.
+
+  Students will design three different types of grids. They'll place provided content on the grids using two fonts I've dictated to them. All their creative decisions should go towards placing elements on the grid -- nothing else.
+
+  ### Font Pairing
+  #### Small Assignment
+
+  
+
+  ### Hierarchy
+  #### Assignment
+
+  This is the next logical step, after grids.
+  
+  Students
+  
+  
+
+  ## Ideas for Type 3 & Type 4
 
   - Use Mentimeter every week to increase engagement. This could count for points.
   - Create my favicon for the type sites based on [this page](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
