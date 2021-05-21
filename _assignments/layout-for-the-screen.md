@@ -1,6 +1,6 @@
 ---
 layout: home
-sortorder: 1.2
+sortorder: 1.3
 title: "Layout for the screen"
 description: |
   Copy fitting entails fitting the given content into a limited number of pages.
