@@ -11,6 +11,8 @@ details: |
 
   Rather than using arbitrary numerical type break points, fluid type generators work with steps.
 
+  This is a really good explanation of the [evolution of the grid](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/) from the page to screens.
+
   - [Smashing Magazine on Fluid Type Systems](https://www.smashingmagazine.com/2021/04/designing-developing-fluid-type-space-scales/)
   - [Utopia Fluid Type Generator](https://utopia.fyi/type/calculator/)
   - [Google's layout guidelines](https://material.io/design/layout/understanding-layout.html#principles)
