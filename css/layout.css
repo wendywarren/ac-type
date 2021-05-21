@@ -25,6 +25,10 @@ main {
 
 .wrapper {}
 
+footer {
+	margin: 1em;
+}
+
 .cell {
 	margin-bottom: 10px;
 	}
