@@ -64,16 +64,15 @@ p {
 	margin-bottom: .5em;
 }
 
-dl {
-	margin-left: 2em;
-}
-
 dt {
 	font-weight: 500;
 	margin-top: .5em;
 }
 
-dd { margin-bottom: .25em; }
+dd {
+	margin-bottom: .25em;
+	margin-left: 2em;
+	}
 
 .description {
 	font-weight: 500;
