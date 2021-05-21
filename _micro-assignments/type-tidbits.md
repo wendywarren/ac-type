@@ -17,6 +17,7 @@ details: |
   - Quotation marks & apostrophes 
   - Dashes & hyphens
   - What's a Grotesque font?
+  - What are monospaced fonts? When do I use them?
   - What are SVG fonts?
   - What are variable fonts?
     - [Variable Fonts.com](https://www.variable-fonts.com/about)
@@ -29,5 +30,5 @@ details: |
     - TrueType
     - PostScript
     - WOFF2 Web Fonts
-
+  - Google's [Legibility vs Readability](https://material.io/design/typography/understanding-typography.html#readability)
 ---
