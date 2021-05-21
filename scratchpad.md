@@ -8,11 +8,98 @@ details: |
   ## Assignment Flow
 
   - Grids
+    - Create 3 types of grids.
+      - Single Column Grid
+      - Modular Grid
+      - Hierarchical
+    - Apply various different layouts to a single grid design
+    - Provide font pairs so they don't need to choose themselves yet.
   - Hierarchy
-    - print
-    - web
+    - For Print
+      - Apply hierarchy on a given layout, similar to the MacBook Sell Sheet.
+      - Provide font pairs, since they haven't learned pairing yet.
+    - Web
+      - Provide two families.
+      - Use an online service to create hierarchy.
   - Font Pairs
-  - test
+    - What makes two families work well together.
+    - What to avoid in pairing families
+    - test this
+  - 1st full layout: putting it all together
+    - Single page layout
+    - Choose font pair
+    - Design a grid
+    - Design hierarchy
+    - Present various layouts on the grid
+  - Summative: Magazine Layout
+    - Design variations on a single grid.
+
+  ## Weekly
+
+  ### Week 01
+
+  - Review semester's activities.
+  - Rules for the course.
+  - Warm-up activity
+
+  ### Week 02
+
+  - Intro to grids
+  - Draw our first grid
+
+  ### Week 03
+
+  - Assignment
+
+  ### Week 04
+
+  - Assignment
+
+  ### Week 05
+
+  - Assignment
+
+  ### Week 06
+
+  - Assignment
+
+  ### Week 07
+
+  - Assignment
+
+  ### Week 08
+
+  - Assignment
+
+  ### Week 09
+
+  - Assignment
+
+  ### Week 10
+
+  - Assignment
+
+  ### Week 11
+
+  - Assignment
+
+  ### Week 12
+
+  - Assignment
+
+  ### Week 13
+
+  - Assignment
+
+  ### Week 14
+
+  - Assignment
+
+  ### Week 15
+
+  - Assignment
+
+
 
   ### Grids
   #### Regular Assignment
