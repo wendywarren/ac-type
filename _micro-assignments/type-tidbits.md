@@ -19,6 +19,7 @@ details: |
   - What's a Grotesque font?
   - What are monospaced fonts? When do I use them?
   - What are SVG fonts?
+  - What is Lorem Ipsum? Are there varying qualities of Lorem Ipsum?
   - What are variable fonts?
     - [Variable Fonts.com](https://www.variable-fonts.com/about)
     - [Can I use variable fonts on the web](https://caniuse.com/variable-fonts)

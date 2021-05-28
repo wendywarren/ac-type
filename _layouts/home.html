@@ -17,11 +17,15 @@
 	<div>
 		<a href="{{site.url}}">HOME</a> 
 	</div>
-	<h3>
-		Assignments 
-	</h3>
-	{% assign all_assignments = site.assignments | sort: 'sortorder' %} 
+	<h4>Grids</h4>
 	<nav>
+	{% assign all_grids = site.grids | sort: 'sortorder' %} 
+		<ul class="nav">
+			{% for item in all_grids %} 
+			<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+			{% endfor %} 
+		</ul>
+	{% assign all_assignments = site.assignments | sort: 'sortorder' %} 
 		<ul class="nav">
 			{% for item in all_assignments %} 
 			<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
@@ -54,7 +58,7 @@
 	<div class="description">
 		{{ page.description | markdownify }} 
 	</div>
-	{{ page.details | markdownify }} 
+	{{ content }}
 </div>
 <div class="resources">
 	{% if page.resources %} 
