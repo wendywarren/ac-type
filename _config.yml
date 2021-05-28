@@ -14,3 +14,7 @@ collections:
       output: true
   type-facts:
       output: true
+  grids:
+      output: true
+  grids-pages:
+      output: true
