@@ -1,33 +1,141 @@
+/* color: rgba(255, 133, 0, 1);
+color: rgba(100, 100, 100, 1);
+ */
+
 * {
-    box-sizing: border-box;
-    font-size: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: FiraSans-Regular;
+  src: url("../fonts/FiraSans-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: FiraSans-Italic;
+  src: url("../fonts/FiraSans-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: FiraSans-BoldItalic;
+  src: url("../fonts/FiraSans-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: FiraSans-UltraItalic;
+  src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
 }
 
 html {
-    overflow-x: hidden;
+  overflow-x: hidden;
+  font-size: 100%;
 }
 
 body {
-    overflow-x: hidden;
-    width: 90rem;
-    margin-top: 0;
-    padding: 0 .2rem;
-    margin: auto;
+  overflow-x: hidden;
+  max-width: 90rem;
+  padding: 0;
+  margin: 0 auto;
+  display: grid;
+  /* border: 1px solid grey; */
+  font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
+  grid-template-columns: repeat(auto-fill, minmax(min(30rem, 100%), 1fr));
+  gap: 1rem;
+  grid-template-rows: repeat(5);
+  grid-template-areas:
+    "site-id"
+    "header"
+    "main"
+    "cells"
+    "footer";
+  gap: 0.5rem;
 }
-.container {
-	display: grid;
-	grid-template-columns: 2fr 8fr 2fr;
-    grid-column-gap: 10px;
-    grid-row-gap: 10px;
+body > div,
+body > header,
+body > footer {
+  /* border: 1px solid silver; */
 }
 
-.containter > div {
-    border: 1px solid red;
+.site-id {
+  font-family: FiraSans-UltraItalic;
+  font-size: 6rem;
+}
+.site-id > sup {
+  font-family: "FiraSans-BoldItalic";
 }
 
-hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(0, 103, 62, 0.3);
+.header {
+  grid-area: header;
+  line-height: 1.6rem;
+  display: flex;
+  flex: 1;
+  border-bottom: 6px solid black;
+}
+
+.header > div {
+  padding: 0.5rem;
+  flex: 1;
+}
+
+.body {
+  grid-area: main;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+.body > .deck {
+  font-size: 1.4rem;
+  font-family: "FiraSans-Italic";
+  margin-bottom: 0.5rem;
+  color: rgba(100, 100, 100, 1);
+}
+
+.body > * {
+  max-width: 90%;
+}
+
+.cells {
+  grid-area: cells;
+  display: flex;
+  flex-flow: wrap;
+}
+
+.cells > .cell {
+  flex: 0 1 50%;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.cells > .cell > h3 {
+  padding-bottom: 1rem;
+  border-bottom: 2px solid black;
+}
+
+.cell > p {
+  margin-top: 1rem;
+}
+
+footer {
+  grid-area: footer;
+}
+
+p {
+  margin-top: 0.25rem;
+}
+
+@media only screen and (min-width: 48rem) {
+  body {
+    grid-template-areas:
+      "site-id     header"
+      "main        cells"
+      "footer      footer";
+    gap: 0.5rem;
+  }
+  .header {
+    flex-direction: row;
+    flex-basis: 100%;
+  }
 }
