@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-size: 100%;
 }
 
 html {
@@ -8,32 +9,21 @@ html {
 
 body {
     overflow-x: hidden;
-    max-width: 90rem;
+    width: 90rem;
     margin-top: 0;
     padding: 0 .2rem;
     margin: auto;
 }
-
-main {
+.container {
 	display: grid;
-	background-color: #fff;
-	grid-template-columns: 1fr 2fr 1fr;
-	grid-column-gap: 10px;
-	grid-row-gap: 10px;
-	padding: 5px;
+	grid-template-columns: 2fr 8fr 2fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
 }
 
-.resources, .navigation {
-	padding-top: 3em;
+.containter > div {
+    border: 1px solid red;
 }
-
-footer {
-	margin: 1em;
-}
-
-.cell {
-	margin-bottom: 10px;
-	}
 
 hr {
     border: 0;
