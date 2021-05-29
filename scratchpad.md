@@ -7,7 +7,8 @@ description: |
 
 ## To Do
 
-- [Watch this Video](https://vimeo.com/239782886): Mark Boulton on designing grids.
+- Investigate sub-setting local WOFF fonts.
+[Watch this Video](https://vimeo.com/239782886): Mark Boulton on designing grids.
 - [Use FormSpree](https://formspree.io/) for online forms, if I need them.
 - [This page](https://blog.webjeda.com/jekyll-snippets/) shows how to create my FormSpree form on a Jekyll site.
 
