@@ -31,7 +31,6 @@ html {
 body {
   max-width: 90rem;
   margin: 0 auto;
-  font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
 }
 
 #grid {
@@ -60,6 +59,11 @@ header {
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;
+  align-items: flex-start;
+  align-content: start;
+}
+.assignment {
+  align-items: flex-start;
 }
 
 .area2 {
@@ -67,6 +71,11 @@ header {
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;
+  align-items: flex-start;
+  align-content: start;
+}
+.assignment, .area2 {
+  border: 1px solid goldenrod;
 }
 
 .cell {
@@ -77,59 +86,10 @@ header {
   padding-top: 1rem;
 }
 
-h1 {
-  margin-bottom: 0.5rem;
-}
-
-.area1 > .deck {
-  font-size: 1.4rem;
-  font-family: "FiraSans-Italic";
-  margin-bottom: 0.5rem;
-  color: rgba(100, 100, 100, 1);
-}
-
-h3 {
-  border-bottom: 1px solid black;
-}
-footer {
-  grid-area: footer;
-}
-.site-id a, .site-id a:visited {
-	text-decoration: none;
-	color: black;
-}
-
-.site-id a:hover {color: orange;}
-
-a, a:link {
-  color: black;
-  text-decoration-color: blue;
-}
-a:visited {
-  color: darkgray;
-}
-a:hover {
-  color: orange;
-}
-a:active {
-  color: silver;
-}
-a:focus {
-  outline: 2px solid black;
-}
-
-.cell ul {
- padding: 0;
-  margin-left: 1rem;
-}
-
-li.two {
-  margin-left: 0;
-}
-
 @media only screen and (min-width: 48rem) {
   #grid {
     grid-template-areas: "site-id header" "area1 area2" "footer footer";
     gap: 0.5rem;
   }
+ 
 }
