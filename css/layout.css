@@ -4,25 +4,20 @@ color: rgba(100, 100, 100, 1);
 
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 @font-face {
   font-family: FiraSans-Regular;
   src: url("../fonts/FiraSans-Regular.woff") format("woff");
 }
-
 @font-face {
   font-family: FiraSans-Italic;
   src: url("../fonts/FiraSans-Italic.woff") format("woff");
 }
-
 @font-face {
   font-family: FiraSans-BoldItalic;
   src: url("../fonts/FiraSans-BoldItalic.woff") format("woff");
 }
-
 @font-face {
   font-family: FiraSans-UltraItalic;
   src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
@@ -34,108 +29,107 @@ html {
 }
 
 body {
-  overflow-x: hidden;
   max-width: 90rem;
-  padding: 0;
   margin: 0 auto;
-  display: grid;
-  /* border: 1px solid grey; */
   font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
-  grid-template-columns: repeat(auto-fill, minmax(min(30rem, 100%), 1fr));
-  gap: 1rem;
-  grid-template-rows: repeat(5);
-  grid-template-areas:
-    "site-id"
-    "header"
-    "main"
-    "cells"
-    "footer";
-  gap: 0.5rem;
-}
-body > div,
-body > header,
-body > footer {
-  /* border: 1px solid silver; */
 }
 
+#grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(30rem, 100%), 1fr));
+  grid-template-areas: "site-id" "header" "area1" "area2" "footer";
+  gap: 0.5rem;
+  padding: 0;
+  margin: 0 1rem;
+}
 .site-id {
   font-family: FiraSans-UltraItalic;
-  font-size: 6rem;
-}
-.site-id > sup {
-  font-family: "FiraSans-BoldItalic";
+  font-size: 8rem;
+  padding: 1rem 0 0 1rem;
 }
 
-.header {
+header {
   grid-area: header;
   line-height: 1.6rem;
   display: flex;
-  flex: 1;
-  border-bottom: 6px solid black;
+  flex-flow: row wrap;
 }
 
-.header > div {
-  padding: 0.5rem;
-  flex: 1;
+.area1 {
+  grid-area: area1;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
 }
 
-.body {
-  grid-area: main;
+.area2 {
+  grid-area: area2;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+.cell {
+  flex-shrink: 1;
+  flex-grow: 1;
+  flex-basis: 14rem;
+  margin: 0 1rem 1rem 0;
+  padding-top: 1rem;
 }
 
 h1 {
   margin-bottom: 0.5rem;
 }
-.body > .deck {
+
+.area1 > .deck {
   font-size: 1.4rem;
   font-family: "FiraSans-Italic";
   margin-bottom: 0.5rem;
   color: rgba(100, 100, 100, 1);
 }
 
-.body > * {
-  max-width: 90%;
+h3 {
+  border-bottom: 1px solid black;
 }
-
-.cells {
-  grid-area: cells;
-  display: flex;
-  flex-flow: wrap;
-}
-
-.cells > .cell {
-  flex: 0 1 50%;
-  padding: 0.5rem;
-  margin-bottom: 2rem;
-}
-
-.cells > .cell > h3 {
-  padding-bottom: 1rem;
-  border-bottom: 2px solid black;
-}
-
-.cell > p {
-  margin-top: 1rem;
-}
-
 footer {
   grid-area: footer;
 }
+.site-id a, .site-id a:visited {
+	text-decoration: none;
+	color: black;
+}
 
-p {
-  margin-top: 0.25rem;
+.site-id a:hover {color: orange;}
+
+a, a:link {
+  color: black;
+  text-decoration-color: blue;
+}
+a:visited {
+  color: darkgray;
+}
+a:hover {
+  color: orange;
+}
+a:active {
+  color: silver;
+}
+a:focus {
+  outline: 2px solid black;
+}
+
+.cell ul {
+ padding: 0;
+  margin-left: 1rem;
+}
+
+li.two {
+  margin-left: 0;
 }
 
 @media only screen and (min-width: 48rem) {
-  body {
-    grid-template-areas:
-      "site-id     header"
-      "main        cells"
-      "footer      footer";
+  #grid {
+    grid-template-areas: "site-id header" "area1 area2" "footer footer";
     gap: 0.5rem;
-  }
-  .header {
-    flex-direction: row;
-    flex-basis: 100%;
   }
 }

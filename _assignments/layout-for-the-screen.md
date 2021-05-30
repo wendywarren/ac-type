@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: assignment
 sortorder: 1.3
 title: "Layout for the screen"
 description: |

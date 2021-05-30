@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: assignment
 sortorder: 1.9
 title: "Deliverables"
 description: |

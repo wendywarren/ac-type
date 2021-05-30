@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: assignment
 sortorder: 1.5
 title: "Modular Grids"
 description: "Modular grids are ideal for more complex layouts that require versatility to place varied types of content."

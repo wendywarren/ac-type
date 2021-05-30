@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: assignment
 sortorder: 1.1
 title: "Ad Hoc Grids"
 description: "This grid appears as you work. Align elements on the page relative to each other."

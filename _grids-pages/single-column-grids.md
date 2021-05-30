@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: assignment
 sortorder: 1.2
 title: "Single-Column Grids"
 description: "This grid appears as you work. Align elements on the page relative to each other."

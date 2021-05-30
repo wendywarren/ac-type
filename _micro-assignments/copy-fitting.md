@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: assignment
 sortorder:
 title: "Copy Fitting"
 description: |

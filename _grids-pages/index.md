@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: assignment
 sortorder: 1.0
 title: "Theory of Grids"
 description: |
