@@ -88,6 +88,9 @@ code
 	border: 1px solid lightgrey;
 }
 
+.cell div:nth-of-type(1){
+	margin-top: 2rem;
+}
 h1 { margin-bottom: 0.5rem; }
 
 .area1 > .deck
@@ -100,9 +103,11 @@ h1 { margin-bottom: 0.5rem; }
 
 h3
 {
-	border-bottom: 3px solid black;
+	border-bottom: 4px solid black;
 	padding-bottom: 1rem;
 }
+
+header h3 { border-bottom: 2px solid rgba(150, 150, 150, 1);}
 
 footer { grid-area: footer; }
 

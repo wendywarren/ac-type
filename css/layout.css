@@ -33,8 +33,6 @@ header {
   flex-flow: row wrap;
 }
 
-header 
-
 .area1 {
   grid-area: area1;
   display: flex;
