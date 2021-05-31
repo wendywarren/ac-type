@@ -8,13 +8,17 @@ url: /type-3
 twitter_username: alainparadis
 github_username:  alainparadis
 collections:
-  assignments:
-      output: true
   micro-assignments:
-      output: true
+    output: true
   type-facts:
-      output: true
+    output: true
   grids:
-      output: true
-  grids-pages:
-      output: true
+    output: true
+  hierarchy:
+    output: true
+  layout-for-the-screen:
+    output: true
+  magazine-layout:
+    output: true
+  web-type:
+    output: true
