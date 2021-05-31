@@ -57,7 +57,7 @@ header {
 .area1 {
   grid-area: area1;
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
   justify-content: flex-start;
   align-items: flex-start;
   align-content: start;
@@ -74,9 +74,6 @@ header {
   align-items: flex-start;
   align-content: start;
 }
-.assignment, .area2 {
-  border: 1px solid goldenrod;
-}
 
 .cell {
   flex-shrink: 1;
@@ -85,7 +82,27 @@ header {
   margin: 0 1rem 1rem 0;
   padding-top: 1rem;
 }
+footer {
+  border-top: 4px solid silver;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+footer div {
+  padding: 1rem;
+  border: 1px solid silver;
+  flex: 1 2 auto;
+  flex-basis: 10rem;
+}
 
+footer ul {
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 @media only screen and (min-width: 48rem) {
   #grid {
     grid-template-areas: "site-id header" "area1 area2" "footer footer";
