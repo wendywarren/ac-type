@@ -28,95 +28,129 @@
 		</div>
 	</div>
 	<div class="area2">
-		<div class="cell">
+			<div class="cell">
 			<h3>
-				Main Assignments 
+				{% assign pagetypes = site.grids %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.path contains 'index' %} 
+				<a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a>
+				{% endif %}
+				{% endfor %} 
 			</h3>
-			<ul class="nav">
-				{% for item in site.data.assignments %}
-				<li><a href="{{site.url}}{{item.url}}">{{ item.title }}</a></li>
+			<ul>
+				{% assign pagetypes = site.grids | sort: 'sortorder' %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.type != 'theory' %} 
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				Hierarchy 
+				{% assign pagetypes = site.hierarchy %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.path contains 'index' %} 
+				<a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a>
+				{% endif %}
+				{% endfor %} 
 			</h3>
-			{% assign all_hierarchy = site.hierarchy | sort: 'sortorder' %} 
-			<ul class="nav">
-				{% for item in all_hierarchy %} 
-				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+			<ul>
+				{% assign pagetypes = site.hierarchy | sort: 'sortorder' %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.type != 'theory' %} 
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				{% endif %}
+				{% endfor %} 
+			</ul>
+		</div>
+				<div class="cell">
+			<h3>
+				{% assign pagetypes = site.web-type %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.path contains 'index' %} 
+				<a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a>
+				{% endif %}
+				{% endfor %} 
+			</h3>
+			<ul>
+				{% assign pagetypes = site.web-type | sort: 'sortorder' %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.type != 'theory' %} 
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				Grids 
-			</h3>
-			{% assign all_grids = site.grids | sort: 'sortorder' %}
-			<ul class="nav">
-				{% for item in all_grids %} 
-				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+				{% assign pagetypes = site.layout-for-the-screen %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.path contains 'index' %} 
+				<a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a>
+				{% endif %}
 				{% endfor %} 
-				<ul class="nav">
-					{% assign all_grids-pages = site.grids-pages %} {% for item in all_grids-pages %} 
-					<li class="two"><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
-					{% endfor %} 
-				</ul>
-			</ul>
-		</div>
-		<div class="cell">
-			<h3>
-				Layout for the Screen
 			</h3>
-			{% assign all_layout-for-the-screen = site.layout-for-the-screen | sort: 'sortorder' %} 
-			<ul class="nav">
-				{% for item in all_layout-for-the-screen %} 
-				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+			<ul>
+				{% assign pagetypes = site.layout-for-the-screen | sort: 'sortorder' %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.type != 'theory' %} 
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				Web Type
+				{% assign pagetypes = site.magazine-layout %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.path contains 'index' %} 
+				<a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a>
+				{% endif %}
+				{% endfor %} 
 			</h3>
-			{% assign all_web-type = site.web-type | sort: 'sortorder' %} 
-			<ul class="nav">
-				{% for item in all_web-type %} 
-				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+			<ul>
+				{% assign pagetypes = site.magazine-layout | sort: 'sortorder' %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.type != 'theory' %} 
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				Magazine Layout 
+				{% assign pagetypes = site.micro-assignments %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.path contains 'index' %} 
+				<a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a>
+				{% endif %}
+				{% endfor %} 
 			</h3>
-			{% assign all_magazine-layout = site.magazine-layout | sort: 'sortorder' %} 
-			<ul class="nav">
-				{% for item in all_magazine-layout %} 
-				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+			<ul>
+				{% assign pagetypes = site.micro-assignments | sort: 'sortorder' %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.type != 'theory' %} 
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				Micro-Assignments 
-			</h3>
-			{% assign all_micros = site.micro-assignments | sort: 'sortorder' %}
-			<ul class="nav">
-				{% for item in all_micros %} 
-				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+				{% assign pagetypes = site.type-facts %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.path contains 'index' %} 
+				<a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a>
+				{% endif %}
 				{% endfor %} 
-			</ul>
-		</div>
-		<div class="cell">
-			<h3>
-				Type Facts 
 			</h3>
-			{% assign all_type-facts = site.type-facts | sort: 'sortorder' %}
-			<ul class="nav">
-				{% for item in all_type-facts %} 
-				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+			<ul>
+				{% assign pagetypes = site.type-facts | sort: 'sortorder' %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.type != 'theory' %} 
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
