@@ -1,9 +1,8 @@
 ---
-layout: assignment
+layout: default
 sortorder: 
 title: "Type Tidbits"
-description: |
-  These are small assignments we'll do weekly.
+deck: "These are small assignments we'll do weekly."
 details: |
 
   ## Type Tidbits

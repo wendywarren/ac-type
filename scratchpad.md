@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: default
 title: "ScratchPad"
-description: |
-  Web site notes and Todo's.
+deck: Web site notes and Todo's.
 ---
 
 ## To Do

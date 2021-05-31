@@ -1,9 +1,8 @@
 ---
-layout: assignment
+layout: default
 sortorder: 1.0
 title: "Theory of Grids"
-description: |
-  Page layout grids create structure and harmony on the page.
+deck: "Page layout grids create structure and harmony on the page."
 resources: |
 
 ---

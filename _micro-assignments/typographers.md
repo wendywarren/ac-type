@@ -1,9 +1,8 @@
 ---
-layout: assignment
+layout: default
 sortorder: 
 title: "Typographer of the week"
-description: |
-  These are small assignments we'll do weekly.
+deck: "These are small assignments we'll do weekly."
 details: |
 
   ## Typographer of the week

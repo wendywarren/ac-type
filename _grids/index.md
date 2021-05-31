@@ -1,9 +1,8 @@
 ---
-layout: assignment
+layout: default
 sortorder: 1.0
 title: "Grids"
-description: |
-  Page layout grids create structure and harmony on the page.
+deck: "Page layout grids create structure and harmony on the page."
 resources: |
   - This is a really good example using formulas to [create grids](http://retinart.net/graphic-design/secret-law-of-page-harmony/)
   - [Good layout/grids info here](https://learning.oreilly.com/library/view/typography-referenced/9781592537020/chapter-49.html)

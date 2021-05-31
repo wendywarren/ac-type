@@ -6,23 +6,6 @@ color: rgba(100, 100, 100, 1);
   box-sizing: border-box;
 }
 
-@font-face {
-  font-family: FiraSans-Regular;
-  src: url("../fonts/FiraSans-Regular.woff") format("woff");
-}
-@font-face {
-  font-family: FiraSans-Italic;
-  src: url("../fonts/FiraSans-Italic.woff") format("woff");
-}
-@font-face {
-  font-family: FiraSans-BoldItalic;
-  src: url("../fonts/FiraSans-BoldItalic.woff") format("woff");
-}
-@font-face {
-  font-family: FiraSans-UltraItalic;
-  src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
-}
-
 html {
   overflow-x: hidden;
   font-size: 100%;

@@ -1,5 +1,5 @@
 ---
-layout: assignment
+layout: default
 sortorder: 1.1
 title: "Hierarchy"
 ---

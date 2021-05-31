@@ -1,9 +1,8 @@
 ---
-layout: assignment
+layout: default
 sortorder: 1.9
 title: "Magazine Layout"
-description: |
-  Page layout grids create structure and harmony on the page.
+deck: "Page layout grids create structure and harmony on the page."
 ---
 This assignment is about applying the skills learned during the semester for the page and for the screen. 
 

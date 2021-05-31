@@ -13,20 +13,20 @@
   </head>
   <body>
     <div id="grid">
-      <div class="site-id">
-        <a href="{{site.url}}">Type<sup>3</sup></a>
-      </div>
+      <div class="site-id"><a href="{{site.url}}">Type<sup>3</sup></a></div>
       <header class="header">
         <div class="cell">
-          {% include about-course.html%}
+        {% include about-course.html%}
         </div>
         <div class="cell">
+          <div><h3>&nbsp;</h3></div>
           {% include course-info.html %}
         </div>
       </header>
-      <div class="area1 assignment">
-          <h1>{{page.title}}</h1>
-          {{content}}
+      <div class="area1">
+        <div class="cell">
+          {{ content }}
+        </div>
       </div>
       <div class="area2">
         <div class="cell">
@@ -53,22 +53,20 @@
         </div>
         <div class="cell">
           <h3>Grids</h3>
-          <nav>
+           <nav>
             {% assign all_grids = site.grids %}
             <ul class="nav">
               {% for item in all_grids %}
               <li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
               {% endfor %}
               <ul class="nav">
-                {% assign all_grids-pages = site.grids-pages %} {% for item in
-                all_grids-pages %}
-                <li class="two">
-                  <a href="{{site.url}}{{item.url}}">{{item.title}}</a>
-                </li>
+                {% assign all_grids-pages = site.grids-pages %}
+                {% for item in all_grids-pages %}
+                <li class="two"><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
                 {% endfor %}
               </ul>
             </ul>
-          </nav>
+           </nav>
         </div>
         <div class="cell">
           <h3>Type Facts</h3>
@@ -80,24 +78,6 @@
               {% endfor %}
             </ul>
           </nav>
-        </div>
-        <div class="cell">
-          <h3>This is a cell title</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor earum
-            praesentium ipsa, veritatis labore reiciendis vel nisi distinctio
-            consequuntur ullam illum dolorem, ab voluptatibus assumenda quasi
-            accusantium ex. Minima, natus.
-          </p>
-        </div>
-        <div class="cell">
-          <h3>This is a cell title</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor earum
-            praesentium ipsa, veritatis labore reiciendis vel nisi distinctio
-            consequuntur ullam illum dolorem, ab voluptatibus assumenda quasi
-            accusantium ex. Minima, natus.
-          </p>
         </div>
       </div>
       <footer>{% include footer.html %}</footer>
