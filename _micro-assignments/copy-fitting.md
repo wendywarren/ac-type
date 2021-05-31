@@ -1,9 +1,9 @@
 ---
 layout: default
-sortorder: 6.1
+type: subpage
 title: "Copy Fitting"
+sortorder: 6.1
 deck: "Copy fitting entails fitting the given content into a limited number of pages."
-
 ---
 
 Given a quantity of content, we'll learn to use a limited amount of space on the page or on the screen to fit that content. The goal is to fit the copy without any visible hints like changing type settings between paragraphs or between pages.

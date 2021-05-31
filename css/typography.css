@@ -120,6 +120,15 @@ footer { grid-area: footer; }
 .area1 .cell > h3 { border: 0; }
 .assignment > p { margin-bottom 1rem: ; }
 
+.area1 h1 {
+	font-family: "FiraSans-BoldItalic";
+	color: #fff;
+	background-color: #000;
+	border: 1px solid black;
+	padding: 0 1rem;
+	border-radius: 4px;
+}
+
 li.pagetypetheory {
 	font-family: FiraSans-Bold;
 	list-style-type: none;

@@ -1,8 +1,9 @@
 ---
 layout: default
+type: subpage
 title: "The Font Industry"
-deck: "Type Facts are units of knowledge about the type world in general."
 sortorder: 7.2
+deck: "Type Facts are units of knowledge about the type world in general."
 ---
 How does a font go from the typographer's mind to the market.
 

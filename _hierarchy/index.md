@@ -1,8 +1,9 @@
 ---
 layout: default
 type: theory
-sortorder: 2.0
 title: "Hierarchy"
+sortorder: 2.0
+deck: "The purpose of typographic hierarchy is to create a harmonious layout which helps the reader to absorb the content in a logical order."
 ---
 <!-- 
   Create hierarchy with the given text as shown on [this page](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/13_Chapter07.xhtml#ch7). The text will be short. It should be an event announcement. There will be different versions for students to work on. It will include:
@@ -15,8 +16,6 @@ title: "Hierarchy"
  -->
 
 ### Typographic Hierarchy
-
-The purpose of typographic hierarchy is to create a harmonious layout which helps the reader to absorb the content in a logical order.
 
 Visual hierarchy, along with the page layout grid and the content itself together form the composition which communicates the message. Hierarchy establishes the order in which the content is absorbed. It determines the path the reader's attention follows through the content.
 

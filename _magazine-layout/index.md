@@ -1,8 +1,9 @@
 ---
 layout: default
 type: theory
-sortorder: 5.0
 title: "Magazine Layout"
+sortorder: 5.0
+Deck: "This is a summative assignment that includes all the skills from the semester."
 ---
 This assignment is about applying the skills learned during the semester for the page and for the screen. 
 

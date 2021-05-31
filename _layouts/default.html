@@ -42,7 +42,7 @@
 			<h3>
 				Hierarchy 
 			</h3>
-			{% assign all_hierarchy = site.hierarchy %} 
+			{% assign all_hierarchy = site.hierarchy | sort: 'sortorder' %} 
 			<ul class="nav">
 				{% for item in all_hierarchy %} 
 				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
@@ -53,7 +53,7 @@
 			<h3>
 				Grids 
 			</h3>
-			{% assign all_grids = site.grids %} 
+			{% assign all_grids = site.grids | sort: 'sortorder' %}
 			<ul class="nav">
 				{% for item in all_grids %} 
 				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
@@ -69,7 +69,7 @@
 			<h3>
 				Layout for the Screen
 			</h3>
-			{% assign all_layout-for-the-screen = site.layout-for-the-screen %} 
+			{% assign all_layout-for-the-screen = site.layout-for-the-screen | sort: 'sortorder' %} 
 			<ul class="nav">
 				{% for item in all_layout-for-the-screen %} 
 				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
@@ -80,7 +80,7 @@
 			<h3>
 				Web Type
 			</h3>
-			{% assign all_web-type = site.web-type %} 
+			{% assign all_web-type = site.web-type | sort: 'sortorder' %} 
 			<ul class="nav">
 				{% for item in all_web-type %} 
 				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
@@ -91,7 +91,7 @@
 			<h3>
 				Magazine Layout 
 			</h3>
-			{% assign all_magazine-layout = site.magazine-layout %} 
+			{% assign all_magazine-layout = site.magazine-layout | sort: 'sortorder' %} 
 			<ul class="nav">
 				{% for item in all_magazine-layout %} 
 				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
@@ -102,7 +102,7 @@
 			<h3>
 				Micro-Assignments 
 			</h3>
-			{% assign all_micros = site.micro-assignments %} 
+			{% assign all_micros = site.micro-assignments | sort: 'sortorder' %}
 			<ul class="nav">
 				{% for item in all_micros %} 
 				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
@@ -113,7 +113,7 @@
 			<h3>
 				Type Facts 
 			</h3>
-			{% assign all_type-facts = site.type-facts %} 
+			{% assign all_type-facts = site.type-facts | sort: 'sortorder' %}
 			<ul class="nav">
 				{% for item in all_type-facts %} 
 				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>

@@ -1,9 +1,7 @@
 ---
 layout: default
 type: deliverables
-sortorder: 2.9
 title: "Hierarchy Deliverables"
+sortorder: 2.9
 deck: "Page layout grids create structure and harmony on the page."
-resources: |
-
 ---
