@@ -176,8 +176,6 @@ Students
 - [IASR](https://www.aoda.ca/what-is-the-integrated-accessibility-standards-regulation-iasr/)
 - [WCAG](https://www.w3.org/TR/WCAG20/)
 
-----
-
 ## Reference Materials
 
 - [The Art of Typography](https://learning.oreilly.com/library/view/the-art-of/9781315301532/)
