@@ -5,8 +5,6 @@ title: "Magazine Layout"
 description: |
   Page layout grids create structure and harmony on the page.
 ---
-## The Theory
-
 This assignment is about applying the skills learned during the semester for the page and for the screen. 
 
 This assignment will include all the skills learned this semester. It will include: 
@@ -32,6 +30,8 @@ We'll design layouts with [varied page elements](https://learning.oreilly.com/li
 
 ## The Design Brief
 
-
+Some text.
 
 ## The Deliverables
+
+Some text.
