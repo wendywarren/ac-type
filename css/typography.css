@@ -101,6 +101,11 @@ h1 { margin-bottom: 0.5rem; }
 	color: rgba(100, 100, 100, 1);
 }
 
+.area2 h3 a {
+	text-decoration: none;
+	font-family: "FiraSans-Bold";
+}
+
 h3
 {
 	border-bottom: 4px solid black;
@@ -132,13 +137,13 @@ footer { grid-area: footer; }
 li.pagetypetheory {
 	font-family: FiraSans-Bold;
 	list-style-type: none;
-	margin: 0;
+	margin: 0.5rem 0 0 0;
 	padding: 0;
 }
 
 li.pagetypeother {
 	list-style-type: none;
-	margin: 0 0 0 1rem;
+	margin: 0 0 0 .7rem;
 	padding: 0;
 }
 
