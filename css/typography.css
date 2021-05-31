@@ -18,7 +18,10 @@
   font-family: FiraSans-UltraItalic;
   src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
 }
-
+@font-face {
+  font-family: FiraMono-Medium;
+  src: url("../fonts/FiraMono-Medium.woff") format("woff");
+}
 
 html
 {
@@ -27,33 +30,42 @@ html
 	color: #000000;
 }
 
-body {
-	font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
-  }
+body { font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif; }
 
 a, a:link
 {
 	color: black;
+	text-decoration-color: blue;
 }
 
-}
-a:visited { color: grey; }
+a:visited { color: rgba(60, 60, 60, 1); }
 a:hover { color: lightgrey; }
 a:active { color: orange; }
 a:focus { outline: 2px solid black; }
 
-p { margin-bottom: .5em;
-max-width: 95%; }
+p
+{
+	margin-bottom: .5em;
+	max-width: 95%;
+}
 
-.site-id {
+.site-id
+{
 	font-family: "FiraSans-UltraItalic";
 	font-size: 8rem;
 	padding: 1rem 0 0 1rem;
-  }
-  
-sup {
-		font-family: "FiraSans-BoldItalic";
 }
+
+sup { font-family: "FiraSans-BoldItalic"; }
+
+a.site-id, a:visited.site-id
+{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover.site-id { color: orange; }
+footer .site-id { font-size: 2rem; }
 
 dt
 {
@@ -70,68 +82,43 @@ dd
 code
 {
 	background: #ededed;
-	font-size: .80rem;
-	font-weight: 400;
-	padding: .2em;
+    font-family: "FiraMono-Medium";
+	padding: .2em .5rem;
 	border-radius: 4px;
 	border: 1px solid lightgrey;
 }
 
-h1 {
-	margin-bottom: 0.5rem;
-  }
-  
-  .area1 > .deck {
+h1 { margin-bottom: 0.5rem; }
+
+.area1 > .deck
+{
 	font-size: 1.4rem;
 	font-family: "FiraSans-Italic";
 	margin-bottom: 0.5rem;
 	color: rgba(100, 100, 100, 1);
-  }
-  
-  h3 {
+}
+
+h3
+{
 	border-bottom: 3px solid black;
 	padding-bottom: 1rem;
-  }
-  footer {
-	grid-area: footer;
-  }
-  .site-id a, .site-id a:visited {
-	  text-decoration: none;
-	  color: black;
-  }
-  
-  .site-id a:hover {color: orange;}
-  
-  a, a:link {
-	color: black;
-	text-decoration-color: blue;
-  }
-  a:visited {
-	color: rgba(100, 100, 100, 1);
-  }
-  a:hover {
-	color: orange;
-  }
-  a:active {
-	color: silver;
-  }
-  a:focus {
-	outline: 2px solid black;
-  }
-  
-  .cell ul {
-   padding: 0;
-	margin-left: 1rem;
-  }
-  
-  li.two {
-	margin-left: 0;
-  }
-  .area1 .cell > h3 { border: 0; }
-  .assignment > p { margin-bottom 1rem; }
+}
 
-  footer div:nth-child(1){
+footer { grid-area: footer; }
+
+.cell ul
+{
+	padding: 0;
+	margin-left: 1rem;
+}
+
+li.two { margin-left: 0; }
+.area1 .cell > h3 { border: 0; }
+.assignment > p { margin-bottom 1rem: ; }
+
+footer div:nth-child(1)
+{
 	font-family: "FiraSans-UltraItalic";
 	font-size: 2rem;
 	padding: 1rem 0 0 1rem;
-  }
+}
