@@ -16,62 +16,16 @@
       <div class="site-id"><a href="{{site.url}}">Type<sup>3</sup></a></div>
       <header class="header">
         <div class="cell">
-          <h3>About This Course</h3>
-          <div>
-            Proficient typesetting allows a designer to compose and structure
-            complex passages of content that are visually appealing in order to
-            allow the information to be easily followed. Students combine text
-            and imagery to craft professional layouts and informational
-            documents.
-          </div>
+        {% include about-course.html%}
         </div>
         <div class="cell">
-          <div>Course Code: DSN1534 Typography 3</div>
-          <div>Course Duration: 43 hours</div>
-          <div>Professor: Alain Paradis</div>
-          <div>E-Mail: paradia@algonquincollege.com</div>
+          <div><h3>&nbsp;</h3></div>
+          {% include course-info.html %}
         </div>
       </header>
       <div class="area1">
         <div class="cell">
-          <h3>This is a cell title</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor earum
-            praesentium ipsa, veritatis labore reiciendis vel nisi distinctio
-            consequuntur ullam illum dolorem, ab voluptatibus assumenda quasi
-            accusantium ex. Minima, natus.
-          </p>
-        </div>
-        <div class="cell">
-          <h3>This is a cell title</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor earum
-            praesentium ipsa, veritatis labore reiciendis vel nisi distinctio
-            consequuntur ullam illum dolorem, ab voluptatibus assumenda quasi
-            accusantium ex. Minima, natus.
-          </p>
-        </div>
-        <div class="cell">
-          <h3>This is a cell title</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor earum
-            praesentium ipsa, veritatis labore reiciendis vel nisi distinctio
-            consequuntur ullam illum dolorem, ab voluptatibus assumenda quasi
-            accusantium ex. Minima, natus. Lorem ipsum dolor sit amet
-            consectetur adipisicing elit. Dolor earum praesentium ipsa,
-            veritatis labore reiciendis vel nisi distinctio consequuntur ullam
-            illum dolorem, ab voluptatibus assumenda quasi accusantium ex.
-            Minima, natus.
-          </p>
-        </div>
-        <div class="cell">
-          <h3>This is a cell title</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor earum
-            praesentium ipsa, veritatis labore reiciendis vel nisi distinctio
-            consequuntur ullam illum dolorem, ab voluptatibus assumenda quasi
-            accusantium ex. Minima, natus.
-          </p>
+          {{ content }}
         </div>
       </div>
       <div class="area2">
@@ -144,7 +98,7 @@
           </p>
         </div>
       </div>
-      <footer>This is the footer.</footer>
+      <footer>{% include footer.html %}</footer>
     </div>
   </body>
 </html>
