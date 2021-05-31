@@ -1,8 +1,8 @@
 ---
 layout: default
+type: theory
 sortorder: 1.9
 title: "Magazine Layout"
-deck: "Page layout grids create structure and harmony on the page."
 ---
 This assignment is about applying the skills learned during the semester for the page and for the screen. 
 

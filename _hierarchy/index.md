@@ -1,6 +1,7 @@
 ---
 layout: default
-sortorder: 1.1
+type: theory
+sortorder: 4.0
 title: "Hierarchy"
 ---
 <!-- 
@@ -12,8 +13,6 @@ title: "Hierarchy"
   - Place
   - Descriptive text
  -->
-
-## The Theory
 
 ### Typographic Hierarchy
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-sortorder: 
+sortorder: 6.4
 title: "Typographer of the week"
 deck: "These are small assignments we'll do weekly."
 details: |

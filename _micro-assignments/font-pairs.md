@@ -1,6 +1,6 @@
 ---
 layout: default
-sortorder: 
+sortorder: 6.2
 title: "Font Pairs"
 deck: "These are small assignments we'll do weekly."
 ---

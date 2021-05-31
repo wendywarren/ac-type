@@ -88,7 +88,7 @@ code
 	border: 1px solid lightgrey;
 }
 
-.cell div:nth-of-type(1){
+.area2 .cell div:nth-of-type(1){
 	margin-top: 2rem;
 }
 h1 { margin-bottom: 0.5rem; }
@@ -117,9 +117,15 @@ footer { grid-area: footer; }
 	margin-left: 1rem;
 }
 
-li.two { margin-left: 0; }
 .area1 .cell > h3 { border: 0; }
 .assignment > p { margin-bottom 1rem: ; }
+
+li.pagetypetheory {
+	font-family: FiraSans-Bold;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
 
 footer div:nth-child(1)
 {
