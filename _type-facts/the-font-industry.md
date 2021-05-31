@@ -2,9 +2,8 @@
 layout: default
 title: "The Font Industry"
 deck: "Type Facts are units of knowledge about the type world in general."
-
+sortorder: 7.2
 ---
-
 How does a font go from the typographer's mind to the market.
 
 - Typographer

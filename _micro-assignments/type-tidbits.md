@@ -1,6 +1,6 @@
 ---
 layout: default
-sortorder: 6.3
+sortorder: 6.1
 title: "Type Tidbits"
 deck: "These are small assignments we'll do weekly."
 details: |

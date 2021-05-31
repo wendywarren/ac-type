@@ -1,7 +1,7 @@
 ---
 layout: default
 type: theory
-sortorder: 4.0
+sortorder: 2.0
 title: "Hierarchy"
 ---
 <!-- 

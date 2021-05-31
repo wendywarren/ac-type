@@ -1,7 +1,7 @@
 ---
 layout: default
 type: theory
-sortorder: 1.3
+sortorder: 4.0
 title: "Layout for the screen"
 ---
 We'll learn how to select font pairs and create code which will establish hierarchy to achieve smooth flow, clear contrast and harmony on the page.

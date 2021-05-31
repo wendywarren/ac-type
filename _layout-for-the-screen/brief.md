@@ -1,7 +1,7 @@
 ---
 layout: default
 type: brief
-sortorder: 1.8
+sortorder: 4.8
 title: "Brief"
 deck: "Page layout grids create structure and harmony on the page."
 resources: |

@@ -11,16 +11,8 @@ title: Typography 3
 </ul>
 
 <ul>
-{% for pagetype in site.documents %}
-	{% if pagetype.type == 'theory'%}
-		<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
-	{% endif %}
-{% endfor %}
-</ul>
-
-<ul>
 {% assign pagetypes = site.documents | sort: 'sortorder' %}
 {% for pagetype in pagetypes %}
-		<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
+		<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% endif %}{% if pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
 {% endfor %}
 </ul>

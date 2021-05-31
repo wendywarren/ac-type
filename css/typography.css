@@ -127,6 +127,12 @@ li.pagetypetheory {
 	padding: 0;
 }
 
+li.pagetypeother {
+	list-style-type: none;
+	margin: 0 0 0 1rem;
+	padding: 0;
+}
+
 footer div:nth-child(1)
 {
 	font-family: "FiraSans-UltraItalic";

@@ -1,8 +1,8 @@
 ---
 layout: default
 type: brief
-sortorder: 1.8
-title: "Brief"
+sortorder: 2.8
+title: "Hierarchy Brief"
 deck: "Page layout grids create structure and harmony on the page."
 resources: |
 
