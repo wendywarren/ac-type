@@ -30,7 +30,8 @@ html {
 
 body {
   max-width: 90rem;
-  margin: 0 auto;
+  margin: 1rem auto;
+  padding: 0 1rem;
 }
 
 #grid {
@@ -39,13 +40,8 @@ body {
   grid-template-areas: "site-id" "header" "area1" "area2" "footer";
   gap: 0.5rem;
   padding: 0;
-  margin: 0 1rem;
 }
-.site-id {
-  font-family: FiraSans-UltraItalic;
-  font-size: 8rem;
-  padding: 1rem 0 0 1rem;
-}
+
 
 header {
   grid-area: header;
@@ -53,6 +49,8 @@ header {
   display: flex;
   flex-flow: row wrap;
 }
+
+header 
 
 .area1 {
   grid-area: area1;
@@ -80,11 +78,14 @@ header {
   flex-grow: 1;
   flex-basis: 14rem;
   margin: 0 1rem 1rem 0;
+}
+
+.cell p {
   padding-top: 1rem;
 }
 footer {
   border-top: 4px solid silver;
-  margin-top: 3rem;
+  margin: 3rem 1rem 1rem 1rem;
   padding-top: 1rem;
   display: flex;
   flex-flow: row wrap;
@@ -93,7 +94,6 @@ footer {
 }
 footer div {
   padding: 1rem;
-  border: 1px solid silver;
   flex: 1 2 auto;
   flex-basis: 10rem;
 }
