@@ -1,85 +1,129 @@
 <!DOCTYPE html>
 <html lang="en-ca">
-  <head>
-    <title>DSN1534 Typography 3</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      description="This is the curriculum web site for DSN1534 Typography 3 in the Graphic Design Program at Algonquin College. It is authored and maintained by Alain Paradis"
-    />
-    <link rel="stylesheet" href="{{site.url}}/css/reset.css" type="text/css" />
-    <link rel="stylesheet" href="{{site.url}}/css/layout.css" type="text/css" />
-    <link rel="stylesheet" href="{{site.url}}/css/typography.css" type="text/css" />
-  </head>
-  <body>
-    <div id="grid">
-      <div><a href="{{site.url}}" class="site-id">Type<sup>3</sup></a></div>
-      <header class="header">
-        <div class="cell">
-        {% include about-course.html%}
-        </div>
-        <div class="cell">
-          {% include course-info.html %}
-        </div>
-      </header>
-      <div class="area1">
-        <div class="cell">
-          {{ content }}
-        </div>
-      </div>
-      <div class="area2">
-        <div class="cell">
-          <h3>Assignments</h3>
-          {% assign all_assignments = site.assignments %}
-          <nav>
-            <ul class="nav">
-              {% for item in all_assignments %}
-              <li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
-              {% endfor %}
-            </ul>
-          </nav>
-        </div>
-        <div class="cell">
-          <h3>Micro-Assignments</h3>
-          {% assign all_micros = site.micro-assignments %}
-          <nav>
-            <ul class="nav">
-              {% for item in all_micros %}
-              <li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
-              {% endfor %}
-            </ul>
-          </nav>
-        </div>
-        <div class="cell">
-          <h3>Grids</h3>
-           <nav>
-            {% assign all_grids = site.grids %}
-            <ul class="nav">
-              {% for item in all_grids %}
-              <li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
-              {% endfor %}
-              <ul class="nav">
-                {% assign all_grids-pages = site.grids-pages %}
-                {% for item in all_grids-pages %}
-                <li class="two"><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
-                {% endfor %}
-              </ul>
-            </ul>
-           </nav>
-        </div>
-        <div class="cell">
-          <h3>Type Facts</h3>
-          <nav>
-            {% assign all_type-facts = site.type-facts %}
-            <ul class="nav">
-              {% for item in all_type-facts %}
-              <li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
-              {% endfor %}
-            </ul>
-          </nav>
-        </div>
-      </div>
-      <footer>{% include footer.html %}</footer>
-    </div>
-  </body>
+<head>
+	<title>DSN1534 Typography 3</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta description="This is the curriculum web site for DSN1534 Typography 3 in the Graphic Design Program at Algonquin College. It is authored and maintained by Alain Paradis" />
+	<link rel="stylesheet" href="{{site.url}}/css/reset.css" type="text/css" />
+	<link rel="stylesheet" href="{{site.url}}/css/layout.css" type="text/css" />
+	<link rel="stylesheet" href="{{site.url}}/css/typography.css" type="text/css" />
+</head>
+<body>
+<div id="grid">
+	<div>
+		<a href="{{site.url}}" class="site-id">Type<sup>3</sup></a> 
+	</div>
+	<header class="header">
+		<div class="cell">
+			{% include about-course.html%} 
+		</div>
+		<div class="cell">
+			{% include course-info.html %} 
+		</div>
+	</header>
+	<div class="area1">
+		<div class="cell">
+			{{ content }} 
+		</div>
+	</div>
+	<div class="area2">
+		<div class="cell">
+			<h3>
+				Main Assignments 
+			</h3>
+			<ul class="nav">
+				{% for item in site.data.assignments %}
+				<li><a href="{{site.url}}{{item.url}}">{{ item.title }}</a> {{ item.formsum }} {{ item.sort }}</li>
+				{% endfor %} 
+			</ul>
+		</div>
+		<div class="cell">
+			<h3>
+				Hierarchy 
+			</h3>
+			{% assign all_hierarchy = site.hierarchy %} 
+			<ul class="nav">
+				{% for item in all_hierarchy %} 
+				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+				{% endfor %} 
+			</ul>
+		</div>
+		<div class="cell">
+			<h3>
+				Grids 
+			</h3>
+			{% assign all_grids = site.grids %} 
+			<ul class="nav">
+				{% for item in all_grids %} 
+				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+				{% endfor %} 
+				<ul class="nav">
+					{% assign all_grids-pages = site.grids-pages %} {% for item in all_grids-pages %} 
+					<li class="two"><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+					{% endfor %} 
+				</ul>
+			</ul>
+		</div>
+		<div class="cell">
+			<h3>
+				Layout for the Screen
+			</h3>
+			{% assign all_layout-for-the-screen = site.layout-for-the-screen %} 
+			<ul class="nav">
+				{% for item in all_layout-for-the-screen %} 
+				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+				{% endfor %} 
+			</ul>
+		</div>
+		<div class="cell">
+			<h3>
+				Web Type
+			</h3>
+			{% assign all_web-type = site.web-type %} 
+			<ul class="nav">
+				{% for item in all_web-type %} 
+				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+				{% endfor %} 
+			</ul>
+		</div>
+		<div class="cell">
+			<h3>
+				Magazine Layout 
+			</h3>
+			{% assign all_magazine-layout = site.magazine-layout %} 
+			<ul class="nav">
+				{% for item in all_magazine-layout %} 
+				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+				{% endfor %} 
+			</ul>
+		</div>
+		<div class="cell">
+			<h3>
+				Micro-Assignments 
+			</h3>
+			{% assign all_micros = site.micro-assignments %} 
+			<ul class="nav">
+				{% for item in all_micros %} 
+				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+				{% endfor %} 
+			</ul>
+		</div>
+		<div class="cell">
+			<h3>
+				Type Facts 
+			</h3>
+			{% assign all_type-facts = site.type-facts %} 
+			<ul class="nav">
+				{% for item in all_type-facts %} 
+				<li><a href="{{site.url}}{{item.url}}">{{item.title}}</a></li>
+				{% endfor %} 
+			</ul>
+		</div>
+	</div>
+	<footer>
+		{% include footer.html %} 
+	</footer>
+</div>
+</body>
 </html>
