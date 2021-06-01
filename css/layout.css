@@ -20,7 +20,7 @@ body {
 #grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(30rem, 100%), 1fr));
-  grid-template-areas: "site-id" "header" "area1" "area2" "footer";
+  grid-template-areas: "site-id" "header" "area1" "nav" "footer";
   gap: 0.5rem;
   padding: 0;
 }
@@ -45,8 +45,8 @@ header {
   align-items: flex-start;
 }
 
-.area2 {
-  grid-area: area2;
+nav, .nav {
+  grid-area: nav;
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;
@@ -86,7 +86,7 @@ footer ul {
 }
 @media only screen and (min-width: 48rem) {
   #grid {
-    grid-template-areas: "site-id header" "area1 area2" "footer footer";
+    grid-template-areas: "site-id header" "area1 nav" "footer footer";
     gap: 0.5rem;
   }
  

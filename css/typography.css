@@ -82,15 +82,13 @@ dd
 code
 {
 	background: #ededed;
-    font-family: "FiraMono-Medium";
+	font-family: "FiraMono-Medium";
 	padding: .2em .5rem;
 	border-radius: 4px;
 	border: 1px solid lightgrey;
 }
 
-.area2 .cell div:nth-of-type(1){
-	margin-top: 2rem;
-}
+nav .cell div:nth-of-type(1) { margin-top: 2rem; }
 h1 { margin-bottom: 0.5rem; }
 
 .area1 > .deck
@@ -101,15 +99,17 @@ h1 { margin-bottom: 0.5rem; }
 	color: rgba(100, 100, 100, 1);
 }
 
-.area2 h3 a {
+nav h3 a
+{
 	text-decoration: none;
 	font-family: "FiraSans-Bold";
 }
 
-.area2 h3 a::after {
-  content: "\26AD";
-  margin-left: .25rem;
-  color: rgba(200, 200, 200, 1)
+nav h3 a::after
+{
+	content: "\26AD";
+	margin-left: .25rem;
+	color: rgba(200, 200, 200, 1);
 }
 
 h3
@@ -118,8 +118,8 @@ h3
 	padding-bottom: 1rem;
 }
 
-header h3 { border-bottom: 2px solid rgba(150, 150, 150, 1);}
-
+header h3 { border-bottom: 2px solid rgba(150, 150, 150, 1); }
+header .cell div:nth-of-type(1) { margin-top: 1rem; }
 footer { grid-area: footer; }
 
 .cell ul
@@ -130,23 +130,16 @@ footer { grid-area: footer; }
 
 .area1 .cell > h3 { border: 0; }
 .assignment > p { margin-bottom 1rem: ; }
+.area1 h1 { font-family: "FiraSans-BoldItalic"; }
 
-.area1 h1 {
-	font-family: "FiraSans-BoldItalic";
-}
-
-li.pagetypetheory {
-	font-family: FiraSans-Bold;
+nav ul
+{
 	list-style-type: none;
-	margin: 0.5rem 0 0 0;
+	margin: 1rem 0 2rem .5rem;
 	padding: 0;
 }
 
-li.pagetypeother {
-	list-style-type: none;
-	margin: 0 0 0 .7rem;
-	padding: 0;
-}
+nav li { margin-top: .25rem; }
 
 footer div:nth-child(1)
 {
