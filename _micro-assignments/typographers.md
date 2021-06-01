@@ -2,7 +2,7 @@
 layout: default
 type: subpage
 title: "Typographer of the week"
-sortorder: 6.4
+sortorder: 7.4
 deck: "These are small assignments we'll do weekly."
 ---
 ## Typographer of the week

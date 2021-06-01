@@ -2,7 +2,7 @@
 layout: default
 type: subpage
 title: "Type Tidbits"
-sortorder: 6.1
+sortorder: 7.1
 deck: "These are small assignments we'll do weekly."
 ---
 ## Type Tidbits

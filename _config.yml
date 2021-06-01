@@ -22,3 +22,5 @@ collections:
     output: true
   web-type:
     output: true
+  assignmentx:
+    output: true

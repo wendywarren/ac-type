@@ -2,7 +2,7 @@
 layout: default
 type: subpage
 title: "Font Pairs"
-sortorder: 6.2
+sortorder: 7.2
 deck: "These are small assignments we'll do weekly."
 ---
 ## Font Pair of the Week 

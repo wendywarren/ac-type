@@ -2,7 +2,7 @@
 layout: default
 type: subpage
 title: "Copy Fitting"
-sortorder: 6.1
+sortorder: 7.1
 deck: "Copy fitting entails fitting the given content into a limited number of pages."
 ---
 

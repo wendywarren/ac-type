@@ -102,6 +102,24 @@
 		</div>
 		<div class="cell">
 			<h3>
+				{% assign pagetypes = site.assignmentx %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.path contains 'index' %} 
+				<a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a>
+				{% endif %}
+				{% endfor %} 
+			</h3>
+			<ul>
+				{% assign pagetypes = site.assignmentx | sort: 'sortorder' %}
+				{% for pagetype in pagetypes %}
+				{% if pagetype.type != 'theory' %} 
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{ site.baseurl }}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				{% endif %}
+				{% endfor %} 
+			</ul>
+		</div>
+		<div class="cell">
+			<h3>
 				{% assign pagetypes = site.magazine-layout %}
 				{% for pagetype in pagetypes %}
 				{% if pagetype.path contains 'index' %} 
