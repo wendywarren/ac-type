@@ -130,7 +130,7 @@ footer { grid-area: footer; }
 
 .area1 .cell > h3 { border: 0; }
 .assignment > p { margin-bottom 1rem: ; }
-.area1 h1 { font-family: "FiraSans-BoldItalic"; }
+.area1 h1 { font-family: "FiraSans-Bold"; text-transform: uppercase; }
 
 nav ul
 {
