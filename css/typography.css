@@ -133,11 +133,6 @@ footer { grid-area: footer; }
 
 .area1 h1 {
 	font-family: "FiraSans-BoldItalic";
-	color: #fff;
-	background-color: #000;
-	border: 1px solid black;
-	padding: 0 1rem;
-	border-radius: 4px;
 }
 
 li.pagetypetheory {
