@@ -25,7 +25,7 @@
 
 html
 {
-	font-size: 16px;
+	font-size: 100%;
 	line-height: 1.5;
 	color: #000000;
 }
@@ -107,7 +107,7 @@ nav h3 a
 
 nav h3 a::after
 {
-	content: "\26AD";
+	content: "\2197";
 	margin-left: .25rem;
 	color: rgba(200, 200, 200, 1);
 }
