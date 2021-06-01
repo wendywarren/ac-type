@@ -42,12 +42,7 @@ a:visited { color: rgba(60, 60, 60, 1); }
 a:hover { color: lightgrey; }
 a:active { color: orange; }
 a:focus { outline: 2px solid black; }
-
-p
-{
-	margin-bottom: .5em;
-	max-width: 95%;
-}
+p { max-width: 95%; }
 
 .site-id
 {
@@ -65,7 +60,6 @@ a.site-id, a:visited.site-id
 }
 
 a:hover.site-id { color: orange; }
-footer .site-id { font-size: 2rem; }
 
 dt
 {
@@ -89,9 +83,9 @@ code
 }
 
 nav .cell div:nth-of-type(1) { margin-top: 2rem; }
-h1 { margin-bottom: 0.5rem; }
 
-.deck {
+.deck
+{
 	font-size: 1.2rem;
 	font-family: "FiraSans-Italic";
 	margin-bottom: 0.5rem;
@@ -112,38 +106,10 @@ nav h3 a::after
 	color: rgba(200, 200, 200, 1);
 }
 
-h3
+nav h3
 {
 	border-bottom: 4px solid black;
 	padding-bottom: 1rem;
-}
-
-em {font-family: "FiraSans-Italic";}
-
-header h3
-{
-	border-bottom: 2px solid rgba(150, 150, 150, 1);
-	margin-bottom: .875rem;
-	line-height: 1.3rem;
-}
-
-header .cell div:nth-of-type(1) { margin-top: .875rem; }
-footer { grid-area: footer; }
-header { font-size: .875rem; }
-
-.cell ul
-{
-	padding: 0;
-	margin-left: 1rem;
-}
-
-.area1 .cell > h3 { border: 0; }
-.assignment > p { margin-bottom 1rem: ; }
-
-.area1 h1
-{
-	font-family: "FiraSans-Bold";
-	text-transform: uppercase;
 }
 
 nav ul
@@ -154,6 +120,46 @@ nav ul
 }
 
 nav li { margin-top: .25rem; }
+em { font-family: "FiraSans-Italic"; }
+
+header h3
+{
+	border-bottom: 2px solid rgba(150, 150, 150, 1);
+	margin-bottom: .875rem;
+	line-height: 1.3rem;
+}
+
+header .cell div:nth-of-type(1) { margin-top: .875rem; }
+header { font-size: .875rem; }
+
+.cell ul
+{
+	padding: 0;
+	margin-left: 1rem;
+}
+
+h1
+{
+	font-family: "FiraSans-Bold";
+	text-transform: uppercase;
+}
+
+h2
+{
+	font-family: "FiraSans-Bold";
+	font-size: 1.2rem;
+	text-transform: uppercase;
+	margin-top: 1rem;
+}
+
+.area1 p
+{
+	padding: 0;
+	margin: 0;
+	padding-bottom: 1rem;
+}
+
+footer .site-id { font-size: 2rem; }
 
 footer div:nth-child(1)
 {
@@ -161,3 +167,5 @@ footer div:nth-child(1)
 	font-size: 2rem;
 	padding: 1rem 0 0 1rem;
 }
+
+footer { grid-area: footer; }
