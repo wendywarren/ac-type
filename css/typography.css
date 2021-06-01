@@ -118,9 +118,18 @@ h3
 	padding-bottom: 1rem;
 }
 
-header h3 { border-bottom: 2px solid rgba(150, 150, 150, 1); }
-header .cell div:nth-of-type(1) { margin-top: 1rem; }
+em {font-family: "FiraSans-Italic";}
+
+header h3
+{
+	border-bottom: 2px solid rgba(150, 150, 150, 1);
+	margin-bottom: .875rem;
+	line-height: 1.3rem;
+}
+
+header .cell div:nth-of-type(1) { margin-top: .875rem; }
 footer { grid-area: footer; }
+header { font-size: .875rem; }
 
 .cell ul
 {
@@ -130,7 +139,12 @@ footer { grid-area: footer; }
 
 .area1 .cell > h3 { border: 0; }
 .assignment > p { margin-bottom 1rem: ; }
-.area1 h1 { font-family: "FiraSans-Bold"; text-transform: uppercase; }
+
+.area1 h1
+{
+	font-family: "FiraSans-Bold";
+	text-transform: uppercase;
+}
 
 nav ul
 {
