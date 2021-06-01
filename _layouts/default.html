@@ -24,7 +24,9 @@
 	</header>
 	<div class="area1">
 		<div class="cell">
+		{% if page.type != home %}
 		<h1>{{page.title}}</h1>
+		{% endif %}
 			{{ content }}
 		</div>
 	</div>
@@ -42,7 +44,7 @@
 				{% assign pagetypes = site.grids | sort: 'sortorder' %}
 				{% for pagetype in pagetypes %}
 				{% if pagetype.type != 'theory' %} 
-				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
 				{% endif %}
 				{% endfor %} 
 			</ul>
@@ -60,7 +62,7 @@
 				{% assign pagetypes = site.hierarchy | sort: 'sortorder' %}
 				{% for pagetype in pagetypes %}
 				{% if pagetype.type != 'theory' %} 
-				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
 				{% endif %}
 				{% endfor %} 
 			</ul>
@@ -78,7 +80,7 @@
 				{% assign pagetypes = site.web-type | sort: 'sortorder' %}
 				{% for pagetype in pagetypes %}
 				{% if pagetype.type != 'theory' %} 
-				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
 				{% endif %}
 				{% endfor %} 
 			</ul>
@@ -96,7 +98,7 @@
 				{% assign pagetypes = site.layout-for-the-screen | sort: 'sortorder' %}
 				{% for pagetype in pagetypes %}
 				{% if pagetype.type != 'theory' %} 
-				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
 				{% endif %}
 				{% endfor %} 
 			</ul>
@@ -114,7 +116,7 @@
 				{% assign pagetypes = site.assignmentx | sort: 'sortorder' %}
 				{% for pagetype in pagetypes %}
 				{% if pagetype.type != 'theory' %} 
-				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
 				{% endif %}
 				{% endfor %} 
 			</ul>
@@ -132,7 +134,7 @@
 				{% assign pagetypes = site.magazine-layout | sort: 'sortorder' %}
 				{% for pagetype in pagetypes %}
 				{% if pagetype.type != 'theory' %} 
-				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
 				{% endif %}
 				{% endfor %} 
 			</ul>
@@ -150,7 +152,7 @@
 				{% assign pagetypes = site.micro-assignments | sort: 'sortorder' %}
 				{% for pagetype in pagetypes %}
 				{% if pagetype.type != 'theory' %} 
-				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}"> {{ pagetype.title }}</a></li>
 				{% endif %}
 				{% endfor %} 
 			</ul>
@@ -168,7 +170,7 @@
 				{% assign pagetypes = site.type-facts | sort: 'sortorder' %}
 				{% for pagetype in pagetypes %}
 				{% if pagetype.type != 'theory' %} 
-				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a></li>
+				<li class="{% if pagetype.type == 'theory' %}pagetypetheory{% elsif pagetype.type != 'theory' %}pagetypeother{% endif %}"><a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.title }}</a></li>
 				{% endif %}
 				{% endfor %} 
 			</ul>
