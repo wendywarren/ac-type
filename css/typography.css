@@ -95,16 +95,17 @@ nav .cell div:nth-of-type(1) { margin-top: 2rem; }
 
 nav h3 a
 {
-	text-decoration: none;
 	font-family: "FiraSans-Bold";
 }
 
+/* 
 nav h3 a::after
 {
 	content: "\2197";
 	margin-left: .25rem;
 	color: rgba(200, 200, 200, 1);
 }
+ */
 
 nav h3
 {
