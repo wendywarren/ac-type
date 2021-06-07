@@ -39,7 +39,7 @@
 	<nav>
 		<div class="cell">
 			<h3>
-				{% assign pagetypes = site.grids %} {% for pagetype in pagetypes %} {% if pagetype.path contains 'index' %} <a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a> {% endif %} {% endfor %} 
+				{% assign pagetypes = site.grids %} {% for pagetype in pagetypes %} {% if pagetype.path contains 'index' %} <a href="{{site.url}}{{pagetype.url}}" title="{{ pagetype.deck }}">{{ pagetype.sortorder }} {{ pagetype.title }}</a> {% endif %} {% endfor %}
 			</h3>
 			<ul>
 				{% assign pagetypes = site.grids | sort: 'sortorder' %} {% for pagetype in pagetypes %} {% if pagetype.type != 'theory' %} 
