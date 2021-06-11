@@ -18,14 +18,15 @@
 	</header>
 	<div class="area1">
 		<div class="cell">
-			{% if page.type != home %} 
+			{% if page.type != 'home' %} 
 			<h1>
 				{{page.title}} 
 			</h1>
 			<div class="deck">
 				{{page.deck}} 
 			</div>
-			{% endif %} {{ content }} 
+			{% endif %}
+			{{ content }} 
 		</div>
 	</div>
 	<nav>
