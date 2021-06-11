@@ -8,3 +8,7 @@ img
 }
 
 .link-icon { fill: silver; }
+
+:root {
+	--color-name: #ff00ff;
+}
