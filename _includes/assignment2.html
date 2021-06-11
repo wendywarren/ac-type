@@ -1,8 +1,8 @@
 <h3>
-	{% for pagename in site.grids %} {% if pagename.type == 'topic-home' %} <a href="{{ pagename.url }}/index.html"> {{ pagename.sortorder }} {{ pagename.title }} </a> {% endif %} {% endfor %} 
+	{% for pagename in site.hierarchy %} {% if pagename.type == 'topic-home' %} <a href="{{ pagename.url }}/index.html"> {{ pagename.sortorder }} {{ pagename.title }} </a> {% endif %} {% endfor %} 
 </h3>
 <ul>
-	{% assign allpages = site.grids | sort: 'sortorder' %} {% for assignment in allpages %} {% if assignment.type != 'topic-home' %} 
+	{% assign allpages = site.hierarchy | sort: 'sortorder' %} {% for assignment in allpages %} {% if assignment.type != 'topic-home' %} 
 	<li><a href="{{site.url}}{{assignment.url}}" title="{{ assignment.deck }}">{{ assignment.title }}</a></li>
 	{% endif %} {% endfor %} 
 </ul>

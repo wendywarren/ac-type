@@ -4,7 +4,7 @@
 	{% include head.html %} 
 </head>
 <body>
-<div id="{% if page.type == 'site-home' %}grid-home{% endif %}{% if page.type == 'subpage' %}grid{% endif %}">
+<div id="grid">
 	<div>
 		<a href="{{site.url}}" class="site-id">Type<sup>3</sup></a> 
 	</div>
@@ -30,7 +30,7 @@
 	</div>
 	<nav>
 		<div class="cell">
-			{% include assignment1.html %} 
+			{% include assignment1.html %}
 		</div>
 		<div class="cell">
 			{% include assignment2.html %} 
@@ -43,15 +43,6 @@
 		</div>
 		<div class="cell">
 			{% include assignment5.html %} 
-		</div>
-		<div class="cell">
-			{% include assignment6.html %} 
-		</div>
-		<div class="cell">
-			{% include assignment7.html %} 
-		</div>
-		<div class="cell">
-			{% include assignment8.html %} 
 		</div>
 	</nav>
 	<footer>

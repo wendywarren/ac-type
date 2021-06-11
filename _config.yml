@@ -14,9 +14,9 @@ collections:
     output: true
   layout-for-the-screen:
     output: true
-  magazine-layout:
-    output: true
   web-type:
+    output: true
+  magazine-layout:
     output: true
   type-facts:
     output: true
