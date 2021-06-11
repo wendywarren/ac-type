@@ -97,14 +97,14 @@ nav h3 a
 	font-family: "FiraSans-Bold";
 }
 
-/* 
-nav h3 a::after
+
+nav h3::after
 {
 	content: "\2197";
-	margin-left: .25rem;
+	font-size: 1.2rem;
 	color: rgba(200, 200, 200, 1);
+	text-decoration: none;
 }
- */
 
 nav h3
 {
