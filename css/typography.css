@@ -141,7 +141,6 @@ header { font-size: .875rem; }
 h1
 {
 	font-family: "FiraSans-Bold";
-	text-transform: uppercase;
 }
 
 h2
@@ -150,6 +149,7 @@ h2
 	font-size: 1.2rem;
 	text-transform: uppercase;
 	margin-top: 1rem;
+	color: grey;
 }
 
 .area1 p
