@@ -165,7 +165,7 @@ footer div:nth-child(1)
 {
 	font-family: "FiraSans-UltraItalic";
 	font-size: 2rem;
-	padding: 1rem 0 0 1rem;
+
 }
 
 footer { grid-area: footer; }

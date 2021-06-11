@@ -10,8 +10,6 @@ github_username:  alainparadis
 collections:
   grids:
     output: true
-  type-facts:
-    output: true
   hierarchy:
     output: true
   layout-for-the-screen:
@@ -19,6 +17,8 @@ collections:
   magazine-layout:
     output: true
   web-type:
+    output: true
+  type-facts:
     output: true
   micro-assignments:
     output: true
