@@ -1,8 +1,0 @@
-<h3>
-	{% for pagename in site.web-type %} {% if pagename.type == 'topic-home' %} <a href="{{ pagename.url }}/index.html"> {{ pagename.sortorder }} {{ pagename.title }} </a> {% endif %} {% endfor %} 
-</h3>
-<ul>
-	{% assign allpages = site.web-type | sort: 'sortorder' %} {% for assignment in allpages %} {% if assignment.type != 'topic-home' %} 
-	<li><a href="{{site.url}}{{assignment.url}}" title="{{ assignment.deck }}">{{ assignment.title }}</a></li>
-	{% endif %} {% endfor %} 
-</ul>
