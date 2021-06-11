@@ -1,148 +1,148 @@
 - title: Grids
   sort: 1.0
-  url: {{site.url}}/grids/index.html
+  url: /grids/index.html
   deck: "Page layout grids create structure and harmony on the page."
   formsum: Formative
   pages:
     - title: Single Column Grids
-      url: {{site.url}}/grids/single-column-grids.html
+      url: /grids/single-column-grids.html
       deck: "Single-Column grids are best for continuous text in novels and other books with few images."
     - title: Ad Hoc Grids
-      url: {{site.url}}/grids/adhoc-grids.html
+      url: /grids/adhoc-grids.html
       deck: "This grid appears as you work. Align elements on the page relative to each other."
     - title: Multi-Column Grids
-      url: {{site.url}}/grids/multi-column-grids.html
+      url: /grids/multi-column-grids.html
       deck: "This grid appears as you work. Align elements on the page relative to each other."
     - title: Modular Grids
-      url: {{site.url}}/grids/modular-grids.html
+      url: /grids/modular-grids.html
       deck: "Modular grids, using horizontal lines, allow for more variety in your layouts."
     - title: Hierarchical Grids
-      url: {{site.url}}/grids/hierarchical-grids.html
+      url: /grids/hierarchical-grids.html
       deck: "This grid appears as you work. Align elements on the page relative to each other."
     - title: Brief
-      url: {{site.url}}/grids/brief.html
+      url: /grids/brief.html
       deck: "This is the brief for this assignment."
     - title: Deliverables
-      url: {{site.url}}/grids/deliverables.html
+      url: /grids/deliverables.html
       deck: "These are the deliverables for this assignment."
 - title: Assignment Two
   sort: 2.0
-  url: {{site.url}}/assignment_two/index.html
+  url: /assignment_two/index.html
   deck: "This is the deck content for Assignment #2"
   formsum: Formative
   pages:
     - title: Subpage 1
-      url: {{site.url}}/assignment_two/subpage1.html
+      url: /assignment_two/subpage1.html
       deck: "This is the first subpage for Assignment #2."
     - title: Subpage 2
-      url: {{site.url}}/assignment_two/subpage2.html
+      url: /assignment_two/subpage2.html
       deck: "This is the second subpage for Assignment #2."
     - title: Subpage 3
-      url: {{site.url}}/assignment_two/subpage3.html
+      url: /assignment_two/subpage3.html
       deck: "This is the third subpage for Assignment #2."
     - title: Subpage 4
-      url: {{site.url}}/assignment_two/subpage4.html
+      url: /assignment_two/subpage4.html
       deck: "This is the fourth subpage for Assignment #2."
     - title: Brief
-      url: {{site.url}}/assignment_two/brief.html
+      url: /assignment_two/brief.html
       deck: "This is the brief for this assignment."
     - title: Deliverables
-      url: {{site.url}}/assignment_two/deliverables.html
+      url: /assignment_two/deliverables.html
       deck: "These are the deliverables for this assignment."
 - title: Assignment Three
   sort: 3.0
-  url: {{site.url}}/assignment_three/index.html
+  url: /assignment_three/index.html
   deck: "Jamais deux sans trois!"
   formsum: Formative
   pages:
     - title: Subpage 1
-      url: {{site.url}}/assignment_two/subpage1.html
+      url: /assignment_two/subpage1.html
       deck: "This is the first subpage for Assignment #2."
     - title: Subpage 2
-      url: {{site.url}}/assignment_two/subpage2.html
+      url: /assignment_two/subpage2.html
       deck: "This is the second subpage for Assignment #2."
     - title: Subpage 3
-      url: {{site.url}}/assignment_two/subpage3.html
+      url: /assignment_two/subpage3.html
       deck: "This is the third subpage for Assignment #2."
     - title: Subpage 4
-      url: {{site.url}}/assignment_two/subpage4.html
+      url: /assignment_two/subpage4.html
       deck: "This is the fourth subpage for Assignment #2."
     - title: Brief
-      url: {{site.url}}/assignment_two/brief.html
+      url: /assignment_two/brief.html
       deck: "This is the brief for this assignment."
     - title: Deliverables
-      url: {{site.url}}/assignment_two/deliverables.html
+      url: /assignment_two/deliverables.html
       deck: "These are the deliverables for this assignment."
 - title: Assignment Four
   sort: 4.0
-  url: {{site.url}}/assignment_four/index.html
+  url: /assignment_four/index.html
   deck: "Two plus two equals four."
   formsum: Formative
   pages:
     - title: Subpage 1
-      url: {{site.url}}/assignment_two/subpage1.html
+      url: /assignment_two/subpage1.html
       deck: "This is the first subpage for Assignment #2."
     - title: Subpage 2
-      url: {{site.url}}/assignment_two/subpage2.html
+      url: /assignment_two/subpage2.html
       deck: "This is the second subpage for Assignment #2."
     - title: Subpage 3
-      url: {{site.url}}/assignment_two/subpage3.html
+      url: /assignment_two/subpage3.html
       deck: "This is the third subpage for Assignment #2."
     - title: Subpage 4
-      url: {{site.url}}/assignment_two/subpage4.html
+      url: /assignment_two/subpage4.html
       deck: "This is the fourth subpage for Assignment #2."
     - title: Brief
-      url: {{site.url}}/assignment_two/brief.html
+      url: /assignment_two/brief.html
       deck: "This is the brief for this assignment."
     - title: Deliverables
-      url: {{site.url}}/assignment_two/deliverables.html
+      url: /assignment_two/deliverables.html
       deck: "These are the deliverables for this assignment."
 - title: Assignment Five
   sort: 5.0
-  url: {{site.url}}/assignment_five/index.html
+  url: /assignment_five/index.html
   deck: "This is the assignment that comes after the fourth."
   formsum: Formative
   pages:
     - title: Subpage 1
-      url: {{site.url}}/assignment_two/subpage1.html
+      url: /assignment_two/subpage1.html
       deck: "This is the first subpage for Assignment #2."
     - title: Subpage 2
-      url: {{site.url}}/assignment_two/subpage2.html
+      url: /assignment_two/subpage2.html
       deck: "This is the second subpage for Assignment #2."
     - title: Subpage 3
-      url: {{site.url}}/assignment_two/subpage3.html
+      url: /assignment_two/subpage3.html
       deck: "This is the third subpage for Assignment #2."
     - title: Subpage 4
-      url: {{site.url}}/assignment_two/subpage4.html
+      url: /assignment_two/subpage4.html
       deck: "This is the fourth subpage for Assignment #2."
     - title: Brief
-      url: {{site.url}}/assignment_two/brief.html
+      url: /assignment_two/brief.html
       deck: "This is the brief for this assignment."
     - title: Deliverables
-      url: {{site.url}}/assignment_two/deliverables.html
+      url: /assignment_two/deliverables.html
       deck: "These are the deliverables for this assignment."
 
 - title: Assignment Six
   sort: 6.0
-  url: {{site.url}}/assignment_six/index.html
+  url: /assignment_six/index.html
   deck: "This is the sixth and final assignment"
   formsum: Summative
   pages:
     - title: Subpage 1
-      url: {{site.url}}/assignment_two/subpage1.html
+      url: /assignment_two/subpage1.html
       deck: "This is the first subpage for Assignment #2."
     - title: Subpage 2
-      url: {{site.url}}/assignment_two/subpage2.html
+      url: /assignment_two/subpage2.html
       deck: "This is the second subpage for Assignment #2."
     - title: Subpage 3
-      url: {{site.url}}/assignment_two/subpage3.html
+      url: /assignment_two/subpage3.html
       deck: "This is the third subpage for Assignment #2."
     - title: Subpage 4
-      url: {{site.url}}/assignment_two/subpage4.html
+      url: /assignment_two/subpage4.html
       deck: "This is the fourth subpage for Assignment #2."
     - title: Brief
-      url: {{site.url}}/assignment_two/brief.html
+      url: /assignment_two/brief.html
       deck: "This is the brief for this assignment."
     - title: Deliverables
-      url: {{site.url}}/assignment_two/deliverables.html
+      url: /assignment_two/deliverables.html
       deck: "These are the deliverables for this assignment."
