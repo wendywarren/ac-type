@@ -1,31 +1,52 @@
-assignments:
-  - title: Grids
-    url: grids/index.html
-    path: grids
-    deck: "Page layout grids create structure and harmony on the page."
-    formsum: Formative
-    sort: 1.0
-  - title: Hierarchy
-    deck: "The purpose of typographic hierarchy is to create a harmonious layout which helps the reader to absorb the content in a logical order."
-    formsum: Formative
-    sort: 2.0
-  - title: Layout for the Screen
-    deck: "Copy fitting entails fitting the given content into a limited number of pages."
-    formsum: Formative
-    sort: 3.0
-  - title: Web Type
-    deck: "Page layout grids create structure and harmony on the page."
-    formsum: Formative
-    sort: 4.0
-  - title: Type Facts
-    deck: "These are explainers for how things work in the type industry."
-    formsum: Formative
-    sort: 5.0
-  - title: Micro Assignments
-    deck: ""
-    formsum: Formative
-    sort: 6.0
-  - title: Magazine Layout
-    deck: ""
-    formsum: Summative
-    sort: 7.0
+- title: Grids
+  url: grids/index.html
+  path: grids
+  deck: "Page layout grids create structure and harmony on the page."
+  formsum: Formative
+  pages:
+    - title: Single Column Grids
+      url: /grids/single-column-grids.html
+      deck: "Single-Column grids are best for continuous text in novels and other books with few images."
+    - title: Ad Hoc Grids
+      url: /grids/adhoc-grids.html
+      deck: "This grid appears as you work. Align elements on the page relative to each other."
+    - title: Multi-Column Grids
+      url: /grids/multi-column-grids.html
+      deck: "This grid appears as you work. Align elements on the page relative to each other."
+    - title: Modular Grids
+      url: /grids/modular-grids.html
+      deck: "Modular grids, using horizontal lines, allow for more variety in your layouts."
+    - title: Hierarchical Grids
+      url: /grids/hierarchical-grids.html
+      deck: "This grid appears as you work. Align elements on the page relative to each other."
+    - title: Brief
+      url: /grids/brief.html
+      deck: "This is the brief for this assignment."
+    - title: Deliverables
+      url: /grids/deliverables.html
+      deck: "These are the deliverables for this assignment."
+  sort: 1.0
+- title: Hierarchy
+  deck: "The purpose of typographic hierarchy is to create a harmonious layout which helps the reader to absorb the content in a logical order."
+  formsum: Formative
+  sort: 2.0
+- title: Layout for the Screen
+  deck: "Copy fitting entails fitting the given content into a limited number of pages."
+  formsum: Formative
+  sort: 3.0
+- title: Web Type
+  deck: "Page layout grids create structure and harmony on the page."
+  formsum: Formative
+  sort: 4.0
+- title: Type Facts
+  deck: "These are explainers for how things work in the type industry."
+  formsum: Formative
+  sort: 5.0
+- title: Micro Assignments
+  deck: ""
+  formsum: Formative
+  sort: 6.0
+- title: Magazine Layout
+  deck: ""
+  formsum: Summative
+  sort: 7.0
