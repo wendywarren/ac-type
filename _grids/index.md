@@ -1,6 +1,6 @@
 ---
 layout: default
-type: theory
+type: topic-home
 title: "Grids"
 sortorder: 1.0
 deck: "In this module, we'll learn how to design page layout grids."

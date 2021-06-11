@@ -1,6 +1,6 @@
 ---
 layout: default
-type: theory
+type: topic-home
 title: "Magazine Layout"
 sortorder: 6.0
 Deck: "This is a summative assignment that includes all the skills from the semester."

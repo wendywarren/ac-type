@@ -1,6 +1,6 @@
 ---
 layout: default
-type: theory
+type: topic-home
 title: "Layout for the screen"
 sortorder: 4.0
 deck: "We'll learn how to select font pairs and create code which will establish hierarchy to achieve smooth flow, clear contrast and harmony on the page."

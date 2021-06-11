@@ -1,6 +1,6 @@
 ---
 layout: default
-type: theory
+type: topic-home
 title: "Hierarchy"
 sortorder: 2.0
 deck: "The purpose of typographic hierarchy is to create a harmonious layout which helps the reader to absorb the content in a logical order."

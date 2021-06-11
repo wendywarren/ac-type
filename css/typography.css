@@ -37,7 +37,6 @@ a, a:link
 	color: black;
 	text-decoration-color: blue;
 }
-
 a:visited { color: rgba(60, 60, 60, 1); }
 a:hover { color: lightgrey; }
 a:active { color: orange; }

@@ -1,6 +1,6 @@
 ---
 layout: default
-type: theory
+type: topic-home
 title: "Web Type"
 sortorder: 3.0
 Deck: "Web type is great."

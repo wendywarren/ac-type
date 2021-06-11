@@ -8,11 +8,9 @@ url: /type-3
 twitter_username: alainparadis
 github_username:  alainparadis
 collections:
-  micro-assignments:
+  grids:
     output: true
   type-facts:
-    output: true
-  grids:
     output: true
   hierarchy:
     output: true
@@ -22,5 +20,13 @@ collections:
     output: true
   web-type:
     output: true
-  assignmentx:
+  micro-assignments:
     output: true
+
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
