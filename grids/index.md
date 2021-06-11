@@ -2,8 +2,7 @@
 layout: default
 type: topic-home
 title: "Grids"
-sortorder: 1.0
-deck: "In this module, we'll learn how to design page layout grids."
+assignment: "assignment_one"
 ---
 We're always told to create a grid to guide our page layouts. But where do we start? How do we decide how to divide the page? We'll use various formula to create harmonious grids.
 

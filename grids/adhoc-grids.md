@@ -2,6 +2,7 @@
 layout: default
 type: subpage
 title: "Ad Hoc Grids"
+assignment: "assignment_one"
 ---
 Ad hoc, *or informal* grids are created as you sketch your pages. They don't have the rhythmic structure the other types of grids have. There aren't columns. Elements simply align with each other on the page.
 

@@ -2,7 +2,7 @@
 layout: default
 type: subpage
 title: "Single-Column Grids"
-sortorder: 1.2
+assignment: "assignment_one"
 ---
 If we're to design a single-column grid, our job is to create harmonious margins. There are many formula for creating the single-column grid. *Most of them are trash, myths.* There are others that are actually useful. The first is the Van de Graaf Canon.
 
