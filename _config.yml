@@ -7,22 +7,6 @@ baseurl: ""
 url: /type-3
 twitter_username: alainparadis
 github_username:  alainparadis
-collections:
-  grids:
-    output: true
-  hierarchy:
-    output: true
-  layout-for-the-screen:
-    output: true
-  web-type:
-    output: true
-  magazine-layout:
-    output: true
-  type-facts:
-    output: true
-  micro-assignments:
-    output: true
-
 
 exclude:
   - .sass-cache/

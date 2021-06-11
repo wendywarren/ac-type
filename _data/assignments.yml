@@ -1,30 +1,31 @@
-- title: Grids
-  url: grids/index.html
-  path: grids
-  deck: "Page layout grids create structure and harmony on the page."
-  formsum: Formative
-  sort: 1.0
-- title: Hierarchy
-  deck: "The purpose of typographic hierarchy is to create a harmonious layout which helps the reader to absorb the content in a logical order."
-  formsum: Formative
-  sort: 2.0
-- title: Layout for the Screen
-  deck: "Copy fitting entails fitting the given content into a limited number of pages."
-  formsum: Formative
-  sort: 3.0
-- title: Web Type
-  deck: "Page layout grids create structure and harmony on the page."
-  formsum: Formative
-  sort: 4.0
-- title: Type Facts
-  deck: "These are explainers for how things work in the type industry."
-  formsum: Formative
-  sort: 5.0
-- title: Micro Assignments
-  deck: ""
-  formsum: Formative
-  sort: 6.0
-- title: Magazine Layout
-  deck: ""
-  formsum: Summative
-  sort: 7.0
+assignments:
+  - title: Grids
+    url: grids/index.html
+    path: grids
+    deck: "Page layout grids create structure and harmony on the page."
+    formsum: Formative
+    sort: 1.0
+  - title: Hierarchy
+    deck: "The purpose of typographic hierarchy is to create a harmonious layout which helps the reader to absorb the content in a logical order."
+    formsum: Formative
+    sort: 2.0
+  - title: Layout for the Screen
+    deck: "Copy fitting entails fitting the given content into a limited number of pages."
+    formsum: Formative
+    sort: 3.0
+  - title: Web Type
+    deck: "Page layout grids create structure and harmony on the page."
+    formsum: Formative
+    sort: 4.0
+  - title: Type Facts
+    deck: "These are explainers for how things work in the type industry."
+    formsum: Formative
+    sort: 5.0
+  - title: Micro Assignments
+    deck: ""
+    formsum: Formative
+    sort: 6.0
+  - title: Magazine Layout
+    deck: ""
+    formsum: Summative
+    sort: 7.0
