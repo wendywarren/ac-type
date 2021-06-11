@@ -96,13 +96,6 @@ footer ul
 		padding: 0;
 	}
 	
-	header
-	{
-		display: flex;
-		flex-flow: row nowrap;
-		border: 1px solid red;
-	}
-	
 	nav .cell
 	{
 		flex-shrink: 1;
