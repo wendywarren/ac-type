@@ -1,6 +1,6 @@
 ---
 layout: default
 type: subpage
-title: "Subpage 1"
+title: "Deliverables"
 assignment: "assignment_two"
 ---
