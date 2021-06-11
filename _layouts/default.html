@@ -18,14 +18,6 @@
 	</header>
 	<div class="area1">
 		<div class="cell">
-			{% if page.type != 'home' %} 
-			<h1>
-				{{page.title}} 
-			</h1>
-			<div class="deck">
-				{{page.deck}} 
-			</div>
-			{% endif %} {{ content }} 
 		</div>
 	</div>
 	<nav>
@@ -43,21 +35,53 @@
 			<h3>
 				<a href="{{ site.data.assignments[1].url }}">{{ site.data.assignments[1].sort }} {{ site.data.assignments[1].title }}</a> 
 			</h3>
+			<ul>
+				{% for page in site.data.assignments[1].pages %} 
+				<li><a href="{{ page.url }}">{{ page.title }}</li>
+				{% endfor %} 
+			</ul>
 		</div>
 		<div class="cell">
 			<h3>
 				<a href="{{ site.data.assignments[2].url }}">{{ site.data.assignments[2].sort }} {{ site.data.assignments[2].title }}</a> 
 			</h3>
+			<ul>
+				{% for page in site.data.assignments[2].pages %} 
+				<li><a href="{{ page.url }}">{{ page.title }}</li>
+				{% endfor %} 
+			</ul>
 		</div>
 		<div class="cell">
 			<h3>
 				<a href="{{ site.data.assignments[3].url }}">{{ site.data.assignments[3].sort }} {{ site.data.assignments[3].title }}</a> 
 			</h3>
+			<ul>
+				{% for page in site.data.assignments[3].pages %} 
+				<li><a href="{{ page.url }}">{{ page.title }}</li>
+				{% endfor %} 
+			</ul>
 		</div>
 		<div class="cell">
 			<h3>
 				<a href="{{ site.data.assignments[4].url }}">{{ site.data.assignments[4].sort }} {{ site.data.assignments[4].title }}</a> 
 			</h3>
+						<ul>
+				{% for page in site.data.assignments[4].pages %} 
+				<li><a href="{{ page.url }}">{{ page.title }}</li>
+				{% endfor %} 
+			</ul>
+
+		</div>
+		<div class="cell">
+			<h3>
+				<a href="{{ site.data.assignments[5].url }}">{{ site.data.assignments[5].sort }} {{ site.data.assignments[5].title }}</a>
+			</h3>
+						<ul>
+				{% for page in site.data.assignments[5].pages %} 
+				<li><a href="{{ page.url }}">{{ page.title }}</li>
+				{% endfor %} 
+			</ul>
+
 		</div>
 	</nav>
 	<footer>

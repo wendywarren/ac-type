@@ -1,6 +1,6 @@
 - title: Grids
-  url: grids/index.html
-  path: grids
+  sort: 1.0
+  url: /grids/index.html
   deck: "Page layout grids create structure and harmony on the page."
   formsum: Formative
   pages:
@@ -25,28 +25,124 @@
     - title: Deliverables
       url: /grids/deliverables.html
       deck: "These are the deliverables for this assignment."
-  sort: 1.0
-- title: Hierarchy
-  deck: "The purpose of typographic hierarchy is to create a harmonious layout which helps the reader to absorb the content in a logical order."
-  formsum: Formative
+- title: Assignment Two
   sort: 2.0
-- title: Layout for the Screen
-  deck: "Copy fitting entails fitting the given content into a limited number of pages."
+  url: /assignment_two/index.html
+  deck: "This is the deck content for Assignment #2"
   formsum: Formative
+  pages:
+    - title: Subpage 1
+      url: /assignment_two/subpage1.html
+      deck: "This is the first subpage for Assignment #2."
+    - title: Subpage 2
+      url: /assignment_two/subpage2.html
+      deck: "This is the second subpage for Assignment #2."
+    - title: Subpage 3
+      url: /assignment_two/subpage3.html
+      deck: "This is the third subpage for Assignment #2."
+    - title: Subpage 4
+      url: /assignment_two/subpage4.html
+      deck: "This is the fourth subpage for Assignment #2."
+    - title: Brief
+      url: /assignment_two/brief.html
+      deck: "This is the brief for this assignment."
+    - title: Deliverables
+      url: /assignment_two/deliverables.html
+      deck: "These are the deliverables for this assignment."
+- title: Assignment Three
   sort: 3.0
-- title: Web Type
-  deck: "Page layout grids create structure and harmony on the page."
+  url: /assignment_three/index.html
+  deck: "Jamais deux sans trois!"
   formsum: Formative
+  pages:
+    - title: Subpage 1
+      url: /assignment_two/subpage1.html
+      deck: "This is the first subpage for Assignment #2."
+    - title: Subpage 2
+      url: /assignment_two/subpage2.html
+      deck: "This is the second subpage for Assignment #2."
+    - title: Subpage 3
+      url: /assignment_two/subpage3.html
+      deck: "This is the third subpage for Assignment #2."
+    - title: Subpage 4
+      url: /assignment_two/subpage4.html
+      deck: "This is the fourth subpage for Assignment #2."
+    - title: Brief
+      url: /assignment_two/brief.html
+      deck: "This is the brief for this assignment."
+    - title: Deliverables
+      url: /assignment_two/deliverables.html
+      deck: "These are the deliverables for this assignment."
+- title: Assignment Four
   sort: 4.0
-- title: Type Facts
-  deck: "These are explainers for how things work in the type industry."
+  url: /assignment_four/index.html
+  deck: "Two plus two equals four."
   formsum: Formative
+  pages:
+    - title: Subpage 1
+      url: /assignment_two/subpage1.html
+      deck: "This is the first subpage for Assignment #2."
+    - title: Subpage 2
+      url: /assignment_two/subpage2.html
+      deck: "This is the second subpage for Assignment #2."
+    - title: Subpage 3
+      url: /assignment_two/subpage3.html
+      deck: "This is the third subpage for Assignment #2."
+    - title: Subpage 4
+      url: /assignment_two/subpage4.html
+      deck: "This is the fourth subpage for Assignment #2."
+    - title: Brief
+      url: /assignment_two/brief.html
+      deck: "This is the brief for this assignment."
+    - title: Deliverables
+      url: /assignment_two/deliverables.html
+      deck: "These are the deliverables for this assignment."
+- title: Assignment Five
   sort: 5.0
-- title: Micro Assignments
-  deck: ""
+  url: /assignment_five/index.html
+  deck: "This is the assignment that comes after the fourth."
   formsum: Formative
+  pages:
+    - title: Subpage 1
+      url: /assignment_two/subpage1.html
+      deck: "This is the first subpage for Assignment #2."
+    - title: Subpage 2
+      url: /assignment_two/subpage2.html
+      deck: "This is the second subpage for Assignment #2."
+    - title: Subpage 3
+      url: /assignment_two/subpage3.html
+      deck: "This is the third subpage for Assignment #2."
+    - title: Subpage 4
+      url: /assignment_two/subpage4.html
+      deck: "This is the fourth subpage for Assignment #2."
+    - title: Brief
+      url: /assignment_two/brief.html
+      deck: "This is the brief for this assignment."
+    - title: Deliverables
+      url: /assignment_two/deliverables.html
+      deck: "These are the deliverables for this assignment."
+
+- title: Assignment Six
   sort: 6.0
-- title: Magazine Layout
-  deck: ""
+  url: /assignment_six/index.html
+  deck: "This is the sixth and final assignment"
   formsum: Summative
-  sort: 7.0
+  pages:
+    - title: Subpage 1
+      url: /assignment_two/subpage1.html
+      deck: "This is the first subpage for Assignment #2."
+    - title: Subpage 2
+      url: /assignment_two/subpage2.html
+      deck: "This is the second subpage for Assignment #2."
+    - title: Subpage 3
+      url: /assignment_two/subpage3.html
+      deck: "This is the third subpage for Assignment #2."
+    - title: Subpage 4
+      url: /assignment_two/subpage4.html
+      deck: "This is the fourth subpage for Assignment #2."
+    - title: Brief
+      url: /assignment_two/brief.html
+      deck: "This is the brief for this assignment."
+    - title: Deliverables
+      url: /assignment_two/deliverables.html
+      deck: "These are the deliverables for this assignment."
