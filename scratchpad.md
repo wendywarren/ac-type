@@ -7,6 +7,7 @@ deck: Web site notes and Todo's.
 
 ## To Do
 
+- Include bilingual content.
 - Investigate sub-setting local WOFF fonts.
 [Watch this Video](https://vimeo.com/239782886): Mark Boulton on designing grids.
 - [Use FormSpree](https://formspree.io/) for online forms, if I need them.
