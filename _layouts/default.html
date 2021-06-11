@@ -18,6 +18,13 @@
 	</header>
 	<div class="area1">
 		<div class="cell">
+		 {% for pageName in site.data.assignments %}
+ 		 {% for item in pageName.pages %}
+ 		 {% if item.assignment == page.assignment %} 
+            <h1>{{ item.title }}</h1>
+		{% endif %}            
+        {% endfor %}
+        {% endfor %}
 		</div>
 	</div>
 	<nav>
