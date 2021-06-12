@@ -2,6 +2,7 @@
   sort: 1.0
   url: /grids/index.html
   deck: "Page layout grids create structure and harmony on the page."
+  brightspace: "https://brightspace.algonquincollege.com/d2l/home"
   formsum: Formative
   pages:
     - title: Single Column Grids
@@ -25,11 +26,13 @@
     - title: Deliverables
       url: /grids/deliverables.html
       deck: "These are the deliverables for this assignment."
+
 - title: Assignment Two
   assignment: "assignment_two"
   sort: 2.0
   url: /assignment_two/index.html
   deck: "This is the deck content for Assignment #2"
+  brightspace: "https://brightspace.algonquincollege.com/d2l/home"
   formsum: Formative
   pages:
     - title: Subpage 1
@@ -56,10 +59,12 @@
       assignment: "assignment_two"
       url: /assignment_two/deliverables.html
       deck: "These are the deliverables for this assignment."
+
 - title: Assignment Three
   sort: 3.0
   url: /assignment_three/index.html
   deck: "Jamais deux sans trois!"
+  brightspace: "https://brightspace.algonquincollege.com/d2l/home"
   formsum: Formative
   pages:
     - title: Subpage 1
@@ -80,10 +85,12 @@
     - title: Deliverables
       url: /assignment_three/deliverables.html
       deck: "These are the deliverables for this assignment."
+
 - title: Assignment Four
   sort: 4.0
   url: /assignment_four/index.html
   deck: "Two plus two equals four."
+  brightspace: "https://brightspace.algonquincollege.com/d2l/home"
   formsum: Formative
   pages:
     - title: Subpage 1
@@ -104,10 +111,12 @@
     - title: Deliverables
       url: /assignment_four/deliverables.html
       deck: "These are the deliverables for this assignment."
+
 - title: Assignment Five
   sort: 5.0
   url: /assignment_five/index.html
   deck: "This is the assignment that comes after the fourth."
+  brightspace: "https://brightspace.algonquincollege.com/d2l/home"
   formsum: Formative
   pages:
     - title: Subpage 1
@@ -133,6 +142,7 @@
   sort: 6.0
   url: /assignment_six/index.html
   deck: "This is the sixth and final assignment"
+  brightspace: "https://brightspace.algonquincollege.com/d2l/home"
   formsum: Summative
   pages:
     - title: Subpage 1
