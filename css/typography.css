@@ -87,7 +87,7 @@ nav .cell div:nth-of-type(1) { margin-top: 2rem; }
 {
 	font-size: 1.2rem;
 	font-family: "FiraSans-Italic";
-	margin-bottom: 0.5rem;
+	margin-bottom: 1rem;
 	color: rgba(100, 100, 100, 1);
 	max-width: 95%;
 }
@@ -145,10 +145,8 @@ h1
 
 h2
 {
-	font-family: "FiraSans-Bold";
+	font-family: "FiraSans-Regular";
 	font-size: 1.2rem;
-	text-transform: uppercase;
-	margin-top: 1rem;
 	color: grey;
 }
 
@@ -167,5 +165,7 @@ footer div:nth-child(1)
 	font-size: 2rem;
 
 }
-
+footer li:nth-child(1) {
+	font-family: "FiraSans-Italic";
+}
 footer { grid-area: footer; }
