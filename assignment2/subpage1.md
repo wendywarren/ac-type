@@ -3,8 +3,8 @@ layout: default
 type: subpage
 title: "Subpage 1"
 assignment: "assignment2"
-sort:
-deck:
-brightspace:
-formsum:
+sort: 2.1
+deck: "This is the deck content for this page."
+brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+formsum: formative
 ---
