@@ -1,25 +1,25 @@
-- title: Assignment Six
-  sort: 6.0
-  url: /assignment_six/index.html
-  deck: "This is the sixth and final assignment"
+- title: Assignment Three
+  sort: 3.0
+  url: /assignment_three/index.html
+  deck: "Jamais deux sans trois!"
   brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-  formsum: Summative
+  formsum: Formative
   pages:
     - title: Subpage 1
-      url: /assignment_six/subpage1.html
+      url: /assignment_three/subpage1.html
       deck: "This is the first subpage for Assignment #2."
     - title: Subpage 2
-      url: /assignment_six/subpage2.html
+      url: /assignment_three/subpage2.html
       deck: "This is the second subpage for Assignment #2."
     - title: Subpage 3
-      url: /assignment_six/subpage3.html
+      url: /assignment_three/subpage3.html
       deck: "This is the third subpage for Assignment #2."
     - title: Subpage 4
-      url: /assignment_six/subpage4.html
+      url: /assignment_three/subpage4.html
       deck: "This is the fourth subpage for Assignment #2."
     - title: Brief
-      url: /assignment_six/brief.html
+      url: /assignment_three/brief.html
       deck: "This is the brief for this assignment."
     - title: Deliverables
-      url: /assignment_six/deliverables.html
+      url: /assignment_three/deliverables.html
       deck: "These are the deliverables for this assignment."
