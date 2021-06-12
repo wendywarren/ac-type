@@ -2,5 +2,9 @@
 layout: default
 type: subpage
 title: "Subpage 4"
-assignment: "assignment_four"
+assignment: "assignment4"
+sort:
+deck:
+brightspace:
+formsum:
 ---

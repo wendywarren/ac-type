@@ -2,5 +2,9 @@
 layout: default
 type: deliverables
 title: "Deliverables"
-assignment: "assignment_one"
+assignment: "assignment1"
+sort:
+deck:
+brightspace:
+formsum:
 ---

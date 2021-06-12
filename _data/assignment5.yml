@@ -1,25 +1,25 @@
 title: Assignment Five
 sort: 5.0
-url: /assignment_five/index.html
+url: /assignment5/index.html
 deck: "This is the assignment that comes after the fourth."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: Formative
 pages:
   - title: Subpage 1
-    url: /assignment_five/subpage1.html
+    url: /assignment5/subpage1.html
     deck: "This is the first subpage for Assignment #2."
   - title: Subpage 2
-    url: /assignment_five/subpage2.html
+    url: /assignment5/subpage2.html
     deck: "This is the second subpage for Assignment #2."
   - title: Subpage 3
-    url: /assignment_five/subpage3.html
+    url: /assignment5/subpage3.html
     deck: "This is the third subpage for Assignment #2."
   - title: Subpage 4
-    url: /assignment_five/subpage4.html
+    url: /assignment5/subpage4.html
     deck: "This is the fourth subpage for Assignment #2."
   - title: Brief
-    url: /assignment_five/brief.html
+    url: /assignment5/brief.html
     deck: "This is the brief for this assignment."
   - title: Deliverables
-    url: /assignment_five/deliverables.html
+    url: /assignment5/deliverables.html
     deck: "These are the deliverables for this assignment."

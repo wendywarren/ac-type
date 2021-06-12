@@ -1,8 +1,8 @@
 ---
 layout: default
 type: deliverables
-title: "Deliverables"
-assignment: "assignment2"
+title: "Subpage 1"
+assignment: "assignment1"
 sort:
 deck:
 brightspace:

@@ -1,6 +1,10 @@
 ---
 layout: default
-type: subpage
+type: brief
 title: "Brief"
-assignment: "assignment_five"
+assignment: "assignment5"
+sort:
+deck:
+brightspace:
+formsum:
 ---

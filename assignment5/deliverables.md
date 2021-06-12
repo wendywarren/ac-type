@@ -1,6 +1,10 @@
 ---
 layout: default
-type: subpage
+type: deliverables
 title: "Deliverables"
-assignment: "assignment_five"
+assignment: "assignment5"
+sort:
+deck:
+brightspace:
+formsum:
 ---

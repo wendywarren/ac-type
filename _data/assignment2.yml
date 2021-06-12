@@ -1,32 +1,32 @@
 title: Assignment Two
-assignment: "assignment_two"
+assignment: "assignment2"
 sort: 2.0
-url: /assignment_two/index.html
+url: /assignment2/index.html
 deck: "This is the deck content for Assignment #2"
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: Formative
 pages:
   - title: Subpage 1
-    assignment: "assignment_two"
-    url: /assignment_two/subpage1.html
+    assignment: "assignment2"
+    url: /assignment2/subpage1.html
     deck: "This is the first subpage for Assignment #2."
   - title: Subpage 2
-    assignment: "assignment_two"
-    url: /assignment_two/subpage2.html
+    assignment: "assignment2"
+    url: /assignment2/subpage2.html
     deck: "This is the second subpage for Assignment #2."
   - title: Subpage 3
-    assignment: "assignment_two"
-    url: /assignment_two/subpage3.html
+    assignment: "assignment2"
+    url: /assignment2/subpage3.html
     deck: "This is the third subpage for Assignment #2."
   - title: Subpage 4
-    assignment: "assignment_two"
-    url: /assignment_two/subpage4.html
+    assignment: "assignment2"
+    url: /assignment2/subpage4.html
     deck: "This is the fourth subpage for Assignment #2."
   - title: Brief
-    assignment: "assignment_two"    
-    url: /assignment_two/brief.html
+    assignment: "assignment2"    
+    url: /assignment2/brief.html
     deck: "This is the brief for this assignment."
   - title: Deliverables
-    assignment: "assignment_two"
-    url: /assignment_two/deliverables.html
+    assignment: "assignment2"
+    url: /assignment2/deliverables.html
     deck: "These are the deliverables for this assignment."
