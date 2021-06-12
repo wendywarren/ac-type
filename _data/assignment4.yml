@@ -1,25 +1,25 @@
-- title: Assignment Four
-  sort: 4.0
-  url: /assignment_four/index.html
-  deck: "Two plus two equals four."
-  brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-  formsum: Formative
-  pages:
-    - title: Subpage 1
-      url: /assignment_four/subpage1.html
-      deck: "This is the first subpage for Assignment #2."
-    - title: Subpage 2
-      url: /assignment_four/subpage2.html
-      deck: "This is the second subpage for Assignment #2."
-    - title: Subpage 3
-      url: /assignment_four/subpage3.html
-      deck: "This is the third subpage for Assignment #2."
-    - title: Subpage 4
-      url: /assignment_four/subpage4.html
-      deck: "This is the fourth subpage for Assignment #2."
-    - title: Brief
-      url: /assignment_four/brief.html
-      deck: "This is the brief for this assignment."
-    - title: Deliverables
-      url: /assignment_four/deliverables.html
-      deck: "These are the deliverables for this assignment."
+title: Assignment Four
+sort: 4.0
+url: /assignment_four/index.html
+deck: "Two plus two equals four."
+brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+formsum: Formative
+pages:
+  - title: Subpage 1
+    url: /assignment_four/subpage1.html
+    deck: "This is the first subpage for Assignment #2."
+  - title: Subpage 2
+    url: /assignment_four/subpage2.html
+    deck: "This is the second subpage for Assignment #2."
+  - title: Subpage 3
+    url: /assignment_four/subpage3.html
+    deck: "This is the third subpage for Assignment #2."
+  - title: Subpage 4
+    url: /assignment_four/subpage4.html
+    deck: "This is the fourth subpage for Assignment #2."
+  - title: Brief
+    url: /assignment_four/brief.html
+    deck: "This is the brief for this assignment."
+  - title: Deliverables
+    url: /assignment_four/deliverables.html
+    deck: "These are the deliverables for this assignment."
