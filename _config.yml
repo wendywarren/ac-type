@@ -7,6 +7,19 @@ baseurl: ""
 url: /type-3
 twitter_username: alainparadis
 github_username:  alainparadis
+collections:
+  assignment1:
+    output: true
+  assignment2:
+    output: true
+  assignment3:
+    output: true
+  assignment4:
+    output: true
+  assignment5:
+    output: true
+  assignment6:
+    output: true
 
 exclude:
   - .sass-cache/

@@ -18,72 +18,116 @@
 	</header>
 	<div class="area1">
 		<div class="cell">
-            <h2>{{ page.assignment | replace: '_', ' ' }}</h2>
-            <h1>{{ page.title }}</h1>
+			<h2>
+				{{ page.assignment | replace: '_', ' ' }} 
+			</h2>
+			<h1>
+				{{ page.title }} 
+			</h1>
 		</div>
 	</div>
 	<nav>
 		<div class="cell">
 			<h3>
-				<a href="{{ site.data.assignment1.url }}">{{ site.data.assignment1.sort }} {{ site.data.assignment1.title }}</a> 
+				{% for pageName in site.assignment1 %} 
+				{% if pageName.url contains 'index' %}
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
 			</h3>
 			<ul>
-				{% for page in site.data.assignment1.pages %} 
-				<li><a href="{{site.url}}{{page.url}}">{{ page.title }}</li>
+				{% assign allPages = site.assignment1 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				<a href="{{ site.data.assignment2.url }}">{{ site.data.assignment2.sort }} {{ site.data.assignment2.title }}</a> 
+				{% for pageName in site.assignment2 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
 			</h3>
 			<ul>
-				{% for page in site.data.assignment2.pages %} 
-				<li><a href="{{site.url}}{{page.url}}">{{ page.title }}</li>
+				{% assign allPages = site.assignment2 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				<a href="{{ site.data.assignment3.url }}">{{ site.data.assignment3.sort }} {{ site.data.assignment3.title }}</a> 
+				{% for pageName in site.assignment3 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
 			</h3>
 			<ul>
-				{% for page in site.data.assignment3.pages %} 
-				<li><a href="{{site.url}}{{page.url}}">{{ page.title }}</li>
+				{% assign allPages = site.assignment3 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				<a href="{{ site.data.assignment4.url }}">{{ site.data.assignment4.sort }} {{ site.data.assignment4.title }}</a> 
+				{% for pageName in site.assignment4 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
 			</h3>
 			<ul>
-				{% for page in site.data.assignment4.pages %} 
-				<li><a href="{{site.url}}{{page.url}}">{{ page.title }}</li>
+				{% assign allPages = site.assignment4 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				<a href="{{ site.data.assignment5.url }}">{{ site.data.assignment5.sort }} {{ site.data.assignment5.title }}</a> 
+				{% for pageName in site.assignment5 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
 			</h3>
-						<ul>
-				{% for page in site.data.assignment5.pages %} 
-				<li><a href="{{site.url}}{{page.url}}">{{ page.title }}</li>
+			<ul>
+				{% assign allPages = site.assignment5 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
-
 		</div>
 		<div class="cell">
 			<h3>
-				<a href="{{ site.data.assignment6.url }}">{{ site.data.assignment6.sort }} {{ site.data.assignment6.title }}</a>
+				{% for pageName in site.assignment6 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
 			</h3>
-						<ul>
-				{% for page in site.data.assignment6.pages %} 
-				<li><a href="{{site.url}}{{page.url}}">{{ page.title }}</li>
+			<ul>
+				{% assign allPages = site.assignment6 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
 				{% endfor %} 
 			</ul>
-
 		</div>
 	</nav>
 	<footer>
