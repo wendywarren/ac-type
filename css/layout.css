@@ -66,9 +66,10 @@ footer
 
 footer div
 {
-	padding: 0;
+	padding: .5rem;
 	flex: 1 2 auto;
 	flex-basis: 10rem;
+	min-width: 18rem;
 }
 
 footer ul
