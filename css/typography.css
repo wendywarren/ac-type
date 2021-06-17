@@ -7,12 +7,12 @@
   src: url("../fonts/FiraSans-Italic.woff") format("woff");
 }
 @font-face {
-  font-family: FiraSans-Bold;
-  src: url("../fonts/FiraSans-Bold.woff") format("woff");
+  font-family: FiraSans-Medium;
+  src: url("../fonts/FiraSans-Medium.woff") format("woff");
 }
 @font-face {
-  font-family: FiraSans-BoldItalic;
-  src: url("../fonts/FiraSans-BoldItalic.woff") format("woff");
+  font-family: FiraSans-MediumItalic;
+  src: url("../fonts/FiraSans-MediumItalic.woff") format("woff");
 }
 @font-face {
   font-family: FiraSans-UltraItalic;
@@ -52,10 +52,7 @@ p { max-width: 95%; }
 	padding: 1rem 0 0 1rem;
 }
 
-.site-id > sup
-{
-	font-family: "FiraSans-BoldItalic";
-}
+.site-id > sup { font-family: "FiraSans-MediumItalic"; }
 
 a.site-id, a:visited.site-id
 {
@@ -97,7 +94,12 @@ nav .cell div:nth-of-type(1) { margin-top: 2rem; }
 	max-width: 95%;
 }
 
-nav h3 a { font-family: "FiraSans-Bold"; }
+nav h3
+{
+	border-bottom: 4px solid black;
+	padding-bottom: 1rem;
+	font-family: "FiraSans-Medium";
+}
 
 nav h3::after
 {
@@ -105,12 +107,6 @@ nav h3::after
 	font-size: 1.2rem;
 	color: rgba(200, 200, 200, 1);
 	text-decoration: none;
-}
-
-nav h3
-{
-	border-bottom: 4px solid black;
-	padding-bottom: 1rem;
 }
 
 nav ul
@@ -141,10 +137,11 @@ header { font-size: .875rem; }
 .cell ul
 {
 	padding: 0;
-	margin-left: 1rem;
+	margin: 0;
+	margin-top: 1rem;
 }
 
-h1 { font-family: "FiraSans-Bold"; }
+h1 { font-family: "FiraSans-Medium"; }
 
 h2
 {
