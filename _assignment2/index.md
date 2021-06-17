@@ -9,8 +9,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: "https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml"
 ---
-## The Brief
-
 Before we can build a whole fiction novel, we need to pitch a design to our client. To that end, we'll design and build a two-page spread that includes one of each of the elements that will be in our final publication.
 
 This will include the following considerations:

@@ -9,22 +9,18 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
 ---
-Ad hoc, *or informal* grids are created as you sketch your pages. They don't have the rhythmic structure the other types of grids have. There aren't columns. Elements simply align with each other on the page.
+We'll design a single page layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure.
 
-[See this example](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml#ch8-5)
+The tools we have at our disposal are:
 
-## When Do I Use Them?
+[The Foundational Space](subpage1.html)
+: The page. The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product.
 
-These are best used for single-page designs. We'd never use this type of grid for a whole publication.
+[Type Selection](subpage2.html)
+: One type family is all we'll need here. The goal is to use minimal instances of the family because we'll make use of other tools to achieve hierarchy.
 
-## How do they work?
+[Type Styling](subpage3.html)
+: This is where the rubber hits the road. We'll use size, weight, alignment, proximity, case, greys (no colour) and more to achieve hierarchy and to establish a clear reading order.
 
-Your page is the canvas you have to work with. Remember that in the west, our eyes travel on the page from the top left to the bottom right. What we want to do is direct the eye more specifically by aligning page elements to each other.
-
-Before starting our layout, we create hierarchy for each element using: size, weight, etc... Once each element is styled, we place the most important one thoughtfully on the page. From there, we can place the other elements in order of descending importance.
-
-![Example of Ad Hoc Grids]({{site.url}}/svg/adhoc-grids.svg "Example of Ad Hoc Grids")
-
-In the example above, you can see that the main title logically takes the lead in the layout. The two remaining elements align with it. You can see how, even with so few elements, we've achieved harmony on the page.
-
-It's also obvious that the process of creating a layout in this manner is too tedious for long multi-page publications. That's what the other types of grids are for.
+[Build Our Page](subpage4.html)
+: As if we were cooks in a kitchen, we'll combine all the ingredients above to create a delicious typographic dish.
