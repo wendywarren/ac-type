@@ -1,10 +1,10 @@
 ---
 layout: default
 type: subpage
-title: "Subpage 2"
+title: "Design Building Blocks"
 assignment: "Assignment 4"
 sortorder: 4.2
-deck: "This is the deck content for this page."
+deck: "This is about designing our grid."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
