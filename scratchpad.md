@@ -14,55 +14,12 @@ deck: Web site notes and Todo's.
 - [Use FormSpree](https://formspree.io/) for online forms, if I need them.
 - [This page](https://blog.webjeda.com/jekyll-snippets/) shows how to create my FormSpree form on a Jekyll site.
 
-## Assessments
-
-- Main, large assignments
-  - Multi-week in duration
-- In-class assignments
-  - Due at end of class
-- Weekly assignments - micro-quizzes
-  - Pair fonts
-  - Typographer of the week
-- Summative - Magazine Layout
 
 ## Assignment Timeline
 
-1. Grids - Major Assignment
-- Create 3 types of grids.
-  - Single Column Grid
-  - Modular Grid
-  - Hierarchical
-- Build a layout with given content, fonts and hierarchy on each type of grid.
-- Provided elements: content, font selection, hierarchy
-2. Grids Built with CSS Grid - In-Class Assessment
-- Could we build one of the grids for print using CSS Grid?
-- We could then create it with break points for various screen sizes.
-2. Hierarchy
-- Provided elements: content, font selection, grid
-- For Print
-  - Apply hierarchy on a given layout, similar to the MacBook Sell Sheet.
-- Web
-  - Provide two families.
-  - Use an online service to create hierarchy.
-  - Include align to baseline option for print & for web(?).
-3. Font Pairs
-- What makes two families work well together.
-- What to avoid in pairing families
-- 1st full layout: putting it all together
-  - Single page layout
-  - Choose font pair
-  - Design a grid
-  - Design hierarchy
-  - Present various layouts on the grid
-4. Summative: Magazine Layout
-- Design variations on a single grid.
-
-## Weekly
-
 ### Week 01
 
-- Review semester's activities.
-- Rules for the course.
+- Policies for the course.
 - Warm-up activity
 
 ### Week 02
@@ -121,27 +78,6 @@ deck: Web site notes and Todo's.
 ### Week 15
 
 - Assignment
-
-
-
-### Grids
-#### Regular Assignment
-
-This should come first, since they're the underlying structure of all layouts.
-
-Students will design three different types of grids. They'll place provided content on the grids using two fonts I've dictated to them. All their creative decisions should go towards placing elements on the grid -- nothing else.
-
-### Font Pairing
-#### Small Assignment
-
-
-
-### Hierarchy
-#### Assignment
-
-This is the next logical step, after grids.
-
-Students
 
 
 
