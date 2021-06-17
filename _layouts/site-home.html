@@ -1,14 +1,15 @@
+
 <!DOCTYPE html>
 <html lang="en-ca">
 <head>
 	{% include head.html %} 
 </head>
 <body>
-<div id="{% if page.type == 'site-home' %}grid-home{% endif %}{% if page.type == 'subpage' %}grid{% endif %}">
-	<div id="site-id" >
+<div id="grid-home">
+	<div>
 		<a href="{{site.url}}" class="site-id">Type<sup>3</sup></a> 
 	</div>
-	<header class="header">
+	<header>
 		<div class="cell">
 			{% include about-course.html%} 
 		</div>
@@ -16,30 +17,108 @@
 			{% include course-info.html %} 
 		</div>
 	</header>
-	<nav>
+	<nav >
 		<div class="cell">
-			{% include assignment1.html %} 
+			<h3>
+				{% for pageName in site.assignment1 %} 
+				{% if pageName.url contains 'index' %}
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
+			</h3>
+			<ul>
+				{% assign allPages = site.assignment1 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
+				{% endfor %} 
+			</ul>
 		</div>
 		<div class="cell">
-			{% include assignment2.html %} 
+			<h3>
+				{% for pageName in site.assignment2 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
+			</h3>
+			<ul>
+				{% assign allPages = site.assignment2 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
+				{% endfor %} 
+			</ul>
 		</div>
 		<div class="cell">
-			{% include assignment3.html %} 
+			<h3>
+				{% for pageName in site.assignment3 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
+			</h3>
+			<ul>
+				{% assign allPages = site.assignment3 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
+				{% endfor %} 
+			</ul>
 		</div>
 		<div class="cell">
-			{% include assignment4.html %} 
+			<h3>
+				{% for pageName in site.assignment4 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
+			</h3>
+			<ul>
+				{% assign allPages = site.assignment4 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
+				{% endfor %} 
+			</ul>
 		</div>
 		<div class="cell">
-			{% include assignment5.html %} 
+			<h3>
+				{% for pageName in site.assignment5 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
+			</h3>
+			<ul>
+				{% assign allPages = site.assignment5 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
+				{% endfor %} 
+			</ul>
 		</div>
 		<div class="cell">
-			{% include assignment6.html %} 
-		</div>
-		<div class="cell">
-			{% include assignment7.html %} 
-		</div>
-		<div class="cell">
-			{% include assignment8.html %} 
+			<h3>
+				{% for pageName in site.assignment6 %} 
+				{% if pageName.url contains 'index' %} 
+				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
+				{% endif %}
+				{% endfor %} 
+			</h3>
+			<ul>
+				{% assign allPages = site.assignment6 | sort: 'sortorder' %}
+				{% for item in allPages %} 
+				{% if item.type != 'topic-home' %}
+				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
+				{% endif %}
+				{% endfor %} 
+			</ul>
 		</div>
 	</nav>
 	<footer>
