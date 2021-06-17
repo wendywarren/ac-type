@@ -1,7 +1,7 @@
 ---
 layout: default
 type: subpage
-title: "Subpage 1"
+title: "Family Pairing"
 assignment: "Assignment 6"
 sortorder: 6.1
 deck: "This is the deck content for this page."

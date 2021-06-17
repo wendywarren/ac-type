@@ -1,7 +1,7 @@
 ---
 layout: default
 type: topic-home
-title: "Assignment 6"
+title: "Micro-Assignments"
 assignment: "Assignment 6"
 sortorder: 6.0
 deck: "This is the deck content for this page."

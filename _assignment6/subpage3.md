@@ -1,7 +1,7 @@
 ---
 layout: default
 type: subpage
-title: "Subpage 3"
+title: "Typographer of the Week"
 assignment: "Assignment 6"
 sortorder: 6.3
 deck: "This is the deck content for this page."
