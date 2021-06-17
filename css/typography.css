@@ -47,6 +47,7 @@ p { max-width: 95%; }
 
 .site-id
 {
+	font-weight: normal;
 	font-family: "FiraSans-UltraItalic";
 	font-size: 8rem;
 	padding: 1rem 0 0 1rem;
@@ -98,6 +99,7 @@ nav h3
 {
 	border-bottom: 4px solid black;
 	padding-bottom: 1rem;
+	font-weight: normal;
 	font-family: "FiraSans-Medium";
 }
 
@@ -129,6 +131,9 @@ header h3
 	border-bottom: 2px solid rgba(150, 150, 150, 1);
 	margin-bottom: .875rem;
 	line-height: 1.3rem;
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+
 }
 
 header .cell div:nth-of-type(1) { margin-top: .875rem; }
@@ -141,10 +146,15 @@ header { font-size: .875rem; }
 	margin-top: 1rem;
 }
 
-h1 { font-family: "FiraSans-Medium"; }
+h1
+{
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+}
 
 h2
 {
+	font-weight: normal;
 	font-family: "FiraSans-Regular";
 	font-size: 1.2rem;
 }
@@ -160,6 +170,7 @@ footer .site-id { font-size: 2rem; }
 
 footer div:nth-child(1)
 {
+	font-weight: normal;
 	font-family: "FiraSans-UltraItalic";
 	font-size: 2rem;
 }
