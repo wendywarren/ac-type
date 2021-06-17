@@ -7,6 +7,7 @@ deck: Web site notes and Todo's.
 
 ## To Do
 
+- Create a section with useful links
 - Include bilingual content.
 - Investigate sub-setting local WOFF fonts.
 [Watch this Video](https://vimeo.com/239782886): Mark Boulton on designing grids.
