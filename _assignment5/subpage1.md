@@ -1,7 +1,7 @@
 ---
 layout: default
 type: subpage
-title: "Subpage 1"
+title: "Design Transposition"
 assignment: "Assignment 5"
 sortorder: 5.1
 deck: "This is the deck content for this page."
