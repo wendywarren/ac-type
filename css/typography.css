@@ -37,6 +37,7 @@ a, a:link
 	color: black;
 	text-decoration-color: blue;
 }
+
 a:visited { color: rgba(60, 60, 60, 1); }
 a:hover { color: lightgrey; }
 a:active { color: orange; }
@@ -92,11 +93,7 @@ nav .cell div:nth-of-type(1) { margin-top: 2rem; }
 	max-width: 95%;
 }
 
-nav h3 a
-{
-	font-family: "FiraSans-Bold";
-}
-
+nav h3 a { font-family: "FiraSans-Bold"; }
 
 nav h3::after
 {
@@ -120,7 +117,12 @@ nav ul
 }
 
 nav li { margin-top: .25rem; }
-em { font-family: "FiraSans-Italic"; }
+
+em
+{
+	font-style: normal;
+	font-family: "FiraSans-Italic";
+}
 
 header h3
 {
@@ -138,10 +140,7 @@ header { font-size: .875rem; }
 	margin-left: 1rem;
 }
 
-h1
-{
-	font-family: "FiraSans-Bold";
-}
+h1 { font-family: "FiraSans-Bold"; }
 
 h2
 {
@@ -163,9 +162,7 @@ footer div:nth-child(1)
 {
 	font-family: "FiraSans-UltraItalic";
 	font-size: 2rem;
+}
 
-}
-footer li:nth-child(1) {
-	font-family: "FiraSans-Italic";
-}
+footer li:nth-child(1) { font-family: "FiraSans-Italic"; }
 footer { grid-area: footer; }

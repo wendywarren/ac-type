@@ -39,6 +39,7 @@ body
 header { grid-area: header; }
 .area1 { grid-area: area1; }
 nav { grid-area: nav; }
+footer { grid-area: footer;}
 
 header, .area1, nav, footer
 {
@@ -91,7 +92,7 @@ footer ul
 	#grid-home
 	{
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(min(20rem, 100%), 45rem));
+		grid-template-columns: repeat(auto-fill, minmax(20rem, 45rem));
 		grid-template-areas: "site-id header" "nav nav" "footer footer";
 		gap: 0.5rem;
 		padding: 0;
