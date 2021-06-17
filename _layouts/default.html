@@ -22,12 +22,15 @@
 			<h1>
 				{{ page.title }} 
 			</h1>
-			<h2>
-				{{ page.assignment | replace: '_', ' ' }} 
-			</h2>
-			<div class="deck">
+			<div class="uppercase">
+			{{ page.assignment | replace: '_', ' ' }}
+			</div>
+		    <div class="deck">
 				{{ page.deck }}
 			</div>
+			{% if page.type == 'topic-home' %} 
+			<h2>The Brief</h2>
+			{% endif %}
 			<div class="content">
 				{{ content }}
 			</div>

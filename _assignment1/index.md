@@ -1,28 +1,30 @@
 ---
 layout: default
 type: topic-home
-title: "Fiction Classic"
+title: "Ad Hoc Page Design"
 assignment: "Assignment 1"
 sortorder: 1.0
-deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
+deck: "Ad hoc, or informal grids are created as you sketch your pages. Elements simply align with each other on the page."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
-reference: "https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml"
+reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
 ---
-## The Brief
+Ad hoc, *or informal* grids are created as you sketch your pages. They don't have the rhythmic structure the other types of grids have. There aren't columns. Elements simply align with each other on the page.
 
-Before we can build a whole fiction novel, we need to pitch a design to our client. To that end, we'll design and build a two-page spread that includes one of each of the elements that will be in our final publication.
+[See this example](https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml#ch8-5)
 
-This will include the following considerations:
+## When Do I Use Them?
 
-[Designing our Grid](subpage1.html)
-: We'll design a single-column grid using the Van de Graaf Canon.
+These are best used for single-page designs. We'd never use this type of grid for a whole publication.
 
-[Type Selection](subpage2.html)
-: As is the custom in such publications, we'll work with only one serif typeface. It'll be crucial that it contains a broad variety of glyphs.
+## How do they work?
 
-[Styling Our Type](subpage3.html)
-: This is a lot of the heavy lifting, where attention to detail is vital. We'll style each element our content demands.
+Your page is the canvas you have to work with. Remember that in the west, our eyes travel on the page from the top left to the bottom right. What we want to do is direct the eye more specifically by aligning page elements to each other.
 
-[Putting It All Together](subpage4.html)
-: This is the mechanical work to be done after all the design work is complete. There's little creativity here. This is about assembling all the design elements in an InDesign document.
+Before starting our layout, we create hierarchy for each element using: size, weight, etc... Once each element is styled, we place the most important one thoughtfully on the page. From there, we can place the other elements in order of descending importance.
+
+![Example of Ad Hoc Grids]({{site.url}}/svg/adhoc-grids.svg "Example of Ad Hoc Grids")
+
+In the example above, you can see that the main title logically takes the lead in the layout. The two remaining elements align with it. You can see how, even with so few elements, we've achieved harmony on the page.
+
+It's also obvious that the process of creating a layout in this manner is too tedious for long multi-page publications. That's what the other types of grids are for.

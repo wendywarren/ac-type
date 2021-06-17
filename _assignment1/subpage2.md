@@ -1,7 +1,7 @@
 ---
 layout: default
 type: subpage
-title: "Type Selection"
+title: "Subpage 2"
 assignment: "Assignment 1"
 sortorder: 1.2
 deck: "This is the deck content for this page."

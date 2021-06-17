@@ -1,7 +1,7 @@
 ---
 layout: default
 type: subpage
-title: "Putting It All Together"
+title: "Subpage 4"
 assignment: "Assignment 1"
 sortorder: 1.4
 deck: "This is the deck content for this page."

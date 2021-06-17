@@ -44,6 +44,8 @@ a:active { color: orange; }
 a:focus { outline: 2px solid black; }
 p { max-width: 95%; }
 
+.uppercase { text-transform: uppercase; }
+
 .site-id
 {
 	font-family: "FiraSans-UltraItalic";

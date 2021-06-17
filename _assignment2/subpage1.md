@@ -1,7 +1,7 @@
 ---
 layout: default
-type: subpage
-title: "Subpage 1"
+type: deliverables
+title: "Designing our Grid"
 assignment: "Assignment 2"
 sortorder: 2.1
 deck: "This is the deck content for this page."
