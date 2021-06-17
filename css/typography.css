@@ -43,7 +43,6 @@ a:hover { color: lightgrey; }
 a:active { color: orange; }
 a:focus { outline: 2px solid black; }
 p { max-width: 95%; }
-
 .uppercase { text-transform: uppercase; }
 
 .site-id
@@ -53,7 +52,10 @@ p { max-width: 95%; }
 	padding: 1rem 0 0 1rem;
 }
 
-sup { font-family: "FiraSans-BoldItalic"; }
+.site-id > sup
+{
+	font-family: "FiraSans-BoldItalic";
+}
 
 a.site-id, a:visited.site-id
 {
@@ -65,7 +67,7 @@ a:hover.site-id { color: orange; }
 
 dt
 {
-    font-family: "FiraMono-Medium";
+	font-family: "FiraMono-Medium";
 	margin-top: .5em;
 }
 

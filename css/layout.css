@@ -8,7 +8,7 @@ html
 {
 	overflow-x: hidden;
 	font-size: 100%;
-/* 	background-color: rgba(242, 242, 237, 1); */
+	/* 	background-color: rgba(242, 242, 237, 1); */
 }
 
 body
@@ -39,7 +39,7 @@ body
 header { grid-area: header; }
 .area1 { grid-area: area1; }
 nav { grid-area: nav; }
-footer { grid-area: footer;}
+footer { grid-area: footer; }
 
 header, .area1, nav, footer
 {
@@ -78,6 +78,41 @@ footer ul
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+}
+
+.rubric
+{
+	table-layout: fixed;
+	width: 100%;
+	white-space: nowrap;
+	border-spacing: .25rem;
+}
+
+.rubric th { background: #EBEBEB; }
+
+.column-1
+{
+	width: 15%;
+	text-align: center;
+}
+
+.column-2 { width: 85%; }
+
+.rubric td
+{
+	white-space: nowrap;
+	padding: .25rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	border-bottom: 1px solid silver;
+}
+
+td.topic-row
+{
+	padding: .5rem;
+	border-bottom-color: #000;
+	white-space: normal;
+    font-family: "FiraMono-Medium";
 }
 
 @media only screen and (min-width: 48rem)
