@@ -1,13 +1,28 @@
 ---
 layout: default
 type: topic-home
-title: "Assignment 1"
+title: "Fiction Classic"
 assignment: "Assignment 1"
 sortorder: 1.0
-deck: "This is the deck content for this page."
+deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
+reference: "https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml"
 ---
-Ullamcorper nisl dolor nulla finibus justo mi scelerisque quam fermentum natoque, nascetur libero nullam sapien lobortis curae augue sed habitasse, commodo eros a feugiat nibh proin mollis ligula risus, facilisis pellentesque maximus magna sem mus class elementum posuere.
+## The Brief
 
-Vulputate ullamcorper aliquam fringilla pretium risus id habitant ornare libero accumsan, suscipit sociosqu hendrerit ipsum ac commodo laoreet fermentum mauris, posuere nostra class hac ad tempus pharetra interdum morbi, orci odio natoque lacus tortor justo cursus a consectetur. Sed natoque lectus inceptos tempor egestas porta nulla in, pulvinar enim himenaeos vivamus ad sagittis blandit augue accumsan, fusce euismod mollis curabitur vehicula litora purus adipiscing nunc, hac platea porttitor rhoncus sit sodales montes.
+Before we can build a whole fiction novel, we need to pitch a design to our client. To that end, we'll design and build a two-page spread that includes one of each of the elements that will be in our final publication.
+
+This will include the following considerations:
+
+[Designing our Grid](subpage1.html)
+: We'll design a single-column grid using the Van de Graaf Canon.
+
+[Type Selection](subpage2.html)
+: As is the custom in such publications, we'll work with only one serif typeface. It'll be crucial that it contains a broad variety of glyphs.
+
+[Styling Our Type](subpage3.html)
+: This is a lot of the heavy lifting, where attention to detail is vital. We'll style each element our content demands.
+
+[Putting It All Together](subpage4.html)
+: This is the mechanical work to be done after all the design work is complete. There's little creativity here. This is about assembling all the design elements in an InDesign document.
