@@ -65,7 +65,7 @@ a:hover.site-id { color: orange; }
 
 dt
 {
-	font-weight: 500;
+    font-family: "FiraMono-Medium";
 	margin-top: .5em;
 }
 
@@ -148,7 +148,6 @@ h2
 {
 	font-family: "FiraSans-Regular";
 	font-size: 1.2rem;
-	color: grey;
 }
 
 .area1 p
