@@ -4,7 +4,7 @@ type: subpage
 title: "The Foundational Space"
 assignment: "Assignment 1"
 sortorder: 1.1
-deck: "This is the deck content for this page."
+deck: "The page. The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
