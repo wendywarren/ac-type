@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <html lang="en-ca">
 <head>
@@ -14,7 +14,7 @@
 			{% include course-info.html %} 
 		</div>
 		<div class="cell">
-			{% include about-course.html %}
+			{% include about-course.html %} 
 		</div>
 	</header>
 	<div class="area1">
@@ -23,120 +23,91 @@
 				{{ page.title }} 
 			</h1>
 			<div class="uppercase">
-			{{ page.assignment | replace: '_', ' ' }}
+				{{ page.assignment | replace: '_', ' ' }} 
 			</div>
-		    <div class="deck">
-				{{ page.deck }}
+			<div class="deck">
+				{{ page.deck }} 
 			</div>
 			{% if page.type == 'topic-home' %} 
-			<h2>The Brief</h2>
+			<h2>
+				The Brief 
+			</h2>
+				{% assign allPages = site.assignment1 | sort: 'sortorder' %}
+				{% for item in allPages %}
+				{% if item.type != 'topic-home' %} 
+				<dl>
+					<dt><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></dt>
+						<dd>{{ page.deck }}</dd>
+				</dl>
+				{% endif %}
+				{% endfor %} 
 			{% endif %}
+			{% if page.path contains 'subpage' %} 
 			<div class="content">
-				{{ content }}
+				{{ content }} 
 			</div>
+			{% endif %}
 		</div>
 	</div>
 	<nav>
 		<div class="cell">
 			<h3>
-				{% for pageName in site.assignment1 %} 
-				{% if pageName.url contains 'index' %}
-				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
-				{% endif %}
-				{% endfor %} 
+				{% for pageName in site.assignment1 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 			</h3>
 			<ul>
-				{% assign allPages = site.assignment1 | sort: 'sortorder' %}
-				{% for item in allPages %} 
-				{% if item.type != 'topic-home' %}
+				{% assign allPages = site.assignment1 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %}
-				{% endfor %} 
+				{% endif %} {% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				{% for pageName in site.assignment2 %} 
-				{% if pageName.url contains 'index' %} 
-				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
-				{% endif %}
-				{% endfor %} 
+				{% for pageName in site.assignment2 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 			</h3>
 			<ul>
-				{% assign allPages = site.assignment2 | sort: 'sortorder' %}
-				{% for item in allPages %} 
-				{% if item.type != 'topic-home' %}
+				{% assign allPages = site.assignment2 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %}
-				{% endfor %} 
+				{% endif %} {% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				{% for pageName in site.assignment3 %} 
-				{% if pageName.url contains 'index' %} 
-				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
-				{% endif %}
-				{% endfor %} 
+				{% for pageName in site.assignment3 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 			</h3>
 			<ul>
-				{% assign allPages = site.assignment3 | sort: 'sortorder' %}
-				{% for item in allPages %} 
-				{% if item.type != 'topic-home' %}
+				{% assign allPages = site.assignment3 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %}
-				{% endfor %} 
+				{% endif %} {% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				{% for pageName in site.assignment4 %} 
-				{% if pageName.url contains 'index' %} 
-				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
-				{% endif %}
-				{% endfor %} 
+				{% for pageName in site.assignment4 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 			</h3>
 			<ul>
-				{% assign allPages = site.assignment4 | sort: 'sortorder' %}
-				{% for item in allPages %} 
-				{% if item.type != 'topic-home' %}
+				{% assign allPages = site.assignment4 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %}
-				{% endfor %} 
+				{% endif %} {% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				{% for pageName in site.assignment5 %} 
-				{% if pageName.url contains 'index' %} 
-				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
-				{% endif %}
-				{% endfor %} 
+				{% for pageName in site.assignment5 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 			</h3>
 			<ul>
-				{% assign allPages = site.assignment5 | sort: 'sortorder' %}
-				{% for item in allPages %} 
-				{% if item.type != 'topic-home' %}
+				{% assign allPages = site.assignment5 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %}
-				{% endfor %} 
+				{% endif %} {% endfor %} 
 			</ul>
 		</div>
 		<div class="cell">
 			<h3>
-				{% for pageName in site.assignment6 %} 
-				{% if pageName.url contains 'index' %} 
-				<a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> 
-				{% endif %}
-				{% endfor %} 
+				{% for pageName in site.assignment6 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 			</h3>
 			<ul>
-				{% assign allPages = site.assignment6 | sort: 'sortorder' %}
-				{% for item in allPages %} 
-				{% if item.type != 'topic-home' %}
+				{% assign allPages = site.assignment6 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %}
-				{% endfor %} 
+				{% endif %} {% endfor %} 
 			</ul>
 		</div>
 	</nav>
