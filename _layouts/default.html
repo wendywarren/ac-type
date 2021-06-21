@@ -32,21 +32,11 @@
 			<h2>
 				The Brief 
 			</h2>
-				{% assign allPages = site.assignment1 | sort: 'sortorder' %}
-				{% for item in allPages %}
-				{% if item.type != 'topic-home' %} 
-				<dl>
-					<dt><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></dt>
-						<dd>{{ page.deck }}</dd>
-				</dl>
-				{% endif %}
-				{% endfor %} 
-			{% endif %}
-			{% if page.path contains 'subpage' %} 
+			{% endif %} 
 			<div class="content">
 				{{ content }} 
 			</div>
-			{% endif %}
+
 		</div>
 	</div>
 	<nav>
