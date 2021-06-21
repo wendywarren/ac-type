@@ -13,13 +13,16 @@ This publication will have no photos or graphics to create variety on the page. 
 This will include the following considerations:
 
 [Designing our Grid](subpage1.html)
-: We'll design a single-column grid using the Van de Graaf Canon.
+: The complexity of the grid increases here. We're going to design a multi-column grid.
 
 [Type Selection](subpage2.html)
-: As is the custom in such publications, we'll work with only one serif typeface. It'll be crucial that it contains a broad variety of glyphs.
+: We'll pair two type families -- a serif for the body copy and a sans-serif for the titles.
 
-[Styling Our Type](subpage3.html)
-: This is a lot of the heavy lifting, where attention to detail is vital. We'll style each element our content demands.
+[Type Hierarchy](subpage3.html)
+: A user manual contains chapters, sections and more. Clear hierarchy will be vital to good document organization.
 
-[Putting It All Together](subpage4.html)
-: This is the mechanical work to be done after all the design work is complete. There's little creativity here. This is about assembling all the design elements in an InDesign document.
+[Page Element Design](subpage4.html)
+: The design needs to be consistent across pages. The design of the page elements is yet another ingredient that gets us there.
+
+[Assembly Work](subpage5.html)
+: Now that the design work is complete, we'll assemble our publication using the provided content.
