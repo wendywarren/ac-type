@@ -1,4 +1,4 @@
-body, h1, h2, h3, h4, p, figure, blockquote, dl, dd {
+body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, li {
   margin: 0;
   padding: 0;
 }
@@ -10,35 +10,13 @@ body {
 }
 
 #grid {
-	display: grid;
-	gap: .25rem;
- 	justify-items: stretch;
- 	grid-template-areas:
- 	"site-id"
- 	"course-info"
- 	"assignment"
- 	"assignment"
- 	"assignment"
- 	"assignment"
- 	"item"
- 	"item"
- 	"item"
- 	"item"
- 	"footer"
- 	"footer";
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-gap: 1rem;
 }
 
-.cell1 {grid-area: "site-id";}
-.cell2 {grid-area: "course-info";}
-.cell3 {grid-area: "assignment";}
-.cell4 {grid-area: "item";}
-.cell5 {grid-area: "item";}
-.cell6 {grid-area: "item";}
-.cell7 {grid-area: "item";}
-.cell8 {grid-area: "footer";}
-.cell9 {grid-area: "footer";}
-
-.cell {
+#grid li {
+	list-style-type: none;
 	border: 1px solid silver;
 	padding: 2rem;
 }
@@ -54,6 +32,16 @@ body {
  	"item item"
  	"footer footer";
 }
+
+.cell1 {grid-area: "site-id";}
+.cell2 {grid-area: "course-info";}
+.cell3 {grid-area: "assignment";}
+.cell4 {grid-area: "item";}
+.cell5 {grid-area: "item";}
+.cell6 {grid-area: "item";}
+.cell7 {grid-area: "item";}
+.cell8 {grid-area: "footer";}
+.cell9 {grid-area: "footer";}
 
 }
  */
