@@ -1,5 +1,5 @@
 ---
-layout: site-home
+layout: grid
 type: home
 title: Typography 3
 ---

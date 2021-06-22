@@ -1,0 +1,43 @@
+<html>
+<head>
+	<title>DSN1534 Typography 3</title>
+	<link rel="stylesheet" href="{{site.url}}/css/grid.css" type="text/css" />
+</head>
+<body id="grid">
+<div class="site-id">
+	Site ID 
+</div>
+<div class="course-info">
+	Course Info 
+</div>
+<ul class="assignment">
+	{% assign allPages = site.assignment1 | sort: 'sortorder' %}
+	{% for item in allPages %} {% if item.type != 'topic-home' %} 
+	<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
+	{% endif %}
+	{% endfor %} 
+</ul>
+<ul class="assignment">
+	{% assign allPages = site.assignment2 | sort: 'sortorder' %}
+	{% for item in allPages %} {% if item.type != 'topic-home' %} 
+	<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
+	{% endif %}
+	{% endfor %} 
+</ul>
+<ul class="item">
+	<li>Item 1</li>
+	<li>Item 2</li>
+	<li>Item 3</li>
+	<li>Item 4</li>
+</ul>
+<ul class="item">
+	<li>Item 1</li>
+	<li>Item 2</li>
+	<li>Item 3</li>
+	<li>Item 4</li>
+</ul>
+<footer>
+	Footer 
+</footer>
+</body>
+</html>
