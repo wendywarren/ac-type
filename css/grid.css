@@ -12,36 +12,30 @@ body
 	display: grid;
 	grid-gap: 1rem;
 	grid-template-columns: repeat(auto-fill, minmax(min(15rem, 100%), 1fr));
-	grid-template-areas: "site-id" "course-info" "assignment" "item" "footer";
 }
 
 .site-id
 {
-	grid-area: site-id;
 	background-color: grey;
 }
 
 .course-info
 {
-	grid-area: course-info;
 	background-color: magenta;
 }
 
 .assignment
 {
-	grid-area: assignment;
 	background-color: cyan;
 }
 
 .item
 {
-	grid-area: item;
 	background-color: limegreen;
 }
 
 footer
 {
-	grid-area: footer;
 	background-color: red;
 }
 
