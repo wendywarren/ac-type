@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Styling Our Type"
 assignment: "Assignment 2"

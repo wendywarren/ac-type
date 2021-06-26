@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: deliverables
 title: "Designing our Grid"
 assignment: "Assignment 2"

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Colour Selection"
 assignment: "Assignment 4"

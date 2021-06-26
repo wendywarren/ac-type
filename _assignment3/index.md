@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: topic-home
 title: "Manual Design"
 assignment: "Assignment 3"

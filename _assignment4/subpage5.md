@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Page Element Design"
 assignment: "Assignment 4"

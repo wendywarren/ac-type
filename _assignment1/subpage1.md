@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "The Foundational Space"
 assignment: "Assignment 1"

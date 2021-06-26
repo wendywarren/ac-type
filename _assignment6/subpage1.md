@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Family Pairing"
 assignment: "Assignment 6"

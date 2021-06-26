@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Design File Structure"
 assignment: "Assignment 5"

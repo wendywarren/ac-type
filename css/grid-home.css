@@ -159,18 +159,6 @@ body
 @media only screen and (min-width: 90em)
 {
 
-	#grid
-	{
-		grid-template-columns: 1fr 1fr 1fr 1fr;
-		grid-template-areas:
-		'site-id1 . course-info1 course-info2'
-		'content . assignment1 assignment2'
-		'. .       assignment3 assignment4'
-		'. .       assignment5 assignment6'
-		'. .       item1 item2'
-		'. .       item3 item4'
-		'footer1 footer2 footer3 footer4';
-	}
 	.site-id1
 		{
 			font-size: 7rem;

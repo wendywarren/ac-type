@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: deliverables
 title: "Deliverables"
 assignment: "Assignment 1"

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Typographer of the Week"
 assignment: "Assignment 6"

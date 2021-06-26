@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Assembly Work"
 assignment: "Assignment 3"

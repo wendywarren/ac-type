@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "The Type Industry"
 assignment: "Assignment 6"

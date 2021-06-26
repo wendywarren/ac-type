@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Putting It All Together"
 assignment: "Assignment 2"

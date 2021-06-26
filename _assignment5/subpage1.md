@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Design Transposition"
 assignment: "Assignment 5"

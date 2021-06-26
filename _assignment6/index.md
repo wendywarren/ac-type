@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: topic-home
 title: "Micro-Assignments"
 assignment: "Assignment 6"

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Build Our Page"
 assignment: "Assignment 1"

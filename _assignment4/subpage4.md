@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: subpage
 title: "Type Hierarchy"
 assignment: "Assignment 4"

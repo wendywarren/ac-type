@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: topic-home
 title: "Modular Pages"
 assignment: "Assignment 4"

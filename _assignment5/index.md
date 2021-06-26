@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: topic-home
 title: "Online Manual"
 assignment: "Assignment 5"

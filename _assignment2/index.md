@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: topic-home
 title: "Fiction Classic"
 assignment: "Assignment 2"
