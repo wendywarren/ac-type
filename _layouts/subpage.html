@@ -17,6 +17,26 @@
 	<div class="course-info2">
 		{% include course-info2.html%} 
 	</div>
+	<div class="content">
+		<h1>
+			{{ page.title }} 
+		</h1>
+		<div class="uppercase">
+			{{ page.assignment | replace: '_', ' ' }} 
+		</div>
+		<div class="deck">
+			{{ page.deck }} 
+		</div>
+		{% if page.type == 'topic-home' %} 
+		<h2>
+			The Brief 
+		</h2>
+		{% endif %} 
+		<div class="content">
+			{{ content }} 
+		</div>
+		{{ content }} 
+	</div>
 	<div class="assignment assignment1">
 		<h3>
 			{% for pageName in site.assignment1 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
@@ -79,22 +99,22 @@
 	</div>
 	<div class="item item1">
 		<h4>
-			Item One
+			Item One 
 		</h4>
 	</div>
 	<div class="item item2">
 		<h4>
-			Item Two
+			Item Two 
 		</h4>
 	</div>
 	<div class="item item3">
 		<h4>
-			Item Three
+			Item Three 
 		</h4>
 	</div>
 	<div class="item item4">
 		<h4>
-			Item Four
+			Item Four 
 		</h4>
 	</div>
 	<div class="footer1">

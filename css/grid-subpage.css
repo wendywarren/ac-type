@@ -35,6 +35,7 @@ body
 	'site-id1'
 	'course-info1'
 	'course-info2'
+	'content'
 	'assignment1'
 	'assignment2'
 	'assignment3'
@@ -54,6 +55,7 @@ body
 .site-id1 { grid-area: site-id1; }
 .course-info1 { grid-area: course-info1; }
 .course-info2 { grid-area: course-info2; }
+.content { grid-area: content; }
 .assignment1 { grid-area: assignment1; }
 .assignment2 { grid-area: assignment2; }
 .assignment3 { grid-area: assignment3; }
@@ -86,6 +88,7 @@ body
 		'site-id1 .'
 		'course-info1 .'
 		'course-info2 .'
+		'content .'
 		'assignment1 assignment2'
 		'assignment3 assignment4'
 		'assignment5 assignment6'
@@ -94,9 +97,14 @@ body
 		'footer1 footer2'
 		'footer3 footer4';
 	}
-	body { border-top: 6px solid navy; }
+	body { border-top: 6px solid red; }
 	.course-info1 { grid-area: 2 / 1 / auto / span 2; }
 	.course-info2 { grid-area: 3 / 1 / auto / span 2; }
+	.content
+	{
+		grid-column-start: 1;
+		grid-column-end: -1;
+	}
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
@@ -108,10 +116,11 @@ body
 		grid-template-columns: 1fr 1fr 1fr;
 		grid-template-areas:
 		'site-id1 course-info1 course-info2'
+		'content . .'
 		'assignment1 assignment2 assignment3'
 		'assignment4 assignment5 assignment6'
 		'item1 item2 item3'
-		'item4 . .'
+		'item4 item5 item6'
 		'footer1 footer2 footer3'
 		'footer4 . .';
 	}
@@ -121,9 +130,9 @@ body
 		grid-area: 1 / 1;
 		font-size: 5rem;
 	}
-	.course-info1 { grid-area: 1 / 2; }
+	.course-info1 { grid-area: 1 / 2 / 2 / 2; }
 	.course-info2 { grid-area: 1 / 3; }
-
+	.content { grid-area: 3 / 1 / 2 / -1; }
 
 	.footer2 { border-top: 2px solid silver; }
 	body { border-top: 6px solid orange; }
@@ -138,9 +147,11 @@ body
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 		grid-template-areas:
 		'site-id1 . course-info1 course-info2'
-		'assignment1 assignment2 item1 item2'
-		'assignment3 assignment4 item3 item4'
-		'assignment5 assignment6 . .'
+		'content .  assignment1 assignment2'
+		'. .        assignment3 assignment4'
+		'. .        assignment5 assignment6'
+		'. .        item1 item2'
+		'. .        item3 item4'
 		'footer1 footer2 footer3 footer4';
 	}
 
@@ -150,6 +161,9 @@ body
 	.footer3, .footer4 { border-top: 2px solid silver; }
 	.course-info1 { grid-area: 1 / 3; }
 	.course-info2 { grid-area: 1 / 4; }
+	.content {
+		grid-area: 2 / 1 / 7 / 3;
+	}
 
 	body { border-top: 6px solid limegreen; }
 }
@@ -164,6 +178,7 @@ body
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 		grid-template-areas:
 		'site-id1 . course-info1 course-info2'
+		'content'
 		'assignment1 assignment2 item1 item2'
 		'assignment3 assignment4 item3 item4'
 		'assignment5 assignment6 . .'
