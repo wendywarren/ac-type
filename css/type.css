@@ -23,6 +23,14 @@
   src: url("../fonts/FiraMono-Medium.woff") format("woff");
 }
 
+html
+{
+	font-size: 100%;
+	line-height: 1.3;
+	color: #000000;
+	font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
+}
+
 a, a:link
 {
 	color: black;
@@ -33,20 +41,16 @@ a:visited { color: rgba(60, 60, 60, 1); }
 a:hover { color: lightgrey; }
 a:active { color: orange; }
 a:focus { outline: 2px solid black; }
-p { max-width: 95%; }
 .uppercase { text-transform: uppercase; }
-
 
 .site-id1, .footer1
 {
 	font-weight: normal;
 	font-family: "FiraSans-UltraItalic";
-	padding: .5rem;
-	font-size: 3rem;
+	font-size: 6rem;
 }
 
 .footer1 { font-size: 1.5rem; }
-
 .site-id > sup { font-family: "FiraSans-MediumItalic"; }
 
 a.site-id, a:visited.site-id
@@ -56,8 +60,15 @@ a.site-id, a:visited.site-id
 }
 
 a:hover.site-id { color: orange; }
-
 .course-info1, .course-info2 { font-size: .875rem; }
+
+.course-info2 h3
+{
+	font-size: 0;
+	line-height: 0;
+	margin: 0 0 1rem 0;
+	padding: 0;
+}
 
 h1
 {
@@ -71,14 +82,23 @@ h2
 	font-family: "FiraSans-Medium";
 	font-size: 1.2rem;
 }
-.course-info1 h3, .course-info2 h3, .assignment h3, .item h4 {
+
+.assignment ul, .item ul, .footer-item
+{
+	margin: 0;
+	padding: 0;
+}
+
+#grid li { list-style-type: none; }
+
+.course-info1 h3, .assignment h3, .item h4
+{
 	border-bottom: 2px solid rgba(150, 150, 150, 1);
 	padding-bottom: 1rem;
 	margin-bottom: .875rem;
 	line-height: 1.3rem;
 	font-weight: normal;
 	font-family: "FiraSans-Medium";
-
 }
 
 .assignment h3::after
@@ -103,6 +123,7 @@ em
 	color: rgba(100, 100, 100, 1);
 	max-width: 95%;
 }
+
 dt
 {
 	font-family: "FiraSans-Medium";
@@ -129,4 +150,45 @@ footer div:nth-child(1)
 	font-weight: normal;
 	font-family: "FiraSans-UltraItalic";
 	font-size: 2rem;
+}
+
+.footer2, .footer3, .footer4 li:nth-child(1) { font-family: "FiraSans-Italic"; }
+
+/* * * * * * * * * * Media Queries * * * * * * * * * */
+/* * * * * * * * * * 400px – 608px * * * * * * * * * */
+
+@media only screen and (min-width: 25em)
+{
+	
+}
+
+/* * * * * * * * * * 608px – 960px * * * * * * * * * */
+
+@media only screen and (min-width: 42em)
+{
+	.course-info2 h3
+	{
+		border-bottom: 2px solid rgba(150, 150, 150, 1);
+		padding-bottom: 1rem;
+		margin-bottom: .875rem;
+		line-height: 1.3rem;
+		font-weight: normal;
+		font-family: "FiraSans-Medium";
+	}
+	
+	.site-id1 { font-size: 6rem; }
+}
+
+/* * * * * * * * * * 960px – 1440px * * * * * * * * * */
+
+@media only screen and (min-width: 60em)
+{
+	.site-id1 { font-size: 7rem; }
+}
+
+/* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
+
+@media only screen and (min-width: 90em)
+{
+
 }

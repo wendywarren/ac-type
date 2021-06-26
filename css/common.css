@@ -1,0 +1,52 @@
+body { padding: 0 .5rem 0 .5rem; }
+
+#grid
+{
+	display: grid;
+	max-width: 90rem;
+	margin: 0 auto;
+}
+
+img
+{
+	border: 1px solid rgba(100, 100, 100, 1);
+	display: block;
+	margin: 1rem auto;
+	max-width: 100%;
+}
+
+.link-icon { fill: silver; }
+:root { --color-name: #ff00ff; }
+.footer1 { border-top: 2px solid silver; }
+body { border-top: 6px solid silver; }
+
+/* * * * * * * * * * Media Queries * * * * * * * * * */
+/* * * * * * * * * * 400px – 608px * * * * * * * * * */
+
+@media only screen and (min-width: 25em)
+{
+	body { border-top: 6px solid olive; }
+	.footer2 { border-top: 2px solid silver; }
+}
+
+/* * * * * * * * * * 608px – 960px * * * * * * * * * */
+
+@media only screen and (min-width: 42em)
+{
+	body { border-top: 6px solid maroon; }
+	.footer3, .footer4 { border-top: 2px solid silver; }
+}
+
+/* * * * * * * * * * 960px – 1440px * * * * * * * * * */
+
+@media only screen and (min-width: 60em)
+{
+	body { border-top: 6px solid magenta; }
+}
+
+/* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
+
+@media only screen and (min-width: 90em)
+{
+	body { border-top: 6px solid limegreen; }
+}
