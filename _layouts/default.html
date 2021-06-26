@@ -11,12 +11,12 @@
 		&nbsp; 
 	</div>
 	<div class="course-info1">
-		{% include course-info.html %} 
+		{% include course-info1.html %} 
 	</div>
 	<div class="course-info2">
-		{% include about-course.html%} 
+		{% include course-info2.html%} 
 	</div>
-	<div class="assignment1">
+	<div class="assignment assignment1">
 		<h3>
 			{% for pageName in site.assignment1 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 		</h3>
@@ -26,7 +26,7 @@
 			{% endif %} {% endfor %} 
 		</ul>
 	</div>
-	<div class="assignment2">
+	<div class="assignment assignment2">
 		<h3>
 			{% for pageName in site.assignment2 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 		</h3>
@@ -36,7 +36,7 @@
 			{% endif %} {% endfor %} 
 		</ul>
 	</div>
-	<div class="assignment3">
+	<div class="assignment assignment3">
 		<h3>
 			{% for pageName in site.assignment3 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 		</h3>
@@ -46,7 +46,7 @@
 			{% endif %} {% endfor %} 
 		</ul>
 	</div>
-	<div class="assignment4">
+	<div class="assignment assignment4">
 		<h3>
 			{% for pageName in site.assignment4 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 		</h3>
@@ -56,7 +56,7 @@
 			{% endif %} {% endfor %} 
 		</ul>
 	</div>
-	<div class="assignment5">
+	<div class="assignment assignment5">
 		<h3>
 			{% for pageName in site.assignment5 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 		</h3>
@@ -66,7 +66,7 @@
 			{% endif %} {% endfor %} 
 		</ul>
 	</div>
-	<div class="assignment6">
+	<div class="assignment assignment6">
 		<h3>
 			{% for pageName in site.assignment6 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 		</h3>
@@ -76,30 +76,19 @@
 			{% endif %} {% endfor %} 
 		</ul>
 	</div>
-	<ul class="item1">
-		<li>Item 1</li>
-		<li>Item 2</li>
-		<li>Item 3</li>
-		<li>Item 4</li>
-	</ul>
-	<ul class="item2">
-		<li>Item 1</li>
-		<li>Item 2</li>
-		<li>Item 3</li>
-		<li>Item 4</li>
-	</ul>
-	<ul class="item3">
-		<li>Item 1</li>
-		<li>Item 2</li>
-		<li>Item 3</li>
-		<li>Item 4</li>
-	</ul>
-	<ul class="item4">
-		<li>Item 1</li>
-		<li>Item 2</li>
-		<li>Item 3</li>
-		<li>Item 4</li>
-	</ul>
+	
+	<div class="item item1">
+		<h4>Item One</h4>
+	</div>
+	<div class="item item2">
+		<h4>Item Two</h4>
+	</div>
+	<div class="item item3">
+		<h4>Item Three</h4>
+	</div>
+	<div class="item item4">
+		<h4>Item Four</h4>
+	</div>
 	<div class="footer1">
 		{% include footer1.html %} 
 	</div>
