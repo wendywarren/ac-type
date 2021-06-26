@@ -1,0 +1,132 @@
+@font-face {
+  font-family: FiraSans-Regular;
+  src: url("../fonts/FiraSans-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: FiraSans-Italic;
+  src: url("../fonts/FiraSans-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: FiraSans-Medium;
+  src: url("../fonts/FiraSans-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: FiraSans-MediumItalic;
+  src: url("../fonts/FiraSans-MediumItalic.woff") format("woff");
+}
+@font-face {
+  font-family: FiraSans-UltraItalic;
+  src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
+}
+@font-face {
+  font-family: FiraMono-Medium;
+  src: url("../fonts/FiraMono-Medium.woff") format("woff");
+}
+
+a, a:link
+{
+	color: black;
+	text-decoration-color: blue;
+}
+
+a:visited { color: rgba(60, 60, 60, 1); }
+a:hover { color: lightgrey; }
+a:active { color: orange; }
+a:focus { outline: 2px solid black; }
+p { max-width: 95%; }
+.uppercase { text-transform: uppercase; }
+
+
+.site-id1, .footer1
+{
+	font-weight: normal;
+	font-family: "FiraSans-UltraItalic";
+	padding: .5rem;
+	font-size: 3rem;
+}
+
+.footer1 { font-size: 1.5rem; }
+
+.site-id > sup { font-family: "FiraSans-MediumItalic"; }
+
+a.site-id, a:visited.site-id
+{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover.site-id { color: orange; }
+
+.course-info1, .course-info2 { font-size: .875rem; }
+
+h1
+{
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+}
+
+h2
+{
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+	font-size: 1.2rem;
+}
+.course-info1 h3, .course-info2 h3, .assignment h3, .item h4 {
+	border-bottom: 2px solid rgba(150, 150, 150, 1);
+	padding-bottom: 1rem;
+	margin-bottom: .875rem;
+	line-height: 1.3rem;
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+
+}
+
+.assignment h3::after
+{
+	content: "\2197";
+	font-size: 1.2rem;
+	color: rgba(200, 200, 200, 1);
+	text-decoration: none;
+}
+
+em
+{
+	font-style: normal;
+	font-family: "FiraSans-Italic";
+}
+
+.deck
+{
+	font-size: 1.2rem;
+	font-family: "FiraSans-Italic";
+	margin-bottom: 1rem;
+	color: rgba(100, 100, 100, 1);
+	max-width: 95%;
+}
+dt
+{
+	font-family: "FiraSans-Medium";
+	margin-top: .5em;
+}
+
+dd
+{
+	margin-bottom: .25em;
+	margin-left: 2em;
+}
+
+code
+{
+	background: #ededed;
+	font-family: "FiraMono-Medium";
+	padding: .2em .5rem;
+	border-radius: 4px;
+	border: 1px solid lightgrey;
+}
+
+footer div:nth-child(1)
+{
+	font-weight: normal;
+	font-family: "FiraSans-UltraItalic";
+	font-size: 2rem;
+}

@@ -1,7 +1,9 @@
 <html>
 <head>
-	{% include head.html %}
-	<link rel="stylesheet" href="{{site.url}}/css/grid-home.css" type="text/css" />
+	{% include head.html %} 
+	<link rel="stylesheet" href="{{site.url}}/css/reset.css" type="text/css" />
+	<link rel="stylesheet" href="{{site.url}}/css/main.css" type="text/css" />
+	<link rel="stylesheet" href="{{site.url}}/css/elements.css" type="text/css" />
 </head>
 <body>
 <div id="grid">
@@ -77,18 +79,25 @@
 			{% endif %} {% endfor %} 
 		</ul>
 	</div>
-	
 	<div class="item item1">
-		<h4>Item One</h4>
+		<h4>
+			Item One
+		</h4>
 	</div>
 	<div class="item item2">
-		<h4>Item Two</h4>
+		<h4>
+			Item Two
+		</h4>
 	</div>
 	<div class="item item3">
-		<h4>Item Three</h4>
+		<h4>
+			Item Three
+		</h4>
 	</div>
 	<div class="item item4">
-		<h4>Item Four</h4>
+		<h4>
+			Item Four
+		</h4>
 	</div>
 	<div class="footer1">
 		{% include footer1.html %} 

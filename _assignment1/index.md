@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 type: topic-home
 title: "Ad Hoc Page Design"
 assignment: "Assignment 1"
