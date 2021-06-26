@@ -5,8 +5,11 @@
 </head>
 <body>
 <div id="grid">
-	<div class="site-id">
+	<div class="site-id1">
 		<a href="{{site.url}}" class="site-id">Type<sup>3</sup></a> 
+	</div>
+	<div class="site-id2">
+		&nbsp;
 	</div>
 	<div class="course-info1">
 		{% include course-info.html %} 
@@ -14,32 +17,32 @@
 	<div class="course-info2">
 		{% include about-course.html%} 
 	</div>
-	<ul class="assignment assignment1">
+	<ul class="assignment1">
 		{% assign allPages = site.assignment1 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %} {% endfor %} 
 	</ul>
-	<ul class="assignment assignment2">
+	<ul class="assignment2">
 		{% assign allPages = site.assignment2 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %} {% endfor %} 
 	</ul>
-	<ul class="assignment assignment3">
+	<ul class="assignment3">
 		{% assign allPages = site.assignment3 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %} {% endfor %} 
 	</ul>
-	<ul class="assignment assignment4">
+	<ul class="assignment4">
 		{% assign allPages = site.assignment4 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %} {% endfor %} 
 	</ul>
-	<ul class="assignment assignment5">
+	<ul class="assignment5">
 		{% assign allPages = site.assignment5 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %} {% endfor %} 
 	</ul>
-	<ul class="assignment assignment6">
+	<ul class="assignment6">
 		{% assign allPages = site.assignment6 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
 		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %} {% endfor %} 
@@ -68,14 +71,12 @@
 		<li>Item 3</li>
 		<li>Item 4</li>
 	</ul>
-	<footer>
-		<div class="footer1">
-			{% include footer1.html %} 
-		</div>
-		<div class="footer2">
-			{% include footer1.html %} 
-		</div>
-	</footer>
+	<div class="footer1">
+		{% include footer1.html %} 
+	</div>
+	<div class="footer2">
+		{% include footer2.html %} 
+	</div>
 </div>
 </body>
 </html>
