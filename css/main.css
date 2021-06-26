@@ -36,7 +36,12 @@ body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, li
 	padding: 0;
 }
 
-body { font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif; }
+body
+{
+	font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
+	padding: 0 .5rem 0 .5rem;
+}
+
 
 a, a:link
 {
@@ -135,9 +140,9 @@ h2
 .footer3 { grid-area: footer3; }
 .footer4 { grid-area: footer4; }
 
-/* extra temp stuff */
-#grid > * { padding: 0 .5rem 0 .5rem; }
 #grid li { list-style-type: none; }
+.footer1 { border-top: 2px solid silver; }
+
 .site-id1 { background-color: olive; }
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
@@ -190,6 +195,8 @@ h2
 	font-size: 4rem;
 }
 
+.footer2 { border-top: 2px solid silver; }
+
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
@@ -212,6 +219,7 @@ h2
 		background-color: orange;
 		font-size: 6rem;
 	}
+	.footer3, .footer4 { border-top: 2px solid silver; }
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
