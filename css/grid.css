@@ -39,7 +39,9 @@ body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, li
 	'item3'
 	'item4'
 	'footer1'
-	'footer2';
+	'footer2'
+	'footer3'
+	'footer4';
 }
 
 .site-id1 { grid-area: site-id1; }
@@ -57,11 +59,13 @@ body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, li
 .item4 { grid-area: item4; }
 .footer1 { grid-area: footer1; }
 .footer2 { grid-area: footer2; }
+.footer3 { grid-area: footer3; }
+.footer4 { grid-area: footer4; }
 
 /* extra temp stuff */
 #grid > * { padding: 1rem; }
 #grid li { list-style-type: none; }
-.site-id1, .site-id2 { background-color: olive; }
+.site-id1 { background-color: olive; }
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 400px – 608px * * * * * * * * * */
@@ -74,7 +78,6 @@ body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, li
 		grid-template-columns: 1fr;
 		grid-template-areas:
 		'site-id1'
-
 		'course-info1'
 		'course-info2'
 		'assignment1 assignment2'
@@ -82,9 +85,10 @@ body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, li
 		'assignment5 assignment6'
 		'item1 item2'
 		'item3 item4'
-		'footer1 footer2';
+		'footer1 footer2'
+		'footer3 footer4';
 	}
-	.site-id1, .site-id2 { background-color: maroon ; }
+	.site-id1 { background-color: red ; }
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
@@ -95,16 +99,19 @@ body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, li
 	{
 		grid-template-columns: 1fr 1fr;
 		grid-template-areas:
-		'site-id1 site-id2'
+		'site-id1'
 		'course-info1 course-info2'
 		'assignment1 assignment2'
 		'assignment3 assignment4'
 		'assignment5 assignment6'
 		'item1 item2'
 		'item3 item4'
-		'footer1 footer2';
+		'footer1 footer2'
+		'footer3 footer4';
 	}
-.site-id1, .site-id2 { background-color: silver; }
+
+	.site-id1 { background-color: silver;
+				grid-area: 1 / 1 / auto / span 2; }
 
 }
 
@@ -116,13 +123,14 @@ body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, li
 	{
 		grid-template-columns: 1fr 1fr 1fr 1fr ;
 		grid-template-areas:
-		'site-id1 site-id2 course-info1 course-info2'
+		'site-id1 . course-info1 course-info2'
 		'assignment1 assignment2 item1 item2'
 		'assignment3 assignment4 item3 item4'
 		'assignment5 assignment6 . .'
-		'footer1 . footer2 .';
+		'footer1 footer2 footer3 footer4';
 	}
-	.site-id1, .site-id2 { background-color: orange; }
+
+	.site-id1 { background-color: orange; }
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
