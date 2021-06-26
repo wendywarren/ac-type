@@ -1,67 +1,5 @@
-@font-face {
-  font-family: FiraSans-Regular;
-  src: url("../fonts/FiraSans-Regular.woff") format("woff");
-}
-@font-face {
-  font-family: FiraSans-Italic;
-  src: url("../fonts/FiraSans-Italic.woff") format("woff");
-}
-@font-face {
-  font-family: FiraSans-Medium;
-  src: url("../fonts/FiraSans-Medium.woff") format("woff");
-}
-@font-face {
-  font-family: FiraSans-MediumItalic;
-  src: url("../fonts/FiraSans-MediumItalic.woff") format("woff");
-}
-@font-face {
-  font-family: FiraSans-UltraItalic;
-  src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
-}
-@font-face {
-  font-family: FiraMono-Medium;
-  src: url("../fonts/FiraMono-Medium.woff") format("woff");
-}
 
-html
-{
-	font-size: 100%;
-	line-height: 1.5;
-	color: #000000;
-}
 
-body { font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif; }
-
-a, a:link
-{
-	color: black;
-	text-decoration-color: blue;
-}
-
-a:visited { color: rgba(60, 60, 60, 1); }
-a:hover { color: lightgrey; }
-a:active { color: orange; }
-a:focus { outline: 2px solid black; }
-p { max-width: 95%; }
-.uppercase { text-transform: uppercase; }
-
-.site-id
-{
-	font-weight: normal;
-	font-family: "FiraSans-UltraItalic";
-	font-size: 8rem;
-	padding: 1rem 0 0 1rem;
-}
-
-.site-id > sup { font-family: "FiraSans-MediumItalic"; }
-
-a.site-id, a:visited.site-id
-{
-	text-decoration: none;
-	color: black;
-}
-
-a:hover.site-id { color: orange; }
 
 dt
 {
@@ -137,7 +75,7 @@ header h3
 
 }
 
-header { font-size: .875rem; }
+
 
 .cell ul
 {
@@ -146,27 +84,12 @@ header { font-size: .875rem; }
 	margin-top: 1rem;
 }
 
-h1
-{
-	font-weight: normal;
-	font-family: "FiraSans-Medium";
-}
-
-h2
-{
-	font-weight: normal;
-	font-family: "FiraSans-Medium";
-	font-size: 1.2rem;
-}
-
 .area1 p
 {
 	padding: 0;
 	margin: 0;
 	padding-bottom: 1rem;
 }
-
-footer .site-id { font-size: 2rem; }
 
 footer div:nth-child(1)
 {
