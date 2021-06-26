@@ -1,141 +1,141 @@
-/* color: rgba(255, 133, 0, 1);
-color: rgba(100, 100, 100, 1);
- */
-
-* { box-sizing: border-box; }
-
 html
 {
-	overflow-x: hidden;
 	font-size: 100%;
-	/* 	background-color: rgba(242, 242, 237, 1); */
+	line-height: 1.3;
 }
 
 body
 {
-	max-width: 90rem;
-	margin: 0 auto;
-	padding: .5rem;
-	border-top: 0.5rem solid #000;
-	padding-top: 1rem;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
-#grid, #grid-home
+
+body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, li
 {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(min(30rem, 100%), 1fr));
-	gap: 0.5rem;
-}
-
-#grid { grid-template-areas: "site-id" "header" "area1" "nav" "footer"; }
-#grid-home { grid-template-areas: "site-id" "header" "nav" "footer"; }
-header { grid-area: header; }
-.area1 { grid-area: area1; }
-nav { grid-area: nav; }
-footer { grid-area: footer; }
-
-header, .area1, nav, footer
-{
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: flex-start;
-	align-items: flex-start;
-	align-content: start;
-}
-
-header .cell:nth-child(1) {margin-right: 1rem;}
-
-.cell
-{
-	flex-shrink: 1;
-	flex-grow: 1;
-	flex-basis: 14rem;
-	margin: 0 1rem 1rem 0;
-}
-
-footer
-{
-	border-top: 4px solid silver;
-	margin: 1rem 0 1rem 0;
-	padding-top: 1rem;
-}
-
-footer div
-{
-	padding: .5rem;
-	flex: 1 2 auto;
-	flex-basis: 10rem;
-	min-width: 18rem;
-}
-
-footer ul
-{
-	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
 
-.rubric
+#grid
 {
-	table-layout: fixed;
-	width: 100%;
-	white-space: nowrap;
-	border-spacing: .25rem;
+	display: grid;
+	max-width: 90rem;
+	margin: 0 auto;
+	grid-template-columns: 1fr;
+	grid-template-columns: auto;
+	grid-gap: 1rem;
+	grid-template-areas:
+	'site-id1'
+	'course-info1'
+	'course-info2'
+	'assignment1'
+	'assignment2'
+	'assignment3'
+	'assignment4'
+	'assignment5'
+	'assignment6'
+	'item1'
+	'item2'
+	'item3'
+	'item4'
+	'footer1'
+	'footer2'
+	'footer3'
+	'footer4';
 }
 
-.rubric th { background: #EBEBEB; }
+.site-id1 { grid-area: site-id1; }
+.course-info1 { grid-area: course-info1; }
+.course-info2 { grid-area: course-info2; }
+.assignment1 { grid-area: assignment1; }
+.assignment2 { grid-area: assignment2; }
+.assignment3 { grid-area: assignment3; }
+.assignment4 { grid-area: assignment4; }
+.assignment5 { grid-area: assignment5; }
+.assignment6 { grid-area: assignment6; }
+.item1 { grid-area: item1; }
+.item2 { grid-area: item2; }
+.item3 { grid-area: item3; }
+.item4 { grid-area: item4; }
+.footer1 { grid-area: footer1; }
+.footer2 { grid-area: footer2; }
+.footer3 { grid-area: footer3; }
+.footer4 { grid-area: footer4; }
 
-.column-1
+/* extra temp stuff */
+#grid > * { padding: 1rem; }
+#grid li { list-style-type: none; }
+.site-id1 { background-color: olive; }
+
+/* * * * * * * * * * Media Queries * * * * * * * * * */
+/* * * * * * * * * * 400px – 608px * * * * * * * * * */
+
+@media only screen and (min-width: 25em)
 {
-	width: 15%;
-	text-align: center;
-}
 
-.column-2 { width: 85%; }
-
-.rubric td
-{
-	white-space: nowrap;
-	padding: .25rem;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	border-bottom: 1px solid silver;
-}
-
-td.topic-row
-{
-	padding: .5rem;
-	border-bottom-color: #000;
-	white-space: normal;
-	font-family: "FiraMono-Medium";
-}
-
-@media only screen and (min-width: 48rem)
-{
-	#grid, #grid-home
+	#grid
 	{
-		grid-template-columns: repeat(auto-fill, minmax(20rem, 45rem));
-		display: grid;
-		gap: 0.5rem;
+		grid-template-columns: 1fr;
+		grid-template-areas:
+		'site-id1'
+		'course-info1'
+		'course-info2'
+		'assignment1 assignment2'
+		'assignment3 assignment4'
+		'assignment5 assignment6'
+		'item1 item2'
+		'item3 item4'
+		'footer1 footer2'
+		'footer3 footer4';
 	}
-	
-	#grid { grid-template-areas: "site-id header" "area1 nav" "footer footer"; }
-	#grid-home { grid-template-areas: "site-id header" "nav nav" "footer footer"; }
-	
-	nav
+	.site-id1 { background-color: red ; }
+}
+
+/* * * * * * * * * * 608px – 960px * * * * * * * * * */
+
+@media only screen and (min-width: 38em)
+{
+	#grid
 	{
-		display: flex;
-		flex-flow: row wrap;
-		justify-content: flex-start;
-		align-items: flex-start;
-		align-content: start;
+		grid-template-columns: 1fr 1fr;
+		grid-template-areas:
+		'site-id1 .'
+		'course-info1 course-info2'
+		'assignment1 assignment2'
+		'assignment3 assignment4'
+		'assignment5 assignment6'
+		'item1 item2'
+		'item3 item4'
+		'footer1 footer2'
+		'footer3 footer4';
 	}
-	
-	nav .cell
+
+	.site-id1 { background-color: silver;
+				grid-area: 1 / 1 / auto / span 2; }
+
+}
+
+/* * * * * * * * * * 960px – 1440px * * * * * * * * * */
+
+@media only screen and (min-width: 60em)
+{
+	#grid
 	{
-		flex-shrink: 1;
-		flex-grow: 1;
-		margin: 0 1rem 1rem 0;
-		max-width: 16.75rem;
+		grid-template-columns: 1fr 1fr 1fr 1fr ;
+		grid-template-areas:
+		'site-id1 . course-info1 course-info2'
+		'assignment1 assignment2 item1 item2'
+		'assignment3 assignment4 item3 item4'
+		'assignment5 assignment6 . .'
+		'footer1 footer2 footer3 footer4';
 	}
+
+	.site-id1 { background-color: orange; }
+}
+
+/* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
+
+@media only screen and (min-width: 90em)
+{
+	.site-id { background-color: navy; }
 }

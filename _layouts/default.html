@@ -1,108 +1,87 @@
-<!DOCTYPE html>
-<html lang="en-ca">
+<html>
 <head>
 	{% include head.html %} 
 </head>
 <body>
 <div id="grid">
-	<div>
+	<div class="site-id1">
 		<a href="{{site.url}}" class="site-id">Type<sup>3</sup></a> 
 	</div>
-	<header>
-		<div class="cell">
-			{% include course-info.html %} 
-		</div>
-		<div class="cell">
-			{% include about-course.html %} 
-		</div>
-	</header>
-	<div class="area1">
-		<div class="cell">
-			<h1>
-				{{ page.title }} 
-			</h1>
-			<div class="uppercase">
-				{{ page.assignment | replace: '_', ' ' }} 
-			</div>
-			<div class="deck">
-				{{ page.deck }} 
-			</div>
-			{% if page.type == 'topic-home' %} 
-			<h2>
-				The Brief 
-			</h2>
-			{% endif %} 
-			<div class="content">
-				{{ content }} 
-			</div>
-
-		</div>
+	<div class="site-id2">
+		&nbsp;
 	</div>
-	<nav>
-		<div class="cell">
-			<h3>
-				{% for pageName in site.assignment1 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-			</h3>
-			<ul>
-				{% assign allPages = site.assignment1 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
-				{% endif %} {% endfor %} 
-			</ul>
-		</div>
-		<div class="cell">
-			<h3>
-				{% for pageName in site.assignment2 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-			</h3>
-			<ul>
-				{% assign allPages = site.assignment2 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %} {% endfor %} 
-			</ul>
-		</div>
-		<div class="cell">
-			<h3>
-				{% for pageName in site.assignment3 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-			</h3>
-			<ul>
-				{% assign allPages = site.assignment3 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %} {% endfor %} 
-			</ul>
-		</div>
-		<div class="cell">
-			<h3>
-				{% for pageName in site.assignment4 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-			</h3>
-			<ul>
-				{% assign allPages = site.assignment4 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %} {% endfor %} 
-			</ul>
-		</div>
-		<div class="cell">
-			<h3>
-				{% for pageName in site.assignment5 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-			</h3>
-			<ul>
-				{% assign allPages = site.assignment5 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %} {% endfor %} 
-			</ul>
-		</div>
-		<div class="cell">
-			<h3>
-				{% for pageName in site.assignment6 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-			</h3>
-			<ul>
-				{% assign allPages = site.assignment6 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-				<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</li>
-				{% endif %} {% endfor %} 
-			</ul>
-		</div>
-	</nav>
-	<footer>
-		{% include footer.html %} 
-	</footer>
+	<div class="course-info1">
+		{% include course-info.html %} 
+	</div>
+	<div class="course-info2">
+		{% include about-course.html%} 
+	</div>
+	<ul class="assignment1">
+		{% assign allPages = site.assignment1 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
+		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %} {% endfor %} 
+	</ul>
+	<ul class="assignment2">
+		{% assign allPages = site.assignment2 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
+		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %} {% endfor %} 
+	</ul>
+	<ul class="assignment3">
+		{% assign allPages = site.assignment3 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
+		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %} {% endfor %} 
+	</ul>
+	<ul class="assignment4">
+		{% assign allPages = site.assignment4 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
+		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %} {% endfor %} 
+	</ul>
+	<ul class="assignment5">
+		{% assign allPages = site.assignment5 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
+		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %} {% endfor %} 
+	</ul>
+	<ul class="assignment6">
+		{% assign allPages = site.assignment6 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
+		<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %} {% endfor %} 
+	</ul>
+	<ul class="item1">
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+		<li>Item 4</li>
+	</ul>
+	<ul class="item2">
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+		<li>Item 4</li>
+	</ul>
+	<ul class="item3">
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+		<li>Item 4</li>
+	</ul>
+	<ul class="item4">
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+		<li>Item 4</li>
+	</ul>
+	<div class="footer1">
+		{% include footer1.html %} 
+	</div>
+	<div class="footer2">
+		{% include footer2.html %} 
+	</div>
+	<div class="footer3">
+		{% include footer3.html %} 
+	</div>
+	<div class="footer4">
+		{% include footer4.html %} 
+	</div>
 </div>
 </body>
 </html>
