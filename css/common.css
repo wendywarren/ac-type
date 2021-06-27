@@ -36,7 +36,7 @@ img
 	margin-top: 2rem;
 }
 
-body { border-top: 6px solid var(--lightgrey); }
+body { border-top: 6px solid #000; }
 
 .assignment, .item { margin-top: 1rem; }
 
@@ -80,7 +80,6 @@ td.topic-row
 
 @media only screen and (min-width: 25em)
 {
-	body { border-top: 6px solid olive; }
 	.footer2
 	{
 		border-top: 6px solid var(--lightgrey);
@@ -93,8 +92,7 @@ td.topic-row
 
 @media only screen and (min-width: 42em)
 {
-	body { border-top: 6px solid maroon; }
-
+body { padding-top: .5rem; }
 	.footer3, .footer4
 	{
 		border-top: 6px solid var(--lightgrey);
@@ -107,12 +105,12 @@ td.topic-row
 
 @media only screen and (min-width: 60em)
 {
-	body { border-top: 6px solid magenta; }
+
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
 
 @media only screen and (min-width: 90em)
 {
-	body { border-top: 6px solid limegreen; }
+
 }
