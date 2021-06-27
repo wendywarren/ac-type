@@ -1,15 +1,3 @@
-:root {
-    /* Colours */
-    --orange100: rgb(242, 101, 34);
-    --orange75: rgb(242, 101, 34, .75);
-    --orange50: rgb(242, 101, 34, .50);
-    --orange33: rgb(242, 101, 34, .33);
-    --darkgrey: rgb(76, 76, 76);
-    --mediumgrey: rgb(153, 153, 153);
-    --lightgrey: rgb(212, 212, 212);
-    --white: rgb(255, 255, 255);
-}
-
 @font-face {
   font-family: FiraSans-Regular;
   src: url("../fonts/FiraSans-Regular.woff") format("woff");
@@ -72,7 +60,12 @@ a.site-id, a:visited.site-id
 }
 
 a:hover.site-id { color: orange; }
-.course-info1, .course-info2 { font-size: .875rem; }
+
+.course-info1, .course-info2
+{
+	font-size: .875rem;
+	color: var(--darkgrey);
+}
 
 h1
 {
@@ -85,7 +78,11 @@ h2
 	font-weight: normal;
 	font-family: "FiraSans-Medium";
 	font-size: 1.2rem;
+	margin-top: 2rem;
 }
+
+p { margin-top: 1rem; }
+h2 + p { margin-top: 0rem; }
 
 .assignment ul, .item ul, .footer-item
 {
