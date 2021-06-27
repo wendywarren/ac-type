@@ -1,3 +1,15 @@
+:root {
+    /* Colours */
+    --orange100: rgb(242, 101, 34);
+    --orange75: rgb(242, 101, 34, .75);
+    --orange50: rgb(242, 101, 34, .50);
+    --orange33: rgb(242, 101, 34, .33);
+    --darkgrey: rgb(76, 76, 76);
+    --mediumgrey: rgb(153, 153, 153);
+    --lightgrey: rgb(212, 212, 212);
+    --white: rgb(255, 255, 255);
+}
+
 body { padding: 0 .5rem 0 .5rem; }
 
 #grid
@@ -15,10 +27,14 @@ img
 	max-width: 100%;
 }
 
-.link-icon { fill: silver; }
-:root { --color-name: #ff00ff; }
-.footer1 { border-top: 2px solid silver; }
-body { border-top: 6px solid silver; }
+.link-icon { fill: var(--grey-lightest); }
+.footer1
+{
+	border-top: 6px solid var(--lightgrey);
+	padding-top: 1rem;
+}
+
+body { border-top: 6px solid var(--grey-lightest); }
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 400px – 608px * * * * * * * * * */
@@ -26,7 +42,12 @@ body { border-top: 6px solid silver; }
 @media only screen and (min-width: 25em)
 {
 	body { border-top: 6px solid olive; }
-	.footer2 { border-top: 2px solid silver; }
+.footer2
+{
+	border-top: 6px solid var(--lightgrey);
+	padding-top: 1rem;
+}
+
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
@@ -34,7 +55,8 @@ body { border-top: 6px solid silver; }
 @media only screen and (min-width: 42em)
 {
 	body { border-top: 6px solid maroon; }
-	.footer3, .footer4 { border-top: 2px solid silver; }
+	.footer3, .footer4 { border-top: 6px solid var(--lightgrey); padding-top: 1rem; }
+
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */

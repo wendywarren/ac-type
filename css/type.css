@@ -1,3 +1,15 @@
+:root {
+    /* Colours */
+    --orange100: rgb(242, 101, 34);
+    --orange75: rgb(242, 101, 34, .75);
+    --orange50: rgb(242, 101, 34, .50);
+    --orange33: rgb(242, 101, 34, .33);
+    --darkgrey: rgb(76, 76, 76);
+    --mediumgrey: rgb(153, 153, 153);
+    --lightgrey: rgb(212, 212, 212);
+    --white: rgb(255, 255, 255);
+}
+
 @font-face {
   font-family: FiraSans-Regular;
   src: url("../fonts/FiraSans-Regular.woff") format("woff");
@@ -62,14 +74,6 @@ a.site-id, a:visited.site-id
 a:hover.site-id { color: orange; }
 .course-info1, .course-info2 { font-size: .875rem; }
 
-.course-info2 h3
-{
-	font-size: 0;
-	line-height: 0;
-	margin: 0 0 1rem 0;
-	padding: 0;
-}
-
 h1
 {
 	font-weight: normal;
@@ -91,9 +95,10 @@ h2
 
 #grid li { list-style-type: none; }
 
-.course-info1 h3, .assignment h3, .item h4
+
+.course-info1 h3, .course-info2 h3, .assignment h3, .item h4
 {
-	border-bottom: 2px solid rgba(150, 150, 150, 1);
+	border-bottom: 1px solid var(--lightgrey);
 	padding-bottom: 1rem;
 	margin-bottom: .875rem;
 	line-height: 1.3rem;
@@ -101,6 +106,12 @@ h2
 	font-family: "FiraSans-Medium";
 }
 
+.course-info1 h3, .course-info2 h3
+{
+	border-bottom: 3px solid var(--lightgrey);
+	padding-bottom: 1rem;
+
+}
 .assignment h3::after
 {
 	content: "\2197";
@@ -152,7 +163,7 @@ footer div:nth-child(1)
 	font-size: 2rem;
 }
 
-.footer2, .footer3, .footer4 li:nth-child(1) { font-family: "FiraSans-Italic"; }
+.footer2 li:nth-child(1), .footer3 li:nth-child(1), .footer4 li:nth-child(1) { font-family: "FiraSans-MediumItalic"; }
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 400px – 608px * * * * * * * * * */
@@ -166,16 +177,6 @@ footer div:nth-child(1)
 
 @media only screen and (min-width: 42em)
 {
-	.course-info2 h3
-	{
-		border-bottom: 2px solid rgba(150, 150, 150, 1);
-		padding-bottom: 1rem;
-		margin-bottom: .875rem;
-		line-height: 1.3rem;
-		font-weight: normal;
-		font-family: "FiraSans-Medium";
-	}
-	
 	.site-id1 { font-size: 6rem; }
 }
 
