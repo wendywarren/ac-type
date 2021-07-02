@@ -20,6 +20,8 @@ collections:
     output: true
   assignment6:
     output: true
+  micro-assignments:
+    output: true
 
 exclude:
   - .sass-cache/

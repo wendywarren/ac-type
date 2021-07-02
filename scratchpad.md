@@ -7,6 +7,7 @@ deck: Web site notes and Todo's.
 
 ## To Do
 
+- [This page](https://mailchi.mp/smashingmagazine/307-css-tools-css-data-charts-and-fluid-typography-i9vya8jfrk-1133426?e=db00feeaa2) has a pile of good HTML/CSS tips on it.
 - Investigate Miro, Padlet for collaboration
 - Create a section with useful links
 - Include bilingual content.
