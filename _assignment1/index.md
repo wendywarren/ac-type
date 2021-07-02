@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: topic-home
-title: "Grimm Fairy Tails"
+title: "Grimm Fairy Tales"
 assignment: "Assignment 1"
 sortorder: 1.0
 deck: "Ad hoc, or informal grids are created as you sketch your pages. Elements simply align with each other on the page."
@@ -11,16 +11,37 @@ reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/x
 ---
 We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure.
 
-The tools we have at our disposal are:
+## Some Parameters
 
-[The Foundational Space](subpage1.html)
-: The page. The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product.
+- You'll need to design the cover, the back and the two flaps based on the provided measurements.
+- This is going to be a type-only design. No images allowed.
+- Use the provided bar code and logos.
+- Only two font families are permitted.
+- Print parameters
+    - Colour: Four colour process
+    - Full bleeds
 
-[Type Selection](subpage2.html)
-: One type family is all we'll need here. The goal is to use minimal instances of the family because we'll make use of other tools to achieve hierarchy.
+## Content
 
-[Type Styling](subpage3.html)
-: This is where the rubber hits the road. We'll use size, weight, alignment, proximity, case, greys (no colour) and more to achieve hierarchy and to establish a clear reading order.
+These are the main content areas for your cover. If you wish to deviate from these guidelines, please ask me for aproval for your idea.
 
-[Build Our Page](subpage4.html)
-: As if we were cooks in a kitchen, we'll combine all the ingredients above to create a delicious typographic dish.
+Title
+: Everyone will use their title as the main title on the cover.
+
+Sub-title (optional)
+: You could make up a sub-title to the fairy tale.
+
+Author's Name
+: The Brothers Grimm
+
+Author's Bio
+: On one of the flaps, you'll include the provided author's bio text.
+
+Publisher Info
+: Use the provided logo and text on one of the flaps.
+
+Back Cover Blurb
+: Create a blurb based on text about the story from Wikipedia or another source. It should be a maximum of 150 words. Don't just copy/paste random text. Make sure it's an interesting, captivating read. If you wish, you can compose one yourself based on the reading you've done about your fairy tale.
+
+Bar Code
+: Use the provided vector bar code file. It must not be resized or modified in any way. If your cover is dark, place the bar code on a white rectangle.

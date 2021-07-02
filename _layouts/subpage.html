@@ -22,17 +22,20 @@
 			{{ page.title }} 
 		</h1>
 		<div class="uppercase">
+			{% if page.type == 'topic-home' %}
 			{{ page.assignment | replace: '_', ' ' }} 
+			{% endif %}
+			{% if page.type == 'subpage' %}
+			{{ page.assignment }} 
+			{% endif %}
 		</div>
 		<div class="deck">
 			{{ page.deck }} 
 		</div>
-		{% if page.type == 'topic-home' %} 
 		<h2>
 			The Brief 
 		</h2>
-		{% endif %} 
-		<div class="content">
+		<div id="content">
 			{{ content }} 
 		</div>
 	</div>
