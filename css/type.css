@@ -132,6 +132,10 @@ em
 	max-width: 95%;
 }
 
+#content ul li {
+	list-style-type: disc;
+}
+
 dt
 {
 	font-family: "FiraSans-Medium";
