@@ -116,7 +116,7 @@ h2 + p { margin-top: 0rem; }
 	color: rgba(200, 200, 200, 1);
 	text-decoration: none;
 }
-
+.item { font-size: .875rem; }
 em
 {
 	font-style: normal;
