@@ -7,6 +7,7 @@ deck: Web site notes and Todo's.
 
 ## To Do
 
+- Investigate Miro, Padlet for collaboration
 - Create a section with useful links
 - Include bilingual content.
 - Investigate sub-setting local WOFF fonts.
