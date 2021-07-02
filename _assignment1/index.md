@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: topic-home
-title: "Ad Hoc Page Design"
+title: "Grimm Fairy Tails"
 assignment: "Assignment 1"
 sortorder: 1.0
 deck: "Ad hoc, or informal grids are created as you sketch your pages. Elements simply align with each other on the page."
@@ -9,7 +9,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
 ---
-We'll design a single page layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure.
+We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure.
 
 The tools we have at our disposal are:
 
