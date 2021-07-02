@@ -69,7 +69,7 @@
 	</div>
 	<div class="assignment assignment6">
 		<h3>
-			{% for pageName in site.assignment6 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
+			{% for pageName in site.assignment6 %} {% if pageName.url contains 'index' %} <a href="{{ site.url }}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
 		</h3>
 		<ul>
 			{% assign allPages = site.assignment6 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
@@ -78,32 +78,28 @@
 		</ul>
 	</div>
 	<div class="item item1">
-		<h4>
-			{{ site.data.micro-assignments.pages[0].title }}
+		<h4><a href="{{ site.url }}{{ site.data.micro-assignments.pages[0].url }}">{{ site.data.micro-assignments.pages[0].title }}</a>
 		</h4>
 		<p>
 			{{ site.data.micro-assignments.pages[0].deck }}
 		</p>
 	</div>
 	<div class="item item2">
-		<h4>
-			{{ site.data.micro-assignments.pages[1].title }}
+		<h4><a href="{{ site.url }}{{ site.data.micro-assignments.pages[1].url }}">{{ site.data.micro-assignments.pages[1].title }}</a>
 		</h4>
 		<p>
 			{{ site.data.micro-assignments.pages[1].deck }}
 		</p>
 	</div>
 	<div class="item item3">
-		<h4>
-			{{ site.data.micro-assignments.pages[2].title }}
+		<h4><a href="{{ site.url }}{{ site.data.micro-assignments.pages[2].url }}">{{ site.data.micro-assignments.pages[2].title }}</a>
 		</h4>
 		<p>
 			{{ site.data.micro-assignments.pages[2].deck }}
 		</p>
 	</div>
 	<div class="item item4">
-		<h4>
-			{{ site.data.micro-assignments.pages[3].title }}
+		<h4><a href="{{ site.url }}{{ site.data.micro-assignments.pages[3].url }}">{{ site.data.micro-assignments.pages[3].title }}</a>
 		</h4>
 		<p>
 			{{ site.data.micro-assignments.pages[3].deck }}
