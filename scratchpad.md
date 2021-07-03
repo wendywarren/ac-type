@@ -95,6 +95,7 @@ deck: Web site notes and Todo's.
 
 [MyFonts Font Field Guides](https://www.myfonts.com/content/font-field-guide). Learn about how to use these fonts. There are also alternate cuts of each font.
 
+- [This has useful general info on layout](https://learning.oreilly.com/library/view/lessons-in-typography/9780133993738/ch05.html)
 - [Type Basics for Screens](https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/)
 - [Smashing Type Newsletter](https://mailchi.mp/smashingmagazine/smashing-newsletter-298-web-typography?e=db00feeaa2)
 - [CapSize: Font Sizing site](https://seek-oss.github.io/capsize/)
