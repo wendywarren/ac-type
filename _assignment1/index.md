@@ -11,7 +11,9 @@ reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/x
 ---
 We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure.
 
-## Some Parameters
+### Some Parameters
+
+Make sure you read through all the requirements.
 
 - You'll need to design the cover, the back and the two flaps based on the provided measurements.
 - This is going to be a type-only design. No images allowed.
@@ -21,7 +23,7 @@ We'll design a book cover layout using an ad hoc page layout grid. This is reall
     - Colour: Four colour process
     - Full bleeds
 
-## Content
+### Content
 
 These are the main content areas for your cover. If you wish to deviate from these guidelines, please ask me for aproval for your idea.
 
