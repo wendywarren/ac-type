@@ -20,5 +20,8 @@ We'll need to finish this early enough to have them printed by an online printin
 - Build month pages with styles
 - Research topics for display pages
     - present three possible themes for approval
-- Build a 3 mockups of accepted theme
-- 
+- Build 3 mockups of accepted theme
+- Build out document
+    -  Revisions
+- Production preparation for delivery to print
+- Delivery to print
