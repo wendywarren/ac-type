@@ -160,8 +160,12 @@ em {
   max-width: 95%;
 }
 
-#content ul li {
-  list-style-type: disc;
+#content ul li:before {
+    content: "\27A4";
+    margin-left: -20px;
+    margin-right: 10px;
+    font-size: .5rem;
+  }
 }
 
 dt {
