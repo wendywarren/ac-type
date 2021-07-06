@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: topic-home
-title: "Magazine Page Layout"
+title: "Magazine Layout"
 assignment: "Assignment 4"
 sortorder: 4.0
 deck: "As we increase the complexity of our grids, we move up to the modular grid. This is ideal for magazine page layouts."
