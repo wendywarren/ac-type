@@ -149,9 +149,14 @@ p {
 }
 em {
   font-style: normal;
+  font-weight: normal;
   font-family: "FiraSans-Italic";
 }
-
+strong {
+  font-style: normal;
+  font-weight: normal;
+  font-family: "FiraSans-Medium";
+}
 .deck {
   font-size: 1.2rem;
   font-family: "FiraSans-Italic";
