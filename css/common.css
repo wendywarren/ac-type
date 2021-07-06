@@ -27,6 +27,14 @@ img
 	max-width: 100%;
 }
 
+/* SVG Styles */
+
+.darkgrey {fill: var(--darkgrey);}
+.mediumgrey {fill: var(--mediumgrey);}
+.lightgrey {fill: var(--lightgrey);}
+
+/* END SVG Styles */
+
 .link-icon { fill: var(--lightgrey); }
 
 .footer1
