@@ -11,6 +11,15 @@ reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/x
 ---
 We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure. Ad hoc, or informal grids are created as you sketch your pages. Elements simply align with each other on the page.
 
+### Outcomes
+
+By the time you've completed this assignment, you will have learned to:
+
+- Inventory, organize and prepare provided materials to use in a design.
+- Implement a design with an ad hoc grid.
+- Make a reasoned font pairing which suits a given theme.
+- Produce print-ready files.
+
 ### Project Stages
 
 1. Read through the web site pages for this assignment.
@@ -34,7 +43,7 @@ Make sure you read through all the requirements.
     - Colour: Maximum four colour process. Can be fewer colours.
     - Full bleeds
 
-### Format
+### Physical Format
 
 You can choose the dimensions of your book cover. It must contain the following elements.
 
