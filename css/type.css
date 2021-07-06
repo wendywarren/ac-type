@@ -161,11 +161,14 @@ em {
 }
 
 #content ul li:before {
-    content: "\27A4";
-    margin-left: -20px;
-    margin-right: 10px;
-    font-size: .5rem;
-  }
+  content: "\27A4";
+  margin-left: -20px;
+  margin-right: 10px;
+  font-size: 0.5rem;
+}
+
+#content ol li {
+  list-style-type:decimal;
 }
 
 dt {
