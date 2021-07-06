@@ -1,10 +1,10 @@
 ---
 layout: subpage
 type: subpage
-title: "Type Styling"
+title: "Build the Design"
 assignment: "Grimm Fairy Tales"
-sortorder: 1.4
-deck: "This is where the rubber hits the road. We’ll use size, weight, alignment, proximity, case, greys (no colour) and more to achieve hierarchy and to establish a clear reading order."
+sortorder: 1.5
+deck: "As if we were cooks in a kitchen, we’ll combine all the ingredients above to create a delicious typographic dish."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
