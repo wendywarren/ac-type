@@ -37,7 +37,7 @@ By the time you've completed this assignment, you will have learned to:
 Make sure you read through all the requirements.
 
 - You'll need to design the cover, the back and the two flaps based on the provided measurements.
-- This is going to be a type-only design. No images allowed.
+- This is going to be a type-only design. **No images allowed**.
 - Use the provided bar code and logos.
 - Print parameters
     - Colour: Maximum four colour process. You can use fewer colours.
