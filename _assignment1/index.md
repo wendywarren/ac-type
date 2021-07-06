@@ -26,8 +26,9 @@ By the time you've completed this assignment, you will have learned to:
 1. Read through the [Grimm Fairy Tales](http://www-2.cs.cmu.edu/~spok/grimmtmp/){:target="_blank"} to make a selection.
 1. Submit your choice here.
 1. Research your fairy tale's meaning, message, moral to find a theme for your design.
-1. Research two font families you think will be appropriate to the story.
-1. Sketch concepts with pencil or marker on paper.
+1. Research (two) font families you think will be appropriate to the story.
+1. Design your [style board](subpage2.html).
+1. Sketch thumbnails & a full-size rendering of your design.
 1. Get aproval for your concept from me.
 1. Build your design.
 
