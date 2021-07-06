@@ -28,13 +28,3 @@ As we build our layout, we create hierarchy for each element using size, weight,
 In the example above, you can see that the main title logically takes the lead in the layout. The two remaining elements align with it. You can see how, even with so few elements, we've achieved harmony on the page.
 
 It's also obvious that the process of creating a layout in this manner is too tedious for long multi-page publications. That's what the other types of grids are for.
-
-### The Process
-
-We'll be using InDesign and optionally Illustrator to create your design.
-
-Create an outline similar to the one on this page with the provided dimensions. Save it as a native Illustrator file (.ai).
-
-Create an InDesign document in which we'll import the above Illustrator file. The placed Illustrator file needs to be on its own InDesign layer. This is the template on which we'll create our design.
-
-All the basic text content will be crated in InDesign. Only use Illustrator when necessary.
