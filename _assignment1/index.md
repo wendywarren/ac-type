@@ -47,7 +47,7 @@ Make sure you read through all the requirements.
 
 You can choose the dimensions of your book cover. It must contain the following elements.
 
-![Book Cover Mockup](/svg/book-cover-mockup.svg)
+![Book Cover Mockup]({{site.url}}/svg/book-cover-mockup.svg)
 
 The bar code can go either on the back cover or on the back flap.
 
