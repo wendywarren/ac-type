@@ -4,12 +4,23 @@ type: topic-home
 title: "Grimm Fairy Tales"
 assignment: "Assignment 1"
 sortorder: 1.0
-deck: "Ad hoc, or informal grids are created as you sketch your pages. Elements simply align with each other on the page."
+deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
 ---
-We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure.
+We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure. Ad hoc, or informal grids are created as you sketch your pages. Elements simply align with each other on the page.
+
+### Project Stages
+
+1. Read through the web site pages for this assignment.
+1. Read through the Grimm Fairy Tales to make a selection.
+1. Submit your choice here.
+1. Research your fairy tale's meaning, message, moral to find a theme for your design.
+1. Research two font families you think will be appropriate to the story.
+1. Sketch concepts with pencil or marker on paper.
+1. Get aproval for your concept from me.
+1. Build your design.
 
 ### Some Parameters
 
@@ -20,8 +31,16 @@ Make sure you read through all the requirements.
 - Use the provided bar code and logos.
 - Only two font families are permitted.
 - Print parameters
-    - Colour: Four colour process
+    - Colour: Maximum four colour process. Can be fewer colours.
     - Full bleeds
+
+### Format
+
+You can choose the dimensions of your book cover. It must contain the following elements.
+
+![Book Cover Mockup](/svg/book-cover-mockup.svg)
+
+The bar code can go either on the back cover or on the back flap.
 
 ### Content
 
