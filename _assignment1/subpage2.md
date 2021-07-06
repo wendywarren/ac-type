@@ -1,17 +1,32 @@
 ---
 layout: subpage
 type: subpage
-title: "The Process"
+title: "Design Stage"
 assignment: "Grimm Fairy Tales"
-sortorder: 1.2
-deck: "One type family is all we’ll need here. The goal is to use minimal instances of the family because we’ll make use of other tools to achieve hierarchy."
+sortorder: 1.3
+deck: "This is where the rubber hits the road. The creativity takes place here. Create a style board that will communicate your design to the client."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
-We'll be using InDesign and optionally Illustrator to create your design.
+### Style Board
 
-Create an strokes-only outline similar to the one on this page with the provided dimensions. Save it as a native Illustrator file (.ai).
+Much like a cooking show, this is where you're going to lay out your ingredients for me to see. Gather them all on a tabloid-sized page you'll save as a PDF to show me for approval. These include:
 
-Create an InDesign document in which we'll import the above Illustrator file. The placed Illustrator file needs to be on its own InDesign layer. This is the template on which we'll create our design.
+Type selection
+: You should limit the number of families to two, if possible. You'll have all the text on the back and flaps, then you have your type-based artwork on the cover. Be sure to select families that have a variety of weights and widths.
 
-All the basic text content will be created in InDesign. Only use Illustrator when necessary.
+: You should include your type treatment on your style board.
+
+Colour palette
+: The more focused your colour palette is the better. Select colours, then create tints and shades if needed. Remember, you can use sites like [color.adobe.com](https://color.adobe.com/create/color-wheel).
+
+Style samples
+: Create snippets of graphics that will communicate the style you're going for.
+
+This style board is for your client (me). I should be able to envision your design even if I'm not a designer.
+
+### Sketch Your Layout
+
+The style board above lays out the ingredients for your design. The sketches help you decide where they go. Start with thumbnails to quickly get your ideas on the page. Once you have some you think work, draw them at a size closer to the final product.
+
+This is a good stage to show me your work.
