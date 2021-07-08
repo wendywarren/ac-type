@@ -92,27 +92,48 @@ h6 {
   font-family: "FiraSans-Medium";
 }
 
-h1, h2 { letter-spacing: -.0312rem; }
+h1,
+h2 {
+  letter-spacing: -0.0312rem;
+}
 
 h2 {
   font-size: 1.2rem;
   margin-top: 2rem;
 }
 
-#content h1 { font-size: 1.6rem; }
-#content h2 { font-size: 1.4rem; }
-#content h3 { font-size: 1.3rem; }
-#content h4 { font-size: 1.2rem; }
-#content h5 { font-size: 1.1rem; }
-#content h6 { font-size: 1rem; }
+#content h1 {
+  font-size: 1.6rem;
+}
+#content h2 {
+  font-size: 1.4rem;
+}
+#content h3 {
+  font-size: 1.3rem;
+}
+#content h4 {
+  font-size: 1.2rem;
+}
+#content h5 {
+  font-size: 1.1rem;
+}
+#content h6 {
+  font-size: 1rem;
+}
 
 p {
   margin-top: 1rem;
 }
+
+#content h1 + p,
 #content h2 + p,
-#content h3 + p {
-  margin-top: 0rem;
+#content h3 + p,
+#content h4 + p,
+#content h5 + p,
+#content h6 + p {
+  margin-top: 0;
 }
+
 #content h2,
 #content h3 {
   margin-top: 2rem;
@@ -182,7 +203,7 @@ strong {
 }
 
 #content ol li {
-  list-style-type:decimal;
+  list-style-type: decimal;
 }
 
 dt {
