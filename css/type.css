@@ -92,6 +92,8 @@ h6 {
   font-family: "FiraSans-Medium";
 }
 
+h1, h2 { letter-spacing: -.0312rem; }
+
 h2 {
   font-size: 1.2rem;
   margin-top: 2rem;

@@ -4,12 +4,12 @@ type: topic-home
 title: "Grimm's Pages"
 assignment: "Assignment 2"
 sortorder: 2.0
-deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic element."
+deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: "https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml"
 ---
-If we're to design a single-column grid, our job is to create harmonious margins. There are many formula for creating the single-column grid. *Most of them are trash, myths.* There are others that are actually useful. The first is the Van de Graaf Canon.
+If we're to design a single-column grid, our job is to create harmonious margins. There are many formula for creating the single-column grid. *Most of them are trash, myths.* There are others which are actually useful. The first is the Van de Graaf Canon. Let's dive in!
 
 ### Outcomes
 
@@ -26,6 +26,7 @@ By the time you’ve completed this assignment, you will have learned to:
 
 - Read through the web site pages for this assignment.
 - Research examples of fiction novel page treatments.
+- ...
 
 ### Project Parameters
 
@@ -35,6 +36,8 @@ By the time you’ve completed this assignment, you will have learned to:
 - Implement paragraph styles throughout.
 
 ### Content
+
+You will treat your selected Grimm's Fairy Tale as if it were a full novel.
 
 Your mockup will need to include:
 
