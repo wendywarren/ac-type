@@ -3,7 +3,6 @@ layout: subpage
 type: subpage
 title: "The Foundational Space"
 assignment: "Grimm Fairy Tales"
-assNo: assignment1
 sortorder: 1.1
 deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"

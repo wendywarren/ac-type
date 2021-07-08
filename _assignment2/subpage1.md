@@ -1,6 +1,6 @@
 ---
 layout: subpage
-type: deliverables
+type: subpage
 title: "Designing our Grid"
 assignment: "Assignment 2"
 sortorder: 2.1
