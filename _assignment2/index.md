@@ -11,14 +11,17 @@ reference: "https://learning.oreilly.com/library/view/the-type-project/978013681
 ---
 If we're to design a single-column grid, our job is to create harmonious margins. There are many formula for creating the single-column grid. *Most of them are trash, myths.* There are others that are actually useful. The first is the Van de Graaf Canon.
 
-## The Perfect Page 
+### Outcomes
 
-J.A. van de Graaf created the Van de Graaf Canon. This is a formula to create a harmonious single-column pages.
+By the time you’ve completed this assignment, you will have learned to:
 
-We'll draw this grid together.
+- Design a perfect page single-column grid using the van de Graaf Canon.
+- Select a typeface for good legibility in a long document.
+- Set clean justified type.
 
-![Example of a single-column grid]({{site.url}}/svg/van-de-graaf-canon.svg "Example of a single-column grid")
+### Project Stages
 
-Using these guides, no matter the dimensions of the pages, the margins will always have the same ratio. This creates margins with a ratio of: inner margin 2, top margin 3, outer margin 4, and bottom margin 6, or 2:3:4:6. We can also express this as 1/9 and 2/9 of the page.
+### Some Parameters
 
-There are other page layout canons. You can [see them here](https://en.wikipedia.org/wiki/Canons_of_page_construction){:target="_blank"}
+### Content
+
