@@ -29,7 +29,7 @@ By the time you've completed this assignment, you will have learned to:
 1. Research (two) font families you think will be appropriate to the story.
 1. Design your [style board](subpage2.html).
 1. Sketch thumbnails & a full-size rendering of your design.
-1. Get aproval for your concept from me.
+1. Get approval for your concept from me.
 1. Build your design.
 
 ### Project Parameters
@@ -49,7 +49,7 @@ Make sure you read through all the requirements.
 
 ### Content
 
-These are the main content areas for your cover. If you wish to deviate from these guidelines, please ask me for aproval for your idea.
+These are the main content areas for your cover. If you wish to deviate from these guidelines, please ask me for approval for your idea.
 
 Title
 : Everyone will use their title as the main title on the cover.
