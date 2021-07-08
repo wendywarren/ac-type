@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: topic-home
-title: "Grimm Fairy Tales"
+title: "Grimm Dust Cover"
 assignment: "Assignment 1"
 sortorder: 1.0
 deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
@@ -32,7 +32,7 @@ By the time you've completed this assignment, you will have learned to:
 1. Get aproval for your concept from me.
 1. Build your design.
 
-### Some Parameters
+### Project Parameters
 
 Make sure you read through all the requirements.
 

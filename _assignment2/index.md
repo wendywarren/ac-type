@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: topic-home
-title: "Fiction Classic"
+title: "Grimm's Pages"
 assignment: "Assignment 2"
 sortorder: 2.0
 deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic element."
@@ -27,9 +27,12 @@ By the time you’ve completed this assignment, you will have learned to:
 - Read through the web site pages for this assignment.
 - Research examples of fiction novel page treatments.
 
-### Some Parameters
+### Project Parameters
 
 - You'll be given dimensions for your publication.
+- Only one type family is allowed for this project.
+- All content will be in black.
+- Implement paragraph styles throughout.
 
 ### Content
 
