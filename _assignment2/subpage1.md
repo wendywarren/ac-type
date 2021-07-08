@@ -2,9 +2,9 @@
 layout: subpage
 type: subpage
 title: "Designing our Grid"
-assignment: "Assignment 2"
+assignment: "Grimm's Pages"
 sortorder: 2.1
-deck: "This is the deck content for this page."
+deck: "There are many formula for creating the single-column grid. Most of them are trash, myths. There are others which are actually useful. The first is the Van de Graaf Canon. Let's dive in!"
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---

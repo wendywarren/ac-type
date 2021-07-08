@@ -9,8 +9,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: "https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml"
 ---
-If we're to design a single-column grid, our job is to create harmonious margins. There are many formula for creating the single-column grid. *Most of them are trash, myths.* There are others which are actually useful. The first is the Van de Graaf Canon. Let's dive in!
-
 ### Outcomes
 
 By the time you’ve completed this assignment, you will have learned to:
@@ -26,6 +24,7 @@ By the time you’ve completed this assignment, you will have learned to:
 
 - Read through the web site pages for this assignment.
 - Research examples of fiction novel page treatments.
+- Research what makes a good font for a long document like a fiction novel.
 - ...
 
 ### Project Parameters
