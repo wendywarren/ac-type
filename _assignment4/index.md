@@ -1,10 +1,10 @@
 ---
 layout: subpage
 type: topic-home
-title: "Magazine Layout"
-assignment: "Assignment 4"
+title: "Newsletter Design"
+assignment: "Newsletter Design"
 sortorder: 4.0
-deck: "As we increase the complexity of our grids, we move up to the modular grid. This is ideal for magazine page layouts."
+deck: "As we increase the complexity of our grids, we move up to the modular grid. This is ideal for newsletter page layouts."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
@@ -13,7 +13,7 @@ To date, we've designed ad hoc grids which lend themselves to single pages of co
 
 With increased flexibility comes increased complexity. We'll be juggling with more balls at a time, so it's easier to drop one. That's why we need to be methodical in our process.
 
-We'll design magazine pages considering the following:
+We'll design newsletter pages considering the following:
 
 Content Inventory
 : As a cook needs to know what ingredients they have at their disposal, we need to inventory our content.
