@@ -18,14 +18,10 @@ We'll design newsletter pages considering the following:
 Content Inventory
 : As a cook needs to know what ingredients they have at their disposal, we need to inventory our content.
 
-1. Read all the text to
-    - become familiar with the content
-    - check for typos or grammatical errors
-    - are there lists, tables and/or other types of content?
-1. Open all the images to check
-    - pixel dimensions
-    - colour mode
-    - image quality
+- Read all the text to become familiar with the content.
+- Check for typos or grammatical errors.
+- Are there lists, tables and/or other types of content?
+- Open all the images to check pixel dimensions, colour mode, image quality.
 
 Grid Design
 : Now that we're familiar with our content, we can design our page grid. This stage also includes sketching layouts based on the provided content.
