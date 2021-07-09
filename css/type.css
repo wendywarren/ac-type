@@ -10,34 +10,35 @@
   font-family: FiraSans-Medium;
   src: url("../fonts/FiraSans-Medium.woff") format("woff");
 }
-@font-face {
-  font-family: FiraSans-MediumItalic;
-  src: url("../fonts/FiraSans-MediumItalic.woff") format("woff");
-}
-@font-face {
-  font-family: FiraSans-UltraItalic;
-  src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
-}
-@font-face {
-  font-family: FiraMono-Medium;
-  src: url("../fonts/FiraMono-Medium.woff") format("woff");
-}
+  @font-face {
+    font-family: FiraSans-MediumItalic;
+    src: url("../fonts/FiraSans-MediumItalic.woff") format("woff");
+  }
+  @font-face {
+    font-family: FiraSans-UltraItalic;
+    src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
+  }
+  @font-face {
+    font-family: FiraMono-Medium;
+    src: url("../fonts/FiraMono-Medium.woff") format("woff");
+  }
 
-html {
-  font-size: 100%;
-  line-height: 1.3;
-  color: #000000;
-  font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
-}
+  html {
+    font-size: 100%;
+    line-height: 1.3;
+    color: #000000;
+    font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
+  }
 
-a,
-a:link {
-  color: black;
-  text-decoration-color: blue;
-}
+  a,
+  a:link {
+    color: black;
+    text-decoration-color: blue;
+  }
 
-a:visited {
-  color: rgba(60, 60, 60, 1);
+  a:visited {
+    color: rgba(60, 60, 60, 1);
+  }
 }
 a:hover {
   color: lightgrey;
@@ -50,6 +51,16 @@ a:focus {
 }
 .uppercase {
   text-transform: uppercase;
+}
+
+blockquote {
+  margin-left: 2rem;
+  border-left: 4px solid var(--lightgrey);
+  padding-left: 1rem;
+  padding-right: 6rem;
+  font-weight: normal;
+  font-family: "FiraSans-Italic";
+  color: var(--mediumgrey);
 }
 
 .site-id1,
