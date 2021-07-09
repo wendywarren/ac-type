@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Indesign_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 576 576" style="enable-background:new 0 0 576 576;" xml:space="preserve">
-<link rel="stylesheet" href="{{site.url}}/css/common.css" type="text/css" />
-<rect class="st0" width="576" height="576"/>
-<rect x="36" y="36" class="st1" width="504" height="504"/>
-<path class="st0" d="M203.2,158.8v268.4h-49V158.8H203.2z"/>
-<path class="st0" d="M420.2,144.4v228.2c0,19.9,0.8,41.4,1.6,54.6H378l-2-30.7h-0.8c-11.5,21.5-35,35-63.3,35
-	c-46.2,0-82.8-39.4-82.8-99.2c-0.4-64.9,40.2-103.6,86.8-103.6c26.7,0,45.8,11.2,54.6,25.5h0.8V144.4H420.2z M371.2,314.1
-	c0-4-0.4-8.8-1.2-12.7c-4.4-19.1-19.9-34.6-42.2-34.6c-31.5,0-49,27.9-49,64.1c0,35.4,17.5,61.3,48.6,61.3
-	c19.9,0,37.4-13.5,42.2-34.6c1.2-4.4,1.6-9.2,1.6-14.3L371.2,314.1L371.2,314.1z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 576" width="576" height="576"><path d="M0 0h576v576H0z" class="st0"/><path d="M36 36h504v504H36z" class="st1"/><path d="M203.2 158.8v268.4h-49V158.8h49zm217-14.4v228.2c0 19.9.8 41.4 1.6 54.6H378l-2-30.7h-.8c-11.5 21.5-35 35-63.3 35-46.2 0-82.8-39.4-82.8-99.2-.4-64.9 40.2-103.6 86.8-103.6 26.7 0 45.8 11.2 54.6 25.5h.8V144.4h48.9zm-49 169.7c0-4-.4-8.8-1.2-12.7-4.4-19.1-19.9-34.6-42.2-34.6-31.5 0-49 27.9-49 64.1 0 35.4 17.5 61.3 48.6 61.3 19.9 0 37.4-13.5 42.2-34.6 1.2-4.4 1.6-9.2 1.6-14.3v-29.2z" class="st0"/></svg>

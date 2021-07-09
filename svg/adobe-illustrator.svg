@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 576 576" style="enable-background:new 0 0 576 576;" xml:space="preserve">
-<link rel="stylesheet" href="{{site.url}}/css/common.css" type="text/css" />
-<rect class="st0" width="576" height="576"/>
-<rect x="36" y="36" class="st1" width="504" height="504"/>
-<path class="st0" d="M211.1,313.9h59.8L241,198L211.1,313.9z M303.7,440.9l-21.9-75.3h-80.9L179,440.9h-55.4l78-266.3v-29.2H276
-	l88.9,295.4H303.7z"/>
-<rect x="391.1" y="216.2" class="st0" width="59.8" height="224.7"/>
-<ellipse class="st0" cx="421.4" cy="165.7" rx="31" ry="30.6"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 576" width="576" height="576"><path d="M0 0h576v576H0z" class="st0"/><path d="M36 36h504v504H36z" class="st1"/><path d="M211.1 313.9h59.8L241 198l-29.9 115.9zm92.6 127l-21.9-75.3h-80.9L179 440.9h-55.4l78-266.3v-29.2H276l88.9 295.4h-61.2zm87.4-224.7h59.8v224.7h-59.8z" class="st0"/><ellipse cx="421.4" cy="165.7" class="st0" rx="31" ry="30.6"/></svg>

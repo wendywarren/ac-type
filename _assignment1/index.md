@@ -11,7 +11,7 @@ reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/x
 ---
 We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure. Ad hoc, or *informal* grids are created as you sketch your pages. Elements simply align with each other on the page.
 
-### Outcomes
+## Outcomes
 
 By the time you've completed this assignment, you will have learned to:
 
@@ -71,3 +71,8 @@ Back Cover Blurb
 
 Bar Code
 : Use the provided vector bar code file. It must not be resized or modified in any way. It must be on the back cover. If your artwork is dark, place the bar code on a white rectangle with plenty of space around the bar code itself.
+
+####  Optional Items
+
+Quote from Book Review
+: 
