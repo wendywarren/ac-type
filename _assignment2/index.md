@@ -25,7 +25,7 @@ By the time you’ve completed this assignment, you will have learned to:
 - Read through the web site pages for this assignment.
 - Research examples of fiction novel page treatments.
 - Research what makes a good font for a long document like a fiction novel.
-- ...
+- Get the text of [your fairy tale](http://www-2.cs.cmu.edu/~spok/grimmtmp/).
 
 ### Project Parameters
 
