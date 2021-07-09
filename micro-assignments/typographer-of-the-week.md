@@ -4,22 +4,26 @@ type: subpage
 title: "Typographer of the Week"
 assignment: "Assignment X"
 sortorder: 6.3
-deck: "This is the deck content for this page."
+deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 resource: https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
 ---
 
-Each of you will be given the name of a modern typographer. You'll research them to create a profile including:
+Each of you will be given the name of a modern-day typographer. You'll research them to create a profile including:
 
 - General biographical information
 - A head shot if possible
-- Which typefaces they've designed
-- What was their approach and/or goal in their type design?
+- A synopsis of their career
+- Notable typefaces they've designed, with samples
+- What was their approach, goal, their philosophy in their type design?
+- Their web site and social media handles, if possible
+
+You'll present these at the start of each class. We'll likely do two or three per week. They'll only be a few minutes each.
 
 ### Your Task
 
-Create a single-page bio in InDesign. The layout should be inspired by the typographer's typefaces. Other than that, it's up to you. We'll share your document with the class so everyone has a bio of each typographer.
+Create a single-page letter-sized bio in InDesign. The layout should be inspired by the typographer's typefaces. Other than that, the design is up to you. We'll share your document with the class so everyone has a bio of each typographer.
 
 ### Typographers
 
@@ -60,6 +64,6 @@ Create a single-page bio in InDesign. The layout should be inspired by the typog
 </ol>
 </div>
 
-### Deliverable
+### Deliverables
 
-Export your layout as a PDF using the High Quality Print preset. Submit it to BrightSpace.
+Export your layout as a PDF using the *High Quality Print* preset. Submit it to BrightSpace.
