@@ -54,12 +54,12 @@ a:focus {
 }
 
 blockquote {
+  font-weight: normal;
+  font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
   margin-left: 2rem;
   border-left: 4px solid var(--lightgrey);
   padding-left: 1rem;
   padding-right: 6rem;
-  font-weight: normal;
-  font-family: "FiraSans-Italic";
   color: var(--mediumgrey);
 }
 
