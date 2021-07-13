@@ -2,14 +2,14 @@
 layout: subpage
 type: topic-home
 title: "Newsletter Design"
-assignment: "Newsletter Design"
+assignment: "X-Height Newsletter"
 sortorder: 4.0
 deck: "As we increase the complexity of our grids, we move up to the modular grid. This is ideal for newsletter page layouts."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
 ---
-To date, we've designed ad hoc grids which lend themselves to single pages of content. We then designed single column grids which are commonly found in fiction novels. Now, we'll step up once again to the modular grid. This is the most flexible type of grid. It allows for placement of text and other types of content like images, tables of data, graphics and more.
+To date, we've designed ad hoc grids which lend themselves to single pages of content. We then designed single-column grids which are commonly found in fiction novels. Now, we'll step up once again to the modular grid. This is the most flexible type of grid. It allows for placement of text and other types of content like images, tables of data, graphics and more.
 
 With increased flexibility comes increased complexity. We'll be juggling with more balls at a time, so it's easier to drop one. That's why we need to be methodical in our process.
 
