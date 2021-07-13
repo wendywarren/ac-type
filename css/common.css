@@ -11,7 +11,7 @@
 }
 
 body {
-  padding: 0 0.5rem 0 0.5rem;
+  padding: 0 .5rem 0 .5rem;
 }
 
 #grid {
@@ -59,10 +59,6 @@ img {
   border-top: 6px solid var(--lightgrey);
   padding-top: 1rem;
   margin-top: 2rem;
-}
-
-body {
-  border-top: 6px solid #000;
 }
 
 .assignment,
