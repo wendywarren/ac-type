@@ -87,8 +87,10 @@ a:hover.site-id {
   color: var(--orange100);
 }
 
-.course-info1,
-.course-info2 {
+.type3-info1,
+.type3-info2,
+.type4-info1,
+.type4-info2 {
   font-size: 0.875rem;
   color: var(--darkgrey);
 }
@@ -162,8 +164,10 @@ p {
   list-style-type: none;
 }
 
-.course-info1 h3,
-.course-info2 h3,
+.type3-info1 h3,
+.type3-info2 h3,
+.type4-info1 h3,
+.type4-info2 h3,
 .assignment h3,
 .item h4 {
   border-bottom: 1px solid var(--lightgrey);
@@ -174,8 +178,11 @@ p {
   font-family: "FiraSans-Medium";
 }
 
-.course-info1 h3,
-.course-info2 h3 {
+.type3-info1 h3,
+.type3-info2 h3,
+.type4-info1 h3,
+.type4-info2 h3,
+.assignment h3 {
   border-bottom: 3px solid var(--lightgrey);
   padding-bottom: 1rem;
 }
