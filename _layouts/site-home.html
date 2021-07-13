@@ -1,123 +1,28 @@
 <html>
-<head>
-	{% include head.html %} 
-	<link rel="stylesheet" href="{{site.url}}/css/site-home.css" type="text/css" />
-</head>
-<body>
-<div id="grid">
-	<nav><a href="">Assignments</a></nav>
-	<div class="site-id1">
-		<a href="{{ site.url }}" class="site-id">Type<sup>3</sup></a> 
-	</div>
-	<div class="site-id2">
-		&nbsp; 
-	</div>
-	<div class="course-info1">
-		{% include course-info1.html %}
-	</div>
-	<div class="course-info2">
-		{% include course-info2.html%} 
-	</div>
-	<div class="assignment assignment1">
-		<h3>
-			{% for pageName in site.assignment1 %} {% if pageName.url contains 'index' %} <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-		</h3>
-		<ul>
-			{% assign allPages = site.assignment1 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-			<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
-			{% endif %} {% endfor %} 
-		</ul>
-	</div>
-	<div class="assignment assignment2">
-		<h3>
-			{% for pageName in site.assignment2 %} {% if pageName.url contains 'index' %} <a href="{{ site.url }}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-		</h3>
-		<ul>
-			{% assign allPages = site.assignment2 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-			<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
-			{% endif %} {% endfor %}
-		</ul>
-	</div>
-	<div class="assignment assignment3">
-		<h3>
-			{% for pageName in site.assignment3 %} {% if pageName.url contains 'index' %} <a href="{{ site.url }}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-		</h3>
-		<ul>
-			{% assign allPages = site.assignment3 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-			<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
-			{% endif %} {% endfor %} 
-		</ul>
-	</div>
-	<div class="assignment assignment4">
-		<h3>
-			{% for pageName in site.assignment4 %} {% if pageName.url contains 'index' %} <a href="{{ site.url }}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-		</h3>
-		<ul>
-			{% assign allPages = site.assignment4 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-			<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
-			{% endif %} {% endfor %} 
-		</ul>
-	</div>
-	<div class="assignment assignment5">
-		<h3>
-			{% for pageName in site.assignment5 %} {% if pageName.url contains 'index' %} <a href="{{ site.url }}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-		</h3>
-		<ul>
-			{% assign allPages = site.assignment5 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-			<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
-			{% endif %} {% endfor %} 
-		</ul>
-	</div>
-	<div class="assignment assignment6">
-		<h3>
-			{% for pageName in site.assignment6 %} {% if pageName.url contains 'index' %} <a href="{{ site.url }}{{ pageName.url }}">{{ pageName.title }}</a> {% endif %} {% endfor %} 
-		</h3>
-		<ul>
-			{% assign allPages = site.assignment6 | sort: 'sortorder' %} {% for item in allPages %} {% if item.type != 'topic-home' %} 
-			<li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
-			{% endif %} {% endfor %} 
-		</ul>
-	</div>
-	<div class="item item1">
-		<h4><a href="{{ site.url }}{{ site.data.micro-assignments.pages[0].url }}">{{ site.data.micro-assignments.pages[0].title }}</a>
-		</h4>
-		<p>
-			{{ site.data.micro-assignments.pages[0].deck }}
-		</p>
-	</div>
-	<div class="item item2">
-		<h4><a href="{{ site.url }}{{ site.data.micro-assignments.pages[1].url }}">{{ site.data.micro-assignments.pages[1].title }}</a>
-		</h4>
-		<p>
-			{{ site.data.micro-assignments.pages[1].deck }}
-		</p>
-	</div>
-	<div class="item item3">
-		<h4><a href="{{ site.url }}{{ site.data.micro-assignments.pages[2].url }}">{{ site.data.micro-assignments.pages[2].title }}</a>
-		</h4>
-		<p>
-			{{ site.data.micro-assignments.pages[2].deck }}
-		</p>
-	</div>
-	<div class="item item4">
-		<h4><a href="{{ site.url }}{{ site.data.micro-assignments.pages[3].url }}">{{ site.data.micro-assignments.pages[3].title }}</a>
-		</h4>
-		<p>
-			{{ site.data.micro-assignments.pages[3].deck }}
-		</p>
-	</div>
-	<div class="footer1">
-		{% include footer1.html %} 
-	</div>
-	<div class="footer2">
-		{% include footer2.html %} 
-	</div>
-	<div class="footer3">
-		{% include footer3.html %} 
-	</div>
-	<div class="footer4">
-		{% include footer4.html %} 
-	</div>
-</div>
-</body>
+  <head>
+    {% include head.html %}
+    <link rel="stylesheet" href="{{site.url}}/css/grid-site-home.css" type="text/css" />
+  </head>
+  <body>
+    <div id="grid">
+      <div class="type3-id">
+        <a href="{{ site.url }}" class="site-id">Type<sup>3</sup></a>
+      </div>
+      <div class="site-id2">&nbsp;</div>
+      <div class="type3-info1">{% include course-info1.html %}</div>
+      <div class="type3-info2">{% include course-info2.html%}</div>
+      <div class="type3-content"><h1>Content</h1></div>
+      <div class="type4-id">
+        <a href="{{ site.url }}" class="site-id">Type<sup>4</sup></a>
+      </div>
+      <div class="type4-id2">&nbsp;</div>
+      <div class="type4-info1">{% include course-info1.html %}</div>
+      <div class="type4-info2">{% include course-info2.html%}</div>
+      <div class="type4-content"><h1>Content</h1></div>
+      <div class="footer1">{% include footer1.html %}</div>
+      <div class="footer2">{% include footer2.html %}</div>
+      <div class="footer3">{% include footer3.html %}</div>
+      <div class="footer4">{% include footer4.html %}</div>
+    </div>
+  </body>
 </html>

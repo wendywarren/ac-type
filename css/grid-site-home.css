@@ -1,117 +1,102 @@
-#grid
-{
-	display: grid;
-	grid-template-columns: 1fr;
-	grid-template-columns: auto;
-	grid-gap: 1rem;
-	grid-template-areas:
-	'site-id1'
-	'course-info1'
-	'course-info2'
-	'content'
-	'footer1'
-	'footer2'
-	'footer3'
-	'footer4';
+#grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1rem;
+  grid-template-areas:
+    "type3-id"
+    "type3-info1"
+    "type3-info2"
+    "type3-content"
+    "type4-id"
+    "type4-info1"
+    "type4-info2"
+    "type4-content"
+    "footer1"
+    "footer2"
+    "footer3"
+    "footer4";
 }
 
-.site-id1 { grid-area: site-id1; }
-.course-info1 { grid-area: course-info1; }
-.course-info2 { grid-area: course-info2; }
-.content { grid-area: content; }
-.footer1 { grid-area: footer1; }
-.footer2 { grid-area: footer2; }
-.footer3 { grid-area: footer3; }
-.footer4 { grid-area: footer4; }
+.type3-id {
+  grid-area: type3-id;
+}
+.type3-info1 {
+  grid-area: type3-info1;
+}
+.type3-info2 {
+  grid-area: type3-info2;
+}
+.type3-content {
+  grid-area: type3-content;
+}
+.type4-id {
+  grid-area: type4-id;
+}
+.type4-info1 {
+  grid-area: type4-info1;
+}
+.type4-info2 {
+  grid-area: type4-info2;
+}
+.type4-content {
+  grid-area: type4-content;
+}
+.footer1 {
+  grid-area: footer1;
+}
+.footer2 {
+  grid-area: footer2;
+}
+.footer3 {
+  grid-area: footer3;
+}
+.footer4 {
+  grid-area: footer4;
+}
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
-/* * * * * * * * * * 400px – 608px * * * * * * * * * */
+/* * * * * * * * * * 480px – 608px * * * * * * * * * */
 
-@media only screen and (min-width: 25em)
-{
-	#grid
-	{
-		grid-template-columns: 1fr 1fr;
-		grid-template-areas:
-		'site-id1 .'
-		'course-info1 .'
-		'course-info2 .'
-		'content .'
-		'footer1 footer2'
-		'footer3 footer4';
-	}
-
-	.course-info1 { grid-area: 2 / 1 / auto / span 2; }
-	.course-info2 { grid-area: 3 / 1 / auto / span 2; }
-	.content
-	{
-		grid-column-start: 1;
-		grid-column-end: -1;
-	}
+@media only screen and (min-width: 30em) {
+  #grid {
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "type3-id ."
+      "type3-info1 type3-info2"
+      "type3-content ."
+      "type4-id ."
+      "type4-info1 type4-info2"
+      "type4-content ."
+      "footer1 footer2"
+      "footer3 footer4";
+  }
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
 
-@media only screen and (min-width: 42em)
-{
-	#grid
-	{
-		grid-template-columns: 1fr 1fr 1fr;
-		grid-template-areas:
-		'site-id1 course-info1 course-info2'
-		'content . .'
-		'footer1 footer2 footer3'
-		'footer4 . .';
-	}
-
-	.site-id1 {	grid-area: 1 / 1; }
-	.course-info1 { grid-area: 1 / 2 / 2 / 2; }
-	.course-info2 { grid-area: 1 / 3; }
-	.content { grid-area: 3 / 1 / 2 / -1; }
+@media only screen and (min-width: 42em) {
+  #grid {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+      "type3-id type3-info1 type3-info2"
+      "type3-content . ."
+      "type4-id type4-info1 type4-info2"
+      "type4-content . ."
+      "footer1 footer2 footer3"
+      "footer4 . .";
+  }
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
 
-@media only screen and (min-width: 60em)
-{
-	#grid
-	{
-		grid-template-columns: 1fr 1fr 1fr 1fr;
-		grid-template-areas:
-		'site-id1 . course-info1 course-info2'
-		'content .  assignment1 assignment2'
-		'. .        assignment3 assignment4'
-		'. .        assignment5 assignment6'
-		'. .        item1 item2'
-		'. .        item3 item4'
-		'. .        . . '
-		'. .        . . '
-		'. .        . . '
-		'. .        . . '
-		'. .        . . '
-		'. .        . . '
-		'. .        . . '
-		'. .        . . '
-		'. .        . . '		
-		'footer1 footer2 footer3 footer4';
-	}
-
-	.site-id1 {	grid-area: 1 / 1 / auto / span 2; }
-	.course-info1 { grid-area: 1 / 3; }
-	.course-info2 { grid-area: 1 / 4; }
-	.content { grid-area: 2 / 1 / 16 / 3; }
-}
-
-/* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
-
-@media only screen and (min-width: 90em)
-{
-	#grid
-	{
-		grid-template-columns: 1fr 1fr 1fr 1fr;
-		grid-template-areas:
-		'site-id1 . course-info1 course-info2'
-		'content'
-		'footer1 footer2 footer3 footer4';
-	}
+@media only screen and (min-width: 60em) {
+  #grid {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+      "type3-id . type3-info1 type3-info2"
+      "type3-content .  .  ."
+      "type4-id . type4-info1 type4-info2"
+      "type4-content .  .  ."
+      "footer1 footer2 footer3 footer4";
+  }
 }
