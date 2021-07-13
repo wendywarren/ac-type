@@ -41,7 +41,7 @@ img {
 
 /* END SVG Styles */
 
-.columns2 {
+.columns {
   columns: 2 10rem;
   column-gap: 1rem;
   margin-left: 1rem;
