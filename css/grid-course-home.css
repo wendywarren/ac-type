@@ -83,8 +83,6 @@ nav { padding: .5rem 0; }
 		'footer1 footer2 footer3'
 		'footer4 . .';
 	}
-
-	
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
@@ -101,11 +99,4 @@ nav { padding: .5rem 0; }
 		'assignment5 assignment6 . .'
 		'footer1 footer2 footer3 footer4';
 	}
-
-}
-
-/* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
-@media only screen and (min-width: 90em)
-{
-
 }
