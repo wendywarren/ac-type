@@ -1,0 +1,111 @@
+#grid
+{
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-columns: auto;
+	grid-gap: 1rem;
+	grid-template-areas:
+	'nav'
+	'site-id1'
+	'course-info1'
+	'course-info2'
+	'assignment1'
+	'assignment2'
+	'assignment3'
+	'assignment4'
+	'assignment5'
+	'assignment6'
+	'item1'
+	'item2'
+	'item3'
+	'item4'
+	'footer1'
+	'footer2'
+	'footer3'
+	'footer4';
+}
+
+nav { padding: .5rem 0; }
+.site-id1 { grid-area: site-id1; }
+.course-info1 { grid-area: course-info1; }
+.course-info2 { grid-area: course-info2; }
+.assignment1 { grid-area: assignment1; }
+.assignment2 { grid-area: assignment2; }
+.assignment3 { grid-area: assignment3; }
+.assignment4 { grid-area: assignment4; }
+.assignment5 { grid-area: assignment5; }
+.assignment6 { grid-area: assignment6; }
+.item1 { grid-area: item1; }
+.item2 { grid-area: item2; }
+.item3 { grid-area: item3; }
+.item4 { grid-area: item4; }
+.footer1 { grid-area: footer1; }
+.footer2 { grid-area: footer2; }
+.footer3 { grid-area: footer3; }
+.footer4 { grid-area: footer4; }
+
+/* * * * * * * * * * Media Queries * * * * * * * * * */
+/* * * * * * * * * * 480px – 608px * * * * * * * * * */
+
+@media only screen and (min-width: 30em)
+{
+	#grid
+	{
+		grid-template-columns: 1fr 1fr;
+		grid-template-areas:
+		'nav nav'
+		'site-id1 .'
+		'course-info1 course-info2'
+		'assignment1 assignment2'
+		'assignment3 assignment4'
+		'assignment5 assignment6'
+		'item1 item2'
+		'item3 item4'
+		'footer1 footer2'
+		'footer3 footer4';
+	}
+	
+}
+
+/* * * * * * * * * * 608px – 960px * * * * * * * * * */
+@media only screen and (min-width: 42em)
+{
+	#grid
+	{
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-areas:
+		'nav nav nav'
+		'site-id1 course-info1 course-info2'
+		'assignment1 assignment2 assignment3'
+		'assignment4 assignment5 assignment6'
+		'item1 item2 item3'
+		'item4 . .'
+		'footer1 footer2 footer3'
+		'footer4 . .';
+	}
+
+	
+}
+
+/* * * * * * * * * * 960px – 1440px * * * * * * * * * */
+@media only screen and (min-width: 60em)
+{
+	#grid
+	{
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-areas:
+		'nav nav nav nav'
+		'site-id1 . course-info1 course-info2'
+		'assignment1 assignment2 item1 item2'
+		'assignment3 assignment4 item3 item4'
+		'assignment5 assignment6 . .'
+		'footer1 footer2 footer3 footer4';
+	}
+
+}
+
+/* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
+@media only screen and (min-width: 90em)
+{
+
+}
