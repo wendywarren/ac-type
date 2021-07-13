@@ -16,7 +16,7 @@
       <div class="type3-info1">{% include course-info1.html %}</div>
       <div class="type3-info2">{% include course-info2.html%}</div>
       <div class="type3-content">
-        <h1>{{ site.data.metadata.courses[0].title }}</h1>
+        {{ site.data.metadata.courses[0].title }} content
       </div>
       <div class="type4-id">
         <a href="{{ site.url }}/type4.html" class="site-id">Type<sup>4</sup></a>
@@ -24,10 +24,9 @@
       <div class="type4-id2">&nbsp;</div>
       <div class="type4-info1">{% include course-info1.html %}</div>
       <div class="type4-info2">{% include course-info2.html%}</div>
-      <div class="type4-content"><h1>Content</h1></div>
-      <footer>
+      <div class="type4-content">
+        {{ site.data.metadata.courses[1].title }} content
+      </div>
       {% include footer.html %}
-      </footer>
-    </div>
   </body>
 </html>

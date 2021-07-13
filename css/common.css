@@ -61,8 +61,7 @@ img {
   margin-top: 2rem;
 }
 
-.assignment,
-.item {
+.assignment, .item {
   margin-top: 1rem;
 }
 
@@ -102,9 +101,9 @@ td.topic-row {
 }
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
-/* * * * * * * * * * 400px – 608px * * * * * * * * * */
+/* * * * * * * * * * 480px – 608px * * * * * * * * * */
 
-@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 30em) {
   .footer2 {
     border-top: 6px solid var(--lightgrey);
     padding-top: 1rem;
@@ -118,8 +117,7 @@ td.topic-row {
   body {
     padding-top: 0.5rem;
   }
-  .footer3,
-  .footer4 {
+  .footer3, .footer4 {
     border-top: 6px solid var(--lightgrey);
     padding-top: 1rem;
     margin-top: 2rem;

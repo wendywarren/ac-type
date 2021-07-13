@@ -1,25 +1,26 @@
-<div class="footer1">
-	<a href="{{ site.url }}" class="site-id">Typography<sup>3</sup></a> 
-</div>
-<div class="footer2">
+<span class="footer1">
+	<a href="{{ site.url }}" class="">Typography<sup>3</sup></a> 
+</span>
+<span class="footer2">
+	<h4>Faculty</h4>
 	<ul>
 		<li>{{ site.data.metadata.courses[0].prof }}</li>
 		<li><a href="mailto:{{ site.data.metadata.courses[0].email }}">{{ site.data.metadata.courses[0].email }}</a>&nbsp;<a href="{{site.url}}/scratchpad.html" title="ScratchPad">§</a></li>
 	</ul>
-</div>
-<div class="footer3">
-	<h3>Other program web sites</h3>
+</span>
+<span class="footer3">
+	<h4>Other program web sites</h4>
 	<ul>
 	{% for link in site.data.metadata.program-links %}
 	<li><a href="{{ link.url }}" title="{{ link.name }}" class="">{{ link.name }}</a></li>
 	{% endfor %}
 	</ul>
-</div>
-<div class="footer4">
-	<h3>Other college web sites</h3>
+</span>
+<span class="footer4">
+	<h4>Other college web sites</h4>
 	<ul>
 	{% for link in site.data.metadata.college-links %}
 	<li><a href="{{ link.url }}" title="{{ link.name }}" class="">{{ link.name }}</a></li>
 	{% endfor %}
 	</ul>
-</div>
+</span>

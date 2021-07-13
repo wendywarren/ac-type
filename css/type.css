@@ -63,18 +63,10 @@ blockquote {
   color: var(--mediumgrey);
 }
 
-.site-id,
-.footer1 {
+.site-id {
   font-weight: normal;
   font-family: "FiraSans-UltraItalic";
   font-size: 6rem;
-}
-
-.footer1 {
-  font-size: 1.5rem;
-}
-.site-id > sup {
-  font-family: "FiraSans-MediumItalic";
 }
 
 a.site-id,
@@ -154,8 +146,7 @@ p {
 }
 
 .assignment ul,
-.item ul,
-.footer-item {
+.item ul {
   margin: 0;
   padding: 0;
 }
@@ -225,6 +216,8 @@ strong {
 }
 
 dt {
+  font-style: normal;
+  font-weight: normal;
   font-family: "FiraSans-Medium";
   margin-top: 0.5em;
   margin-left: 1rem;
@@ -237,21 +230,24 @@ dd {
 
 code {
   background: #ededed;
+  font-style: normal;
+  font-weight: normal;
   font-family: "FiraMono-Medium";
   padding: 0.2em 0.5rem;
   border-radius: 4px;
   border: 1px solid lightgrey;
 }
 
-footer div:nth-child(1) {
-  font-weight: normal;
-  font-family: "FiraSans-UltraItalic";
-  font-size: 2rem;
+.footer1 ul, .footer2 ul, .footer3 ul, .footer4 ul {
+  margin-left: 0;
+  padding-left: 0;
+  margin-top: .5rem;
+  padding-top: 0;
 }
 
-.footer2 li:nth-child(1),
-.footer3 li:nth-child(1),
-.footer4 li:nth-child(1) {
+.footer1 h4, .footer2 h4, .footer3 h4, .footer4 h4 {
+  font-style: normal;
+  font-weight: normal;
   font-family: "FiraSans-MediumItalic";
 }
 
@@ -272,7 +268,7 @@ footer div:nth-child(1) {
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
 
 @media only screen and (min-width: 60em) {
-  .site-id1 {
+  .site-id {
     font-size: 7rem;
   }
 }
