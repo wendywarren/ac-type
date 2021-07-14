@@ -13,8 +13,16 @@
         <a href="{{ site.url }}/type3.html" class="site-id">Type<sup>3</sup></a>
       </div>
       <div class="site-id2">&nbsp;</div>
-      <div class="type3-info1">{% include course-info1.html %}</div>
-      <div class="type3-info2">{% include course-info2.html%}</div>
+      <div class="type3-info1">
+      <h3>About This Course</h3>
+        {{ site.data.metadata.courses[0].coursecode }} {{ site.data.metadata.courses[0].title }}<br>
+        Hours: {{ site.data.metadata.courses[0].hours }}<br>
+        Prof: {{ site.data.metadata.courses[0].prof }}<br>
+      </div>
+      <div class="type3-info2">
+      <h3>&nbsp;</h3>
+        {{ site.data.metadata.courses[0].course-description }}
+      </div>
       <div class="type3-content">
         {{ site.data.metadata.courses[0].title }} content
       </div>
@@ -22,8 +30,16 @@
         <a href="{{ site.url }}/type4.html" class="site-id">Type<sup>4</sup></a>
       </div>
       <div class="type4-id2">&nbsp;</div>
-      <div class="type4-info1">{% include course-info1.html %}</div>
-      <div class="type4-info2">{% include course-info2.html%}</div>
+      <div class="type4-info1">
+        <h3>About This Course</h3>
+          {{ site.data.metadata.courses[1].coursecode }} {{ site.data.metadata.courses[1].title }}<br>
+          Hours: {{ site.data.metadata.courses[1].hours }}<br>
+          Prof: {{ site.data.metadata.courses[1].prof }}<br>
+        </div>
+        <div class="type4-info2">
+        <h3>&nbsp;</h3>
+          {{ site.data.metadata.courses[1].course-description }}
+        </div>
       <div class="type4-content">
         {{ site.data.metadata.courses[1].title }} content
       </div>
