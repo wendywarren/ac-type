@@ -10,11 +10,11 @@
   <body>
     <div id="grid">
       <div class="site-id1">
-		{% if page.level == '3' %}
+		{% if page.level == site.level %}
         <a href="{{ site.url }}" class="site-id">Type<sup>3</sup></a>
 		{% endif %}
 		{% if page.level == '4' %}
-        <a href="{{ site.url }}" class="site-id">Type<sup>4</sup></a>
+        <a href="{{ site.url }}/type-3.html" class="site-id">Type<sup>4</sup></a>
 		{% endif %}
       </div>
       <div class="site-id2">&nbsp;</div>
@@ -22,7 +22,7 @@
       <div class="course-info2">{% include course-info2.html %}</div>
       <div class="assignment assignment1">
         <h3>
-          {% for pageName in site.assignment1 %} {% if pageName.name contains
+          {% for pageName in site.assignment1 %} {% if pageName.url contains
           'index' %}
           <a href="{{ site.url}}{{ pageName.url }}">{{ pageName.title }}</a> {%
           endif %} {% endfor %}
