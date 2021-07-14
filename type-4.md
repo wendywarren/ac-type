@@ -1,5 +1,5 @@
 ---
 layout: course-home
-type: home
+type: course-home
 title: Typography 4
 ---
