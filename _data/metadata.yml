@@ -3,7 +3,6 @@ courses:
     shortname: Type 3
     level: "3"
     hours: "43"
-    url: /type3.html
     coursecode: DSN1534
     prof: "Alain Paradis"
     email: "paradia@algonquincollege.com"
@@ -14,7 +13,6 @@ courses:
     shortname: Type 4
     level: "4"
     hours: "43"
-    url: /type4.html
     coursecode: DSN1540
     prof: "Alain Paradis"
     email: "paradia@algonquincollege.com"
