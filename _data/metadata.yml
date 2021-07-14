@@ -2,22 +2,24 @@ courses:
   - title: Typography 3
     shortname: Type 3
     level: "3"
+    hours: "43"
     url: /type3.html
     coursecode: DSN1534
     prof: "Alain Paradis"
     email: "paradia@algonquincollege.com"
     position: "Program Coordinator, Professor"
-    course-description: "This is the sixth and final assignment"
+    course-description: "Proficient typesetting allows a designer to compose and structure complex passages of content that are visually appealing in order to allow the information to be easily followed. Students combine text and imagery to craft professional layouts and informational documents. "
     brightspace: "https://brightspace.algonquincollege.com/d2l/home"
   - title: Typography 4
     shortname: Type 4
     level: "4"
+    hours: "43"
     url: /type4.html
     coursecode: DSN1540
     prof: "Alain Paradis"
     email: "paradia@algonquincollege.com"
     position: "Program Coordinator, Professor"
-    course-description: "This is the sixth and final assignment"
+    course-description: "Building on the basics of typography, students explore type as craft by experimenting with handmade letters, designing glyphs, and using type as a form of visual expression. Students enhance their sensitivity to the shapes and uses of letters within print and multimedia by working on projects that include creating 3-dimensional type, decorative layouts with a variety of materials and exploring innovative ways of using letterforms."
     brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 program-links:
   - name: "Algonquin Design"
