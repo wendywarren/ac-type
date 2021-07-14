@@ -1,8 +1,8 @@
 courses:
   - title: Typography 3
     shortname: Type 3
-    level: "3"
-    hours: "43"
+    level: 3
+    hours: 43
     coursecode: DSN1534
     prof: "Alain Paradis"
     email: "paradia@algonquincollege.com"
@@ -11,8 +11,8 @@ courses:
     brightspace: "https://brightspace.algonquincollege.com/d2l/home"
   - title: Typography 4
     shortname: Type 4
-    level: "4"
-    hours: "43"
+    level: 4
+    hours: 43
     coursecode: DSN1540
     prof: "Alain Paradis"
     email: "paradia@algonquincollege.com"
