@@ -18,13 +18,13 @@
       <div class="content">
         <h1>{{ page.title }}</h1>
         <div class="uppercase">
-          {% if page.type == 'topic-home' %} {{ page.assignment | replace: '_',
+          {% if page.type == 'assignment-home' %} {{ page.assignment | replace: '_',
           ' ' }} {% endif %} {% if page.type == 'subpage' %} {{ page.assignment
           }} {% endif %}
         </div>
         <div class="deck">{{ page.deck }}</div>
         <div id="content">
-          {% if page.type == 'topic-home' %}
+          {% if page.type == 'assignment-home' %}
           <h2>The Brief</h2>
           {% endif %} {{ content }}
         </div>
@@ -38,7 +38,7 @@
         </h3>
         <ul>
           {% assign allPages = site.assignment1 | sort: 'sortorder' %} {% for
-          item in allPages %} {% if item.type != 'topic-home' %}
+          item in allPages %} {% if item.type != 'assignment-home' %}
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %} {% endfor %}
         </ul>
@@ -52,7 +52,7 @@
         </h3>
         <ul>
           {% assign allPages = site.assignment2 | sort: 'sortorder' %} {% for
-          item in allPages %} {% if item.type != 'topic-home' %}
+          item in allPages %} {% if item.type != 'assignment-home' %}
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %} {% endfor %}
         </ul>
@@ -66,7 +66,7 @@
         </h3>
         <ul>
           {% assign allPages = site.assignment3 | sort: 'sortorder' %} {% for
-          item in allPages %} {% if item.type != 'topic-home' %}
+          item in allPages %} {% if item.type != 'assignment-home' %}
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %} {% endfor %}
         </ul>
@@ -80,7 +80,7 @@
         </h3>
         <ul>
           {% assign allPages = site.assignment4 | sort: 'sortorder' %} {% for
-          item in allPages %} {% if item.type != 'topic-home' %}
+          item in allPages %} {% if item.type != 'assignment-home' %}
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %} {% endfor %}
         </ul>
@@ -94,7 +94,7 @@
         </h3>
         <ul>
           {% assign allPages = site.assignment5 | sort: 'sortorder' %} {% for
-          item in allPages %} {% if item.type != 'topic-home' %}
+          item in allPages %} {% if item.type != 'assignment-home' %}
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %} {% endfor %}
         </ul>
@@ -108,7 +108,7 @@
         </h3>
         <ul>
           {% assign allPages = site.assignment6 | sort: 'sortorder' %} {% for
-          item in allPages %} {% if item.type != 'topic-home' %}
+          item in allPages %} {% if item.type != 'assignment-home' %}
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %} {% endfor %}
         </ul>
