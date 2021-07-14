@@ -13,7 +13,7 @@
 		{% if page.level == site.level %}
         <a href="{{ site.url }}" class="site-id">Type<sup>3</sup></a>
 		{% endif %}
-		{% if page.level == '4' %}
+		{% if page.url contains 'type-4' %}
         <a href="{{ site.url }}/type-3.html" class="site-id">Type<sup>4</sup></a>
 		{% endif %}
       </div>

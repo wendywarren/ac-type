@@ -1,4 +1,14 @@
 <h3>About This Course</h3>
-<div>DSN1534 Typography 3</div>
-<div>43 hours</div>
-<div>Prof: Alain Paradis</div>
+{% if page.level == 3 %}
+<div>
+  {{ site.data.metadata.courses[0].coursecode }} {{ site.data.metadata.courses[0].title }}
+</div>
+<div>Hours: {{ site.data.metadata.courses[0].hours }}</div>
+<div>Prof: {{ site.data.metadata.courses[0].prof }}</div>
+{% elsif page.level == 4 %}
+<div>
+    {{ site.data.metadata.courses[1].coursecode }} {{ site.data.metadata.courses[1].title }}
+  </div>
+  <div>Hours: {{ site.data.metadata.courses[1].hours }}</div>
+  <div>Prof: {{ site.data.metadata.courses[1].prof }}</div>
+{% endif %}
