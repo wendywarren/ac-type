@@ -20,7 +20,6 @@ collections:
     output: true
   assignment6:
     output: true
-
 exclude:
   - .sass-cache/
   - .jekyll-cache/
