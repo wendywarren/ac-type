@@ -1,5 +1,6 @@
 ---
 layout: subpage
+level: 3
 type: subpage
 title: "Page Construction"
 assignment: "X-Height Newsletter"

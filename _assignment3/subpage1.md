@@ -1,5 +1,6 @@
 ---
 layout: subpage
+level: 3
 type: subpage
 title: "Gridify Our Page"
 assignment: "Assignment 3"

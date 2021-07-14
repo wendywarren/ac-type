@@ -1,5 +1,6 @@
 ---
 layout: subpage
+level: 3
 type: subpage
 title: "Build Out the Site"
 assignment: "Assignment 5"

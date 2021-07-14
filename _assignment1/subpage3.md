@@ -1,5 +1,6 @@
 ---
 layout: subpage
+level: 3
 type: subpage
 title: "Build the Design"
 assignment: "Grimm Fairy Tales"

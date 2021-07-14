@@ -1,6 +1,7 @@
 ---
 layout: subpage
-type: topic-home
+level: 3
+type: assignment-home
 title: "Grimm Dust Cover"
 assignment: "Assignment 1"
 sortorder: 1.0

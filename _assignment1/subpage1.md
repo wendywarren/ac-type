@@ -1,5 +1,6 @@
 ---
 layout: subpage
+level: 3
 type: subpage
 title: "The Foundational Space"
 assignment: "Grimm Fairy Tales"

@@ -1,6 +1,7 @@
 ---
 layout: subpage
-type: topic-home
+level: 3
+type: assignment-home
 title: "Online Manual"
 assignment: "Assignment 5"
 sortorder: 1.0

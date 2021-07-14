@@ -1,5 +1,6 @@
 ---
 layout: subpage
+level: 3
 type: subpage
 title: "Assembly Work"
 assignment: "Assignment 3"

@@ -1,5 +1,6 @@
 ---
 layout: subpage
+level: 3
 type: subpage
 title: "Type Hierarchy"
 assignment: "Assignment 3"

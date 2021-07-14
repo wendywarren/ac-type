@@ -1,6 +1,7 @@
 ---
 layout: subpage
-type: topic-home
+level: 3
+type: assignment-home
 title: "Manual Design"
 assignment: "Assignment 3"
 sortorder: 4.0

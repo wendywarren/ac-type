@@ -1,5 +1,6 @@
 ---
 layout: subpage
+level: 3
 type: deliverables
 title: "Deliverables"
 assignment: "Assignment 4"
