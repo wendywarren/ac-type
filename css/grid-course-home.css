@@ -4,7 +4,6 @@
   grid-template-columns: auto;
   grid-gap: 1rem;
   grid-template-areas:
-    "nav"
     "site-id1"
     "course-info1"
     "course-info2"
@@ -24,9 +23,6 @@
     "footer4";
 }
 
-nav {
-  padding: 0.5rem 0;
-}
 .site-id1 {
   grid-area: site-id1;
 }
@@ -86,7 +82,6 @@ nav {
   #grid {
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
-      "nav nav"
       "site-id1 ."
       "course-info1 course-info2"
       "assignment1 assignment2"
@@ -104,7 +99,6 @@ nav {
   #grid {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas:
-      "nav nav nav"
       "site-id1 course-info1 course-info2"
       "assignment1 assignment2 assignment3"
       "assignment4 assignment5 assignment6"
@@ -120,7 +114,6 @@ nav {
   #grid {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas:
-      "nav nav nav nav"
       "site-id1 . course-info1 course-info2"
       "assignment1 assignment2 item1 item2"
       "assignment3 assignment4 item3 item4"
