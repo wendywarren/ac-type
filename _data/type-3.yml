@@ -1,7 +1,7 @@
 assignments:
 # Grimm Dust Cover
   - title: "Grimm Dust Cover"
-    url: "/grimm-dust-cover/index.html"
+    url: /grimm-dust-cover/index.html
     sortorder: 1
     level: 3
     # Subpages
@@ -33,7 +33,7 @@ assignments:
         url: /grimm-dust-cover/deliverables.html
 # Newsletter
   - title: "Newsletter"
-    url: "newsletter/index.html"
+    url: newsletter/index.html
     sortorder: 3
     # Subpages
     pages:
@@ -51,7 +51,7 @@ assignments:
         url: /newsletter/deliverables.html
 # Assignment Four
   - title: "Assignment Four"
-    url: "/assignmentFour/index.html"
+    url: /assignmentFour/index.html
     level: 3
     # Subpages
     pages:
@@ -65,7 +65,7 @@ assignments:
         url: /assignmentFour/deliverables.html
 # Assignment Five
   - title: "Assignment Five"
-    url: "/assignmentFive/index.html"
+    url: /assignmentFive/index.html
     level: 3
     # Subpages
     pages:
@@ -79,7 +79,7 @@ assignments:
         url: /assignmentFive/deliverables.html
 # Assignment Six
   - title: "Assignment Six"
-    url: "/assignmentSix/index.html"
+    url: /assignmentSix/index.html
     level: 3
     # Subpages
     pages:

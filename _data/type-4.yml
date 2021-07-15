@@ -1,7 +1,7 @@
 assignments:
 # Assignment One
   - title: "Assignment One"
-    url: "/assignmentOne/index.html"
+    url: /assignmentOne/index.html
     sortorder: 1
     level: 4
     # Subpages
@@ -16,7 +16,7 @@ assignments:
         url: /assignmentOne/deliverables.html
 # Assignment Two
   - title: "Assignment Two"
-    url: "/assignmentTwo/index.html"
+    url: /assignmentTwo/index.html
     level: 4
     # Subpages
     pages:
@@ -30,7 +30,7 @@ assignments:
         url: /assignmentTwo/deliverables.html
 # Assignment Three
   - title: "Assignment Three"
-    url: "/assignmentThree/index.html"
+    url: /assignmentThree/index.html
     level: 4
     # Subpages
     pages:
@@ -44,7 +44,7 @@ assignments:
         url: /assignmentThree/deliverables.html
 # Assignment Four
   - title: "Assignment Four"
-    url: "/assignmentFour/index.html"
+    url: /assignmentFour/index.html
     level: 4
     # Subpages
     pages:
@@ -58,7 +58,7 @@ assignments:
         url: /assignmentFour/deliverables.html
 # Assignment Five
   - title: "Assignment Five"
-    url: "/assignmentFive/index.html"
+    url: /assignmentFive/index.html
     level: 4
     # Subpages
     pages:
@@ -72,7 +72,7 @@ assignments:
         url: /assignmentFive/deliverables.html
 # Assignment Six
   - title: "Assignment Six"
-    url: "/assignmentSix/index.html"
+    url: /assignmentSix/index.html
     level: 4
     # Subpages
     pages:
