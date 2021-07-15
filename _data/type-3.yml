@@ -33,7 +33,7 @@ assignments:
         url: /grimm-dust-cover/deliverables.html
 # Newsletter
   - title: "Newsletter"
-    url: newsletter/index.html
+    url: /newsletter/index.html
     sortorder: 3
     # Subpages
     pages:
