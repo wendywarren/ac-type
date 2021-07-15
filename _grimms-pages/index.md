@@ -1,7 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: assignment-home
+level: 3
 title: "Grimm's Pages"
 assignment: "Assignment 2"
 sortorder: 2.0

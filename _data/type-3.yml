@@ -50,25 +50,44 @@ assignments:
       - title: "Deliverables"
         url: /newsletter/deliverables.html
 # Assignment Four
-  - title: Assignment Four
-    sortorder: 4
+  - title: "Assignment Four"
+    url: "/assignmentFour/index.html"
     level: 3
     # Subpages
     pages:
-      - title: "Some Page Title"
-        url: /assignment1/subpage1.html
+      - title: "First Subpage"
+        url: /assignmentFour/subpage1.html
+      - title: "Second Subpage"
+        url: /assignmentFour/subpage2.html
+      - title: "Third Subpage"
+        url: /assignmentFour/subpage3.html
+      - title: "Deliverables"
+        url: /assignmentFour/deliverables.html
 # Assignment Five
-  - title: Assignment Five
+  - title: "Assignment Five"
+    url: "/assignmentFive/index.html"
     level: 3
     # Subpages
     pages:
-      - title: "Some Page Title"
-        url: /assignment1/subpage1.html
+      - title: "First Subpage"
+        url: /assignmentFive/subpage1.html
+      - title: "Second Subpage"
+        url: /assignmentFive/subpage2.html
+      - title: "Third Subpage"
+        url: /assignmentFive/subpage3.html
+      - title: "Deliverables"
+        url: /assignmentFive/deliverables.html
 # Assignment Six
-  - title: Assignment Six
-    sortorder: 6
+  - title: "Assignment Six"
+    url: "/assignmentSix/index.html"
     level: 3
     # Subpages
     pages:
-      - title: "Some Page Title"
-        url: /assignment1/subpage1.html
+      - title: "First Subpage"
+        url: /assignmentSix/subpage1.html
+      - title: "Second Subpage"
+        url: /assignmentSix/subpage2.html
+      - title: "Third Subpage"
+        url: /assignmentSix/subpage3.html
+      - title: "Deliverables"
+        url: /assignmentSix/deliverables.html

@@ -1,7 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: subpage
+level: 3
 title: "Type Selection"
 assignment: "Grimm's Pages"
 sortorder: 2.2

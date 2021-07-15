@@ -1,7 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: subpage
+level: 3
 title: "Content Inventory"
 assignment: "X-Height Newsletter"
 sortorder: 4.1

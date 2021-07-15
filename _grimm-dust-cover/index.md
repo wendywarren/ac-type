@@ -1,7 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: assignment-home
+level: 3
 title: "Grimm Dust Cover"
 assignment: "Assignment 1"
 sortorder: 1.0

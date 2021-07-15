@@ -1,9 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: assignment-home
-assignment: "Assignment 3"
-sortorder: 4.0
+level: 3
 deck: "Let the content inspire your design. In this text-only publication, we'll pay special attention to creating an engaging long document with text only."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative

@@ -1,7 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: subpage
+level: 3
 title: "Design File Structure"
 assignment: "Assignment 5"
 sortorder: 5.2

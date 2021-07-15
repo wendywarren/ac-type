@@ -1,7 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: assignment-home
+level: 3
 title: "Some Assignment"
 assignment: "Assignment 6"
 sortorder: 1.0

@@ -1,7 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: subpage
+level: 3
 title: "Build Out the Site"
 assignment: "Assignment 5"
 sortorder: 5.3

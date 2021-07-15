@@ -1,7 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: subpage
+level: 3
 title: "Design Transposition"
 assignment: "Assignment 5"
 sortorder: 5.1

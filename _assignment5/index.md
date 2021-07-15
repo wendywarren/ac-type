@@ -1,7 +1,7 @@
 ---
 layout: subpage
-level: 3
 type: assignment-home
+level: 3
 title: "Online Manual"
 assignment: "Assignment 5"
 sortorder: 1.0

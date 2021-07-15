@@ -1,6 +1,6 @@
 ---
 layout: subpage
-type: assignment-home
+type: subpage
 level: 4
 deck: "This is placeholder deck text."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
