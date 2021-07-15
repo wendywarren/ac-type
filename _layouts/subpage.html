@@ -37,7 +37,7 @@
           endif %} {% endfor %}
         </h3>
         <ul>
-          {% assign allPages = site.assignment1 | sort: 'sortorder' %} {% for
+          {% assign allPages = site.grimm-dust-cover | sort: 'sortorder' %} {% for
           item in allPages %} {% if item.type != 'assignment-home' %}
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %} {% endfor %}
@@ -51,7 +51,7 @@
           endif %} {% endfor %}
         </h3>
         <ul>
-          {% assign allPages = site.assignment2 | sort: 'sortorder' %} {% for
+          {% assign allPages = site.grimms-pages | sort: 'sortorder' %} {% for
           item in allPages %} {% if item.type != 'assignment-home' %}
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %} {% endfor %}
@@ -65,7 +65,7 @@
           endif %} {% endfor %}
         </h3>
         <ul>
-          {% assign allPages = site.assignment3 | sort: 'sortorder' %} {% for
+          {% assign allPages = site.newsletter | sort: 'sortorder' %} {% for
           item in allPages %} {% if item.type != 'assignment-home' %}
           <li><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %} {% endfor %}

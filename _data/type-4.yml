@@ -1,10 +1,19 @@
 assignments:
-  - title: "Magazine Layout"
+  - title: Assignment One
     sortorder: 1
     level: 4
-  - title: 
+  - title: Assignment Two
     sortorder: 2
     level: 4
-  - title: 
+  - title: Assignment Three
     sortorder: 3
+    level: 4
+  - title: Assignment Four
+    sortorder: 4
+    level: 4
+  - title: Assignment Five
+    sortorder: 5
+    level: 4
+  - title: Assignment Six
+    sortorder: 6
     level: 4

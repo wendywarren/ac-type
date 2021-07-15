@@ -1,9 +1,50 @@
 assignments:
   - title: "Grimm Dust Cover"
+    url: "/grimm-dust-cover/index.html"
     sortorder: 1
     level: 3
+    pages:
+      - title: "The Foundational Space"
+        url: "/grimm-dust-cover/subpage1.html"
+      - title: "Design Stage"
+        url: "/grimm-dust-cover/subpage2.html"
+      - title: "Build the Design"
+        url: "/grimm-dust-cover/subpage3.html"
+      - title: "Deliverables"
+        url: "/grimm-dust-cover/deliverables.html"
   - title: "Grimm's Pages"
+    url: "/grimms-pages/index.html"
     sortorder: 2
     level: 3
+    pages:
+      - title: "Designing Our Grid"
+        url: /grimms-pages/subpage1.html
+      - title: "Type Selection"
+        url: /grimms-pages/subpage2.html
+      - title: "Stylistic Elements"
+        url: /grimms-pages/subpage3.html
+      - title: "Putting It All Together"
+        url: /grimms-pages/subpage4.html
+      - title: "Deliverables"
+        url: "/grimm-dust-cover/deliverables.html"
   - title: "Newsletter Design"
     sortorder: 3
+  - title: Assignment Four
+    sortorder: 4
+    level: 3
+    pages:
+      - title: "Some Page Title"
+        url: /assignment1/subpage1.html
+  - title: Deliverablesl
+  - title: deliverablest F
+
+    level: 3
+    pages:
+      - title: "Some Page Title"
+        url: /assignment1/subpage1.html
+  - title: Assignment Six
+    sortorder: 6
+    level: 3
+    pages:
+      - title: "Some Page Title"
+        url: /assignment1/subpage1.htmlurl

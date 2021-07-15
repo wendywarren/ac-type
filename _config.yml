@@ -7,22 +7,31 @@ baseurl: ""
 url: /type
 twitter_username: alainparadis
 github_username:  alainparadis
-collections:
-  assignment1:
-    output: true
-  assignment2:
-    output: true
-  assignment3:
-    output: true
-  assignment4:
-    output: true
-  assignment5:
-    output: true
-  assignment6:
-    output: true
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
   - Gemfile
   - Gemfile.lock
+
+collections:
+  grimm-dust-cover:
+    output: true
+    level: 3
+  grimms-pages:
+    output: true
+    level: 3
+  newsletter:
+    output: true
+    level: 3
+  assignment4:
+    output: true
+    level: 3
+  some-assignment:
+    output: true
+    level: 4
+  assignment5:
+    output: true
+  assignment6:
+    output: true
