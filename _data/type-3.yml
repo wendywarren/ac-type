@@ -1,8 +1,10 @@
 assignments:
+# Grimm Dust Cover
   - title: "Grimm Dust Cover"
     url: "/grimm-dust-cover/index.html"
     sortorder: 1
     level: 3
+    # Subpages
     pages:
       - title: "The Foundational Space"
         url: /grimm-dust-cover/subpage1.html
@@ -12,10 +14,12 @@ assignments:
         url: /grimm-dust-cover/subpage3.html
       - title: "Deliverables"
         url: /grimm-dust-cover/deliverables.html
+# Grimms Pages
   - title: "Grimm's Pages"
     url: /grimms-pages/index.html
     sortorder: 2
     level: 3
+    # Subpages
     pages:
       - title: "Designing Our Grid"
         url: /grimms-pages/subpage1.html
@@ -27,29 +31,44 @@ assignments:
         url: /grimms-pages/subpage4.html
       - title: "Deliverables"
         url: /grimm-dust-cover/deliverables.html
-  - title: "Newsletter Design"
+# Newsletter
+  - title: "Newsletter"
     url: "newsletter/index.html"
     sortorder: 3
+    # Subpages
     pages:
-      - title: "Title Placeholder 1"
+      - title: "Gridify Our Page"
         url: /newsletter/subpage1.html
-      - title: "Title Placeholder 2"
+      - title: "Type Selection"
+        url: /newsletter/subpage2.html
+      - title: "Type Hierarchy"
+        url: /newsletter/subpage3.html
+      - title: "Page Element Design"
+        url: /newsletter/subpage4.html
+      - title: "Assembly Work"
+        url: /newsletter/subpage5.html
+      - title: "Deliverables"
+        url: /newsletter/deliverables.html
+# Assignment Four
   - title: Assignment Four
     sortorder: 4
     level: 3
+    # Subpages
     pages:
       - title: "Some Page Title"
         url: /assignment1/subpage1.html
-  - title: Deliverablesl
-  - title: deliverablest F
-
+# Assignment Five
+  - title: Assignment Five
     level: 3
+    # Subpages
     pages:
       - title: "Some Page Title"
         url: /assignment1/subpage1.html
+# Assignment Six
   - title: Assignment Six
     sortorder: 6
     level: 3
+    # Subpages
     pages:
       - title: "Some Page Title"
-        url: /assignment1/subpage1.htmlurl
+        url: /assignment1/subpage1.html
