@@ -2,7 +2,6 @@
 layout: subpage
 level: 3
 type: assignment-home
-title: "Manual Design"
 assignment: "Assignment 3"
 sortorder: 4.0
 deck: "Let the content inspire your design. In this text-only publication, we'll pay special attention to creating an engaging long document with text only."

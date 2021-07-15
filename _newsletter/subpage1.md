@@ -2,7 +2,6 @@
 layout: subpage
 level: 3
 type: subpage
-title: "Gridify Our Page"
 assignment: "Assignment 3"
 sortorder: 4.1
 deck: "This is the deck content for this page."

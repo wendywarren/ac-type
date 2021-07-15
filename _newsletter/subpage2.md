@@ -2,7 +2,6 @@
 layout: subpage
 level: 3
 type: subpage
-title: "Type Selection"
 assignment: "Assignment 3"
 sortorder: 4.2
 deck: "This is the deck content for this page."
