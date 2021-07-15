@@ -7,10 +7,80 @@ assignments:
     # Subpages
     pages:
       - title: "First Subpage"
-        url: /grimm-dust-cover/subpage1.html
+        url: /assignmentOne/subpage1.html
       - title: "Second Subpage"
-        url: /grimm-dust-cover/subpage2.html
+        url: /assignmentOne/subpage2.html
       - title: "Third Subpage"
-        url: /grimm-dust-cover/subpage3.html
+        url: /assignmentOne/subpage3.html
       - title: "Deliverables"
-        url: /grimm-dust-cover/deliverables.html
+        url: /assignmentOne/deliverables.html
+# Assignment Two
+  - title: "Assignment Two"
+    url: "/assignmentTwo/index.html"
+    level: 4
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        url: /assignmentTwo/subpage1.html
+      - title: "Second Subpage"
+        url: /assignmentTwo/subpage2.html
+      - title: "Third Subpage"
+        url: /assignmentTwo/subpage3.html
+      - title: "Deliverables"
+        url: /assignmentTwo/deliverables.html
+# Assignment Three
+  - title: "Assignment Three"
+    url: "/assignmentThree/index.html"
+    level: 4
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        url: /assignmentThree/subpage1.html
+      - title: "Second Subpage"
+        url: /assignmentThree/subpage2.html
+      - title: "Third Subpage"
+        url: /assignmentThree/subpage3.html
+      - title: "Deliverables"
+        url: /assignmentThree/deliverables.html
+# Assignment Four
+  - title: "Assignment Four"
+    url: "/assignmentFour/index.html"
+    level: 4
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        url: /assignmentFour/subpage1.html
+      - title: "Second Subpage"
+        url: /assignmentFour/subpage2.html
+      - title: "Third Subpage"
+        url: /assignmentFour/subpage3.html
+      - title: "Deliverables"
+        url: /assignmentFour/deliverables.html
+# Assignment Five
+  - title: "Assignment Five"
+    url: "/assignmentFive/index.html"
+    level: 4
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        url: /assignmentFive/subpage1.html
+      - title: "Second Subpage"
+        url: /assignmentFive/subpage2.html
+      - title: "Third Subpage"
+        url: /assignmentFive/subpage3.html
+      - title: "Deliverables"
+        url: /assignmentFive/deliverables.html
+# Assignment Six
+  - title: "Assignment Six"
+    url: "/assignmentSix/index.html"
+    level: 4
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        url: /assignmentSix/subpage1.html
+      - title: "Second Subpage"
+        url: /assignmentSix/subpage2.html
+      - title: "Third Subpage"
+        url: /assignmentSix/subpage3.html
+      - title: "Deliverables"
+        url: /assignmentSix/deliverables.html
