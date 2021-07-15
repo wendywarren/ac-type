@@ -1,93 +1,93 @@
 assignments:
 # Grimm Dust Cover
   - title: "Grimm Dust Cover"
-    url: /grimm-dust-cover/index.html
+    url: grimm-dust-cover/index.html
     sortorder: 1
     level: 3
     # Subpages
     pages:
       - title: "The Foundational Space"
-        url: /grimm-dust-cover/subpage1.html
+        url: grimm-dust-cover/subpage1.html
       - title: "Design Stage"
-        url: /grimm-dust-cover/subpage2.html
+        url: grimm-dust-cover/subpage2.html
       - title: "Build the Design"
-        url: /grimm-dust-cover/subpage3.html
+        url: grimm-dust-cover/subpage3.html
       - title: "Deliverables"
-        url: /grimm-dust-cover/deliverables.html
+        url: grimm-dust-cover/deliverables.html
 # Grimms Pages
   - title: "Grimm's Pages"
-    url: /grimms-pages/index.html
+    url: grimms-pages/index.html
     sortorder: 2
     level: 3
     # Subpages
     pages:
       - title: "Designing Our Grid"
-        url: /grimms-pages/subpage1.html
+        url: grimms-pages/subpage1.html
       - title: "Type Selection"
-        url: /grimms-pages/subpage2.html
+        url: grimms-pages/subpage2.html
       - title: "Stylistic Elements"
-        url: /grimms-pages/subpage3.html
+        url: grimms-pages/subpage3.html
       - title: "Putting It All Together"
-        url: /grimms-pages/subpage4.html
+        url: grimms-pages/subpage4.html
       - title: "Deliverables"
-        url: /grimm-dust-cover/deliverables.html
+        url: grimm-dust-cover/deliverables.html
 # Newsletter
   - title: "Newsletter"
-    url: /newsletter/index.html
+    url: newsletter/index.html
     sortorder: 3
     # Subpages
     pages:
       - title: "Gridify Our Page"
-        url: /newsletter/subpage1.html
+        url: newsletter/subpage1.html
       - title: "Type Selection"
-        url: /newsletter/subpage2.html
+        url: newsletter/subpage2.html
       - title: "Type Hierarchy"
-        url: /newsletter/subpage3.html
+        url: newsletter/subpage3.html
       - title: "Page Element Design"
-        url: /newsletter/subpage4.html
+        url: newsletter/subpage4.html
       - title: "Assembly Work"
-        url: /newsletter/subpage5.html
+        url: newsletter/subpage5.html
       - title: "Deliverables"
-        url: /newsletter/deliverables.html
+        url: newsletter/deliverables.html
 # Assignment Four
   - title: "Assignment Four"
-    url: /assignmentFour/index.html
+    url: assignmentFour/index.html
     level: 3
     # Subpages
     pages:
       - title: "First Subpage"
-        url: /assignmentFour/subpage1.html
+        url: assignmentFour/subpage1.html
       - title: "Second Subpage"
-        url: /assignmentFour/subpage2.html
+        url: assignmentFour/subpage2.html
       - title: "Third Subpage"
-        url: /assignmentFour/subpage3.html
+        url: assignmentFour/subpage3.html
       - title: "Deliverables"
-        url: /assignmentFour/deliverables.html
+        url: assignmentFour/deliverables.html
 # Assignment Five
   - title: "Assignment Five"
-    url: /assignmentFive/index.html
+    url: assignmentFive/index.html
     level: 3
     # Subpages
     pages:
       - title: "First Subpage"
-        url: /assignmentFive/subpage1.html
+        url: assignmentFive/subpage1.html
       - title: "Second Subpage"
-        url: /assignmentFive/subpage2.html
+        url: assignmentFive/subpage2.html
       - title: "Third Subpage"
-        url: /assignmentFive/subpage3.html
+        url: assignmentFive/subpage3.html
       - title: "Deliverables"
-        url: /assignmentFive/deliverables.html
+        url: assignmentFive/deliverables.html
 # Assignment Six
   - title: "Assignment Six"
-    url: /assignmentSix/index.html
+    url: assignmentSix/index.html
     level: 3
     # Subpages
     pages:
       - title: "First Subpage"
-        url: /assignmentSix/subpage1.html
+        url: assignmentSix/subpage1.html
       - title: "Second Subpage"
-        url: /assignmentSix/subpage2.html
+        url: assignmentSix/subpage2.html
       - title: "Third Subpage"
-        url: /assignmentSix/subpage3.html
+        url: assignmentSix/subpage3.html
       - title: "Deliverables"
-        url: /assignmentSix/deliverables.html
+        url: assignmentSix/deliverables.html
