@@ -5,15 +5,15 @@ assignments:
     level: 3
     pages:
       - title: "The Foundational Space"
-        url: "/grimm-dust-cover/subpage1.html"
+        url: /grimm-dust-cover/subpage1.html
       - title: "Design Stage"
-        url: "/grimm-dust-cover/subpage2.html"
+        url: /grimm-dust-cover/subpage2.html
       - title: "Build the Design"
-        url: "/grimm-dust-cover/subpage3.html"
+        url: /grimm-dust-cover/subpage3.html
       - title: "Deliverables"
-        url: "/grimm-dust-cover/deliverables.html"
+        url: /grimm-dust-cover/deliverables.html
   - title: "Grimm's Pages"
-    url: "/grimms-pages/index.html"
+    url: /grimms-pages/index.html
     sortorder: 2
     level: 3
     pages:
@@ -26,9 +26,14 @@ assignments:
       - title: "Putting It All Together"
         url: /grimms-pages/subpage4.html
       - title: "Deliverables"
-        url: "/grimm-dust-cover/deliverables.html"
+        url: /grimm-dust-cover/deliverables.html
   - title: "Newsletter Design"
+    url: "newsletter/index.html"
     sortorder: 3
+    pages:
+      - title: "Title Placeholder 1"
+        url: /newsletter/subpage1.html
+      - title: "Title Placeholder 2"
   - title: Assignment Four
     sortorder: 4
     level: 3
