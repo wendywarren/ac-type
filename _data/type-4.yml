@@ -1,19 +1,16 @@
 assignments:
-  - title: Assignment One
+# Assignment One
+  - title: "Assignment One"
+    url: "/assignmentOne/index.html"
     sortorder: 1
     level: 4
-  - title: Assignment Two
-    sortorder: 2
-    level: 4
-  - title: Assignment Three
-    sortorder: 3
-    level: 4
-  - title: Assignment Four
-    sortorder: 4
-    level: 4
-  - title: Assignment Five
-    sortorder: 5
-    level: 4
-  - title: Assignment Six
-    sortorder: 6
-    level: 4
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        url: /grimm-dust-cover/subpage1.html
+      - title: "Second Subpage"
+        url: /grimm-dust-cover/subpage2.html
+      - title: "Third Subpage"
+        url: /grimm-dust-cover/subpage3.html
+      - title: "Deliverables"
+        url: /grimm-dust-cover/deliverables.html
