@@ -1,11 +1,7 @@
 <html>
   <head>
     {% include head.html %}
-    <link
-      rel="stylesheet"
-      href="{{ site.url }}/css/grid-site-home.css"
-      type="text/css"
-    />
+    <link rel="stylesheet" href="{{ site.url }}/css/grid-site-home.css" type="text/css" />
   </head>
   <body>
     <div id="grid">
@@ -13,14 +9,15 @@
         <a href="{{ site.url }}/type-3.html" class="site-id">Type<sup>3</sup></a>
       </div>
       <div class="site-id2">&nbsp;</div>
-      <div class="type3-info1">
-      <h3>About This Course</h3>
-        {{ site.data.metadata.courses[0].coursecode }} {{ site.data.metadata.courses[0].title }}<br>
-        Hours: {{ site.data.metadata.courses[0].hours }}<br>
-        Prof: {{ site.data.metadata.courses[0].prof }}<br>
+      <div class="course-info1">
+        <h3>About This Course</h3>
+        <div>
+          {{ site.data.metadata.courses[0].coursecode }} {{ site.data.metadata.courses[0].title }}
+        </div>
+        <div>Hours: {{ site.data.metadata.courses[0].hours }}</div>
+        <div>Prof: {{ site.data.metadata.courses[0].prof }}</div>
       </div>
-      <div class="type3-info2">
-      <h3>&nbsp;</h3>
+      <div class="course-info2">
         {{ site.data.metadata.courses[0].course-description }}
       </div>
       <div class="type3-content">
@@ -29,17 +26,18 @@
       <div class="type4-id">
         <a href="{{ site.url }}/type-4.html" class="site-id">Type<sup>4</sup></a>
       </div>
-      <div class="type4-id2">&nbsp;</div>
-      <div class="type4-info1">
+      <div class="site-id2">&nbsp;</div>
+      <div class="course-info1">
         <h3>About This Course</h3>
-          {{ site.data.metadata.courses[1].coursecode }} {{ site.data.metadata.courses[1].title }}<br>
-          Hours: {{ site.data.metadata.courses[1].hours }}<br>
-          Prof: {{ site.data.metadata.courses[1].prof }}<br>
+        <div>
+          {{ site.data.metadata.courses[1].coursecode }} {{ site.data.metadata.courses[1].title }}
         </div>
-        <div class="type4-info2">
-        <h3>&nbsp;</h3>
-          {{ site.data.metadata.courses[1].course-description }}
-        </div>
+        <div>Hours: {{ site.data.metadata.courses[1].hours }}</div>
+        <div>Prof: {{ site.data.metadata.courses[1].prof }}</div>
+      </div>
+      <div class="course-info2">
+        {{ site.data.metadata.courses[1].course-description }}
+      </div>
       <div class="type4-content">
         
       </div>
