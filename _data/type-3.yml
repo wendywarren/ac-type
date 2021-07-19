@@ -1,5 +1,5 @@
 assignments:
-# Grimm Dust Cover
+# Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Grimm Dust Cover"
     url: type-3/grimm-dust-cover/index.html
     sortorder: 1
@@ -14,7 +14,7 @@ assignments:
         url: type-3/grimm-dust-cover/subpage3.html
       - title: "Deliverables"
         url: type-3/grimm-dust-cover/deliverables.html
-# Grimms Pages
+# Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Grimm's Pages"
     url: type-3/grimms-pages/index.html
     sortorder: 2
@@ -31,7 +31,7 @@ assignments:
         url: type-3/grimms-pages/subpage4.html
       - title: "Deliverables"
         url: type-3/grimm-dust-cover/deliverables.html
-# Newsletter
+# Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Newsletter"
     url: type-3/newsletter/index.html
     sortorder: 3
@@ -49,7 +49,7 @@ assignments:
         url: type-3/newsletter/subpage5.html
       - title: "Deliverables"
         url: ntype-3/ewsletter/deliverables.html
-# Assignment Four
+# Assignment Four # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Assignment Four"
     url: type-3/assignmentFour/index.html
     level: 3
@@ -63,7 +63,7 @@ assignments:
         url: type-3/assignmentFour/subpage3.html
       - title: "Deliverables"
         url: type-3/assignmentFour/deliverables.html
-# Assignment Five
+# Assignment Five # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Assignment Five"
     url: type-3/assignmentFive/index.html
     level: 3
@@ -77,7 +77,7 @@ assignments:
         url: type-3/assignmentFive/subpage3.html
       - title: "Deliverables"
         url: type-3/assignmentFive/deliverables.html
-# Assignment Six
+# Assignment Six # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Assignment Six"
     url: type-3/assignmentSix/index.html
     level: 3
