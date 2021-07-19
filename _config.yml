@@ -17,37 +17,6 @@ exclude:
 
 collections:
   type-3:
-  output: true
+    output: true
   type-4:
-  output: true
-  grimm-dust-cover:
-    output: true
-    level: 3
-  grimms-pages:
-    output: true
-    level: 3
-  newsletter:
-    output: true
-    level: 3
-  assignment4:
-    output: true
-    level: 3
-  some-assignment:
-    output: true
-    level: 4
-  assignment5:
-    output: true
-  assignment6:
-    output: true
-  assignmentOne:
-    output: true
-  assignmentTwo:
-    output: true
-  assignmentThree:
-    output: true
-  assignmentFour:
-    output: true
-  assignmentFive:
-    output: true
-  assignmentSix:
     output: true
