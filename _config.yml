@@ -16,6 +16,10 @@ exclude:
   - Gemfile.lock
 
 collections:
+  type-3:
+  output: true
+  type-4:
+  output: true
   grimm-dust-cover:
     output: true
     level: 3
