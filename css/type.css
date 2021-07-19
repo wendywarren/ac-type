@@ -79,6 +79,15 @@ a:hover.site-id {
   color: var(--orange100);
 }
 
+nav {
+  text-align: right;
+}
+
+nav span {
+  font-weight: normal;
+  font-family: "FiraSans-MediumItalic";
+}
+
 .type3-info1,
 .type3-info2,
 .type4-info1,

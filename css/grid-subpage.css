@@ -5,6 +5,7 @@
 	grid-template-columns: auto;
 	grid-gap: 1rem;
 	grid-template-areas:
+	'nav'
 	'site-id1'
 	'course-info1'
 	'course-info2'
@@ -25,6 +26,7 @@
 	'footer4';
 }
 
+nav { grid-area: nav; }
 .site-id1 { grid-area: site-id1; }
 .course-info1 { grid-area: course-info1; }
 .course-info2 { grid-area: course-info2; }
@@ -53,6 +55,7 @@
 	{
 		grid-template-columns: 1fr 1fr;
 		grid-template-areas:
+		'nav nav'
 		'site-id1 .'
 		'course-info1 .'
 		'course-info2 .'
@@ -83,6 +86,7 @@
 	{
 		grid-template-columns: 1fr 1fr 1fr;
 		grid-template-areas:
+		'nav nav nav'
 		'site-id1 course-info1 course-info2'
 		'content . .'
 		'assignment1 assignment2 assignment3'
@@ -107,6 +111,7 @@
 	{
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 		grid-template-areas:
+		'nav nav nav nav'
 		'site-id1 . course-info1 course-info2'
 		'content .  assignment1 assignment2'
 		'. .        assignment3 assignment4'
@@ -139,6 +144,7 @@
 	{
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 		grid-template-areas:
+		'nav nav nav nav'
 		'site-id1 . course-info1 course-info2'
 		'content'
 		'assignment1 assignment2 item1 item2'

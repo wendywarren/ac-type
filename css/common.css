@@ -55,6 +55,10 @@ img {
   fill: var(--lightgrey);
 }
 
+nav span {
+  padding-right: 2rem;
+}
+
 .footer1 {
   border-top: 6px solid var(--lightgrey);
   padding-top: 1rem;
