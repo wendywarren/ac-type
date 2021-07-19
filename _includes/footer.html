@@ -1,15 +1,15 @@
-<span class="footer1">
-	<div><a href="{{ site.url }}/type-3/index.html" class="">Type<sup>3</sup></a></div>
-	<div><a href="{{ site.url }}/type-4/index.html" class="">Typography<sup>4</sup></a></div>	
+<span class="footer footer1">
+<div><a href="{{ site.url }}/type-3/index.html" class="site-id">Typography<sup>3</sup></a></div>
+   <div><a href="{{ site.url }}/type-4/index.html" class="site-id">Typography<sup>4</sup></a></div>	
 </span>
-<span class="footer2">
+<span class="footer footer2">
 	<h4>Faculty</h4>
 	<ul>
 		<li>{{ site.data.metadata.courses[0].prof }}</li>
 		<li><a href="mailto:{{ site.data.metadata.courses[0].email }}">{{ site.data.metadata.courses[0].email }}</a>&nbsp;<a href="{{site.url}}/scratchpad.html" title="ScratchPad">§</a></li>
 	</ul>
 </span>
-<span class="footer3">
+<span class="footer footer3">
 	<h4>Other program web sites</h4>
 	<ul>
 	{% for link in site.data.metadata.program-links %}
@@ -17,7 +17,7 @@
 	{% endfor %}
 	</ul>
 </span>
-<span class="footer4">
+<span class="footer footer4">
 	<h4>Other college web sites</h4>
 	<ul>
 	{% for link in site.data.metadata.college-links %}

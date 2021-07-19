@@ -10,18 +10,18 @@
   font-family: FiraSans-Medium;
   src: url("../fonts/FiraSans-Medium.woff") format("woff");
 }
-  @font-face {
-    font-family: FiraSans-MediumItalic;
-    src: url("../fonts/FiraSans-MediumItalic.woff") format("woff");
-  }
-  @font-face {
-    font-family: FiraSans-UltraItalic;
-    src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
-  }
-  @font-face {
-    font-family: FiraMono-Medium;
-    src: url("../fonts/FiraMono-Medium.woff") format("woff");
-  }
+@font-face {
+  font-family: FiraSans-MediumItalic;
+  src: url("../fonts/FiraSans-MediumItalic.woff") format("woff");
+}
+@font-face {
+  font-family: FiraSans-UltraItalic;
+  src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
+}
+@font-face {
+  font-family: FiraMono-Medium;
+  src: url("../fonts/FiraMono-Medium.woff") format("woff");
+}
 
   html {
     font-size: 100%;
@@ -33,7 +33,7 @@
   a,
   a:link {
     color: black;
-    text-decoration-color: blue;
+    text-decoration-color: #0096FF;
   }
 
   a:visited {
@@ -233,17 +233,26 @@ code {
   border: 1px solid lightgrey;
 }
 
+.footer1 a.site-id {
+  font-style: normal;
+  font-weight: normal;
+  font-family: "FiraSans-UltraItalic";
+  font-size: 1.2rem;
+  text-decoration: underline;
+  color: var(--darkgrey);
+
+}
+.footer1 h4, .footer2 h4, .footer3 h4, .footer4 h4 {
+  font-style: normal;
+  font-weight: normal;
+  font-family: "FiraSans-MediumItalic";
+}
+
 .footer1 ul, .footer2 ul, .footer3 ul, .footer4 ul {
   margin-left: 0;
   padding-left: 0;
   margin-top: .5rem;
   padding-top: 0;
-}
-
-.footer1 h4, .footer2 h4, .footer3 h4, .footer4 h4 {
-  font-style: normal;
-  font-weight: normal;
-  font-family: "FiraSans-MediumItalic";
 }
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
