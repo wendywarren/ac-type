@@ -1,12 +1,14 @@
 ---
 layout: subpage
 type: subpage
+level: 3
 title: "ScratchPad"
 deck: Web site notes and Todo's.
 ---
 
 ## To Do
 
+- Create a course calendar file they can subscribe to.
 - [This page](https://mailchi.mp/smashingmagazine/307-css-tools-css-data-charts-and-fluid-typography-i9vya8jfrk-1133426?e=db00feeaa2) has a pile of good HTML/CSS tips on it.
 - Investigate Miro, Padlet for collaboration
 - Create a section with useful links
@@ -15,78 +17,101 @@ deck: Web site notes and Todo's.
 - [Watch this Video](https://vimeo.com/239782886): Mark Boulton on designing grids.
 - [Use FormSpree](https://formspree.io/) for online forms, if I need them.
 - [This page](https://blog.webjeda.com/jekyll-snippets/) shows how to create my FormSpree form on a Jekyll site.
+- Create my favicon for the type sites based on [this page](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 
-
-## Assignment Timeline
+## Semester Timeline
 
 ### Week 01
 
+- Review of course content.
 - Policies for the course.
-- Warm-up activity
+- Hand out assignments of type designer presentations
+- Warm-up activity. Due at end of class.
 
 ### Week 02
 
-- Intro to grids
-- Draw our first grid
+- Presentations: Type Designer of the Week (TDW).
+- **[Grimm Dust Cover](type-3/grimm-dust-cover/index.html)**, project introduction
 
 ### Week 03
 
-- Assignment
+- TDW Presentation
+- Fairy Tale selection due. (online form submission)
+- Sketching concepts
+- Read through the web site pages for this assignment.
+- Read through the Grimm Fairy Tales to make a selection.
+- Submit your choice here.
+- Research your fairy tale’s meaning, message, moral to find a theme for your design.
+- Research (two) font families you think will be appropriate to the story.
 
 ### Week 04
 
-- Assignment
+- TDW Presentation
+- Design your style board.
+- Sketch thumbnails & a full-size rendering of your design.
+- Get approval for your concept from me.
+- Build your design.
+
 
 ### Week 05
 
-- Assignment
+- TDW Presentation
+- **Due**: Grimm Dust Cover
+- New project start: [Grimm's Pages](/type-3/grimms-pages/index.html)
+	- Project introduction
 
 ### Week 06
 
-- Assignment
+- TDW Presentation
 
 ### Week 07
 
-- Assignment
+- TDW Presentation
+- **Due**: Grimm's Pages
+- New project start: [Newsletter](/type-3/grimms-pages/index.html)
+	- Project introduction
 
 ### Week 08
 
-- Assignment
+- TDW Presentation
 
 ### Week 09
 
-- Assignment
+- TDW Presentation
 
 ### Week 10
 
-- Assignment
+- TDW Presentation
 
 ### Week 11
 
-- Assignment
+- TDW Presentation
+- **Due**: Newsletter
+- New project start: Poster
 
 ### Week 12
 
-- Assignment
+- TDW Presentation
+- 
 
 ### Week 13
 
-- Assignment
+- TDW Presentation
 
 ### Week 14
 
-- Assignment
+- TDW Presentation
+- **Due**: Poster
 
 ### Week 15
 
-- Assignment
+- No class. Final submission due.
 
 
 
 ## Ideas for Type 3 & Type 4
 
 - Use Mentimeter every week to increase engagement. This could count for points.
-- Create my favicon for the type sites based on [this page](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 - Investigate [these tools](https://www.algonquincollege.com/lts/top-tools/) for interactive activities I can do in class to increase engagement and measure learning.
 - Create my favicon for the type sites based on [this page](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 - [Micro-Typography: How To Space And Kern Punctuation Marks And Other Symbols](https://www.smashingmagazine.com/2020/05/micro-typography-space-kern-punctuation-marks-symbols/)
