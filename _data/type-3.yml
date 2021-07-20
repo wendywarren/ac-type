@@ -11,10 +11,13 @@ assignments:
         deck: "This is a test deck block of text."
       - title: "Design Stage"
         url: type-3/grimm-dust-cover/subpage2.html
+        deck: "This is a test deck block of text."
       - title: "Build the Design"
         url: type-3/grimm-dust-cover/subpage3.html
+        deck: "This is a test deck block of text."
       - title: "Deliverables"
         url: type-3/grimm-dust-cover/deliverables.html
+        deck: "This is a test deck block of text."
 # Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Grimm's Pages"
     url: type-3/grimms-pages/index.html
@@ -64,31 +67,3 @@ assignments:
         url: type-3/poster/subpage3.html
       - title: "Deliverables"
         url: type-3/poster/deliverables.html
-# Assignment Five # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-  - title: "Signage"
-    url: type-3/assignmentFive/index.html
-    level: 3
-    # Subpages
-    pages:
-      - title: "First Subpage"
-        url: type-3/assignmentFive/subpage1.html
-      - title: "Second Subpage"
-        url: type-3/assignmentFive/subpage2.html
-      - title: "Third Subpage"
-        url: type-3/assignmentFive/subpage3.html
-      - title: "Deliverables"
-        url: type-3/assignmentFive/deliverables.html
-# Assignment Six # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-  - title: "Assignment Six"
-    url: type-3/assignmentSix/index.html
-    level: 3
-    # Subpages
-    pages:
-      - title: "First Subpage"
-        url: type-3/assignmentSix/subpage1.html
-      - title: "Second Subpage"
-        url: type-3/assignmentSix/subpage2.html
-      - title: "Third Subpage"
-        url: type-3/assignmentSix/subpage3.html
-      - title: "Deliverables"
-        url: type-3/assignmentSix/deliverables.html
