@@ -3,8 +3,6 @@ layout: subpage
 type: assignment-home
 level: 3
 title: "Grimm Dust Cover"
-assignment: "Assignment 1"
-sortorder: 1.0
 deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
