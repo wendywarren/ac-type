@@ -3,8 +3,6 @@ layout: subpage
 type: assignment-home
 level: 3
 title: "Grimm's Pages"
-assignment: "Assignment 2"
-sortorder: 2.0
 deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
@@ -27,6 +25,10 @@ By the time you’ve completed this assignment, you will have learned to:
 - Research examples of fiction novel page treatments.
 - Research what makes a good font for a long document like a fiction novel.
 - Get the text of [your fairy tale](http://www-2.cs.cmu.edu/~spok/grimmtmp/).
+- Font selection
+- Page sketches on paper
+- Stylistic elements development
+- Build the final product
 
 ### Project Parameters
 
