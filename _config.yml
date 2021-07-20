@@ -20,3 +20,5 @@ collections:
     output: true
   type-4:
     output: true
+  micro-assignments:
+    output: true
