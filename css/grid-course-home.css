@@ -11,8 +11,6 @@
     "assignment2"
     "assignment3"
     "assignment4"
-    "assignment5"
-    "assignment6"
     "item1"
     "item2"
     "item3"
@@ -46,12 +44,6 @@ nav {
 }
 .assignment4 {
   grid-area: assignment4;
-}
-.assignment5 {
-  grid-area: assignment5;
-}
-.assignment6 {
-  grid-area: assignment6;
 }
 .item1 {
   grid-area: item1;
@@ -90,7 +82,6 @@ nav {
       "course-info1 course-info2"
       "assignment1 assignment2"
       "assignment3 assignment4"
-      "assignment5 assignment6"
       "item1 item2"
       "item3 item4"
       "footer1 footer2"
@@ -106,7 +97,7 @@ nav {
       "nav nav nav"
       "site-id1 course-info1 course-info2"
       "assignment1 assignment2 assignment3"
-      "assignment4 assignment5 assignment6"
+      "assignment4 .           . "
       "item1 item2 item3"
       "item4 . ."
       "footer1 footer2 footer3"
@@ -123,7 +114,6 @@ nav {
       "site-id1 . course-info1 course-info2"
       "assignment1 assignment2 item1 item2"
       "assignment3 assignment4 item3 item4"
-      "assignment5 assignment6 . ."
       "footer1 footer2 footer3 footer4";
   }
 }

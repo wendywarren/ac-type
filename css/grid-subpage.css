@@ -14,8 +14,6 @@
 	'assignment2'
 	'assignment3'
 	'assignment4'
-	'assignment5'
-	'assignment6'
 	'item1'
 	'item2'
 	'item3'
@@ -35,8 +33,6 @@ nav { grid-area: nav; }
 .assignment2 { grid-area: assignment2; }
 .assignment3 { grid-area: assignment3; }
 .assignment4 { grid-area: assignment4; }
-.assignment5 { grid-area: assignment5; }
-.assignment6 { grid-area: assignment6; }
 .item1 { grid-area: item1; }
 .item2 { grid-area: item2; }
 .item3 { grid-area: item3; }
@@ -62,7 +58,6 @@ nav { grid-area: nav; }
 		'content .'
 		'assignment1 assignment2'
 		'assignment3 assignment4'
-		'assignment5 assignment6'
 		'item1 item2'
 		'item3 item4'
 		'footer1 footer2'
@@ -90,7 +85,7 @@ nav { grid-area: nav; }
 		'site-id1 course-info1 course-info2'
 		'content . .'
 		'assignment1 assignment2 assignment3'
-		'assignment4 assignment5 assignment6'
+		'assignment4 .           . '
 		'item1 item2 item3'
 		'item4 item5 item6'
 		'footer1 footer2 footer3'
@@ -115,7 +110,6 @@ nav { grid-area: nav; }
 		'site-id1 . course-info1 course-info2'
 		'content .  assignment1 assignment2'
 		'. .        assignment3 assignment4'
-		'. .        assignment5 assignment6'
 		'. .        item1 item2'
 		'. .        item3 item4'
 		'. .        . . '
@@ -149,7 +143,6 @@ nav { grid-area: nav; }
 		'content'
 		'assignment1 assignment2 item1 item2'
 		'assignment3 assignment4 item3 item4'
-		'assignment5 assignment6 . .'
 		'footer1 footer2 footer3 footer4';
 	}
 }
