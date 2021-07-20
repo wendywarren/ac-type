@@ -3,8 +3,6 @@ layout: subpage
 type: micro-assignment
 level: 3
 alpha: c
-title: "Typographer of the Week"
-deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 resource: https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
