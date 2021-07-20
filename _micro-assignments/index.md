@@ -1,6 +1,6 @@
 ---
 layout: subpage
-type: topic-home
+type: micro-assignment
 level: 3
 title: "Micro-Assignments"
 deck: "This is the deck content for this page."

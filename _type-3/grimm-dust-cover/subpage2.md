@@ -3,8 +3,6 @@ layout: subpage
 type: subpage
 level: 3
 title: "Design Stage"
-assignment: "Grimm Fairy Tales"
-sortorder: 1.3
 deck: "This is where the rubber hits the road. The creativity takes place here. Create a style board that will communicate your design to the client."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
