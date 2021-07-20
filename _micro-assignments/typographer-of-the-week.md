@@ -1,9 +1,10 @@
 ---
 layout: subpage
 type: subpage
+level: 3
 title: "Typographer of the Week"
 assignment:
-sortorder: 6.3
+
 deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative

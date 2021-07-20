@@ -1,6 +1,7 @@
 ---
 layout: subpage
 type: subpage
+level: 3
 title: "Copy Fitting"
 assignment: "Assignment 6"
 sortorder: 6.3
