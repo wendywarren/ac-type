@@ -1,247 +1,243 @@
 <html>
   <head>
-    {% include head.html %}
-    <link rel="stylesheet" href="{{site.url}}/css/grid-subpage.css" type="text/css" />
-  </head>
-  <body>
-    <div id="grid">
-      <nav>
-        <span><a href="{{ site.url }}/type-3/index.html">Type 3</a></span>
-        <span><a href="{{ site.url }}/type-4/index.html">Type 4</a></span>
-      </nav>
-      <div class="site-id1">
-        {% if page.level == 3 %}
-        <a href="{{ site.url }}/type-3/index.html" class="site-id">Type<sup>3</sup></a>
-        {% elsif page.level == 4 %}
-        <a href="{{ site.url }}/type-4/index.html" class="site-id">Type<sup>4</sup></a>
-		    {% endif %}
-      </div>
-      <div class="site-id2">&nbsp;</div>
-      <div class="course-info1">{% include course-info1.html %}</div>
-      <div class="course-info2">{% include course-info2.html %}</div>
-      <div class="content">
-        <h1>{{ page.title }}</h1>
-        <div class="deck">{{ page.deck }}</div>
-        <div id="content">
-          {% if page.type == 'assignment-home' %}
-          <h2>The Brief</h2>
-          {% endif %} 
-          {{ content }}
-        </div>
-      </div>
-      <div class="assignment assignment1">
-        <h3>
-          {% if page.level == 3 %}
-          <a href="{{ site.url }}/{{ site.data.type-3.assignments[0].url }}">
-            {{ site.data.type-3.assignments[0].title }}
-          </a>
-          {% elsif page.level == 4 %}
-          <a href="{{ site.url }}/{{ site.data.type-4.assignments[0].url }}">
-            {{ site.data.type-4.assignments[0].title }}
-          </a>
-          {% endif %}
-        </h3>
-        <ul>
-          {% if page.level == 3 %}
-          {% assign assignmentPages = site.data.type-3.assignments[0].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% elsif page.level == 4 %}
-          {% assign assignmentPages = site.data.type-4.assignments[0].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% endif %}
-        </ul>
-      </div>
-      <div class="assignment assignment2">
-        <h3>
-          {% if page.level == 3 %}
-          <a href="{{ site.url }}/{{ site.data.type-3.assignments[1].url }}">
-            {{ site.data.type-3.assignments[1].title }}
-          </a>
-            {% elsif page.level == 4 %}
-            <a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
-            {{ site.data.type-4.assignments[1].title }}
-          </a>
-          {% endif %}
-        </h3>
-        <ul>
-          {% if page.level == 3 %}
-          {% assign assignmentPages = site.data.type-3.assignments[1].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% elsif page.level == 4 %}
-          {% assign assignmentPages = site.data.type-4.assignments[1].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% endif %}
-        </ul>
-      </div>
-      <div class="assignment assignment3">
-        <h3>
-          {% if page.level == 3 %}
-          <a href="{{ site.url }}/{{ site.data.type-3.assignments[1].url }}">
-            {{ site.data.type-3.assignments[2].title }}
-          </a>
-            {% elsif page.level == 4 %}
-            <a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
-            {{ site.data.type-4.assignments[2].title }}
-            </a>
-          {% endif %}
-        </h3>
-        <ul>
-          {% if page.level == 3 %}
-          {% assign assignmentPages = site.data.type-3.assignments[2].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% elsif page.level == 4 %}
-          {% assign assignmentPages = site.data.type-4.assignments[2].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% endif %}
-        </ul>
-      </div>
-      <div class="assignment assignment4">
-        <h3>
-          {% if page.level == 3 %}
-          <a href="{{ site.url }}/{{ site.data.type-3.assignments[3].url }}">
-            {{ site.data.type-3.assignments[3].title }}
-          </a>
-            {% elsif page.level == 4 %}
-            <a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
-            {{ site.data.type-4.assignments[3].title }}
-            </a>
-          {% endif %}
-        </h3>
-        <ul>
-          {% if page.level == 3 %}
-          {% assign assignmentPages = site.data.type-3.assignments[3].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% elsif page.level == 4 %}
-          {% assign assignmentPages = site.data.type-4.assignments[3].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% endif %}
-        </ul>
-      </div>
-      <div class="assignment assignment5">
-        <h3>
-          {% if page.level == 3 %}
-          <a href="{{ site.url }}/{{ site.data.type-3.assignments[4].url }}">
-            {{ site.data.type-3.assignments[4].title }}
-          </a>
-            {% elsif page.level == 4 %}
-            <a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
-            {{ site.data.type-4.assignments[4].title }}
-          </a>
-          {% endif %}
-        </h3>
-        <ul>
-          {% if page.level == 3 %}
-          {% assign assignmentPages = site.data.type-3.assignments[4].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% elsif page.level == 4 %}
-          {% assign assignmentPages = site.data.type-4.assignments[4].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% endif %}
-        </ul>
-      </div>
-      <div class="assignment assignment6">
-        <h3>
-          {% if page.level == 3 %}
-          <a href="{{ site.url }}/{{ site.data.type-3.assignments[5].url }}">
-            {{ site.data.type-3.assignments[5].title }}
-          </a>
-            {% elsif page.level == 4 %}
-            <a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
-            {{ site.data.type-4.assignments[5].title }}
-            </a>
-          {% endif %}
-        </h3>
-        <ul>
-          {% if page.level == 3 %}
-          {% assign assignmentPages = site.data.type-3.assignments[5].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% elsif page.level == 4 %}
-          {% assign assignmentPages = site.data.type-4.assignments[5].pages %}
-            {% for item in assignmentPages %}
-              {% unless item.type == 'assignment-home' %}
-                <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
-              {% endunless %}
-          {% endfor %}
-          {% endif %}
-        </ul>
-      </div>
-      <div class="item item1">
-        <h4>
-          <a href="{{ site.url }}{{ site.data.micro-assignments.pages[0].url }}"
-            >{{ site.data.micro-assignments.pages[0].title }}</a
-          >
-        </h4>
-        <p>{{ site.data.micro-assignments.pages[0].deck }}</p>
-      </div>
-      <div class="item item2">
-        <h4>
-          <a href="{{ site.url }}{{ site.data.micro-assignments.pages[1].url }}"
-            >{{ site.data.micro-assignments.pages[1].title }}</a
-          >
-        </h4>
-        <p>{{ site.data.micro-assignments.pages[1].deck }}</p>
-      </div>
-      <div class="item item3">
-        <h4>
-          <a href="{{ site.url }}{{ site.data.micro-assignments.pages[2].url }}"
-            >{{ site.data.micro-assignments.pages[2].title }}</a
-          >
-        </h4>
-        <p>{{ site.data.micro-assignments.pages[2].deck }}</p>
-      </div>
-      <div class="item item4">
-        <h4>
-          <a href="{{ site.url }}{{ site.data.micro-assignments.pages[3].url }}"
-            >{{ site.data.micro-assignments.pages[3].title }}</a
-          >
-        </h4>
-        <p>{{ site.data.micro-assignments.pages[3].deck }}</p>
-      </div>
-      {% include footer.html %}
-    </div>
-  </body>
+	{% include head.html %}
+	<link rel="stylesheet" href="{{site.url}}/css/grid-subpage.css" type="text/css" />
+</head>
+<body>
+<div id="grid">
+	<nav>
+		<span><a href="{{ site.url }}/type-3/index.html">Type 3</a></span>
+		<span><a href="{{ site.url }}/type-4/index.html">Type 4</a></span>
+	</nav>
+	<div class="site-id1">
+		{% if page.level == 3 %}
+		<a href="{{ site.url }}/type-3/index.html" class="site-id">Type<sup>3</sup></a>
+		{% elsif page.level == 4 %}
+		<a href="{{ site.url }}/type-4/index.html" class="site-id">Type<sup>4</sup></a>
+		{% endif %}
+	</div>
+	<div class="site-id2">&nbsp;</div>
+	<div class="course-info1">{% include course-info1.html %}</div>
+	<div class="course-info2">{% include course-info2.html %}</div>
+	<div class="content">
+		<h1>{{ page.title }}</h1>
+		<div class="deck">{{ page.deck }}</div>
+		<div id="content">
+		{% if page.type == 'assignment-home' %}
+			<h2>The Brief</h2>
+		{% endif %} 
+		{{ content }}
+		</div>
+	</div>
+	<div class="assignment assignment1">
+		<h3>
+		{% if page.level == 3 %}
+		<a href="{{ site.url }}/{{ site.data.type-3.assignments[0].url }}">
+			{{ site.data.type-3.assignments[0].title }}
+		</a>
+		{% elsif page.level == 4 %}
+		<a href="{{ site.url }}/{{ site.data.type-4.assignments[0].url }}">
+			{{ site.data.type-4.assignments[0].title }}
+		</a>
+		{% endif %}
+		</h3>
+		<ul>
+		{% if page.level == 3 %}
+		{% assign assignmentPages = site.data.type-3.assignments[0].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% elsif page.level == 4 %}
+		{% assign assignmentPages = site.data.type-4.assignments[0].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% endif %}
+		</ul>
+	</div>
+	<div class="assignment assignment2">
+		<h3>
+		{% if page.level == 3 %}
+		<a href="{{ site.url }}/{{ site.data.type-3.assignments[1].url }}">
+			{{ site.data.type-3.assignments[1].title }}
+		</a>
+			{% elsif page.level == 4 %}
+			<a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
+			{{ site.data.type-4.assignments[1].title }}
+		</a>
+		{% endif %}
+		</h3>
+		<ul>
+		{% if page.level == 3 %}
+		{% assign assignmentPages = site.data.type-3.assignments[1].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% elsif page.level == 4 %}
+		{% assign assignmentPages = site.data.type-4.assignments[1].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% endif %}
+		</ul>
+	</div>
+	<div class="assignment assignment3">
+		<h3>
+		{% if page.level == 3 %}
+		<a href="{{ site.url }}/{{ site.data.type-3.assignments[1].url }}">
+			{{ site.data.type-3.assignments[2].title }}
+		</a>
+			{% elsif page.level == 4 %}
+			<a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
+			{{ site.data.type-4.assignments[2].title }}
+			</a>
+		{% endif %}
+		</h3>
+		<ul>
+		{% if page.level == 3 %}
+		{% assign assignmentPages = site.data.type-3.assignments[2].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% elsif page.level == 4 %}
+		{% assign assignmentPages = site.data.type-4.assignments[2].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% endif %}
+		</ul>
+	</div>
+	<div class="assignment assignment4">
+		<h3>
+		{% if page.level == 3 %}
+		<a href="{{ site.url }}/{{ site.data.type-3.assignments[3].url }}">
+			{{ site.data.type-3.assignments[3].title }}
+		</a>
+			{% elsif page.level == 4 %}
+			<a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
+			{{ site.data.type-4.assignments[3].title }}
+			</a>
+		{% endif %}
+		</h3>
+		<ul>
+		{% if page.level == 3 %}
+		{% assign assignmentPages = site.data.type-3.assignments[3].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% elsif page.level == 4 %}
+		{% assign assignmentPages = site.data.type-4.assignments[3].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% endif %}
+		</ul>
+	</div>
+	<div class="assignment assignment5">
+		<h3>
+		{% if page.level == 3 %}
+		<a href="{{ site.url }}/{{ site.data.type-3.assignments[4].url }}">
+			{{ site.data.type-3.assignments[4].title }}
+		</a>
+			{% elsif page.level == 4 %}
+			<a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
+			{{ site.data.type-4.assignments[4].title }}
+		</a>
+		{% endif %}
+		</h3>
+		<ul>
+		{% if page.level == 3 %}
+		{% assign assignmentPages = site.data.type-3.assignments[4].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% elsif page.level == 4 %}
+		{% assign assignmentPages = site.data.type-4.assignments[4].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% endif %}
+		</ul>
+	</div>
+	<div class="assignment assignment6">
+		<h3>
+		{% if page.level == 3 %}
+		<a href="{{ site.url }}/{{ site.data.type-3.assignments[5].url }}">
+			{{ site.data.type-3.assignments[5].title }}
+		</a>
+			{% elsif page.level == 4 %}
+			<a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
+			{{ site.data.type-4.assignments[5].title }}
+			</a>
+		{% endif %}
+		</h3>
+		<ul>
+		{% if page.level == 3 %}
+		{% assign assignmentPages = site.data.type-3.assignments[5].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% elsif page.level == 4 %}
+		{% assign assignmentPages = site.data.type-4.assignments[5].pages %}
+			{% for item in assignmentPages %}
+			{% unless item.type == 'assignment-home' %}
+				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+			{% endunless %}
+		{% endfor %}
+		{% endif %}
+		</ul>
+	</div>
+	<div class="item item1">
+		<h4>
+		<a href="{{ site.url }}{{ site.data.micro-assignments.pages[0].url }}"
+			>{{ site.data.micro-assignments.pages[0].title }}</a>
+		</h4>
+		<p>{{ site.data.micro-assignments.pages[0].deck }}</p>
+	</div>
+	<div class="item item2">
+		<h4>
+		<a href="{{ site.url }}{{ site.data.micro-assignments.pages[1].url }}"
+			>{{ site.data.micro-assignments.pages[1].title }}</a>
+		</h4>
+		<p>{{ site.data.micro-assignments.pages[1].deck }}</p>
+	</div>
+	<div class="item item3">
+		<h4>
+		<a href="{{ site.url }}{{ site.data.micro-assignments.pages[2].url }}"
+			>{{ site.data.micro-assignments.pages[2].title }}</a>
+		</h4>
+		<p>{{ site.data.micro-assignments.pages[2].deck }}</p>
+	</div>
+	<div class="item item4">
+		<h4>
+		<a href="{{ site.url }}{{ site.data.micro-assignments.pages[3].url }}"
+			>{{ site.data.micro-assignments.pages[3].title }}</a>
+		</h4>
+		<p>{{ site.data.micro-assignments.pages[3].deck }}</p>
+	</div>
+	{% include footer.html %}
+	</div>
+</body>
 </html>

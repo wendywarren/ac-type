@@ -8,6 +8,7 @@ assignments:
     pages:
       - title: "The Foundational Space"
         url: type-3/grimm-dust-cover/subpage1.html
+        deck: "This is a test deck block of text."
       - title: "Design Stage"
         url: type-3/grimm-dust-cover/subpage2.html
       - title: "Build the Design"
@@ -49,22 +50,22 @@ assignments:
         url: type-3/newsletter/subpage5.html
       - title: "Deliverables"
         url: ntype-3/ewsletter/deliverables.html
-# Assignment Four # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-  - title: "Assignment Four"
-    url: type-3/assignmentFour/index.html
+# Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  - title: "Poster"
+    url: type-3/poster/index.html
     level: 3
     # Subpages
     pages:
-      - title: "First Subpage"
-        url: type-3/assignmentFour/subpage1.html
+      - title: "Type Classification"
+        url: type-3/poster/subpage1.html
       - title: "Second Subpage"
-        url: type-3/assignmentFour/subpage2.html
+        url: type-3/poster/subpage2.html
       - title: "Third Subpage"
-        url: type-3/assignmentFour/subpage3.html
+        url: type-3/poster/subpage3.html
       - title: "Deliverables"
-        url: type-3/assignmentFour/deliverables.html
+        url: type-3/poster/deliverables.html
 # Assignment Five # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-  - title: "Assignment Five"
+  - title: "Signage"
     url: type-3/assignmentFive/index.html
     level: 3
     # Subpages
