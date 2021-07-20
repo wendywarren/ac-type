@@ -139,6 +139,11 @@ p {
   margin-top: 1rem;
 }
 
+.deck ul {
+	margin-left: 0;
+	padding-left: 0;
+}
+
 #content h1 + p,
 #content h2 + p,
 #content h3 + p,
