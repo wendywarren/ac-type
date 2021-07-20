@@ -149,3 +149,4 @@ deck: Web site notes and Todo's.
 - [Page Layout](https://learning.oreilly.com/library/view/lessons-in-typography/9780133993738/ch05.html)
 - [Good reference for fundamentals](https://learning.oreilly.com/library/view/design-elements-typography/9781592537679/)
 - [Great historical book](https://learning.oreilly.com/library/view/typography-referenced/9781592537020/) It includes a list of type designers.
+- [Really detailed book on letterforms](https://learning.oreilly.com/library/view/lessons-in-typography/9780133993738/). A microscopic view of type.
