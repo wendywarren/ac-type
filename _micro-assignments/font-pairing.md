@@ -5,6 +5,10 @@ level: 3
 alpha: a
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
+resources: |
+  - https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b
+  - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch05.xhtml
+  - https://learnui.design/blog/guide-pairing-fonts.html
 ---
 ## Selecting Typefaces
 
@@ -36,4 +40,21 @@ These glyphs are part of Formata and Caslon respectively. Both families have ext
 
 ## Type Marriage
 
-Matching up two typefaces is a bit of a dark art. Some go on instinct and experience. Others are more methodical. Using all of the above is probably advisable.
+Matching up two typefaces is a bit of a dark art. Some go on instinct and experience. Others are more methodical. Using both of the above is probably advisable. These are all elements (in no particular order) to consider in pairing typefaces:
+
+- classification
+- glyph style
+- x-height
+- glyph width
+- ...and more.
+
+What often happens is that you're given the first family. That way, you only need to find a typeface to pair with it.
+
+### What to Avoid?
+
+When trying to find a match, in this case, *opposites attract* isn't really true. This means we want to avoid pairing a really wide font with a really arrow one. The same goes for an ultra-light font and a really bold one -- not a good way to go.
+
+![thin-thick-narrow-wide]({{site.url}}/svg/thin-thick-narrow-wide.svg "thin-thick-narrow-wide"){:width="300px"}
+
+Despite the fact that these two glyphs are part of the same family, [Acumin](https://acumin.typekit.com), there's way too much contrast in weight *and* in width for them to be used together.
+
