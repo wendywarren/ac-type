@@ -9,7 +9,10 @@ resources: |
   - https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b
   - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch05.xhtml
   - https://learnui.design/blog/guide-pairing-fonts.html
+  - 
 ---
+<!--- We could do an in-class activity where I present one typeface, then students need to match it up with another one on the fly. They'd have to explain why they match. They could save all the pairs, then share them with the groups. --->
+
 ## Selecting Typefaces
 
 Before we can match up any two type families, we need to first decide what our choice will be based on. There are three major criteria, context and visual harmony and functionality.
@@ -48,7 +51,11 @@ Matching up two typefaces is a bit of a dark art. Some go on instinct and experi
 - glyph width
 - ...and more.
 
-What often happens is that you're given the first family. That way, you only need to find a typeface to pair with it.
+What often happens is that you're given the first family. That way, you only need to find a typeface to pair with it. Let's say you're given Lubalin Graph to start with. It's a geometric slab serif.
+
+![Lubalin paired with Futura]({{site.url}}/svg/lubalin-futura-pairing.svg "Lubalin paired with Futura"){:width="400px"}
+
+Which font are geometric sans-serifs? There's Futura, for sure. There's also Avant Guard. That's the font that Lubalin was based on. We've chosen Futura above.
 
 ### What to Avoid?
 
@@ -57,4 +64,3 @@ When trying to find a match, in this case, *opposites attract* isn't really true
 ![thin-thick-narrow-wide]({{site.url}}/svg/thin-thick-narrow-wide.svg "thin-thick-narrow-wide"){:width="300px"}
 
 Despite the fact that these two glyphs are part of the same family, [Acumin](https://acumin.typekit.com), there's way too much contrast in weight *and* in width for them to be used together.
-
