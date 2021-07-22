@@ -70,7 +70,7 @@ a:visited.site-id
 	border-bottom: 0;
 }
 
-a:hover.site-id { color: var(--orange100); }
+a:hover.site-id { color: var(--blue); }
 nav { text-align: right; }
 
 nav span
