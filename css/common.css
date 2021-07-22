@@ -9,7 +9,7 @@
   --lightgrey: rgb(212, 212, 212);
   --white: rgb(255, 255, 255);
   --blue: rgb(37, 183, 255);
-  --blue50: rgba(37, 183, 255, .5);
+  --blue50: rgba(37, 183, 255, .3);
 }
 
 body {
