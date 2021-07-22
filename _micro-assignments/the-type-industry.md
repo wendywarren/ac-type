@@ -5,6 +5,9 @@ level: 3
 alpha: b
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
+resources: |
+  - https://www.creativebloq.com/features/font-licensing
+  - https://www.crowdspring.com/blog/font-law-licensing/
 ---
 How does a font go from the typographer's mind to the market.
 
