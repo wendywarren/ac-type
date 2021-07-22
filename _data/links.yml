@@ -13,12 +13,12 @@ publications:
     description: ""
 # Links # Links # Links # Links # Links # Links # Links # Links # 
 links:
-  - title: 
-    url: 
-    description: ""
-  - title: 
-    url: 
-    description: ""
-  - title: 
-    url: 
-    description: ""
+  - title: "Fonts in Use"
+    url: "https://fontsinuse.com"
+    description: "Fonts In Use is a public archive of typography indexed by typeface, format, industry, and period."
+  - title: "Type Wolf"
+    url: "https://www.typewolf.com"
+    description: "My goal is to make Typewolf the absolute best resource available for everything related to typography on the web."
+  - title: "MyFonts Font Field Guides"
+    url: "https://www.myfonts.com/content/font-field-guide"
+    description: "Learn about how to use these fonts. There are also alternate cuts of each font."
