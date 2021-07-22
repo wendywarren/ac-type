@@ -31,16 +31,16 @@ html
 	font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
 }
 
-a, a:link
-{
-	color: black;
-	text-decoration: none;
-	border-bottom: 3px solid var(--blue50);
 	
+a, a:link {
+color: black;
+  text-decoration-color: var(--blue50);
+  text-decoration-thickness: 3px;
+  text-underline-offset: 1.5px;
 }
 
 a:visited { color: rgba(60, 60, 60, 1); }
-a:hover { color: lightgrey; }
+a:hover { color: var(--mediumgrey) }
 a:active { color: rgba(247 148 29); }
 a:focus { outline: 2px solid black; }
 .uppercase { text-transform: uppercase; }
@@ -68,6 +68,7 @@ a:visited.site-id
 {
 	text-decoration: none;
 	color: black;
+	border-bottom: 0;
 }
 
 a:hover.site-id { color: var(--orange100); }
