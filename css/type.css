@@ -31,7 +31,6 @@ html
 	font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
 }
 
-	
 a, a:link {
 color: black;
   text-decoration-color: var(--blue50);
@@ -153,7 +152,10 @@ p { margin-top: 1rem; }
 	padding: 0;
 }
 
-#grid li { list-style-type: none; }
+#grid li {
+	list-style-type: none;
+	margin-top: .125rem;
+}
 
 .course-info1 h3,
 .course-info2 h3,
