@@ -6,7 +6,9 @@ title: "Grimm Dust Cover"
 deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
-reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
+reference: |
+  - "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
+  - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
 ---
 We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure. Ad hoc, or *informal* grids are created as you sketch your pages. Elements simply align with each other on the page.
 
