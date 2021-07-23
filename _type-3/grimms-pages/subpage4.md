@@ -2,24 +2,46 @@
 layout: subpage
 type: subpage
 level: 3
-title: "Putting It All Together"
+title: "Stylistic Elements"
 assignment: "Grimm's Pages"
-assNo: assignment1
-sortorder: 2.4
-deck: "We've assembled all the ingredients and we have a recipe. It's time to get cooking."
+sortorder: 2.3
+deck: "Fiction novels can have beautiful typographic treatments that can include ornamental glyphs, rules and more. That's what well design here."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
-### What's on the Board
+We have our grid established and our type family chosen. Now we can determine more styling like styling folios, chapter names and numbers and more.
 
-This is what we have put together to date:
+### Ornaments
 
-- our page grid
-- typeface selection
-- stylistic elements
+![Wood Type Ornament]({{site.url}}/svg/ornaments.svg){:width="180px"}
 
-We don't have colour selection to do, since we're working with only black ink.
+Ornaments are actually glyphs that are part of a font. The simplest way to choose one is to select a font, then open the glyphs panel to get a list. A majority of fonts don't have ornaments. They're a lot of work for the typographer to design.
 
-> The black ink in a novel is C0 M0 Y0 K100. It's only black ink. If you look closely (especially with a loupe), you can see that it's grey-ish on the page. That way, it's actually easier on the eyes. The contrast is too high on really black ink on super-white paper.
+If you want to see an impressive array of ornaments, take a gander at [this PDF with details on the Warnock family](https://www.adobe.com/content/dam/acom/en/products/type/pdfs/WarnockPro.pdf){:target="_blank"}. Be sure to read how the story of the typeface began in the PDF. It'll surely bring a tear to your eye.
 
-From here on in, it's just a matter of assembly. Now we become the production department.
+Depending on the context, ornaments can create a visual break in reading and enhance the appearance of our pages.
+
+### Alternates
+
+![Alternate Characters]({{site.url}}/svg/alternates.svg){:width="180px"}
+
+Stylistic alternates can add elegance or ease-of-reading to our text. Conversely, we need to careful that they're not more of a distraction.
+
+### Ligatures
+
+![Sample Ligature]({{site.url}}/svg/ligatures.svg){:width="240px"}
+
+Ligatures can ease flow when reading. As with alternates, they can be distracting.
+
+### Old Style Figures
+
+![Old Style Figures]({{site.url}}/svg/old-style-figures.svg){:width="180px"}
+
+Old style figures, also known as non-lining figures are shifted relative to the baseline. These figures add style and legibility to numbers. There's more differentiation between digits.
+
+### By the way...
+
+This is what I meant by distracting ligatures.
+
+![This is a distracting ligature.]({{site.url}}/svg/distractions.svg){:width="320px"}
+
