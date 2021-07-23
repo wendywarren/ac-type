@@ -9,7 +9,12 @@ resources: |
   - https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b
   - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch05.xhtml
   - https://learnui.design/blog/guide-pairing-fonts.html
-  - 
+  - https://www.fontshop.com/content/how-to-find-a-suitable-text-font
+  - https://practice.typekit.com/lesson/selecting-typefaces-for-body-text/
+  - https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
+  - https://www.creativebloq.com/typography/tips-choosing-typeface-31514399
+  - https://www.fontshop.com/content/how-to-mix-type
+  - https://www.typography.com/blog/typographic-doubletakes
 ---
 <!---
 We could do an in-class activity where I present one typeface, then students need to match it up with another one on the fly. They'd have to explain why they match. They could save all the pairs, then share them with the groups.
