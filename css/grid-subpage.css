@@ -47,55 +47,56 @@ nav { grid-area: nav; }
 
 @media only screen and (min-width: 25em)
 {
-	#grid
-	{
-		grid-template-columns: 1fr 1fr;
-		grid-template-areas:
-		'nav nav'
-		'site-id1 .'
-		'course-info1 .'
-		'course-info2 .'
-		'content .'
-		'assignment1 assignment2'
-		'assignment3 assignment4'
-		'item1 item2'
-		'item3 item4'
-		'footer1 footer2'
-		'footer3 footer4';
-	}
-
-	.course-info1 { grid-area: 2 / 1 / auto / span 2; }
-	.course-info2 { grid-area: 3 / 1 / auto / span 2; }
-	.content
-	{
-		grid-column-start: 1;
-		grid-column-end: -1;
-	}
+#grid  {
+   grid-template-columns: 1fr 1fr;
+   grid-template-areas:
+   'nav nav'
+   'site-id1 .'
+   'course-info1 course-info2'
+   'content .'
+   'assignment1 assignment2'
+   'assignment3 assignment4'
+   'item1 item2'
+   'item3 item4'
+   'footer1 footer2'
+   'footer3 footer4';
+}
+.course-info2 { 
+	grid-row-start: 3;
+	grid-column-start: 2;
+	grid-column-end: -1;
+ }
+.content {
+  grid-column-start: 1;
+  grid-column-end: -1;
+  }
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
 
-@media only screen and (min-width: 42em)
-{
-	#grid
-	{
-		grid-template-columns: 1fr 1fr 1fr;
-		grid-template-areas:
-		'nav nav nav'
-		'site-id1 course-info1 course-info2'
-		'content . .'
-		'assignment1 assignment2 assignment3'
-		'assignment4 .           . '
-		'item1 item2 item3'
-		'item4 item5 item6'
-		'footer1 footer2 footer3'
-		'footer4 . .';
-	}
+@media only screen and (min-width: 42em) {
 
-	.site-id1 {	grid-area: 1 / 1; }
-	.course-info1 { grid-area: 1 / 2 / 2 / 2; }
-	.course-info2 { grid-area: 1 / 3; }
-	.content { grid-area: 3 / 1 / 2 / -1; }
+#grid {
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-areas:
+	'nav nav nav'
+	'site-id1 course-info1 course-info2'
+	'content . .'
+	'assignment1 assignment2 assignment3'
+	'assignment4 .           . '
+	'item1 item2 item3'
+	'item4 item5 item6'
+	'footer1 footer2 footer3'
+	'footer4 . .';
+}
+.course-info2 {
+  grid-column-start: 3;
+  grid-row-start: 2;
+}
+.content {
+  grid-column-start: 1;
+  grid-column-end: -1;
+  }
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
@@ -123,26 +124,10 @@ nav { grid-area: nav; }
 		'. .        . . '		
 		'footer1 footer2 footer3 footer4';
 	}
-
-	.site-id1 {	grid-area: 1 / 1 / auto / span 2; }
-	.course-info1 { grid-area: 1 / 3; }
-	.course-info2 { grid-area: 1 / 4; }
-	.content { grid-area: 2 / 1 / 16 / 3; }
+	nav { grid-area: 1 / 1 / auto / span 4; }
+	.site-id1 {	grid-area: 2 / 1 / auto / span 2; }
+	.course-info1 { grid-area: 2 / 3; }
+	.course-info2 { grid-area: 2 / 4; }
+	.content { grid-area: 3 / 1 / 16 / 3; }
 }
 
-/* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
-
-@media only screen and (min-width: 90em)
-{
-	#grid
-	{
-		grid-template-columns: 1fr 1fr 1fr 1fr;
-		grid-template-areas:
-		'nav nav nav nav'
-		'site-id1 . course-info1 course-info2'
-		'content'
-		'assignment1 assignment2 item1 item2'
-		'assignment3 assignment4 item3 item4'
-		'footer1 footer2 footer3 footer4';
-	}
-}
