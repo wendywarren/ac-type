@@ -209,13 +209,6 @@ strong
 	max-width: 95%;
 }
 
-#content ul li:before
-{
-	content: "\27A4";
-	margin-left: -20px;
-	margin-right: 10px;
-	font-size: 0.5rem;
-}
 
 #content ol li { list-style-type: decimal; }
 
@@ -239,7 +232,13 @@ strong
 	font-family: "FiraSans-Medium";
 }
 
-#content ul li:before { content: " "; }
+#content ul li:before
+{
+	content: "\27A4";
+	margin-left: -20px;
+	margin-right: 10px;
+	font-size: 0.5rem;
+}
 
 dt
 {
