@@ -35,6 +35,12 @@
 		{% endif %}
 		</div>
 		<div id="content">
+		{% if page.path contains "index" %}
+		<ul class="links">
+			<li class="links"><a href="#" class="links">Downloads</a></li>
+			<li class="links"><a href="#" class="links">BrightSpace</a></li>
+		</ul>
+		{% endif %}
 		{% if page.type == 'assignment-home' %}
 			<h2>The Brief</h2>
 		{% endif %} 
