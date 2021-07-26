@@ -1,6 +1,5 @@
 ---
 layout: subpage
-type: assignment-home
 serial: level-3-assignment-2-home
 reference: "https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml"
 ---

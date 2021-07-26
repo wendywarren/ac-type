@@ -1,10 +1,6 @@
 ---
 layout: subpage
-type: assignment-home
 serial: level-3-assignment-4-home
-title: "Newsletter Design"
-assignment: "X-Height Newsletter"
-deck: "As we increase the complexity of our grids, we move up to the modular grid. This is ideal for newsletter page layouts."
 reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
 ---
 To date, we've designed ad hoc grids which lend themselves to single pages of content. We then designed single-column grids which are commonly found in fiction novels. Now, we'll step up once again to the modular grid. This is the most flexible type of grid. It allows for placement of text and other types of content like images, tables of data, graphics and more.

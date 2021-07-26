@@ -1,11 +1,6 @@
 ---
 layout: subpage
-type: subpage
 serial: level-3-assignment-2-subpage-5
-title: "Putting It All Together"
-assignment: "Grimm's Pages"
-assNo: assignment1
-deck: "We've assembled all the ingredients and we have a recipe. It's time to get cooking."
 ---
 ### What's on the Board
 

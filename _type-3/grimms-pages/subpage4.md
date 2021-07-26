@@ -1,6 +1,5 @@
 ---
 layout: subpage
-type: subpage
 serial: level-3-assignment-2-subpage-4
 ---
 We have our grid established and our type family chosen. Now we can determine more styling like styling folios, chapter names and numbers and more.

@@ -1,6 +1,5 @@
 ---
 layout: subpage
-type: subpage
 serial: level-3-assignment-2-subpage-1
 ---
 ### The Perfect Page 

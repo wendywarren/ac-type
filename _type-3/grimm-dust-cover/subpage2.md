@@ -1,6 +1,5 @@
 ---
 layout: subpage
-type: subpage
 serial: level-3-assignment-1-subpage-2
 ---
 ### Style Board
