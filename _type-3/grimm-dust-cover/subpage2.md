@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: subpage
-level: 3
+serial: level-3-assignment-1-subpage
 title: "Design Stage"
 deck: "This is where the rubber hits the road. The creativity takes place here. Create a style board that will communicate your design to the client."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"

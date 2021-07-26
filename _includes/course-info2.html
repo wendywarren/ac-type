@@ -4,9 +4,9 @@
 	</h3>
 </div>
 <div>
-	{% if page.level == 3 %}
+	{% if page.serial contains 'level-3' %}
 		{{ site.data.metadata.courses[0].course-description }}
-	{% elsif page.level == 4 %}
+	{% elsif page.serial contains 'level-4' %}
 		{{ site.data.metadata.courses[1].course-description }}
 	{% endif %}
 </div>

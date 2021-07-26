@@ -1,6 +1,6 @@
 ---
 layout: subpage
-level: 3
+serial: level-4-assignment-3-home
 title: Poster
 type: assignment-home
 deck: "We'll explore type classifications by designing a poster."

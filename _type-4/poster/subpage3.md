@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: subpage
-level: 3
+serial: level-4-assignment-3-subpage
 title: "Type Selection"
 assignment: "X-Height Newsletter"
 sortorder: 4.3

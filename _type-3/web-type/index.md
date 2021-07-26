@@ -2,7 +2,7 @@
 layout: subpage
 title: "Web Type Treatment"
 type: assignment-home
-level: 3
+serial: level-3-assignment-3-home
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 reference: |
   - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml

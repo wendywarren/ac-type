@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: deliverables
-level: 4
+serial: level-4-assignment-1-deliverables
 title: "Deliverables"
 deck: "Gather all your stuff. It's time to send your assignment home."
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"

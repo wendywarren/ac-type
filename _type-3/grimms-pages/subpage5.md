@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: subpage
-level: 3
+serial: level-3-assignment-2-subpage
 title: "Putting It All Together"
 assignment: "Grimm's Pages"
 assNo: assignment1

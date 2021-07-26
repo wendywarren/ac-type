@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: subpage
-level: 3
+serial: level-3-assignment-2-subpage
 title: "Designing our Grid"
 assignment: "Grimm's Pages"
 sortorder: 2.1

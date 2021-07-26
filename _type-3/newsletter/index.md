@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: assignment-home
-level: 3
+serial: level-3-assignment-4-home
 title: "Newsletter Design"
 assignment: "X-Height Newsletter"
 sortorder: 4.0

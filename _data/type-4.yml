@@ -1,58 +1,73 @@
 assignments:
 # Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Signage"
+    serial: level-4-assignment-1-home
     url: type-4/signage/index.html
-    sortorder: 1
-    level: 4
     # Subpages
     pages:
       - title: "First Subpage"
+        serial: level-4-assignment-1-subpage-1
         url: type-4/signage/subpage1.html
       - title: "Second Subpage"
+        serial: level-4-assignment-1-subpage-2      
         url: type-4/signage/subpage2.html
       - title: "Third Subpage"
+        serial: level-4-assignment-1-subpage-3
         url: type-4/signage/subpage3.html
       - title: "Deliverables"
+        serial: level-4-assignment-1-deliverables
         url: type-4/signage/deliverables.html
 # Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Web Type"
+    serial: level-4-assignment-2-home
     url: type-4/web-type/index.html
-    level: 4
     # Subpages
     pages:
       - title: "First Subpage"
+        serial: level-4-assignment-2-subpage-1
         url: type-4/web-type/subpage1.html
       - title: "Second Subpage"
+        serial: level-4-assignment-2-subpage-2
         url: type-4/web-type/subpage2.html
       - title: "Third Subpage"
+        serial: level-4-assignment-2-subpage-3
         url: type-4/web-type/subpage3.html
       - title: "Deliverables"
+        serial: level-4-assignment-2-deliverables
         url: type-4/web-type/deliverables.html
 # Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Poster"
+    serial: level-4-assignment-3-home
     url: type-4/poster/index.html
-    level: 4
     # Subpages
     pages:
       - title: "Type Classification"
+        serial: level-4-assignment-3-subpage-1
         url: type-4/poster/subpage1.html
       - title: "Second Subpage"
+        serial: level-4-assignment-3-subpage-2
         url: type-4/poster/subpage2.html
       - title: "Third Subpage"
+        serial: level-4-assignment-3-subpage-3
         url: type-4/poster/subpage3.html
       - title: "Deliverables"
+        serial: level-4-assignment-3-deliverables
         url: type-4/poster/deliverables.html
 # Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Magazine"
+    serial: level-4-assignment-4-home
     url: type-4/magazine/index.html
-    level: 4
     # Subpages
     pages:
       - title: "First Subpage"
+        serial: level-4-assignment-4-subpage-1
         url: type-4/magazine/subpage1.html
       - title: "Second Subpage"
+        serial: level-4-assignment-4-subpage-2
         url: type-4/magazine/subpage2.html
       - title: "Third Subpage"
+        serial: level-4-assignment-4-subpage-3
         url: type-4/magazine/subpage3.html
       - title: "Deliverables"
+        serial: level-4-assignment-4-deliverables
         url: type-4/magazine/deliverables.html

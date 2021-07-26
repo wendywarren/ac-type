@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: deliverables
-level: 3
+serial: level-3-assignment-1-deliverables
 title: "Deliverables"
 assignment: "Grimm Fairy Tales"
 sortorder: 1.9

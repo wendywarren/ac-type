@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: subpage
-level: 3
+serial: level-3-assignment-2-subpage
 title: "Stylistic Elements"
 assignment: "Grimm's Pages"
 sortorder: 2.3

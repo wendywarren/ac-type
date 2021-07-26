@@ -10,9 +10,9 @@
 	   <span><a href="{{ site.url }}/type-4/index.html">Type 4</a></span>
 	 </nav>
 	 <div class="site-id1">
-	   {% if page.level == 3 %}
+	   {% if page.serial contains 'level-3' %}
 	   <a href="{{ site.url }}/type-3/index.html" class="site-id">Type<sup>3</sup></a>
-	   {% elsif page.level == 4 %}
+	   {% elsif page.serial contains 'level-4' %}
 	   <a href="{{ site.url }}/type-4/index.html" class="site-id">Type<sup>4</sup></a>
 	   {% endif %}
 	 </div>
@@ -21,25 +21,25 @@
 	 <div class="course-info2">{% include course-info2.html %}</div>
 	 <div class="assignment assignment1">
 	   <h3>
-		 {% if page.level == 3 %}
+ 	   {% if page.serial contains 'level-3' %}
 		 <a href="{{ site.url}}/{{ site.data.type-3.assignments[0].url }}">
 		   {{ site.data.type-3.assignments[0].title }}
 		 </a>
-		 {% elsif page.level == 4 %}
+		 {% elsif page.serial contains 'level-4' %}
 		 <a href="{{ site.url}}/{{ site.data.type-4.assignments[0].url }}">
 		   {{ site.data.type-4.assignments[0].title }}
 		 </a>
 		 {% endif %}
 	   </h3>
 	   <ul>
-		 {% if page.level == 3 %}
+		 {% if page.serial contains 'level-3' %}
 		 {% assign assignmentPages = site.data.type-3.assignments[0].pages %}
 		   {% for item in assignmentPages %}
 			 {% unless item.type == 'assignment-home' %}
 			   <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
 			 {% endunless %}
 		 {% endfor %}
-		 {% elsif page.level == 4 %}
+		 {% elsif page.serial contains 'level-4' %}
 		 {% assign assignmentPages = site.data.type-4.assignments[0].pages %}
 		   {% for item in assignmentPages %}
 			 {% unless item.type == 'assignment-home' %}
@@ -51,25 +51,25 @@
 	 </div>
 	 <div class="assignment assignment2">
 	   <h3>
-		 {% if page.level == 3 %}
+		 {% if page.serial contains 'level-3' %}
 		 <a href="{{ site.url }}/{{ site.data.type-3.assignments[1].url }}">
 		   {{ site.data.type-3.assignments[1].title }}
 		 </a>
-		   {% elsif page.level == 4 %}
+		   {% elsif page.serial contains 'level-4' %}
 		 <a href="{{ site.url }}/{{ site.data.type-4.assignments[1].url }}">
 		   {{ site.data.type-4.assignments[1].title }}
 		 </a>
 		 {% endif %}
 	   </h3>
 	   <ul>
-		 {% if page.level == 3 %}
+		 {% if page.serial contains 'level-3' %}
 		 {% assign assignmentPages = site.data.type-3.assignments[1].pages %}
 		   {% for item in assignmentPages %}
 			 {% unless item.type == 'assignment-home' %}
 			   <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
 			 {% endunless %}
 		 {% endfor %}
-		 {% elsif page.level == 4 %}
+		 {% elsif page.serial contains 'level-4' %}
 		 {% assign assignmentPages = site.data.type-4.assignments[1].pages %}
 		   {% for item in assignmentPages %}
 			 {% unless item.type == 'assignment-home' %}
@@ -81,24 +81,24 @@
 	 </div>
 	 <div class="assignment assignment3">
 	   <h3>
-		 {% if page.level == 3 %}
+		 {% if page.serial contains 'level-3' %}
 		 <a href="{{ site.url }}/{{ site.data.type-3.assignments[2].url }}">
 		   {{ site.data.type-3.assignments[2].title }}
 		 </a>
-		   {% elsif page.level == 4 %}
+		   {% elsif page.serial contains 'level-4' %}
 		   <a href="{{ site.url }}/{{ site.data.type-4.assignments[2].url }}">
 		   {{ site.data.type-4.assignments[2].title }}
 		 {% endif %}
 	   </h3>
 	   <ul>
-		 {% if page.level == 3 %}
+		 {% if page.serial contains 'level-3' %}
 		 {% assign assignmentPages = site.data.type-3.assignments[2].pages %}
 		   {% for item in assignmentPages %}
 			 {% unless item.type == 'assignment-home' %}
 			   <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
 			 {% endunless %}
 		 {% endfor %}
-		 {% elsif page.level == 4 %}
+		 {% elsif page.serial contains 'level-4' %}
 		 {% assign assignmentPages = site.data.type-4.assignments[2].pages %}
 		   {% for item in assignmentPages %}
 			 {% unless item.type == 'assignment-home' %}
@@ -110,25 +110,25 @@
 	 </div>
 	 <div class="assignment assignment4">
 	   <h3>
-		 {% if page.level == 3 %}
+		 {% if page.serial contains 'level-3' %}
 		 <a href="{{ site.url }}/{{ site.data.type-3.assignments[3].url }}">
 		   {{ site.data.type-3.assignments[3].title }}
 		 </a>
-		   {% elsif page.level == 4 %}
+		   {% elsif page.serial contains 'level-4' %}
 		 <a href="{{ site.url }}/{{ site.data.type-4.assignments[3].url }}">
 		   {{ site.data.type-4.assignments[3].title }}
 		 </a>
 		 {% endif %}
 	   </h3>
 	   <ul>
-		 {% if page.level == 3 %}
+		 {% if page.serial contains 'level-3' %}
 		 {% assign assignmentPages = site.data.type-3.assignments[3].pages %}
 		   {% for item in assignmentPages %}
 			 {% unless item.type == 'assignment-home' %}
 			   <li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
 			 {% endunless %}
 		 {% endfor %}
-		 {% elsif page.level == 4 %}
+		 {% elsif page.serial contains 'level-4' %}
 		 {% assign assignmentPages = site.data.type-4.assignments[3].pages %}
 		   {% for item in assignmentPages %}
 			 {% unless item.type == 'assignment-home' %}
@@ -138,7 +138,7 @@
 		 {% endif %}
 	   </ul>
 	 </div>
-	 	{% if page.level == 3 %}
+	 	{% if page.serial contains 'level-3' %}
 	 <div class="item item1">
 	   <h4>
 		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[0].url }}"
@@ -172,7 +172,7 @@
 	   <p>{{ site.data.micro-assignments.pages[3].deck }}</p>
 	 </div>
 	{% endif %}	 
-		 	{% if page.level == 4 %}
+		 	{% if page.serial contains 'level-4' %}
 	 <div class="item item1">
 
 	   <h4>

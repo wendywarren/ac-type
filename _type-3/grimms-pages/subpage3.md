@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: subpage
-level: 3
+serial: level-3-assignment-2-subpage
 title: "Setting Justified Type"
 assignment: "Grimm's Pages"
 deck: "This is the deck content for this page."

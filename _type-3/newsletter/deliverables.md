@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: deliverables
-level: 3
+serial: level-3-assignment-2-deliverables
 title: "Deliverables"
 assignment: "Assignment 4"
 sortorder: 4.9
