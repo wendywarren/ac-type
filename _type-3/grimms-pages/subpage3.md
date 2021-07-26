@@ -11,3 +11,6 @@ reference: |
   - 
 ---
 InDesign has some wonderful fine-tuning capabilities when it comes to setting justified type.
+
+- Set justified type
+- 
