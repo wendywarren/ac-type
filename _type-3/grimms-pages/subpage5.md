@@ -5,7 +5,6 @@ serial: level-3-assignment-2-subpage
 title: "Putting It All Together"
 assignment: "Grimm's Pages"
 assNo: assignment1
-sortorder: 2.4
 deck: "We've assembled all the ingredients and we have a recipe. It's time to get cooking."
 formsum: formative
 ---

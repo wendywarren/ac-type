@@ -4,7 +4,6 @@ type: subpage
 serial: level-3-assignment-2-subpage
 title: "Type Selection"
 assignment: "Grimm's Pages"
-sortorder: 2.2
 deck: "This is the deck content for this page."
 formsum: formative
 reference:

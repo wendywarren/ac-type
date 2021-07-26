@@ -4,7 +4,6 @@ type: deliverables
 serial: level-3-assignment-1-deliverables
 title: "Deliverables"
 assignment: "Grimm's Pages"
-sortorder: 2.9
 deck: "This is the deck content for this page."
 formsum: formative
 ---

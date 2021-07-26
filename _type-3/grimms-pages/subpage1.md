@@ -4,7 +4,6 @@ type: subpage
 serial: level-3-assignment-2-subpage
 title: "Designing our Grid"
 assignment: "Grimm's Pages"
-sortorder: 2.1
 deck: "There are many formula for creating the single-column grid. Most of them are trash, myths. There are others which are actually useful. The first is the Van de Graaf Canon. Let's dive in!"
 formsum: formative
 ---

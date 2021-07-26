@@ -4,7 +4,6 @@ type: subpage
 serial: level-3-assignment-2-subpage
 title: "Stylistic Elements"
 assignment: "Grimm's Pages"
-sortorder: 2.3
 deck: "Fiction novels can have beautiful typographic treatments that can include ornamental glyphs, rules and more. That's what well design here."
 formsum: formative
 ---

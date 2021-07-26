@@ -4,7 +4,6 @@ type: assignment-home
 serial: level-3-assignment-4-home
 title: "Newsletter Design"
 assignment: "X-Height Newsletter"
-sortorder: 4.0
 deck: "As we increase the complexity of our grids, we move up to the modular grid. This is ideal for newsletter page layouts."
 formsum: formative
 reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
