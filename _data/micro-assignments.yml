@@ -29,20 +29,20 @@ pages:
   - title: Some_Micro_Assignment
     level: 4
     alpha: e
-    url: /micro-assignments/Some_Micro_Assignment.html
+    url: /micro-assignments/some_micro_assignment_e.html
     deck: "This is the deck content for this micro-assignment."
   - title: Some_Micro_Assignment
     level: 4
     alpha: f
-    url: /micro-assignments/Some_Micro_Assignment.html
+    url: /micro-assignments/some_micro_assignment_f.html
     deck: "This is the deck content for this micro-assignment."
   - title: Some_Micro_Assignment
     level: 4
     alpha: g
-    url: /micro-assignments/Some_Micro_Assignment.html
+    url: /micro-assignments/some_micro_assignment_g.html
     deck: "This is the deck content for this micro-assignment."
   - title: Some_Micro_Assignment
     level: 4
     alpha: h
-    url: /micro-assignments/Some_Micro_Assignment.html
+    url: /micro-assignments/some_micro_assignment_h.html
     deck: "This is the deck content for this micro-assignment."

@@ -167,34 +167,75 @@
 		{% endif %}
 		</ul>
 	</div>
-	<div class="item item1">
-		<h4>
-		<a href="{{ site.url }}{{ site.data.micro-assignments.pages[0].url }}"
-			>{{ site.data.micro-assignments.pages[0].title }}</a>
-		</h4>
-		<p>{{ site.data.micro-assignments.pages[0].deck }}</p>
-	</div>
-	<div class="item item2">
-		<h4>
-		<a href="{{ site.url }}{{ site.data.micro-assignments.pages[1].url }}"
-			>{{ site.data.micro-assignments.pages[1].title }}</a>
-		</h4>
-		<p>{{ site.data.micro-assignments.pages[1].deck }}</p>
-	</div>
-	<div class="item item3">
-		<h4>
-		<a href="{{ site.url }}{{ site.data.micro-assignments.pages[2].url }}"
-			>{{ site.data.micro-assignments.pages[2].title }}</a>
-		</h4>
-		<p>{{ site.data.micro-assignments.pages[2].deck }}</p>
-	</div>
-	<div class="item item4">
-		<h4>
-		<a href="{{ site.url }}{{ site.data.micro-assignments.pages[3].url }}"
-			>{{ site.data.micro-assignments.pages[3].title }}</a>
-		</h4>
-		<p>{{ site.data.micro-assignments.pages[3].deck }}</p>
-	</div>
+	 	{% if page.level == 3 %}
+	 <div class="item item1">
+
+	   <h4>
+		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[0].url }}"
+		   >{{ site.data.micro-assignments.pages[0].title }}</a
+		 >
+	   </h4>
+	   <p>{{ site.data.micro-assignments.pages[0].deck }}</p>
+	 </div>
+	 <div class="item item2">
+	   <h4>
+		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[1].url }}"
+		   >{{ site.data.micro-assignments.pages[1].title }}</a
+		 >
+	   </h4>
+	   <p>{{ site.data.micro-assignments.pages[1].deck }}</p>
+	 </div>
+	 <div class="item item3">
+	   <h4>
+		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[2].url }}"
+		   >{{ site.data.micro-assignments.pages[2].title }}</a
+		 >
+	   </h4>
+	   <p>{{ site.data.micro-assignments.pages[2].deck }}</p>
+	 </div>
+	 <div class="item item4">
+	   <h4>
+		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[3].url }}"
+		   >{{ site.data.micro-assignments.pages[3].title }}</a
+		 >
+	   </h4>
+	   <p>{{ site.data.micro-assignments.pages[3].deck }}</p>
+	 </div>
+	{% endif %}	 
+ 	{% if page.level == 4 %}
+	 <div class="item item1">
+	   <h4>
+		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[4].url }}"
+		   >{{ site.data.micro-assignments.pages[4].title }}</a
+		 >
+	   </h4>
+	   <p>{{ site.data.micro-assignments.pages[4].deck }}</p>
+	 </div>
+	 <div class="item item2">
+	   <h4>
+		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[5].url }}"
+		   >{{ site.data.micro-assignments.pages[5].title }}</a
+		 >
+	   </h4>
+	   <p>{{ site.data.micro-assignments.pages[5].deck }}</p>
+	 </div>
+	 <div class="item item3">
+	   <h4>
+		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[6].url }}"
+		   >{{ site.data.micro-assignments.pages[6].title }}</a
+		 >
+	   </h4>
+	   <p>{{ site.data.micro-assignments.pages[6].deck }}</p>
+	 </div>
+	 <div class="item item4">
+	   <h4>
+		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[7].url }}"
+		   >{{ site.data.micro-assignments.pages[7].title }}</a
+		 >
+	   </h4>
+	   <p>{{ site.data.micro-assignments.pages[7].deck }}</p>
+	 </div>
+	{% endif %}	 
 	{% include footer.html %}
 	</div>
 </body>
