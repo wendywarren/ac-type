@@ -20,6 +20,7 @@ We'll design a book cover layout using an ad hoc page layout grid. This is reall
 By the time you've completed this assignment, you will have learned to:
 
 - Inventory, organize and prepare provided materials to use in a design.
+- Sketch page layouts on paper as thumbnails and higher fidelity mockups.
 - Implement a design with an ad hoc grid.
 - Make a reasoned font pairing which suits a given theme.
 - Produce print-ready files.
@@ -79,4 +80,10 @@ Bar Code
 ####  Optional Items
 
 Quote from Book Review
-: 
+: You can find a quote that *refers to your specific fairy tale* to promote it on the cover.
+
+A promotional sticker
+: For example, *Oprah's Reading List*.
+
+Other
+: If you have another idea, please pass it by me before implementing it.
