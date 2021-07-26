@@ -37,6 +37,20 @@ assignments:
         url: type-3/grimms-pages/subpage5.html
       - title: "Deliverables"
         url: type-3/grimm-dust-cover/deliverables.html
+# Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  - title: "Web Type"
+    url: type-3/web-type/index.html
+    level: 3
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        url: type-3/web-type/subpage1.html
+      - title: "Second Subpage"
+        url: type-3/web-type/subpage2.html
+      - title: "Third Subpage"
+        url: type-3/web-type/subpage3.html
+      - title: "Deliverables"
+        url: type-3/web-type/deliverables.html
 # Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Newsletter"
     url: type-3/newsletter/index.html
@@ -55,17 +69,3 @@ assignments:
         url: type-3/newsletter/subpage5.html
       - title: "Deliverables"
         url: ntype-3/ewsletter/deliverables.html
-# Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-  - title: "Poster"
-    url: type-3/poster/index.html
-    level: 3
-    # Subpages
-    pages:
-      - title: "Type Classification"
-        url: type-3/poster/subpage1.html
-      - title: "Second Subpage"
-        url: type-3/poster/subpage2.html
-      - title: "Third Subpage"
-        url: type-3/poster/subpage3.html
-      - title: "Deliverables"
-        url: type-3/poster/deliverables.html
