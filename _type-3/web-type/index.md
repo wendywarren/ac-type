@@ -3,7 +3,6 @@ layout: subpage
 title: "Web Type Treatment"
 type: assignment-home
 serial: level-3-assignment-3-home
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 reference: |
   - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   - https://learn-the-web.algonquindesign.ca/topics/web-typography-cheat-sheet/#text-flow-columns

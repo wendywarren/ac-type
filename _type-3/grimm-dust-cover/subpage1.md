@@ -6,7 +6,6 @@ title: "The Foundational Space"
 assignment: "Grimm Fairy Tales"
 sortorder: 1.1
 deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product."
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
 ### About Ad Hoc Grids

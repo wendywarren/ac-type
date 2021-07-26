@@ -4,7 +4,6 @@ type: subpage
 serial: level-3-assignment-1-subpage
 title: "Build the Design"
 deck: "As if we were cooks in a kitchen, we’ll combine all the ingredients above to create a delicious typographic dish."
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
 We'll be using InDesign and optionally Illustrator to create your design.

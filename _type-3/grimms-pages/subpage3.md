@@ -5,7 +5,6 @@ serial: level-3-assignment-2-subpage
 title: "Setting Justified Type"
 assignment: "Grimm's Pages"
 deck: "This is the deck content for this page."
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: |
   - 

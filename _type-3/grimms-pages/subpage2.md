@@ -6,7 +6,6 @@ title: "Type Selection"
 assignment: "Grimm's Pages"
 sortorder: 2.2
 deck: "This is the deck content for this page."
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference:
 - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml

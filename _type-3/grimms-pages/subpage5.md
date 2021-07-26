@@ -7,7 +7,6 @@ assignment: "Grimm's Pages"
 assNo: assignment1
 sortorder: 2.4
 deck: "We've assembled all the ingredients and we have a recipe. It's time to get cooking."
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
 ### What's on the Board

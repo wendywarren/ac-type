@@ -6,7 +6,6 @@ title: "Deliverables"
 assignment: "Grimm Fairy Tales"
 sortorder: 1.9
 deck: "Gather all your stuff. It's time to send your assignment home."
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
 ### Deliverables

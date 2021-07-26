@@ -4,7 +4,6 @@ serial: level-4-assignment-3-home
 title: Poster
 type: assignment-home
 deck: "We'll explore type classifications by designing a poster."
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 reference: |
   - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml

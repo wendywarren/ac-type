@@ -6,7 +6,6 @@ title: "Stylistic Elements"
 assignment: "Grimm's Pages"
 sortorder: 2.3
 deck: "Fiction novels can have beautiful typographic treatments that can include ornamental glyphs, rules and more. That's what well design here."
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 formsum: formative
 ---
 We have our grid established and our type family chosen. Now we can determine more styling like styling folios, chapter names and numbers and more.
