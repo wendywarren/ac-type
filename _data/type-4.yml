@@ -1,5 +1,5 @@
 assignments:
-# Assignment One # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Signage"
     url: type-4/signage/index.html
     sortorder: 1
@@ -14,7 +14,21 @@ assignments:
         url: type-4/signage/subpage3.html
       - title: "Deliverables"
         url: type-4/signage/deliverables.html
-# Assignment Two # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  - title: "Web Type"
+    url: type-4/web-type/index.html
+    level: 4
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        url: type-4/web-type/subpage1.html
+      - title: "Second Subpage"
+        url: type-4/web-type/subpage2.html
+      - title: "Third Subpage"
+        url: type-4/web-type/subpage3.html
+      - title: "Deliverables"
+        url: type-4/web-type/deliverables.html
+# Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Poster"
     url: type-4/poster/index.html
     level: 4
@@ -28,7 +42,7 @@ assignments:
         url: type-4/poster/subpage3.html
       - title: "Deliverables"
         url: type-4/poster/deliverables.html
-# Assignment Three # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Magazine"
     url: type-4/magazine/index.html
     level: 4
@@ -42,17 +56,3 @@ assignments:
         url: type-4/magazine/subpage3.html
       - title: "Deliverables"
         url: type-4/magazine/deliverables.html
-# Assignment Four # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-  - title: "Assignment Four"
-    url: type-4/assignmentFour/index.html
-    level: 4
-    # Subpages
-    pages:
-      - title: "First Subpage"
-        url: type-4/assignmentFour/subpage1.html
-      - title: "Second Subpage"
-        url: type-4/assignmentFour/subpage2.html
-      - title: "Third Subpage"
-        url: type-4/assignmentFour/subpage3.html
-      - title: "Deliverables"
-        url: type-4/assignmentFour/deliverables.html
