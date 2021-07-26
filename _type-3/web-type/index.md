@@ -15,6 +15,7 @@ Develop a responsive type system.
 - Create hierarchy for:
   - 3 levels of headings
   - Body copy
+  - Links
   - Unordered lists
   - Ordered lists
   - Block quotes
@@ -30,5 +31,6 @@ Develop a responsive type system.
 - Responsiveness:
   - Info on [media queries](https://learn-the-web.algonquindesign.ca/topics/media-queries/)
   - Line length should not exceed 40em (640px).
+  - Type needs to scale for smaller - larger screen dimensions.
 
 You'll build an actual web page. The layout isn't really important, nor assessed, though you can feel free to create one. What's important is that the hierarchy is clearly shown.
