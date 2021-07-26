@@ -12,6 +12,7 @@ resources: |
 How does a font go from the typographer's mind to the market.
 
 - Typographer
+	- There are typefaces created for corporate use and some for general sale.
 - Foundry
 - Retailers
 
