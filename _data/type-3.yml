@@ -2,7 +2,6 @@ assignments:
 # Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Grimm Dust Cover"
     url: type-3/grimm-dust-cover/index.html
-    sortorder: 1
     level: 3
     # Subpages
     pages:
@@ -21,7 +20,6 @@ assignments:
 # Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Grimm's Pages"
     url: type-3/grimms-pages/index.html
-    sortorder: 2
     level: 3
     # Subpages
     pages:
@@ -54,7 +52,6 @@ assignments:
 # Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   - title: "Newsletter"
     url: type-3/newsletter/index.html
-    sortorder: 3
     # Subpages
     pages:
       - title: "Gridify Our Page"
