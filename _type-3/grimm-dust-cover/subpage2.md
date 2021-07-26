@@ -1,10 +1,7 @@
 ---
 layout: subpage
 type: subpage
-serial: level-3-assignment-1-subpage
-title: "Design Stage"
-deck: "This is where the rubber hits the road. The creativity takes place here. Create a style board that will communicate your design to the client."
-formsum: formative
+serial: level-3-assignment-1-subpage-2
 ---
 ### Style Board
 

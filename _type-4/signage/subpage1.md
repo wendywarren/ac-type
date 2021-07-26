@@ -1,7 +1,7 @@
 ---
 layout: subpage
 type: subpage
-serial: level-4-assignment-1-subpage
-deck: "This is placeholder deck text."
-reference: "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
+serial: "level-4-assignment-1-subpage-1"
+reference: |
+  - "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
 ---

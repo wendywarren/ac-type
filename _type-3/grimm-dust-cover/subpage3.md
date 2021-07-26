@@ -1,10 +1,7 @@
 ---
 layout: subpage
 type: subpage
-serial: level-3-assignment-1-subpage
-title: "Build the Design"
-deck: "As if we were cooks in a kitchen, we’ll combine all the ingredients above to create a delicious typographic dish."
-formsum: formative
+serial: level-3-assignment-1-subpage-3
 ---
 We'll be using InDesign and optionally Illustrator to create your design.
 

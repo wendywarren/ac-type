@@ -1,11 +1,6 @@
 ---
 layout: subpage
-type: deliverables
 serial: level-3-assignment-1-deliverables
-title: "Deliverables"
-assignment: "Grimm Fairy Tales"
-deck: "Gather all your stuff. It's time to send your assignment home."
-formsum: formative
 ---
 ### Deliverables
 

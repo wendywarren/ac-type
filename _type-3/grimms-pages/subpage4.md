@@ -1,11 +1,7 @@
 ---
 layout: subpage
 type: subpage
-serial: level-3-assignment-2-subpage
-title: "Stylistic Elements"
-assignment: "Grimm's Pages"
-deck: "Fiction novels can have beautiful typographic treatments that can include ornamental glyphs, rules and more. That's what well design here."
-formsum: formative
+serial: level-3-assignment-2-subpage-4
 ---
 We have our grid established and our type family chosen. Now we can determine more styling like styling folios, chapter names and numbers and more.
 

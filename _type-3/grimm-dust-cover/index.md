@@ -2,8 +2,6 @@
 layout: subpage
 type: assignment-home
 serial: level-3-assignment-1-home
-title: "Grimm Dust Cover"
-formsum: formative
 reference: |
   - "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
   - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/

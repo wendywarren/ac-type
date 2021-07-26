@@ -1,11 +1,7 @@
 ---
 layout: subpage
 type: subpage
-serial: level-3-assignment-1-subpage
-title: "The Foundational Space"
-assignment: "Grimm Fairy Tales"
-deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product."
-formsum: formative
+serial: "level-3-assignment-1-subpage-1"
 ---
 ### About Ad Hoc Grids
 
