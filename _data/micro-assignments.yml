@@ -26,3 +26,23 @@ pages:
     alpha: d
     url: /micro-assignments/copy-fitting.html
     deck: "We'll take a look at challenging layouts for copy-fitting. You'll learn solutions to resolve any issue."
+  - title: Some_Micro_Assignment
+    level: 4
+    alpha: e
+    url: /micro-assignments/Some_Micro_Assignment.html
+    deck: "This is the deck content for this micro-assignment."
+  - title: Some_Micro_Assignment
+    level: 4
+    alpha: f
+    url: /micro-assignments/Some_Micro_Assignment.html
+    deck: "This is the deck content for this micro-assignment."
+  - title: Some_Micro_Assignment
+    level: 4
+    alpha: g
+    url: /micro-assignments/Some_Micro_Assignment.html
+    deck: "This is the deck content for this micro-assignment."
+  - title: Some_Micro_Assignment
+    level: 4
+    alpha: h
+    url: /micro-assignments/Some_Micro_Assignment.html
+    deck: "This is the deck content for this micro-assignment."
