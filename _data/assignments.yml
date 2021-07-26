@@ -1,0 +1,162 @@
+assignments:
+# Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  - title: "Grimm Dust Cover"
+    serial: level-3-assignment-1-home
+    url: type-3/grimm-dust-cover/index.html
+    deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
+    # Subpages
+    pages:
+      - title: "The Foundational Space"
+        serial: level-3-assignment-1-subpage-1
+        url: type-3/grimm-dust-cover/subpage1.html
+        deck: "This is a test deck block of text."
+      - title: "Design Stage"
+        serial: level-3-assignment-1-subpage-2
+        url: type-3/grimm-dust-cover/subpage2.html
+        deck: "This is a test deck block of text."
+      - title: "Build the Design"
+        serial: level-3-assignment-1-subpage-3
+        url: type-3/grimm-dust-cover/subpage3.html
+        deck: "This is a test deck block of text."
+      - title: "Deliverables"
+        serial: level-3-assignment-1-deliverables
+        url: type-3/grimm-dust-cover/deliverables.html
+        deck: "This is a test deck block of text."
+# Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  - title: "Grimm's Pages"
+    serial: level-3-assignment-1-home
+    url: type-3/grimms-pages/index.html
+    # Subpages
+    pages:
+      - title: "Designing Our Grid"
+        serial: level-3-assignment-2-subpage-1
+        url: type-3/grimms-pages/subpage1.html
+      - title: "Type Selection"
+        serial: level-3-assignment-2-subpage-2
+        url: type-3/grimms-pages/subpage2.html
+      - title: "Setting Justified Type"
+        serial: level-3-assignment-2-subpage-3
+        url: type-3/grimms-pages/subpage3.html
+      - title: "Stylistic Elements"
+        serial: level-3-assignment-2-subpage-4
+        url: type-3/grimms-pages/subpage4.html
+      - title: "Putting It All Together"
+        serial: level-3-assignment-2-subpage-5
+        url: type-3/grimms-pages/subpage5.html
+      - title: "Deliverables"
+        serial: level-3-assignment-2-deliverables
+        url: type-3/grimm-dust-cover/deliverables.html
+# Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  - title: "Web Type"
+    serial: level-3-assignment-3-home
+    url: type-3/web-type/index.html
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        serial: level-3-assignment-3-subpage-1
+        url: type-3/web-type/subpage1.html
+      - title: "Second Subpage"
+        serial: level-3-assignment-3-subpage-2
+        url: type-3/web-type/subpage2.html
+      - title: "Third Subpage"
+        serial: level-3-assignment-3-subpage-3
+        url: type-3/web-type/subpage3.html
+      - title: "Deliverables"
+        serial: level-3-assignment-3-deliverables
+        url: type-3/web-type/deliverables.html
+# Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  - title: "Newsletter"
+    url: type-3/newsletter/index.html
+    serial: level-3-assignment-3-home
+    # Subpages
+    pages:
+      - title: "Gridify Our Page"
+        serial: level-3-assignment-4-subpage-1
+        url: type-3/newsletter/subpage1.html
+      - title: "Type Selection"
+        serial: level-3-assignment-4-subpage-2
+        url: type-3/newsletter/subpage2.html
+      - title: "Type Hierarchy"
+        serial: level-3-assignment-4-subpage-3
+        url: type-3/newsletter/subpage3.html
+      - title: "Page Element Design"
+        serial: level-3-assignment-4-subpage-4
+        url: type-3/newsletter/subpage4.html
+      - title: "Assembly Work"
+        serial: level-3-assignment-4-subpage-5
+        url: type-3/newsletter/subpage5.html
+      - title: "Deliverables"
+        serial: level-3-assignment-4-deliverables
+        url: ntype-3/ewsletter/deliverables.html
+# Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  - title: "Signage"
+    serial: level-4-assignment-1-home
+    url: type-4/signage/index.html
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        serial: level-4-assignment-1-subpage-1
+        url: type-4/signage/subpage1.html
+      - title: "Second Subpage"
+        serial: level-4-assignment-1-subpage-2      
+        url: type-4/signage/subpage2.html
+      - title: "Third Subpage"
+        serial: level-4-assignment-1-subpage-3
+        url: type-4/signage/subpage3.html
+      - title: "Deliverables"
+        serial: level-4-assignment-1-deliverables
+        url: type-4/signage/deliverables.html
+# Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  - title: "Web Type"
+    serial: level-4-assignment-2-home
+    url: type-4/web-type/index.html
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        serial: level-4-assignment-2-subpage-1
+        url: type-4/web-type/subpage1.html
+      - title: "Second Subpage"
+        serial: level-4-assignment-2-subpage-2
+        url: type-4/web-type/subpage2.html
+      - title: "Third Subpage"
+        serial: level-4-assignment-2-subpage-3
+        url: type-4/web-type/subpage3.html
+      - title: "Deliverables"
+        serial: level-4-assignment-2-deliverables
+        url: type-4/web-type/deliverables.html
+# Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  - title: "Poster"
+    serial: level-4-assignment-3-home
+    url: type-4/poster/index.html
+    # Subpages
+    pages:
+      - title: "Type Classification"
+        serial: level-4-assignment-3-subpage-1
+        url: type-4/poster/subpage1.html
+      - title: "Second Subpage"
+        serial: level-4-assignment-3-subpage-2
+        url: type-4/poster/subpage2.html
+      - title: "Third Subpage"
+        serial: level-4-assignment-3-subpage-3
+        url: type-4/poster/subpage3.html
+      - title: "Deliverables"
+        serial: level-4-assignment-3-deliverables
+        url: type-4/poster/deliverables.html
+# Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  - title: "Magazine"
+    serial: level-4-assignment-4-home
+    url: type-4/magazine/index.html
+    # Subpages
+    pages:
+      - title: "First Subpage"
+        serial: level-4-assignment-4-subpage-1
+        url: type-4/magazine/subpage1.html
+      - title: "Second Subpage"
+        serial: level-4-assignment-4-subpage-2
+        url: type-4/magazine/subpage2.html
+      - title: "Third Subpage"
+        serial: level-4-assignment-4-subpage-3
+        url: type-4/magazine/subpage3.html
+      - title: "Deliverables"
+        serial: level-4-assignment-4-deliverables
+        url: type-4/magazine/deliverables.html
