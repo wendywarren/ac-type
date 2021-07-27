@@ -24,7 +24,7 @@
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 # Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Grimm's Pages"
-  serial: "level-3-assignment-1-home"
+  serial: "level-3-assignment-2-home"
   url: type-3/grimms-pages/index.html
   deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
   # Subpages
@@ -61,10 +61,10 @@
   deck: "This is the deck for the Web Type assignment in Type 3"
   # Subpages
   pages:
-    - title: "First Subpage"
+    - title: "Choosing Your Type"
       serial: "level-3-assignment-3-subpage-1"
       url: type-3/web-type/subpage1.html
-      deck: ""
+      deck: "Choose your type from available web fonts or you can use local fonts."
     - title: "Second Subpage"
       serial: "level-3-assignment-3-subpage-2"
       url: type-3/web-type/subpage2.html
@@ -81,7 +81,8 @@
 # Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Newsletter"
   url: type-3/newsletter/index.html
-  serial: "level-3-assignment-3-home"
+  serial: "level-3-assignment-4-home"
+  deck: "With this assignment, we increase the complexity of our layouts. We'll design a modular grid, type and image treatments."
   # Subpages
   pages:
     - title: "Gridify Our Page"
