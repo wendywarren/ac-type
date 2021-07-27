@@ -57,28 +57,28 @@
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 # Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Web Type"
+- title: "Some_Assignment"
   serial: "level-3-assignment-3-home"
-  url: type-3/web-type/index.html
-  deck: "All the typography rules you've learned to date apply equally to type on the web. This assignment will have you create a type specimen for a web site."
+  url: type-3/Some_Assignment/index.html
+  deck: "This is the text for the deck for this page."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
-    - title: "Choosing Your Type"
+    - title: "First Page"
       serial: "level-3-assignment-3-subpage-1"
-      url: type-3/web-type/subpage1.html
-      deck: "Choose your type from available web fonts or you can use local fonts."
+      url: type-3/some_assignment/subpage1.html
+      deck: "This is the text for the deck for this page."
     - title: "Second Subpage"
       serial: "level-3-assignment-3-subpage-2"
-      url: type-3/web-type/subpage2.html
+      url: type-3/some_assignment/subpage2.html
       deck: ""
     - title: "Third Subpage"
       serial: "level-3-assignment-3-subpage-3"
-      url: type-3/web-type/subpage3.html
+      url: type-3/some_assignment/subpage3.html
       deck: ""
     - title: "Deliverables"
       serial: "level-3-assignment-3-deliverables"
-      url: type-3/web-type/deliverables.html
+      url: type-3/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 # Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
