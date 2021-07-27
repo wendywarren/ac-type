@@ -33,9 +33,16 @@
 		</h1>
 		<div class="deck">
 		<ul>
+		{% if page.path contains 'index' %}
+		{% for entry in site.data.assignments %}
+		{% if page.serial == entry.serial %}
+		<li>{{ entry.deck }}</li>
+		{% endif %}
+		{% endfor %}
+		{% endif %}
 		{% for entry in site.data.assignments %}
 		{% for decks in entry.pages %}
-		{% if page.serial == decks.serial %} 
+		{% if page.serial == entry.serial %} 
 		<li>{{ decks.deck }}</li>
 		{% endif %}
 		{% endfor %}
