@@ -3,6 +3,7 @@
   serial: "level-3-assignment-1-home"
   url: type-3/grimm-dust-cover/index.html
   deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
     - title: "The Foundational Space"
@@ -27,6 +28,7 @@
   serial: "level-3-assignment-2-home"
   url: type-3/grimms-pages/index.html
   deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
     - title: "Designing Our Grid"
@@ -58,7 +60,8 @@
 - title: "Web Type"
   serial: "level-3-assignment-3-home"
   url: type-3/web-type/index.html
-  deck: "This is the deck for the Web Type assignment in Type 3"
+  deck: "All the typography rules you've learned to date apply equally to type on the web. This assignment will have you create a type specimen for a web site."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
     - title: "Choosing Your Type"
@@ -83,6 +86,7 @@
   url: type-3/newsletter/index.html
   serial: "level-3-assignment-4-home"
   deck: "With this assignment, we increase the complexity of our layouts. We'll design a modular grid, type and image treatments."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
     - title: "Gridify Our Page"
@@ -115,6 +119,7 @@
   serial: "level-4-assignment-1-home"
   url: type-4/signage/index.html
   deck: "This is the deck for the Signage assignment in Type 4."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
     - title: "Signage First Subpage"
@@ -139,6 +144,7 @@
   serial: "level-4-assignment-2-home"
   url: type-4/web-type/index.html
   deck: "This is the deck for the Web Type assignment in Type 4."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
     - title: "First Subpage"
@@ -163,6 +169,7 @@
   serial: "level-4-assignment-3-home"
   url: type-4/poster/index.html
   deck: "This is the deck for the Poster assignment in Type 4"
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
     - title: "Type Classification"
@@ -187,6 +194,7 @@
   serial: "level-4-assignment-4-home"
   url: type-4/magazine/index.html
   deck: "This is the deck for the Magazine assignment in Type 4."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
     - title: "First Subpage"
