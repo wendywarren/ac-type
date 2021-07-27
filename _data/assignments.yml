@@ -56,29 +56,29 @@
       url: type-3/grimm-dust-cover/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Some_Assignment"
+# Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Poster"
   serial: "level-3-assignment-3-home"
-  url: type-3/Some_Assignment/index.html
-  deck: "This is the text for the deck for this page."
+  url: type-3/poster/index.html
+  deck: "This is the deck for the Poster assignment in Type 4"
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
-    - title: "First Page"
+    - title: "Type Classification"
       serial: "level-3-assignment-3-subpage-1"
-      url: type-3/some_assignment/subpage1.html
-      deck: "This is the text for the deck for this page."
+      url: type-3/poster/subpage1.html
+      deck: "This is the deck for the Poster assignment in Type 4"
     - title: "Second Subpage"
       serial: "level-3-assignment-3-subpage-2"
-      url: type-3/some_assignment/subpage2.html
-      deck: "This is the text for the deck for this page."
+      url: type-3/poster/subpage2.html
+      deck: "This is the deck for the Poster assignment in Type 4"
     - title: "Third Subpage"
       serial: "level-3-assignment-3-subpage-3"
-      url: type-3/some_assignment/subpage3.html
-      deck: "This is the text for the deck for this page."
+      url: type-3/poster/subpage3.html
+      deck: "This is the deck for the Poster assignment in Type 4"
     - title: "Deliverables"
       serial: "level-3-assignment-3-deliverables"
-      url: type-3/some_assignment/deliverables.html
+      url: type-3/poster/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 # Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -140,7 +140,7 @@
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 # Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Web Type"
+- title: "Some_Assignment"
   serial: "level-4-assignment-2-home"
   url: type-4/some_assignment/index.html
   deck: "This is the deck for some assignment in Type 4."
@@ -164,29 +164,29 @@
       url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Poster"
+# Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Some_Assignment"
   serial: "level-4-assignment-3-home"
-  url: type-4/poster/index.html
-  deck: "This is the deck for the Poster assignment in Type 4"
+  url: type-4/Some_Assignment/index.html
+  deck: "This is the text for the deck for this page."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
-    - title: "Type Classification"
+    - title: "First Page"
       serial: "level-4-assignment-3-subpage-1"
-      url: type-4/poster/subpage1.html
-      deck: "This is the deck for the Poster assignment in Type 4"
+      url: type-4/some_assignment/subpage1.html
+      deck: "This is the text for the deck for this page."
     - title: "Second Subpage"
       serial: "level-4-assignment-3-subpage-2"
-      url: type-4/poster/subpage2.html
-      deck: "This is the deck for the Poster assignment in Type 4"
+      url: type-4/some_assignment/subpage2.html
+      deck: "This is the text for the deck for this page."
     - title: "Third Subpage"
       serial: "level-4-assignment-3-subpage-3"
-      url: type-4/poster/subpage3.html
-      deck: "This is the deck for the Poster assignment in Type 4"
+      url: type-4/some_assignment/subpage3.html
+      deck: "This is the text for the deck for this page."
     - title: "Deliverables"
       serial: "level-4-assignment-3-deliverables"
-      url: type-4/poster/deliverables.html
+      url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 # Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
