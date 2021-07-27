@@ -1,8 +1,6 @@
 ---
 layout: subpage
 serial: level-3-assignment-2-subpage-2
-reference:
-- https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
 ---
 Legibility is the focus when choosing a font for a long publication. We'll choose a serif type family designed for such an application. Our choice needs to have a large compliment of OpenType features such as ligatures, small caps, old style numerals and alternate glyphs.
 

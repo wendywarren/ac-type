@@ -1,9 +1,15 @@
-# Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm Dust Cover"
   serial: "level-3-assignment-1-home"
   url: type-3/grimm-dust-cover/index.html
   deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  resource-links: |
+    - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
+    - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
+    - https://trydesignlab.com/blog/grids-ui-ux-graphic-design-quick-history-5-amazing-tips/
+    - https://www.creativebloq.com/netmag/create-balanced-page-layouts-7-pro-tips-121310009
+    - https://visme.co/blog/layout-design/
   # Subpages
   pages:
     - title: "The Foundational Space"
@@ -23,12 +29,14 @@
       url: type-3/grimm-dust-cover/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm's Pages"
   serial: "level-3-assignment-2-home"
   url: type-3/grimms-pages/index.html
   deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  resource-links: |
+    - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages
   pages:
     - title: "Designing Our Grid"
@@ -62,6 +70,10 @@
   url: type-3/poster/index.html
   deck: "This is the deck for the Poster assignment in Type 4"
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  resource-links: |
+    - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
+    - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
+    - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
   # Subpages
   pages:
     - title: "Type Classification"
@@ -81,12 +93,14 @@
       url: type-3/poster/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Newsletter"
   url: type-3/newsletter/index.html
   serial: "level-3-assignment-4-home"
   deck: "With this assignment, we increase the complexity of our layouts. We'll design a modular grid, type and image treatments."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  resource-links: |
+    - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages
   pages:
     - title: "Gridify Our Page"
@@ -114,12 +128,14 @@
       url: ntype-3/newsletter/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Signage"
   serial: "level-4-assignment-1-home"
   url: type-4/signage/index.html
   deck: "This is the deck for the Signage assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  resource-links: |
+    - 
   # Subpages
   pages:
     - title: "Signage First Subpage"
@@ -139,12 +155,14 @@
       url: type-4/signage/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Some_Assignment"
   serial: "level-4-assignment-2-home"
   url: type-4/some_assignment/index.html
   deck: "This is the deck for some assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  resource-links: |
+    - 
   # Subpages
   pages:
     - title: "First Subpage"
@@ -164,12 +182,14 @@
       url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Some_Assignment"
   serial: "level-4-assignment-3-home"
   url: type-4/Some_Assignment/index.html
   deck: "This is the text for the deck for this page."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  resource-links: |
+    - 
   # Subpages
   pages:
     - title: "First Page"
@@ -189,12 +209,14 @@
       url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Magazine"
   serial: "level-4-assignment-4-home"
   url: type-4/magazine/index.html
   deck: "This is the deck for the Magazine assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  resource-links: |
+    - 
   # Subpages
   pages:
     - title: "First Subpage"

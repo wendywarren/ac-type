@@ -1,12 +1,6 @@
 ---
 layout: subpage
 serial: level-3-assignment-1-home
-reference: |
-  - "https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml"
-  - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
-  - https://trydesignlab.com/blog/grids-ui-ux-graphic-design-quick-history-5-amazing-tips/
-  - https://www.creativebloq.com/netmag/create-balanced-page-layouts-7-pro-tips-121310009
-  - https://visme.co/blog/layout-design/
 ---
 We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure. Ad hoc, or *informal* grids are created as you sketch your pages. Elements simply align with each other on the page.
 
