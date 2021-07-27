@@ -71,11 +71,11 @@
     - title: "Second Subpage"
       serial: "level-3-assignment-3-subpage-2"
       url: type-3/some_assignment/subpage2.html
-      deck: ""
+      deck: "This is the text for the deck for this page."
     - title: "Third Subpage"
       serial: "level-3-assignment-3-subpage-3"
       url: type-3/some_assignment/subpage3.html
-      deck: ""
+      deck: "This is the text for the deck for this page."
     - title: "Deliverables"
       serial: "level-3-assignment-3-deliverables"
       url: type-3/some_assignment/deliverables.html
@@ -92,23 +92,23 @@
     - title: "Gridify Our Page"
       serial: "level-3-assignment-4-subpage-1"
       url: type-3/newsletter/subpage1.html
-      deck: ""
+      deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Type Selection"
       serial: "level-3-assignment-4-subpage-2"
       url: type-3/newsletter/subpage2.html
-      deck: ""
+      deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Type Hierarchy"
       serial: "level-3-assignment-4-subpage-3"
       url: type-3/newsletter/subpage3.html
-      deck: ""
+      deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Page Element Design"
       serial: "level-3-assignment-4-subpage-4"
       url: type-3/newsletter/subpage4.html
-      deck: ""
+      deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Assembly Work"
       serial: "level-3-assignment-4-subpage-5"
       url: type-3/newsletter/subpage5.html
-      deck: ""
+      deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Deliverables"
       serial: "level-3-assignment-4-deliverables"
       url: ntype-3/newsletter/deliverables.html
@@ -125,15 +125,15 @@
     - title: "Signage First Subpage"
       serial: "level-4-assignment-1-subpage-1"
       url: type-4/signage/subpage1.html
-      deck: "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST"
+      deck: "This is the text for the deck for the Signage assignment."
     - title: "Second Subpage"
       serial: "level-4-assignment-1-subpage-2"
       url: type-4/signage/subpage2.html
-      deck: ""
+      deck: "This is the text for the deck for the Signage assignment."
     - title: "Third Subpage"
       serial: "level-4-assignment-1-subpage-3"
       url: type-4/signage/subpage3.html
-      deck: ""
+      deck: "This is the text for the deck for the Signage assignment."
     - title: "Deliverables"
       serial: "level-4-assignment-1-deliverables"
       url: type-4/signage/deliverables.html
@@ -142,26 +142,26 @@
 # Web Type # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Web Type"
   serial: "level-4-assignment-2-home"
-  url: type-4/web-type/index.html
-  deck: "This is the deck for the Web Type assignment in Type 4."
+  url: type-4/some_assignment/index.html
+  deck: "This is the deck for some assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   # Subpages
   pages:
     - title: "First Subpage"
       serial: "level-4-assignment-2-subpage-1"
-      url: type-4/web-type/subpage1.html
-      deck: ""
+      url: type-4/some_assignment/subpage1.html
+      deck: "This is the deck for some assignment in Type 4."
     - title: "Second Subpage"
       serial: "level-4-assignment-2-subpage-2"
-      url: type-4/web-type/subpage2.html
-      deck: ""
+      url: type-4/some_assignment/subpage2.html
+      deck: "This is the deck for some assignment in Type 4."
     - title: "Third Subpage"
       serial: "level-4-assignment-2-subpage-3"
-      url: type-4/web-type/subpage3.html
-      deck: ""
+      url: type-4/some_assignment/subpage3.html
+      deck: "This is the deck for some assignment in Type 4."
     - title: "Deliverables"
       serial: "level-4-assignment-2-deliverables"
-      url: type-4/web-type/deliverables.html
+      url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 # Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -175,15 +175,15 @@
     - title: "Type Classification"
       serial: "level-4-assignment-3-subpage-1"
       url: type-4/poster/subpage1.html
-      deck: ""
+      deck: "This is the deck for the Poster assignment in Type 4"
     - title: "Second Subpage"
       serial: "level-4-assignment-3-subpage-2"
       url: type-4/poster/subpage2.html
-      deck: ""
+      deck: "This is the deck for the Poster assignment in Type 4"
     - title: "Third Subpage"
       serial: "level-4-assignment-3-subpage-3"
       url: type-4/poster/subpage3.html
-      deck: ""
+      deck: "This is the deck for the Poster assignment in Type 4"
     - title: "Deliverables"
       serial: "level-4-assignment-3-deliverables"
       url: type-4/poster/deliverables.html
@@ -200,15 +200,15 @@
     - title: "First Subpage"
       serial: "level-4-assignment-4-subpage-1"
       url: type-4/magazine/subpage1.html
-      deck: ""
+      deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Second Subpage"
       serial: "level-4-assignment-4-subpage-2"
       url: type-4/magazine/subpage2.html
-      deck: ""
+      deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Third Subpage"
       serial: "level-4-assignment-4-subpage-3"
       url: type-4/magazine/subpage3.html
-      deck: ""
+      deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Deliverables"
       serial: "level-4-assignment-4-deliverables"
       url: type-4/magazine/deliverables.html
