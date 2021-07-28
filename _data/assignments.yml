@@ -20,7 +20,7 @@
       serial: "level-3-assignment-1-subpage-2"
       url: type-3/grimm-dust-cover/subpage2.html
       deck: "This is where the rubber hits the road. The creativity takes place here. Create a style board that will communicate your design to the client."
-    - title: "Build the Design"
+    - title: "Build Your Design"
       serial: "level-3-assignment-1-subpage-3"
       url: type-3/grimm-dust-cover/subpage3.html
       deck: "As if we were cooks in a kitchen, we’ll combine all the ingredients above to create a delicious typographic dish."
@@ -68,8 +68,9 @@
 - title: "Poster"
   serial: "level-3-assignment-3-home"
   url: type-3/poster/index.html
-  deck: "This is the deck for the Poster assignment in Type 4"
+  deck: "Type classification is a mirky business. We're not going to let that stop us! We'll discover what goes where in the grand timeline of typography. The product will be a poster design from a chosen classification."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
   resource-links: |
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
@@ -80,7 +81,7 @@
       serial: "level-3-assignment-3-subpage-1"
       url: type-3/poster/subpage1.html
       deck: "This is the deck for the Poster assignment in Type 4"
-    - title: "Second Subpage"
+    - title: "Technical Specs"
       serial: "level-3-assignment-3-subpage-2"
       url: type-3/poster/subpage2.html
       deck: "This is the deck for the Poster assignment in Type 4"

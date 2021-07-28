@@ -65,7 +65,7 @@
 			<li class="links"><a href="#" class="links">BrightSpace</a></li>
 		</ul>
 		{% endif %}
-		{% if page.type == 'assignment-home' %}
+		{% if page.path contains 'index' %}
 			<h2>The Brief</h2>
 		{% endif %} 
 		{{ content }}
