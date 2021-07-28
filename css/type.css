@@ -177,7 +177,7 @@ p { margin-top: 1rem; }
 .assignment h3,
 .item h4
 {
-	border-bottom: 3px solid var(--lightgrey);
+	border-bottom: 2px solid var(--lightgrey);
 	padding-bottom: 1rem;
 	margin-bottom: 0.875rem;
 	line-height: 1.3rem;
