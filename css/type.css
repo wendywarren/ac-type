@@ -108,7 +108,7 @@ h2
 	font-size: 1.2rem;
 	margin-top: 2rem;
 }
-h1 ul, .deck ul
+h1 ul, .deck ul, .assignment-title ul
 {
 	margin: 0;
 	padding: 0;
@@ -158,6 +158,12 @@ p { margin-top: 1rem; }
 {
 	margin: 0;
 	padding: 0;
+}
+
+.current {
+	font-weight: normal;
+	font-family: "FiraSans-UltraItalic"
+	color: red;
 }
 
 #grid li
@@ -226,7 +232,7 @@ strong
 
 #content ul li.links
 {
-	display: inline;
+	display: inline-block;
 	margin-right: 3rem;
 	padding: 0 1rem 0 1rem;
 }
@@ -320,6 +326,7 @@ code
 
 @media only screen and (min-width: 60em)
 {
+	html { font-size: 110%; }
 	.site-id { font-size: 7rem; }
 }
 
