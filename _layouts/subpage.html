@@ -40,6 +40,15 @@
 		{% endfor %}
 		</ul>
 		</h1>
+		<h1>
+		<ul>
+		{% for entry in site.data.micro-assignments.pages %}
+		{% if page.serial == entry.serial %} 
+		<li>{{ entry.title }}</li>
+		{% endif %}
+		{% endfor %}
+		</ul>
+		</h1>		
 		<div class="deck">
 		<ul>
 		{% for decks in site.data.assignments %}
@@ -62,6 +71,7 @@
 		{% if page.path contains "index" %}
 		<ul class="links">
 			<li class="links"><a href="#" class="links">Download Assets</a></li>
+			<li class="links"><a href="#" class="links"><img class="size100" alt="x" src="{{ site.baseurl}}/svg/pinterest.svg"></a></li>
 			<li class="links"><a href="#" class="links">BrightSpace</a></li>
 		</ul>
 		{% endif %}
