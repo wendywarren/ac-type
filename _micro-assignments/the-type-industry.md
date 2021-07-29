@@ -1,9 +1,6 @@
 ---
 layout: subpage
 serial: level-3-micro-assignment-2-subpage
-resources: |
-  - https://www.creativebloq.com/features/font-licensing
-  - https://www.crowdspring.com/blog/font-law-licensing/
 ---
 How does a font go from the typographer's mind to the market.
 
