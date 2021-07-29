@@ -1,10 +1,6 @@
 ---
 layout: subpage
-type: micro-assignment
-level: 3
-alpha: b
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-formsum: formative
+serial: level-3-micro-assignment-2-subpage
 resources: |
   - https://www.creativebloq.com/features/font-licensing
   - https://www.crowdspring.com/blog/font-law-licensing/

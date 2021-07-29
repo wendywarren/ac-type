@@ -1,10 +1,6 @@
 ---
 layout: subpage
-type: micro-assignment
-level: 3
-alpha: a
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-formsum: formative
+serial: level-3-micro-assignment-1-subpage
 resources: |
   - https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b
   - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch05.xhtml

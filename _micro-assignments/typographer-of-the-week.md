@@ -1,10 +1,6 @@
 ---
 layout: subpage
-type: micro-assignment
-level: 3
-alpha: c
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-formsum: formative
+serial: level-3-micro-assignment-3-subpage
 resource: https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
 ---
 
