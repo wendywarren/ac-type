@@ -80,10 +80,10 @@
       serial: "level-3-assignment-3-subpage-1"
       url: type-3/poster/subpage1.html
       deck: "This is the deck for the Poster assignment in Type 4"
-    - title: "Technical Specs"
+    - title: "Your Content"
       serial: "level-3-assignment-3-subpage-2"
       url: type-3/poster/subpage2.html
-      deck: "This is the deck for the Poster assignment in Type 4"
+      deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
     - title: "Third Subpage"
       serial: "level-3-assignment-3-subpage-3"
       url: type-3/poster/subpage3.html
@@ -99,6 +99,7 @@
   serial: "level-3-assignment-4-home"
   deck: "With this assignment, we increase the complexity of our layouts. We'll design a modular grid, type and image treatments."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://www.pinterest.ca/alainparadis/"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages
@@ -134,6 +135,7 @@
   url: type-4/signage/index.html
   deck: "This is the deck for the Signage assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://www.pinterest.ca/alainparadis/"
   resource-links: |
     - 
   # Subpages
@@ -161,6 +163,7 @@
   url: type-4/some_assignment/index.html
   deck: "This is the deck for some assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://www.pinterest.ca/alainparadis/"
   resource-links: |
     - 
   # Subpages
@@ -188,6 +191,7 @@
   url: type-4/Some_Assignment/index.html
   deck: "This is the text for the deck for this page."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://www.pinterest.ca/alainparadis/"
   resource-links: |
     - 
   # Subpages
@@ -215,6 +219,7 @@
   url: type-4/magazine/index.html
   deck: "This is the deck for the Magazine assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://www.pinterest.ca/alainparadis/"
   resource-links: |
     - 
   # Subpages
