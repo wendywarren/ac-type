@@ -280,6 +280,14 @@ code
 	border: 1px solid lightgrey;
 }
 
+.mono
+{
+	font-style: normal;
+	font-weight: normal;
+	font-family: "FiraMono-Medium";
+}
+
+
 .footer a, .footer a:link, .footer a:visited, .footer { color: var(--mediumgrey); }
 .footer { color: var(--darkgrey); }
 
