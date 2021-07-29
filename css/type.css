@@ -233,15 +233,18 @@ strong
 #content ul li.links
 {
 	display: inline-block;
-	margin-right: 3rem;
+	margin-right: 1rem;
 	padding: 0 1rem 0 1rem;
 }
 
 #content ul li a.links { 
+	display: inline-block;
 	text-transform: uppercase;
 	font-weight: normal;
 	font-family: "FiraSans-Medium";
 }
+
+#content ul li.links:before {content: "";}
 
 #content ul li:before
 {

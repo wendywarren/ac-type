@@ -70,8 +70,12 @@
 		<div id="content">
 		{% if page.path contains "index" %}
 		<ul class="links">
-			<li class="links"><a href="#" class="links">Download Assets</a></li>
-			<li class="links"><a href="#" class="links"><img class="size100" alt="x" src="{{ site.baseurl}}/svg/pinterest.svg"></a></li>
+			<li class="links"><a href="#" class="links">Download&nbsp;Assets</a></li>
+			{% for pinterests in site.data.assignments %}
+			{% if page.serial == pinterests.serial %}
+			<li class="links"><a href="{{ pinterests.pinterest }}" class="links"><img class="size100" alt="x" src="{{ site.baseurl}}/svg/pinterest.svg"></a></li>
+			{% endif %}
+			{% endfor %}
 			<li class="links"><a href="#" class="links">BrightSpace</a></li>
 		</ul>
 		{% endif %}
