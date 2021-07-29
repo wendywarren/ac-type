@@ -85,10 +85,10 @@
       serial: "level-3-assignment-3-subpage-2"
       url: type-3/poster/subpage2.html
       deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
-    - title: "Third Subpage"
+    - title: "Your Process"
       serial: "level-3-assignment-3-subpage-3"
       url: type-3/poster/subpage3.html
-      deck: "This is the deck for the Poster assignment in Type 4"
+      deck: "While this is not a software assignment, your file needs to be built properly in order to go to production. Then there's the creative process, too."
     - title: "Deliverables"
       serial: "level-3-assignment-3-deliverables"
       url: type-3/poster/deliverables.html
