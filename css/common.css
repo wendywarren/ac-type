@@ -9,7 +9,7 @@
   --lightgrey: rgb(230, 230, 230);
   --white: rgb(255, 255, 255);
   --blue: rgb(41, 151, 255, 1);
-  --blue50: rgba(146, 219, 255, 1);
+  --blue50: rgba(129, 203, 255, 1);
 }
 
 body {
@@ -53,10 +53,6 @@ img {
   padding-top: 0;
 }
 
-.link-icon {
-  fill: var(--lightgrey);
-}
-
 nav span {
   padding-right: 2rem;
 }
@@ -65,10 +61,6 @@ nav span {
   border-top: 6px solid var(--lightgrey);
   padding-top: 1rem;
   margin-top: 2rem;
-}
-
-.assignment, .item {
-  margin-top: 1rem;
 }
 
 .rubric {
@@ -138,4 +130,5 @@ td.topic-row {
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
 
 @media only screen and (min-width: 90em) {
+
 }
