@@ -31,8 +31,6 @@ nav { grid-area: nav; }
 .assignment2 { grid-area: assignment2; }
 .assignment3 { grid-area: assignment3; }
 .assignment4 { grid-area: assignment4; }
-.subpages { display: none; }
-.item p { display: none; }
 .item1 { grid-area: item1; }
 .item2 { grid-area: item2; }
 .item3 { grid-area: item3; }
