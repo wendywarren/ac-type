@@ -1,15 +1,10 @@
-#grid
-{
+#grid {
 	display: grid;
 	grid-template-columns: 1fr;
-	grid-template-columns: auto;
 	grid-gap: 1rem;
 	grid-template-areas:
 	'nav'
 	'site-id1'
-	'course-info1'
-	'course-info2'
-	'content'
 	'assignment1'
 	'assignment2'
 	'assignment3'
@@ -18,6 +13,9 @@
 	'item2'
 	'item3'
 	'item4'
+	'content'
+    'course-info1'
+    'course-info2'
 	'footer1'
 	'footer2'
 	'footer3'
@@ -33,19 +31,30 @@ nav { grid-area: nav; }
 .assignment2 { grid-area: assignment2; }
 .assignment3 { grid-area: assignment3; }
 .assignment4 { grid-area: assignment4; }
+.subpages { display: none; }
+.item p { display: none; }
 .item1 { grid-area: item1; }
 .item2 { grid-area: item2; }
 .item3 { grid-area: item3; }
 .item4 { grid-area: item4; }
+.content { grid-area: content; }
 .footer1 { grid-area: footer1; }
 .footer2 { grid-area: footer2; }
 .footer3 { grid-area: footer3; }
 .footer4 { grid-area: footer4; }
+/* 
+.nav, .site-id1, .assignment1, .assignment2, .assignment3, .assignment4, item1, item2, item3, item4, .content, footer1, footer2, footer3, footer4 {
+  grid-column-start: 1;
+  grid-column-end: -1;
+  }
+ */
+body { border: 2px solid green; }
+
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
-/* * * * * * * * * * 400px – 608px * * * * * * * * * */
+/* * * * * * * * * * 480px – 608px * * * * * * * * * */
 
-@media only screen and (min-width: 25em)
+@media only screen and (min-width: 30em)
 {
 #grid  {
    grid-template-columns: 1fr 1fr;
@@ -70,17 +79,19 @@ nav { grid-area: nav; }
   grid-column-start: 1;
   grid-column-end: -1;
   }
+  	body { border: 2px solid orange; }
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
 
-@media only screen and (min-width: 42em) {
+@media only screen and (min-width: 38em) {
 
 #grid {
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-areas:
 	'nav nav nav'
-	'site-id1 course-info1 course-info2'
+	'site-id1 .   .'
+	'course-info1 course-info2 .'
 	'content . .'
 	'assignment1 assignment2 assignment3'
 	'assignment4 .           . '
@@ -89,14 +100,11 @@ nav { grid-area: nav; }
 	'footer1 footer2 footer3'
 	'footer4 . .';
 }
-.course-info2 {
-  grid-column-start: 3;
-  grid-row-start: 2;
-}
 .content {
   grid-column-start: 1;
   grid-column-end: -1;
   }
+  	body { border: 2px solid purple; }
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
@@ -129,5 +137,11 @@ nav { grid-area: nav; }
 	.course-info1 { grid-area: 2 / 3; }
 	.course-info2 { grid-area: 2 / 4; }
 	.content { grid-area: 3 / 1 / 16 / 3; }
+	body { border: 2px solid cyan; }
 }
 
+/* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
+
+@media only screen and (min-width: 90em) {
+
+}

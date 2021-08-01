@@ -108,6 +108,7 @@ h2
 	font-size: 1.2rem;
 	margin-top: 2rem;
 }
+
 h1 ul, .deck ul, .assignment-title ul
 {
 	margin: 0;
@@ -153,17 +154,10 @@ p { margin-top: 1rem; }
 	margin-bottom: 0;
 }
 
-.assignment ul,
-.item ul
+.current
 {
-	margin: 0;
-	padding: 0;
-}
-
-.current {
 	font-weight: normal;
-	font-family: "FiraSans-UltraItalic"
-	color: red;
+	font-family: "FiraSans-UltraItalic" color: red;
 }
 
 #grid li
@@ -174,27 +168,14 @@ p { margin-top: 1rem; }
 
 .course-info1 h3,
 .course-info2 h3,
-.assignment h3,
-.item h4
+
+.assignment
 {
-	border-bottom: 2px solid var(--lightgrey);
-	padding-bottom: 1rem;
-	margin-bottom: 0.875rem;
-	line-height: 1.3rem;
-	font-weight: normal;
-	font-family: "FiraSans-Medium";
+	margin-bottom: 0;
+	padding-bottom: 0;
 }
 
 .course-info1, .course-info2 { font-size: .875rem; }
-
-.assignment h3::after
-{
-	content: "\2197";
-	font-size: 1.2rem;
-	color: rgba(200, 200, 200, 1);
-	text-decoration: none;
-}
-
 .item { font-size: 0.875rem; }
 
 em
@@ -217,9 +198,7 @@ strong
 	font-family: "FiraSans-Italic";
 	margin-bottom: 1rem;
 	color: rgba(100, 100, 100, 1);
-	max-width: 95%;
 }
-
 
 #content ol li { list-style-type: decimal; }
 
@@ -233,16 +212,17 @@ strong
 #content ul li.links
 {
 	display: inline-block;
-	margin-right: 3rem;
+	margin-right: 2rem;
 }
 
-#content ul li a.links { 
+#content ul li a.links
+{
 	display: inline-block;
 	padding: 0;
 	margin: 0;
 }
 
-#content ul li.links:before {content: "";}
+#content ul li.links:before { content: ""; }
 
 #content ul li:before
 {
@@ -285,7 +265,6 @@ code
 	font-family: "FiraMono-Medium";
 }
 
-
 .footer a, .footer a:link, .footer a:visited, .footer { color: var(--mediumgrey); }
 .footer { color: var(--darkgrey); }
 
@@ -319,9 +298,9 @@ code
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 400px – 608px * * * * * * * * * */
 
-@media only screen and (min-width: 25em)
+@media only screen and (min-width: 30em)
 {
-	
+
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
@@ -337,11 +316,33 @@ code
 {
 	html { font-size: 110%; }
 	.site-id { font-size: 7rem; }
+	
+	.course-info1 h3,
+		.course-info2 h3,
+		.assignment h3,
+		.item h4
+	{
+		border-bottom: 2px solid var(--lightgrey);
+		padding-bottom: 1rem;
+		margin-bottom: 0.875rem;
+		line-height: 1.3rem;
+		font-weight: normal;
+		font-family: "FiraSans-Medium";
+	}
+	
+	.item h4
+	{
+		border-bottom: 2px solid var(--lightgrey);
+		padding-bottom: 1rem;
+		margin-bottom: 0.875rem;
+		line-height: 1.3rem;
+		font-weight: normal;
+		font-family: "FiraSans-Medium";
+	}
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
 
-@media only screen and (min-width: 90em)
-{
-	
+@media only screen and (min-width: 90em) {
+
 }
