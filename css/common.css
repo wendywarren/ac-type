@@ -131,15 +131,49 @@ h2
 	font-size: 1.2rem;
 	margin-top: 2rem;
 }
+#content h1 { font-size: 1.6rem; }
 
-h1 ul, .deck ul, .assignment ul
+#content ul li:before
+{
+	content: "\27A4";
+	margin-left: -20px;
+	margin-right: 10px;
+	font-size: 0.5rem;
+}
+
+#content h1 ul, #content .deck ul
 {
 	margin: 0;
 	padding: 0;
-	list-style-type: none;
+}
+#content h1 ul li::before, #content .deck ul li::before, #content ul li.links::before
+{
+	content: "";
+	margin: 0;
+	padding: 0;
 }
 
-#content h1 { font-size: 1.6rem; }
+#content ol li { list-style-type: decimal; }
+
+#content ul { list-style-type: none; }
+
+#content ul.links
+{
+	padding: .25rem;
+	text-align: center;
+}
+
+#content ul li.links
+{
+	display: inline-block;
+	margin-right: 2rem;
+}
+
+.no_bullets {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
 
 #content h2 { font-size: 1.4rem; }
 
@@ -174,7 +208,7 @@ h1 ul, .deck ul, .assignment ul
 
 .course-info1, .course-info2 { font-size: .875rem; }
 .item { font-size: 0.875rem; }
-ul {list-style: none;}
+
 em
 {
 	font-style: normal;
@@ -198,38 +232,6 @@ strong
 }
 
 .item p {display: none;}
-
-#content ol li { list-style-type: decimal; }
-
-#content ul.links
-{
-	list-style-type: none;
-	padding: .25rem;
-	text-align: center;
-}
-
-#content ul li.links
-{
-	display: inline-block;
-	margin-right: 2rem;
-}
-
-#content ul li a.links
-{
-	display: inline-block;
-	padding: 0;
-	margin: 0;
-}
-
-#content ul li.links:before { content: ""; }
-
-#content ul li:before
-{
-	content: "\27A4";
-	margin-left: -20px;
-	margin-right: 10px;
-	font-size: 0.5rem;
-}
 
 dt
 {
