@@ -122,6 +122,9 @@
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
     - outcome: "Outcome placeholder #1."
+    - outcome: "Outcome placeholder #2."
+    - outcome: "Outcome placeholder #3."
+    - outcome: "Outcome placeholder #4."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages
