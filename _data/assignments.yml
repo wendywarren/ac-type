@@ -4,7 +4,13 @@
   url: type-3/grimm-dust-cover/index.html
   deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
-  pinterest: "https://www.pinterest.ca/alainparadis/"
+  pinterest: "https://pin.it/5pucDHq"
+  outcomes:
+    - outcome: "Inventory, organize and prepare provided materials to use in a design."
+    - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
+    - outcome: "Implement a design with an ad hoc grid."
+    - outcome: "Make a reasoned font pairing which suits a given theme."
+    - outcome: "Produce print-ready files."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
     - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
@@ -36,6 +42,14 @@
   url: type-3/grimms-pages/index.html
   deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://pinterest.com/"
+  outcomes:
+    - outcome: "Design a perfect page single-column grid using the van de Graaf Canon."
+    - outcome: "Select a typeface for good legibility in a long document."
+    - outcome: "Set justified type with proper hyphenation and no rivers."
+    - outcome: "Set type size and leading for a long document."
+    - outcome: "Use old style figures."
+    - outcome: "Build running headers, and automatic page numbering in InDesign."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages
@@ -72,6 +86,11 @@
   deck: "Type classification is a mirky business. We're not going to let that stop us! We'll discover what goes where in the grand timeline of typography. The product will be a poster design from a chosen classification."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
+  outcomes:
+    - outcome: "Outcome placeholder #1."
+    - outcome: "Outcome placeholder #2."
+    - outcome: "Outcome placeholder #3."
+    - outcome: "Outcome placeholder #4."
   resource-links: |
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
     - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
@@ -101,6 +120,8 @@
   deck: "With this assignment, we increase the complexity of our layouts. We'll design a modular grid, type and image treatments."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
+  outcomes:
+    - outcome: "Outcome placeholder #1."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages

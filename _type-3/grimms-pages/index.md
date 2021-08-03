@@ -2,17 +2,6 @@
 layout: subpage
 serial: level-3-assignment-2-home
 ---
-### Outcomes
-
-By the time you’ve completed this assignment, you will have learned to:
-
-- Design a perfect page single-column grid using the van de Graaf Canon.
-- Select a typeface for good legibility in a long document.
-- Set justified type with proper hyphenation and no rivers.
-- Set type size and leading for a long document.
-- Use old style figures.
-- Build running headers, and automatic page numbering in InDesign.
-
 ### Project Stages
 
 - Read through the web site pages for this assignment.

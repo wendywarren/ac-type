@@ -82,6 +82,17 @@
 		</ul>
 		{% endif %}
 		{% if page.path contains 'index' %}
+		<h2>Outcomes</h2>
+		<p>By the time you've completed this assignment, you will have learned to:</p>
+		<ul>
+		{% for entry in site.data.assignments %}
+		{% for item in entry.outcomes %}
+		{% if page.serial == entry.serial %} 
+			<li>{{ item.outcome }}</li>
+		{% endif %} 
+		{% endfor %}
+		{% endfor %}
+		</ul>
 			<h2>The Brief</h2>
 		{% endif %} 
 		{{ content }}
