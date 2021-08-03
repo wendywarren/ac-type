@@ -9,17 +9,16 @@
 		<span><a href="{{ site.url }}/type-3/index.html">Type 3</a></span>
 		<span><a href="{{ site.url }}/type-4/index.html">Type 4</a></span>
 	</nav>
-	<div class="site-id1">
+	<div class="site-id">
 		{% if page.serial contains 'level-3' %}
 		<a href="{{ site.url }}/type-3/index.html" class="site-id">Type<sup>3</sup></a>
 		{% elsif page.serial contains 'level-4' %}
 		<a href="{{ site.url }}/type-4/index.html" class="site-id">Type<sup>4</sup></a>
 		{% endif %}
 	</div>
-	<div class="site-id2">&nbsp;</div>
 	<div class="course-info1">{% include course-info1.html %}</div>
 	<div class="course-info2">{% include course-info2.html %}</div>
-	<div class="content">
+	<div id="content">
 		<h1>
 		<ul>
 		{% for headings in site.data.assignments %}
@@ -50,7 +49,7 @@
 		</ul>
 		</h1>		
 		<div class="deck">
-		<ul>
+		<ul class="no_bullets" >
 		{% for decks in site.data.assignments %}
 		{% if page.serial == decks.serial %} 
 		<li>{{ decks.deck }}</li>
