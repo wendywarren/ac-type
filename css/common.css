@@ -99,9 +99,6 @@ nav span
 	font-family: "FiraSans-MediumItalic";
 }
 
-.subpages { display: none; }
-.item p { display: none; }
-
 /* 
 Delete if still un-needed
 .type3-info1,
@@ -142,11 +139,7 @@ h1 ul, .deck ul, .assignment ul
 	list-style-type: none;
 }
 
-#content h1
-{
-	font-size: 1.6rem;
-	color: var(--blue);
-}
+#content h1 { font-size: 1.6rem; }
 
 #content h2 { font-size: 1.4rem; }
 
@@ -203,6 +196,8 @@ strong
 	margin-bottom: 1rem;
 	color: rgba(100, 100, 100, 1);
 }
+
+.item p {display: none;}
 
 #content ol li { list-style-type: decimal; }
 
@@ -386,8 +381,6 @@ td.topic-row {
   padding-top: 1rem;
   margin-top: 2rem;
 }
-.subpages { display: block; }
-.item p { display: block; }
 
 }
 
@@ -403,6 +396,7 @@ body {
     padding-top: 1rem;
     margin-top: 2rem;
   }
+  .item p {display: block;}
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
