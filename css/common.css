@@ -202,6 +202,8 @@ h2
 	margin-bottom: 0;
 }
 
+#content p + p { margin-top: .5rem; }
+
 .course-info1 h3,
 .course-info2 h3,
 .assignment
