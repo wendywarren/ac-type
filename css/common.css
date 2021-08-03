@@ -36,7 +36,9 @@
   font-family: FiraMono-Medium;
   src: url("../fonts/FiraMono-Medium.woff") format("woff");
 }
-
+/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * General Type Stuff * * * * * * * * */
+/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 html
 {
 	font-size: 100%;
@@ -87,6 +89,8 @@ a:visited.site-id
 }
 
 a:hover.site-id { color: var(--blue); }
+
+/* * * * * * Course Nav * * * * * */
 nav { text-align: right; }
 
 nav span
@@ -98,6 +102,8 @@ nav span
 .subpages { display: none; }
 .item p { display: none; }
 
+/* 
+Delete if still un-needed
 .type3-info1,
 .type3-info2,
 .type4-info1,
@@ -106,7 +112,9 @@ nav span
 	font-size: 0.875rem;
 	color: var(--darkgrey);
 }
+ */
 
+/* * * * * * Heading Formatting * * * * * */
 h1,
 h2,
 h3,
@@ -127,10 +135,11 @@ h2
 	margin-top: 2rem;
 }
 
-h1 ul, .deck ul, .assignment-title ul
+h1 ul, .deck ul, .assignment ul
 {
 	margin: 0;
 	padding: 0;
+	list-style-type: none;
 }
 
 #content h1
@@ -148,40 +157,18 @@ h1 ul, .deck ul, .assignment-title ul
 }
 
 #content h4 { font-size: 1.0rem; }
-p { margin-top: 1rem; }
-
-.deck ul
-{
-	margin-left: 0;
-	padding-left: 0;
-}
-
 #content h1 + p,
 #content h2 + p,
 #content h3 + p,
 #content h4 + p,
 #content h5 + p,
 #content h6 + p { margin-top: 0; }
-
 #content h2,
 #content h3,
 #content h4,
-#content h5
-{
+#content h5 {
 	margin-top: 2rem;
 	margin-bottom: 0;
-}
-
-.current
-{
-	font-weight: normal;
-	font-family: "FiraSans-UltraItalic" color: red;
-}
-
-#content ul li
-{
-	list-style-type: none;
-	margin-top: .125rem;
 }
 
 .course-info1 h3,
@@ -194,7 +181,7 @@ p { margin-top: 1rem; }
 
 .course-info1, .course-info2 { font-size: .875rem; }
 .item { font-size: 0.875rem; }
-
+ul {list-style: none;}
 em
 {
 	font-style: normal;
@@ -333,16 +320,6 @@ img {
 
 /* END SVG Styles */
 
-.columns {
-  columns: 2 10rem;
-  column-gap: 1rem;
-  margin-left: 1rem;
-}
-.columns2 ol {
-  margin-top: 0;
-  padding-top: 0;
-}
-
 nav span {
   padding-right: 2rem;
 }
@@ -353,6 +330,8 @@ nav span {
   margin-top: 2rem;
 }
 
+/* Rubric Layout */
+
 .rubric {
   table-layout: fixed;
   width: 100%;
@@ -362,6 +341,15 @@ nav span {
 
 .rubric th {
   background: #ebebeb;
+}
+.columns {
+  columns: 2 10rem;
+  column-gap: 1rem;
+  margin-left: 1rem;
+}
+.columns2 ol {
+  margin-top: 0;
+  padding-top: 0;
 }
 
 .column-1 {
@@ -388,15 +376,19 @@ td.topic-row {
   font-family: "FiraMono-Medium";
 }
 
+
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 480px – 608px * * * * * * * * * */
 
 @media only screen and (min-width: 30em) {
-  .footer2 {
-    border-top: 6px solid var(--lightgrey);
-    padding-top: 1rem;
-    margin-top: 2rem;
-  }
+.footer2 {
+  border-top: 6px solid var(--lightgrey);
+  padding-top: 1rem;
+  margin-top: 2rem;
+}
+.subpages { display: block; }
+.item p { display: block; }
+
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
@@ -416,31 +408,31 @@ body {
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
 
 @media only screen and (min-width: 60em) {
-	html { font-size: 110%; }
-	.site-id { font-size: 7rem; }
-	
-	.course-info1 h3,
-		.course-info2 h3,
-		.assignment h3,
-		.item h4
-	{
-		border-bottom: 2px solid var(--lightgrey);
-		padding-bottom: 1rem;
-		margin-bottom: 0.875rem;
-		line-height: 1.3rem;
-		font-weight: normal;
-		font-family: "FiraSans-Medium";
-	}
-	
-	.item h4
-	{
-		border-bottom: 2px solid var(--lightgrey);
-		padding-bottom: 1rem;
-		margin-bottom: 0.875rem;
-		line-height: 1.3rem;
-		font-weight: normal;
-		font-family: "FiraSans-Medium";
-	}
+html { font-size: 110%; }
+.site-id { font-size: 7rem; }
+
+.course-info1 h3,
+.course-info2 h3,
+.assignment h3,
+.item h4
+  {
+  border-bottom: 2px solid var(--lightgrey);
+  padding-bottom: 1rem;
+  margin-bottom: 0.875rem;
+  line-height: 1.3rem;
+  font-weight: normal;
+  font-family: "FiraSans-Medium";
+}
+
+.item h4
+{
+  border-bottom: 2px solid var(--lightgrey);
+  padding-bottom: 1rem;
+  margin-bottom: 0.875rem;
+  line-height: 1.3rem;
+  font-weight: normal;
+  font-family: "FiraSans-Medium";
+}
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
