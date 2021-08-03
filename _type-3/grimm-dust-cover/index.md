@@ -8,7 +8,7 @@ We'll design a book cover layout using an ad hoc page layout grid. This is reall
 
 1. Read through the web site pages for this assignment.
 1. Read through the [Grimm Fairy Tales](http://www-2.cs.cmu.edu/~spok/grimmtmp/){:target="_blank"} to make a selection.
-1. Submit your choice here.
+1. [Submit your choice here.](https://forms.office.com/r/SVwCcPScRp)
 1. Research your fairy tale's meaning, message, moral to find a theme for your design.
 1. Research (two) font families you think will be appropriate to the story.
 1. Design your [style board](subpage2.html).
@@ -48,7 +48,7 @@ Author's Bio
 : On one of the flaps, you'll include the provided author's bio text.
 
 Publisher Info
-: Use the provided logo and text on one of the flaps.
+: Use the provided logo and text on the back flap.
 
 Back Cover Blurb
 : Create a blurb based on text about the story from Wikipedia or another source. It should be a maximum of 150 words. Don't just copy/paste random text. Make sure it's an interesting, captivating read. If you wish, you can compose one yourself based on the reading you've done about your fairy tale.
