@@ -50,7 +50,6 @@ nav { grid-area: nav; }
   grid-column-end: -1;
   }
  */
-body { border: 2px solid green; }
 
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
@@ -77,7 +76,6 @@ body { border: 2px solid green; }
   grid-column-start: 1;
   grid-column-end: -1;
   }
-  	body { border: 2px solid orange; }
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
@@ -99,7 +97,6 @@ body { border: 2px solid green; }
 	"footer4 . .";
 }
 
-  	body { border: 2px solid purple; }
   	.course-info2 {
   	grid-column-start: 2;
   	grid-column-end: -1;
@@ -136,7 +133,6 @@ body { border: 2px solid green; }
 	.course-info1 { grid-area: 2 / 3; }
 	.course-info2 { grid-area: 2 / 4; }
 	#content { grid-area: 3 / 1 / 16 / 3; }
-	body { border: 2px solid cyan; }
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
