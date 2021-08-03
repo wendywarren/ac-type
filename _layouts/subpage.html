@@ -96,6 +96,18 @@
 			<h2>The Brief</h2>
 		{% endif %} 
 		{{ content }}
+		{% if page.serial contains 'deliverables' %} 
+		<ul class="brightspace">
+		{% assign allSubmissions = site.data.assignments %}
+		{% for entry in allSubmissions %}
+		{% for item in entry.pages %}
+		{% if page.serial == item.serial %} 
+			<li class="brightspace"><a href="{{ item.brightspace }}">Submit Here</a></li>
+		{% endif %}
+		{% endfor %}
+		{% endfor %}
+		</ul>
+		{% endif %}
 		</div>
 	</div>
 	 <div class="assignment assignment1">
