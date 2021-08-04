@@ -2,21 +2,31 @@
 layout: subpage
 serial: level-3-micro-assignment-2-subpage
 ---
-How does a font go from the typographer's mind to the market.
+How does a font go from the typographer's mind to the market, to your page?
 
-### Typographer
+### The Typographer
 
 Typographers actually design typefaces. The start with a purpose or reason for a type design. What problem does it solve? What use-case hasn't been solved that this design will solve? Is the type meant for long text or headlines? Is it to mimic a old typewriter or a broad-tipped pen?
 
-Typefaces are also designed in a historical context. In which category will the design belong -- old style, modern?
+#### Historical Context
 
-Typographers, like all designers, start with sketching individual glyphs and their stand-out features.
+Type cannot be designed ignoring the centuries of typographic history. There's a historical context that needs to be considered. In which category will the design belong -- old style, modern, slab, sans?
 
-There are font design apps like Glyphs and FontLab.
+#### The Nitty Gritty
+
+Typographers, like all designers, start with sketching individual glyphs and their stand-out features. There are certain letters which lend themselves as good starting points like the **s** and the **n**. There are words like **Handgloves** which contain letters which represent a wide range of typographic features, like ascenders, descenders, overshoots, etc...
+
+#### Type Design Software
+
+Once the designer has reached the limit of sketching, there are font design apps like [Glyphs](https://glyphsapp.com) and [FontLab](https://www.fontlab.com). There are others. This is where all the fine details can be implemented.
 
 When designing a typeface, there are other considerations beyond the glyphs. There's side-bearing and kerning. There are alternate glyphs, swashes, [diacritics](https://www.type-together.com/understanding-diacritics) and more.
 
 There are typefaces created for corporate use and some for general sale.
+
+#### Design Quality
+
+There *are* poor quality and superior quality designs, as in everything. Designing typefaces is incredibly detailed, painstaking work. Neglecting such details can lead to a typeface that is missing needed features or lacks finesse. That said, there may be a place for such type. It all depends on context.
 
 ### Foundries
 
@@ -86,3 +96,5 @@ Experimental type foundry specializing in custom fonts.
 
 [T26](http://www.T26.com)  
 Fonts, eps illustrations, merchandise.
+
+# [Take the Quiz](https://brightspace.algonquincollege.com/d2l/home)
