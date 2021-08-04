@@ -6,11 +6,14 @@
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/5pucDHq"
   outcomes:
-    - outcome: "Inventory, organize and prepare provided materials to use in a design."
+    - outcome: "Inventory, organize and prepare provided materials to use in a type-based design."
     - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
     - outcome: "Implement a design with an ad hoc grid."
-    - outcome: "Make a reasoned font pairing which suits a given theme."
+    - outcome: "Create an context-appropriate and technically correct colour theme."
+    - outcome: "Make a reasoned font pairing which suits a given context."
+    - outcome: "Manipulate type to create a pleasing, harmonious, context-appropriate design."
     - outcome: "Produce print-ready files."
+    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
     - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
@@ -47,9 +50,11 @@
     - outcome: "Design a perfect page single-column grid using the van de Graaf Canon."
     - outcome: "Select a typeface for good legibility in a long document."
     - outcome: "Set justified type with proper hyphenation and no rivers."
-    - outcome: "Set type size and leading for a long document."
-    - outcome: "Use old style figures."
-    - outcome: "Build running headers, and automatic page numbering in InDesign."
+    - outcome: "Set type size, leading and spacing for a long document."
+    - outcome: "Use old style figures in an appropriate context and manner."
+    - outcome: "Build running headers, and automatic page numbering in a page layout application."
+    - outcome: "Produce print-ready files."
+    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages
@@ -87,10 +92,13 @@
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
   outcomes:
-    - outcome: "Outcome placeholder #1."
-    - outcome: "Outcome placeholder #2."
-    - outcome: "Outcome placeholder #3."
-    - outcome: "Outcome placeholder #4."
+    - outcome: "Recognize the features of a typeface which determine its classification category."
+    - outcome: "Research and organize historical typographic information."
+    - outcome: "Make the most of a type family's weights, widths at varied sizes and position on the page."
+    - outcome: "Select and apply theme-appropriate colours."
+    - outcome: "Use the appropriate software tools and techniques to build the page."
+    - outcome: "Produce print-ready files."
+    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
     - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
@@ -121,10 +129,16 @@
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
-    - outcome: "Outcome placeholder #1."
-    - outcome: "Outcome placeholder #2."
-    - outcome: "Outcome placeholder #3."
-    - outcome: "Outcome placeholder #4."
+    - outcome: "Inventory, organize and prepare provided materials to use in a type-based design."
+    - outcome: "Design and construct a modular grid for a multi-page publication."
+    - outcome: "Combine a pair of type families appropriate to set titles, pull quotes, body copy and more for a publication design."
+    - outcome: "Combine the use of photography and typography to compose balanced page layouts."
+    - outcome: "Organize provided text and images across a given number of pages to fit the content, maximize interest, use white space wisely."
+    - outcome: "Devise type hierarchy for a multi-page publication."
+    - outcome: "Design functional and decorative page elements like folios, shapes, colours and more."
+    - outcome: "Select, then apply context-appropriate colours along with their tints and shades to create a colour theme."
+    - outcome: "Produce print-ready files."
+    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages
@@ -161,6 +175,11 @@
   deck: "This is the deck for the Signage assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
+  outcomes:
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
   resource-links: |
     - 
   # Subpages
@@ -189,6 +208,11 @@
   deck: "This is the deck for some assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
+  outcomes:
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
   resource-links: |
     - 
   # Subpages
@@ -217,6 +241,11 @@
   deck: "This is the text for the deck for this page."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
+  outcomes:
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
   resource-links: |
     - 
   # Subpages
@@ -245,6 +274,11 @@
   deck: "This is the deck for the Magazine assignment in Type 4."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
+  outcomes:
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
+    - outcome: "Outcomes_placeholder."
   resource-links: |
     - 
   # Subpages
