@@ -9,11 +9,17 @@
     - outcome: "Inventory, organize and prepare provided materials to use in a type-based design."
     - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
     - outcome: "Implement a design with an ad hoc grid."
+    - outcome: "Devise type hierarchy for a single-page design."
     - outcome: "Create an context-appropriate and technically correct colour theme."
     - outcome: "Make a reasoned font pairing which suits a given context."
     - outcome: "Manipulate type to create a pleasing, harmonious, context-appropriate design."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
+  criteria:
+    - criterium: "This is the first criteria item."
+    - criterium: "The second criterium comes after the first."
+    - criterium: "Never two without three criterium."
+    - criterium: "Two plus two equals four criteria."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
     - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
