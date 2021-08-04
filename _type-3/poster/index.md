@@ -23,5 +23,5 @@ The fewer colours you use, the more focused your design will be. You *could* des
 These are pretty simple.
 
 - Dimensions: 24" x 36" plus ⅛" bleed
-- Colour: 2 spot colours or 4 colour process
+- Colour: 2 spot colours
 - Illustrator or InDesign are your tools of choice. *No Photoshop!*
