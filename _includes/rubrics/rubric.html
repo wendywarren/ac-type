@@ -1,59 +1,10 @@
 <h2>
 	Rubric 
 </h2>
-<table class="rubric">
-	<thead>
-		<tr>
-			<th class="column-1">Points</th>
-			<th class="column-2">Descriptor</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td class="topic-row">&nbsp;</td>
-			<td class="topic-row">Did you meet all the milestones for this project?</td>
-		</tr>
-		<tr>
-			<td class="column-1">1</td>
-			<td class="">Yes</td>
-		</tr>
-		<tr>
-			<td class="column-1">2</td>
-			<td class="">No</td>
-		</tr>
-	</tbody>
-</table>
-<table class="rubric">
-	<thead>
-		<tr>
-			<th class="column-1">Points</th>
-			<th class="column-2">Descriptor</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td class="topic-row">&nbsp;</td>
-			<td class="topic-row">Did you follow all the directives for styling text?</td>
-		</tr>
-		<tr>
-			<td class="column-1">1</td>
-			<td class="">This was not at all done as directed</td>
-		</tr>
-		<tr>
-			<td class="column-1">2</td>
-			<td class="">This was poorly done.</td>
-		</tr>
-		<tr>
-			<td class="column-1">3</td>
-			<td class="">Some instructions were followed, but many were missed.</td>
-		</tr>
-		<tr>
-			<td class="column-1">4</td>
-			<td class="">This is well done.</td>
-		</tr>
-		<tr>
-			<td class="column-1">5</td>
-			<td class="">This is excellent work.</td>
-		</tr>
-	</tbody>
-</table>
+<ul class="creteria">
+	{% for entry in site.data.assignments %}
+		{% for item in entry.criteria %}
+				<li class="criterium">{{ item.criterium }}</li>
+		{% endfor %}
+	{% endfor %} 
+</ul>
