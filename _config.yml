@@ -22,3 +22,5 @@ collections:
     output: true
   micro-assignments:
     output: true
+  type-facts-repo:
+    output: true
