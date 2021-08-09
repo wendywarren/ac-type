@@ -157,8 +157,9 @@ deck: Web site notes and Todo's.
 
 These are little type tidbits that are reminders of fundamental type concepts. They're mostly dos and donts. 
 
-### Tidbit Ideas 
+### Type Facts Repo Ideas 
 
+- [useful glossary](https://www.fontshop.com/glossary)
 - Slanted vs true italics 
 - Faux bold vs true bold 
 - Quotation marks & apostrophes 
