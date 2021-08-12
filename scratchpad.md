@@ -1,14 +1,11 @@
 ---
 layout: subpage
-type: subpage
-level: 3
 title: "ScratchPad"
 deck: Web site notes and Todo's.
 ---
 
 ## To Do
 
-- Show different cuts of font families. ie: Bauer Bodoni vs Berthold Bodoni
 - [This is an overview of the typeface design process](https://learning.oreilly.com/library/view/typography-referenced/9781592537020/chapter-10.html)
 - Create a course calendar file they can subscribe to.
 - [This page](https://mailchi.mp/smashingmagazine/307-css-tools-css-data-charts-and-fluid-typography-i9vya8jfrk-1133426?e=db00feeaa2) has a pile of good HTML/CSS tips on it.
@@ -160,9 +157,8 @@ These are little type tidbits that are reminders of fundamental type concepts. T
 ### Type Facts Repo Ideas 
 
 - [useful glossary](https://www.fontshop.com/glossary)
-- Slanted vs true italics 
-- Faux bold vs true bold 
-- Quotation marks & apostrophes 
+- ~~Slanted vs true italics~~
+- ~~Faux bold vs true bold~~
 - Dashes & hyphens
 - What's a Grotesque font?
 - What are monospaced fonts? When do I use them?
