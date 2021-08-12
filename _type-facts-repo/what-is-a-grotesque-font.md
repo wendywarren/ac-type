@@ -1,5 +1,5 @@
 ---
 layout: subpage
-serial: type-facts-repo-1
+serial: level-3-type-facts-repo
 ---
 Content

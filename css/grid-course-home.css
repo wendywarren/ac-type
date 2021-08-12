@@ -60,6 +60,7 @@ nav { grid-area: nav; }
       "assignment3 assignment4"
       "item1 item2"
       "item3 item4"
+      "item5 item6"
       "footer1 footer2"
       "footer3 footer4";
   }
@@ -75,7 +76,7 @@ nav { grid-area: nav; }
       "assignment1 assignment2 assignment3"
       "assignment4 .           . "
       "item1 item2 item3"
-      "item4 . ."
+      "item4 item5 item6"
       "footer1 footer2 footer3"
       "footer4 . .";
   }
@@ -91,6 +92,7 @@ nav { grid-area: nav; }
       "site-id1 . course-info1 course-info2"
       "assignment1 assignment2 item1 item2"
       "assignment3 assignment4 item3 item4"
+      ".           .           item5 item6"
       "footer1 footer2 footer3 footer4";
   }
 }

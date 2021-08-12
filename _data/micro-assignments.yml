@@ -39,15 +39,15 @@ pages:
     deck: "We'll take a look at challenging layouts for copy-fitting. You'll learn solutions to resolve any issue."
     resource-links: |
       - 
-  - title: Some_Micro_Assignment
-    serial: level-4-micro-assignment-1-subpage
-    url: /micro-assignments/some_micro_assignment_1.html
-    deck: "This is the deck content for this micro-assignment."
+  - title: Type Facts Repo
+    serial: level-3-micro-assignment-5-subpage
+    url: /type-facts-repo/index.html
+    deck: "This page contains a repository of type facts."
     resource-links: |
       - 
   - title: Some_Micro_Assignment
     serial: level-4-micro-assignment-2-subpage
-    url: /micro-assignments/some_micro_assignment_2.html
+    url: /micro-assignments/some_micro_assignment_1.html
     deck: "This is the deck content for this micro-assignment."
     resource-links: |
       - 
