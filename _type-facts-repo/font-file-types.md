@@ -1,5 +1,4 @@
 ---
 layout: subpage
-serial: level-3-type-facts-repo
+serial: level-3-type-facts-repo-subpage-13
 ---
-Content

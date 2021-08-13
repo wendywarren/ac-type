@@ -157,16 +157,11 @@
 	   <p>{{ site.data.micro-assignments.pages[3].deck }}</p>
 	 </div>
 	 <div class="item item5">
-	   <h4>
-		 <a href="{{ site.url }}{{ site.data.micro-assignments.pages[4].url }}"
-		   >{{ site.data.micro-assignments.pages[4].title }}</a
-		 >
-	   </h4>
-		<ul>
-		{% for items in site.type-facts-repo %}
-			<li><a href="{{ items.url }}">{{ items.title }}</a></li>
-		{% endfor %}
-		</ul>
+	<h4>
+	<a href="{{ site.url }}{{ site.data.micro-assignments.pages[4].url }}">
+		 {{ site.data.micro-assignments.pages[4].title }}</a>
+	</h4>
+	<p>{{ site.data.micro-assignments.pages[4].deck }}</p>
 	 </div>
 	{% endif %}	 
 	{% if page.serial contains 'level-4' %}

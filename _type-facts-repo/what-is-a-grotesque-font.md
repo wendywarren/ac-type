@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-type-facts-repo
+serial: level-3-type-facts-repo-subpage-4
 ---
 You can use Grotesque as a synonym for sans-serif. The term is also used as a sub-category of sans-serif families.
 

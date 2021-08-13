@@ -40,24 +40,14 @@ pages:
     resource-links: |
       - 
   - title: Type Facts Repo
-    serial: level-3-micro-assignment-5-subpage
+    serial: level-3-micro-assignment-5-home
     url: /type-facts-repo/index.html
-    deck: "This page contains a repository of type facts."
+    deck: "Learn some pretty pro type facts so you can school your designer friends."
     resource-links: |
       - 
   - title: Some_Micro_Assignment
     serial: level-4-micro-assignment-2-subpage
     url: /micro-assignments/some_micro_assignment_1.html
-    deck: "This is the deck content for this micro-assignment."
-    resource-links: |
-      - 
-  - title: Some_Micro_Assignment
-    serial: level-4-micro-assignment-3-subpage
-    url: /micro-assignments/some_micro_assignment_3.html
-    deck: "This is the deck content for this micro-assignment."
-  - title: Some_Micro_Assignment
-    serial: level-4-micro-assignment-4-subpage
-    url: /micro-assignments/some_micro_assignment_4.html
     deck: "This is the deck content for this micro-assignment."
     resource-links: |
       - 
