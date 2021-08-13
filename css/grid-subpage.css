@@ -6,6 +6,7 @@ body {
 #grid {
 	display: grid;
 	grid-template-columns: 1fr;
+	grid-auto-rows: min-content;
 	grid-gap: 1rem;
 	grid-template-areas:
 	"nav"
@@ -59,6 +60,7 @@ nav { grid-area: nav; }
 {
 #grid  {
    grid-template-columns: 1fr 1fr;
+	grid-auto-rows: min-content;
    grid-template-areas:
    "nav nav"
    "site-id ."
@@ -84,6 +86,7 @@ nav { grid-area: nav; }
 
 #grid {
 	grid-template-columns: 1fr 1fr 1fr;
+	grid-auto-rows: min-content;
 	grid-template-areas:
 	"nav nav nav"
 	"site-id     .           ."
@@ -110,6 +113,7 @@ nav { grid-area: nav; }
 	#grid
 	{
 		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-auto-rows: min-content;
 		grid-template-areas:
 		"nav nav nav nav"
 		"site-id . course-info1 course-info2"
