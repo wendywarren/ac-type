@@ -65,7 +65,7 @@ a, a:link
 }
 
 a:visited { color: rgba(60, 60, 60, 1); }
-a:hover { color: var(--mediumgrey); }
+a:hover { color: var(--blue); }
 a:active { color: rgba(247 148 29); }
 a:focus { outline: 2px solid black; }
 .uppercase { text-transform: uppercase; }
