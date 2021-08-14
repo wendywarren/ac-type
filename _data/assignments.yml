@@ -1,6 +1,7 @@
-# Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# [0] Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm Dust Cover"
   serial: "level-3-assignment-1-home"
+  point-value: 20
   url: type-3/grimm-dust-cover/index.html
   deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
@@ -45,9 +46,11 @@
       url: type-3/grimm-dust-cover/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+# [1] Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm's Pages"
   serial: "level-3-assignment-2-home"
+  point-value: 20
   url: type-3/grimms-pages/index.html
   deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
@@ -90,9 +93,11 @@
       url: type-3/grimm-dust-cover/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# [2] Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Poster"
   serial: "level-3-assignment-3-home"
+  point-value: 20
   url: type-3/poster/index.html
   deck: "Type classification is a mirky business. We're not going to let that stop us! We'll discover what goes where in the grand timeline of typography. The product will be a poster design from a chosen classification."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
@@ -127,9 +132,11 @@
       url: type-3/poster/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+# [3] Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Newsletter"
   url: type-3/newsletter/index.html
+  point-value: 20
   serial: "level-3-assignment-4-home"
   deck: "With this assignment, we increase the complexity of our layouts. We'll design a modular grid, type and image treatments."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
@@ -174,7 +181,8 @@
       url: type-3/newsletter/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+# [4] Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Signage"
   serial: "level-4-assignment-1-home"
   url: type-4/signage/index.html
@@ -207,7 +215,8 @@
       url: type-4/signage/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+# [5] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Some_Assignment"
   serial: "level-4-assignment-2-home"
   url: type-4/some_assignment/index.html
@@ -240,7 +249,8 @@
       url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+# [6] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Some_Assignment"
   serial: "level-4-assignment-3-home"
   url: type-4/Some_Assignment/index.html
@@ -273,7 +283,8 @@
       url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-# Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+# [7] Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Magazine"
   serial: "level-4-assignment-4-home"
   url: type-4/magazine/index.html
@@ -306,3 +317,120 @@
       url: type-4/magazine/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+
+# [8] Font Pairing # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Font Pairing"
+  url: /micro-assignments/font-pairing.html
+  serial: level-3-micro-assignment-1-subpage
+  deck: "What makes a pair of type families harmonious versus another that simply clash? Are there any clues to get us started in making compatible matches? We'll delve deep into the witchcraft of type pairs."
+  resource-links: |
+    - https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b
+    - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch05.xhtml
+    - https://learnui.design/blog/guide-pairing-fonts.html
+    - https://www.fontshop.com/content/how-to-find-a-suitable-text-font
+    - https://practice.typekit.com/lesson/selecting-typefaces-for-body-text/
+    - https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
+    - https://www.creativebloq.com/typography/tips-choosing-typeface-31514399
+    - https://www.fontshop.com/content/how-to-mix-type
+    - https://www.typography.com/blog/typographic-doubletakes
+
+# [9] The Type Industry # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "The Type Industry"
+  serial: level-3-micro-assignment-2-subpage
+  point-value: 5
+  url: type-3/the-type-industry/index.html
+  deck: "We'll explore how a type design makes it from a typographer's imagination all the way to your design pieces. How are fonts designed? Who profits along the way? Who owns the fonts? etc..."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://pin.it/alainparadis"
+  outcomes:
+    - outcome: "Some outcome number 1"
+    - outcome: "Some outcome number 2"
+  criteria:
+    - criterium: "This is the first criteria item."
+    - criterium: "The second criterium comes after the first."
+    - criterium: "Never two without three criterium."
+    - criterium: "Two plus two equals four criteria."
+  resource-links: |
+    - https://www.creativebloq.com/features/font-licensing
+    - https://www.crowdspring.com/blog/font-law-licensing/
+  # Subpages
+  pages:
+    - title: "This is a subpage for this assignment"
+      serial: "level-3-assignment-1-subpage-1"
+      url: type-3/folder_name/subpage1.html
+      deck: "This is the text for the deck for this assignment."
+
+# [10] Typographer of the Week # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Typographer of the Week"
+  serial: level-3-micro-assignment-3-subpage
+  point-value: 20
+  url: type-3/typographer-of-the-week/index.html
+  deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://pin.it/alainparadis"
+  outcomes:
+    - outcome: "Some outcome number 1"
+    - outcome: "Some outcome number 2"
+  criteria:
+    - criterium: "This is the first criteria item."
+    - criterium: "The second criterium comes after the first."
+    - criterium: "Never two without three criterium."
+    - criterium: "Two plus two equals four criteria."
+  resource-links: |
+    - https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
+  # Subpages
+  pages:
+    - title: "This is a subpage for this assignment"
+      serial: "level-3-assignment-1-subpage-1"
+      url: type-3/grimm-dust-cover/subpage1.html
+      deck: "This is the text for the deck for this assignment."
+
+# [11] "Copy Fitting" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Copy Fitting"
+  serial: level-3-micro-assignment-4-subpage
+  point-value: 5
+  url: type-3/copy-fitting/index.html
+  deck: "We'll take a look at challenging layouts for copy-fitting. You'll learn solutions to resolve any issue."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://pin.it/alainparadis"
+  outcomes:
+    - outcome: "Some outcome number 1"
+    - outcome: "Some outcome number 2"
+  criteria:
+    - criterium: "This is the first criteria item."
+    - criterium: "The second criterium comes after the first."
+    - criterium: "Never two without three criterium."
+    - criterium: "Two plus two equals four criteria."
+  resource-links: |
+    - https://learning.oreilly.com/
+  # Subpages
+  pages:
+    - title: "This is a subpage for this assignment"
+      serial: "level-3-assignment-1-subpage-1"
+      url: type-3/folder_name/subpage1.html
+      deck: "This is the text for the deck for this assignment."
+
+# [12] "Type Facts Repo" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Type Facts Repo"
+  serial: level-3-micro-assignment-5-home
+  point-value: 5
+  url: /type-facts-repo/index.html
+  deck: "Learn some pretty pro type facts so you can school your designer friends."
+  downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://pin.it/alainparadis"
+  outcomes:
+    - outcome: "Some outcome number 1"
+    - outcome: "Some outcome number 2"
+  criteria:
+    - criterium: "This is the first criteria item."
+    - criterium: "The second criterium comes after the first."
+    - criterium: "Never two without three criterium."
+    - criterium: "Two plus two equals four criteria."
+  resource-links: |
+    - https://learning.oreilly.com/
+  # Subpages
+  pages:
+    - title: "This is a subpage for this assignment"
+      serial: "level-3-assignment-1-subpage-1"
+      url: type-3/folder_name/subpage1.html
+      deck: "This is the text for the deck for this assignment."

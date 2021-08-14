@@ -1,15 +1,16 @@
-:root {
-  /* Colours */
-  --orange100: rgb(242, 101, 34);
-  --orange75: rgb(242, 101, 34, 0.75);
-  --orange50: rgb(242, 101, 34, 0.5);
-  --orange33: rgb(242, 101, 34, 0.33);
-  --darkgrey: rgb(76, 76, 76);
-  --mediumgrey: rgb(153, 153, 153);
-  --lightgrey: rgb(230, 230, 230);
-  --white: rgb(255, 255, 255);
-  --blue: rgb(41, 151, 255, 1);
-  --blue50: rgba(129, 203, 255, 1);
+:root
+{
+	/* Colours */
+	--orange100: rgb(242, 101, 34);
+	--orange75: rgb(242, 101, 34, 0.75);
+	--orange50: rgb(242, 101, 34, 0.5);
+	--orange33: rgb(242, 101, 34, 0.33);
+	--darkgrey: rgb(76, 76, 76);
+	--mediumgrey: rgb(153, 153, 153);
+	--lightgrey: rgb(230, 230, 230);
+	--white: rgb(255, 255, 255);
+	--blue: rgb(41, 151, 255, 1);
+	--blue50: rgba(129, 203, 255, 1);
 }
 
 @font-face {
@@ -36,6 +37,7 @@
   font-family: FiraMono-Medium;
   src: url("../fonts/FiraMono-Medium.woff") format("woff");
 }
+
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * General Type Stuff * * * * * * * * */
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
@@ -46,7 +48,9 @@ html
 	color: #000000;
 	font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
 }
-body {
+
+body
+{
 	max-width: 90rem;
 	padding: 0 .5rem 0 .5rem;
 	margin: 0 auto;
@@ -65,6 +69,16 @@ a:hover { color: var(--mediumgrey); }
 a:active { color: rgba(247 148 29); }
 a:focus { outline: 2px solid black; }
 .uppercase { text-transform: uppercase; }
+.small { font-size: .8rem; }
+
+.italic
+{
+	font-weight: normal;
+	font-family: "FiraSans-Italic", Arial, Helvetica, sans-serif;
+}
+
+.blue { color: var(--blue); }
+.text-align-right { text-align: right; }
 
 blockquote
 {
@@ -130,13 +144,7 @@ h6
 
 h1,
 h2 { letter-spacing: -0.0312rem; }
-
-h2
-{
-	font-size: 1.2rem;
-	margin-top: 2rem;
-}
-
+h2 { font-size: 1.2rem; }
 #content h1 { font-size: 1.6rem; }
 
 #content ul li:before
@@ -152,6 +160,7 @@ h2
 	margin: 0;
 	padding: 0;
 }
+
 #content h1 ul li::before, #content .deck ul li::before, #content ul li.links::before
 {
 	content: "";
@@ -174,13 +183,14 @@ h2
 	margin-right: 2rem;
 }
 
-.no_bullets {
+.no_bullets
+{
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
 }
 
-#content h2 { font-size: 1.4rem; }
+#content h2 { font-size: 1.4rem; margin-top: 2rem; }
 
 #content h3
 {
@@ -195,10 +205,11 @@ h2
 #content h4 + p,
 #content h5 + p,
 #content h6 + p { margin-top: 0; }
-#content h2,
+
 #content h3,
 #content h4,
-#content h5 {
+#content h5
+{
 	margin-top: 2rem;
 	margin-bottom: 0;
 }
@@ -238,7 +249,7 @@ strong
 	color: rgba(100, 100, 100, 1);
 }
 
-.item p {display: none;}
+.item p { display: none; }
 
 dt
 {
@@ -304,44 +315,35 @@ code
 	padding-top: 0;
 }
 
-img {
-  border: 0px solid rgba(100, 100, 100, 1);
-  display: block;
-  margin: 1rem auto;
-  max-width: 100%;
+img
+{
+	border: 0px solid rgba(100, 100, 100, 1);
+	display: block;
+	margin: 1rem auto;
+	max-width: 100%;
 }
 
 /* SVG Styles */
-
-.darkgrey {
-  fill: var(--darkgrey);
-}
-.mediumgrey {
-  fill: var(--mediumgrey);
-}
-.lightgrey {
-  fill: var(--lightgrey);
-}
+.darkgrey { fill: var(--darkgrey); }
+.mediumgrey { fill: var(--mediumgrey); }
+.lightgrey { fill: var(--lightgrey); }
 
 /* END SVG Styles */
+nav span { padding-right: 2rem; }
 
-nav span {
-  padding-right: 2rem;
-}
-
-.footer1 {
-  border-top: 6px solid var(--lightgrey);
-  padding-top: 1rem;
-  margin-top: 2rem;
+.footer1
+{
+	border-top: 6px solid var(--lightgrey);
+	padding-top: 1rem;
+	margin-top: 2rem;
 }
 
 /* Rubric Layout */
-
 ul.criteria
 {
-margin: 0;
-padding: 0;
-border: 1px solid red;
+	margin: 0;
+	padding: 0;
+	border: 1px solid red;
 }
 
 li.criterium::before { content: " "; }
@@ -349,64 +351,69 @@ li.criterium::before { content: " "; }
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 480px – 608px * * * * * * * * * */
 
-@media only screen and (min-width: 30em) {
-.footer2 {
-  border-top: 6px solid var(--lightgrey);
-  padding-top: 1rem;
-  margin-top: 2rem;
-}
-
+@media only screen and (min-width: 30em)
+{
+	.footer2
+	{
+		border-top: 6px solid var(--lightgrey);
+		padding-top: 1rem;
+		margin-top: 2rem;
+	}
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
 
-@media only screen and (min-width: 42em) {
-body {
-	padding-top: 0.5rem;
-  }
-.site-id1 { font-size: 6rem; }
-.footer3, .footer4 {
-    border-top: 6px solid var(--lightgrey);
-    padding-top: 1rem;
-    margin-top: 2rem;
-  }
-.item p {display: block;}
-
+@media only screen and (min-width: 42em)
+{
+	body { padding-top: 0.5rem; }
+	.site-id1 { font-size: 6rem; }
+	
+	.footer3, .footer4
+	{
+		border-top: 6px solid var(--lightgrey);
+		padding-top: 1rem;
+		margin-top: 2rem;
+	}
+	
+	.item p { display: block; }
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
 
-@media only screen and (min-width: 60em) {
-html { font-size: 110%; }
-.site-id { font-size: 7rem; }
-
-.course-info1 h3,
-.course-info2 h3,
-.assignment h3,
-.item h4
-  {
-  border-bottom: 2px solid var(--lightgrey);
-  padding-bottom: 1rem;
-  margin-bottom: 0.875rem;
-  line-height: 1.3rem;
-  font-weight: normal;
-  font-family: "FiraSans-Medium";
-}
-#content { padding-right: 1rem; }
-
-.item h4
+@media only screen and (min-width: 60em)
 {
-  border-bottom: 2px solid var(--lightgrey);
-  padding-bottom: 1rem;
-  margin-bottom: 0.875rem;
-  line-height: 1.3rem;
-  font-weight: normal;
-  font-family: "FiraSans-Medium";
-}
+	html { font-size: 110%; }
+	.site-id { font-size: 7rem; }
+	
+	.course-info1 h3,
+				.course-info2 h3,
+				.assignment h3,
+				.item h4
+	{
+		border-bottom: 2px solid var(--lightgrey);
+		padding-bottom: 1rem;
+		margin-bottom: 0.875rem;
+		line-height: 1.3rem;
+		font-weight: normal;
+		font-family: "FiraSans-Medium";
+	}
+	
+	#content { padding-right: 1rem; }
+	
+	.item h4
+	{
+		border-bottom: 2px solid var(--lightgrey);
+		padding-bottom: 1rem;
+		margin-bottom: 0.875rem;
+		line-height: 1.3rem;
+		font-weight: normal;
+		font-family: "FiraSans-Medium";
+	}
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
 
-@media only screen and (min-width: 90em) {
-
+@media only screen and (min-width: 90em)
+{
+	
 }

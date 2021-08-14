@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-micro-assignment-2-subpage
+serial: level-3-micro-assignment-2-home
 ---
 How does a font go from the typographer's mind to the market, to your page?
 
