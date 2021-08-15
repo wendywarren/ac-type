@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: "level-3-assignment-1-subpage-1"
+serial: level-3-assignment-1-subpage-1
 ---
 ### About Ad Hoc Grids
 
