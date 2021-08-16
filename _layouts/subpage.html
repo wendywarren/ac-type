@@ -67,7 +67,7 @@
 		</ul>
 		</div>
 		<div>
-		{% if page.path contains "index" %}
+		{% if page.serial contains "home" and page.serial contains "assignment" %}
 		<ul class="links no_bullets">
 			<li class="links"><a href="#"><svg width="40" height="40" viewBox="0 0 24 24"><style>.mediumgrey{fill:rgb(153, 153, 153)}.mediumgrey:hover {
   fill:rgb(41, 151, 255, 1);
@@ -85,19 +85,32 @@
 		<h2>Outcomes</h2>
 		<p>By the time you've completed this assignment, you will have learned to:</p>
 		<ul>
-		{% for entry in site.data.assignments %}
-		{% for item in entry.outcomes %}
-		{% if page.serial == entry.serial %} 
-			<li>{{ item.outcome }}</li>
-		{% endif %} 
-		{% endfor %}
-		{% endfor %}
+			{% for entry in site.data.assignments %}
+			{% for item in entry.outcomes %}
+			{% if page.serial == entry.serial %} 
+				<li>{{ item.outcome }}</li>
+			{% endif %} 
+			{% endfor %}
+			{% endfor %}
 		</ul>
-			<h2>The Brief</h2>
-		{% endif %} 
+		<h2>The Brief</h2>
+		{% endif %}
 		{{ content }}
 		{% if page.serial contains 'deliverables' %} 
-		<ul class="brightspace">
+		<h2>Grading Criteria</h2>
+		<ul>
+		{% assign allCriteria = site.data.assignments %}
+		{% for entry in allCriteria %}
+			{% for item in entry.pages %}
+				{% for object in item.criteria %}
+					{% if page.serial == item.serial %} 
+						<li>{{ object.criterium }}</li>
+					{% endif %}
+				{% endfor %}
+			{% endfor %}
+		{% endfor %}
+		</ul>
+		<ul class="brightspace no_bullets">
 		{% assign allSubmissions = site.data.assignments %}
 		{% for entry in allSubmissions %}
 		{% for item in entry.pages %}

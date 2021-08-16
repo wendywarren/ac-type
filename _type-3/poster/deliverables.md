@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-assignment-4-deliverables
+serial: level-3-assignment-3-deliverables
 ---
 Create an InDesign or Illustrator package. Name it:
 

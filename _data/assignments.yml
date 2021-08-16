@@ -16,11 +16,6 @@
     - outcome: "Manipulate type to create a pleasing, harmonious, context-appropriate design."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
-  criteria:
-    - criterium: "This is the first criteria item."
-    - criterium: "The second criterium comes after the first."
-    - criterium: "Never two without three criterium."
-    - criterium: "Two plus two equals four criteria."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
     - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
@@ -46,6 +41,12 @@
       url: type-3/grimm-dust-cover/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "Your submission adheres to the physical parameters."
+        - criterium: "You successfully implemented a sound ad hoc grid."
+        - criterium: "You created a harmonious font pair."
+        - criterium: "You made effective use of colour."
+        - criterium: "You've used type to create a pleasing, harmonious, context-appropriate design."
 
 # [1] Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm's Pages"
@@ -93,6 +94,8 @@
       url: type-3/grimms-pages/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "This is the first criterium."
 
 # [2] Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Poster"
@@ -132,6 +135,8 @@
       url: type-3/poster/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "This is the first criterium for the Poster assignment."
 
 # [3] Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Newsletter"
@@ -181,6 +186,8 @@
       url: type-3/newsletter/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "This is the first criterium for the Newsletter assignment."
 
 # [4] Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Signage"
@@ -212,6 +219,8 @@
       url: type-4/signage/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "This is the first criterium."
 
 # [5] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Some_Assignment"
@@ -243,6 +252,8 @@
       url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "This is the first criterium."
 
 # [6] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Another_Assignment"
@@ -274,6 +285,8 @@
       url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "This is the first criterium."
 
 # [7] Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Magazine"
@@ -308,6 +321,8 @@
       url: type-4/magazine/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "This is the first criterium."
 
 # [8] Font Pairing # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Font Pairing"
