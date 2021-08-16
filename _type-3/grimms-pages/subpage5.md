@@ -6,9 +6,11 @@ serial: level-3-assignment-2-subpage-5
 
 This is what we have put together to date:
 
-- our page grid
-- typeface selection
-- stylistic elements
+<ul class="hasBullets">
+	<li>our page grid</li>
+	<li>typeface selection</li>
+	<li>stylistic elements</li>
+</ul>
 
 We don't have colour selection to do, since we're working with only black ink.
 
