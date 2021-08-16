@@ -95,7 +95,11 @@
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
-        - criterium: "This is the first criterium."
+        - criterium: "You've effectively created a balanced single-column grid using the van de Graaf Canon."
+        - criterium: "Your typeface selection promotes legibility specifically for a long document."
+        - criterium: "You've successfully set type in the context of a long document."
+        - criterium: "You've implemented the software goals listed in the course outcomes."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [2] Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Poster"
@@ -136,7 +140,11 @@
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
-        - criterium: "This is the first criterium for the Poster assignment."
+        - criterium: "You've successfully classified your chosen type family."
+        - criterium: "The information you've sourced about your chose typeface is plentiful and relevant."
+        - criterium: "You've made the most of the type family's various weights and widths."
+        - criterium: "Your treatment demonstrates a confident handling of a limited number of colours, achieving a strong impact."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [3] Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Newsletter"
