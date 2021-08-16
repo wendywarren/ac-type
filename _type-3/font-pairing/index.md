@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-micro-assignment-1-home
+serial: level-3-micro-1-home
 ---
 <!---
 We could do an in-class activity where I present one typeface, then students need to match it up with another one on the fly. They'd have to explain why they match. They could save all the pairs, then share them with the groups.
