@@ -20,12 +20,14 @@ We'll design a book cover layout using an ad hoc page layout grid. This is reall
 
 Make sure you read through all the requirements.
 
-- You'll need to design the cover, the back and the two flaps based on the provided measurements.
-- This is going to be a type-only design. **No images allowed**.
-- Use the provided bar code and logos.
-- Print parameters
-    - Colour: Maximum four colour process. You can use fewer colours.
-    - Full bleeds
+<ul class="hasBullets">
+	<li>You'll need to design the cover, the back and the two flaps based on the provided measurements.</li>
+	<li>This is going to be a type-only design. **No images allowed**.</li>
+	<li>Use the provided bar code and logos.</li>
+	<li>Print parameters</li>
+	<li>Colour: Maximum four colour process. You can use fewer colours.</li>
+	<li>Full bleeds</li>
+</ul>
 
 ### Physical Format
 
