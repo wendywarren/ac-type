@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-assignment-1-subpage-2
+serial: level-3-assignment-1-subpage-the-design-stage
 ---
 ### Style Board
 

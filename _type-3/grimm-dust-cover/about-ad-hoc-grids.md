@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-assignment-1-subpage-1
+serial: level-3-assignment-1-subpage-about-ad-hoc-grids
 ---
 ### Ad Hoc Grids
 
@@ -23,25 +23,3 @@ As we build our layout, we create hierarchy for each element using size, weight,
 In the example above, you can see that the main title logically takes the lead in the layout. The two remaining elements align with it. You can see how, even with so few elements, we've achieved harmony on the page.
 
 It's also obvious that the process of creating a layout in this manner is too tedious for long multi-page publications. That's what the other types of grids are for.
-
-### Let's Practice!
-
-Let's launch InDesign to practice creating a layout with an ad hoc grid. Start with activating one of the following families on Adobe Fonts:
-
-<ul class="hasBullets">
-	<li><a href="https://fonts.adobe.com/fonts/baskerville-urw" title="Baskerville">Baskerville URW</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/bodoni-urw" title="Bodoni">Bodoni URW</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/adobe-caslon" title="Caslon">Adobe Caslon</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/garamond-premier" title="Adobe Garamond Premier">Adobe Garamond Premier</a></li>
-</ul>
-<ul class="hasBullets">
-	<li><a href="https://fonts.adobe.com/fonts/itc-franklin-gothic" title="ITC Franklin Gothic">ITC Franklin Gothic</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/acumin" title="Acumin">Adobe Acumin</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/gill-sans-nova" title="Gill Sans Nova">Gill Sans Nova</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/itc-avant-garde-gothic" title="ITC Avant Garde">ITC Avant Garde</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/futura-pt" title="Futur">Futura PT</a></li>
-</ul>
-<ul class="hasBullets">
-	<li><a href="https://fonts.adobe.com/fonts/rockwell" title="Rockwell">Rockwell Monotype</a></li>
-</ul>
-

@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-assignment-1-subpage-3
+serial: level-3-assignment-1-subpage-build-your-design
 ---
 We'll be using InDesign and optionally Illustrator to create your design.
 
