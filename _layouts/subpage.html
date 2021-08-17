@@ -41,17 +41,18 @@
 		{% endfor %}
 		</ul>
 		</h1>
-		{% else %}
+		{% endif %}
 		<h1>
 		<ul>
-			{% for entry in site.type-facts-repo %}
+		{% assign allTitles = site.data.type-facts-repo %}
+			{% for entry in allTitles %}
 				{% if page.serial == entry.serial %} 
 					<li>{{ entry.title }}</li>
 				{% endif %}
 			{% endfor %}
 		</ul>
 		</h1>
-		{% endif %}
+
 		<div class="deck">
 		{% if page.serial contains "home" %}
 		<ul>
@@ -75,7 +76,7 @@
 		</div>
 		<div>
 		{% if page.serial contains "home" and page.serial contains "assignment" %}
-		<ul class="links no_bullets">
+		<ul class="links">
 			<li class="links"><a href="#"><svg width="40" height="40" viewBox="0 0 24 24"><style>.mediumgrey{fill:rgb(153, 153, 153)}.mediumgrey:hover {
   fill:rgb(41, 151, 255, 1);
 }</style><path d="M19.479 10.092c-.212-3.951-3.473-7.092-7.479-7.092-4.005 0-7.267 3.141-7.479 7.092-2.57.463-4.521 2.706-4.521 5.408 0 3.037 2.463 5.5 5.5 5.5h13c3.037 0 5.5-2.463 5.5-5.5 0-2.702-1.951-4.945-4.521-5.408zm-7.479 6.908l-4-4h3v-4h2v4h3l-4 4z" class="mediumgrey" /></svg></a></li>
@@ -117,7 +118,7 @@
 			{% endfor %}
 		{% endfor %}
 		</ul>
-		<ul class="brightspace no_bullets">
+		<ul class="brightspace">
 		{% assign allSubmissions = site.data.assignments %}
 		{% for entry in allSubmissions %}
 		{% for item in entry.pages %}
@@ -142,7 +143,7 @@
 		</a>
 		{% endif %}
 	  </h3>
-	  <ul class="subpages subpages1 no_bullets">
+	  <ul class="subpages subpages1">
 		{% if page.serial contains 'level-3' %}
 		{% assign assignmentPages = site.data.assignments[0].pages %}
 		  {% for item in assignmentPages %}
@@ -172,7 +173,7 @@
 		</a>
 		{% endif %}
 	  </h3>
-	  <ul class="subpages subpages2 no_bullets">
+	  <ul class="subpages subpages2">
 		{% if page.serial contains 'level-3' %}
 		{% assign assignmentPages = site.data.assignments[1].pages %}
 		  {% for item in assignmentPages %}
@@ -202,7 +203,7 @@
 		  </a>
 		{% endif %}
 	  </h3>
-	  <ul class="subpages subpages3 no_bullets">
+	  <ul class="subpages subpages3">
 		{% if page.serial contains 'level-3' %}
 		{% assign assignmentPages = site.data.assignments[2].pages %}
 		  {% for item in assignmentPages %}
@@ -232,7 +233,7 @@
 		</a>
 		{% endif %}
 	  </h3>
-	  <ul class="subpages subpages4 no_bullets">
+	  <ul class="subpages subpages4">
 		{% if page.serial contains 'level-3' %}
 		{% assign assignmentPages = site.data.assignments[3].pages %}
 		  {% for item in assignmentPages %}
