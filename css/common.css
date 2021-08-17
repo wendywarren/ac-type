@@ -265,7 +265,7 @@ dd
 	margin-left: 2em;
 }
 
-dd:last-of-type { margin-bottom: 1rem; }
+dd:last-of-type, ul.hasBullets li:last-of-type { margin-bottom: 1rem; }
 
 code
 {
