@@ -339,7 +339,7 @@
 # [8] Font Pairing # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Font Pairing"
   url: type-3/font-pairing/index.html
-  serial: level-3-micro-assignment-1-subpage
+  serial: level-3-micro-1-home
   deck: "What makes a pair of type families harmonious versus another that simply clash? Are there any clues to get us started in making compatible matches? We'll delve deep into the witchcraft of type pairs."
   resource-links: |
     - https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b
@@ -354,7 +354,7 @@
 
 # [9] The Type Industry # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "The Type Industry"
-  serial: level-3-micro-assignment-2-subpage
+  serial: level-3-micro-2-home
   point-value: 5
   url: type-3/the-type-industry/index.html
   deck: "We'll explore how a type design makes it from a typographer's imagination all the way to your design pieces. How are fonts designed? Who profits along the way? Who owns the fonts? etc..."
@@ -377,7 +377,7 @@
 
 # [10] Typographer of the Week # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Typographer of the Week"
-  serial: level-3-micro-assignment-3-subpage
+  serial: level-3-micro-3-home
   point-value: 20
   url: type-3/typographer-of-the-week/index.html
   deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
@@ -399,7 +399,7 @@
 
 # [11] "Copy Fitting" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Copy Fitting"
-  serial: level-3-micro-assignment-4-subpage
+  serial: level-3-micro-4-home
   point-value: 5
   url: type-3/copy-fitting/index.html
   deck: "We'll take a look at challenging layouts for copy-fitting. You'll learn solutions to resolve any issue."
@@ -421,7 +421,7 @@
 
 # [12] "Type Facts Repo" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type Facts Repo"
-  serial: level-3-micro-assignment-5-home
+  serial: level-3-micro-5-home
   point-value: 5
   url: /type-facts-repo/index.html
   deck: "Learn some pretty pro type facts so you can school your designer friends."

@@ -29,7 +29,7 @@
 		{% endfor %}
 		</ul>
 		</h1>
-		{% elsif page.serial contains "subpage" or page.serial contains "deliverables" %}
+	{% elsif page.serial contains "subpage" or page.serial contains "deliverables" %}
 		<h1>
 		<ul>
 		{% for entry in site.data.assignments %}
@@ -52,7 +52,6 @@
 			{% endfor %}
 		</ul>
 		</h1>
-
 		<div class="deck">
 		{% if page.serial contains "home" %}
 		<ul>
