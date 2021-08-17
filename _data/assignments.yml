@@ -3,7 +3,7 @@
   serial: "level-3-assignment-1-home"
   point-value: 20
   url: type-3/grimm-dust-cover/index.html
-  deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout."
+  deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout. You'll work with limited type and colours to create a very graphic design."
   downloads: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/5pucDHq"
   outcomes:
@@ -24,17 +24,17 @@
     - https://visme.co/blog/layout-design/
   # Subpages
   pages:
-    - title: "The Foundational Space"
+    - title: "About Ad Hoc Grids"
       serial: "level-3-assignment-1-subpage-1"
-      url: type-3/grimm-dust-cover/subpage1.html
-      deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product."
+      url: type-3/grimm-dust-cover/about-ad-hoc-grids.html
+      deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product. The given space is the canvas for our ad hoc grid."
     - title: "Design Stage"
       serial: "level-3-assignment-1-subpage-2"
-      url: type-3/grimm-dust-cover/subpage2.html
+      url: type-3/grimm-dust-cover/the-design-stage.html
       deck: "This is where the rubber hits the road. The creativity takes place here. Create a style board that will communicate your design to the client."
     - title: "Build Your Design"
       serial: "level-3-assignment-1-subpage-3"
-      url: type-3/grimm-dust-cover/subpage3.html
+      url: type-3/grimm-dust-cover/build-your-design.html
       deck: "As if we were cooks in a kitchen, we’ll combine all the ingredients to date to create a delicious typographic dish."
     - title: "Deliverables"
       serial: "level-3-assignment-1-deliverables"
