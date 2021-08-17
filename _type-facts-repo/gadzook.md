@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-type-facts-repo-subpage-6
+serial: level-3-type-facts-repo-subpage-5
 ---
 
 ![gadzook]({{site.url}}/svg/type-facts-repo/gadzook.svg "Gadzook"){:width="500px"}
