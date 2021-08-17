@@ -5,7 +5,7 @@
 	--orange75: rgb(242, 101, 34, 0.75);
 	--orange50: rgb(242, 101, 34, 0.5);
 	--orange33: rgb(242, 101, 34, 0.33);
-	--darkgrey: rgb(76, 76, 76);
+	--darkgrey: rgb(100, 100, 100);
 	--mediumgrey: rgb(153, 153, 153);
 	--lightgrey: rgb(230, 230, 230);
 	--white: rgb(255, 255, 255);
@@ -88,12 +88,6 @@ a:focus { outline: 2px solid black; }
 
 .skip-to-content-link:focus { transform: translateY(0%); }
 
-#content ul
-{
-	border: 1px solid red;
-	margin: 1rem 0;
-}
-
 .italic
 {
 	font-weight: normal;
@@ -113,8 +107,10 @@ blockquote
 	border-left: 4px solid var(--lightgrey);
 	padding-left: 1rem;
 	padding-right: 6rem;
-	color: var(--mediumgrey);
+	color: var(--darkgrey);
 }
+
+blockquote ~ a { color: var(--mediumgrey); }
 
 .site-id
 {
@@ -174,6 +170,7 @@ h2 { font-size: 1.2rem; }
 
 ul.hasBullets
 {
+	margin-top: 1rem;
 	padding: 0;
 	padding-left: 2rem;
 	list-style: none;
@@ -268,6 +265,8 @@ dd
 	margin-left: 2em;
 }
 
+dd:last-of-type { margin-bottom: 1rem; }
+
 code
 {
 	background: #ededed;
@@ -345,7 +344,6 @@ ul.criteria
 {
 	margin: 0;
 	padding: 0;
-	border: 1px solid red;
 }
 
 li.criterium::before { content: " "; }
@@ -388,9 +386,9 @@ li.criterium::before { content: " "; }
 	.site-id { font-size: 7rem; }
 	
 	.course-info1 h3,
-					.course-info2 h3,
-					.assignment h3,
-					.item h4
+						.course-info2 h3,
+						.assignment h3,
+						.item h4
 	{
 		border-bottom: 2px solid var(--lightgrey);
 		padding-bottom: 1rem;
