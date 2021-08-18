@@ -185,6 +185,7 @@ ul.hasBullets li:before
 	margin-right: 10px;
 	font-size: 0.5rem;
 }
+ul > ul {padding-left: 1rem; margin-top: -1rem;}
 
 .brightspace
 {
