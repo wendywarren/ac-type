@@ -25,7 +25,3 @@ When the project calls for process colour (or four colour process), there should
 #### Font files
 
 As we'll only be using Adobe Fonts, there's not much to do here. No fonts will ever be packaged with your projects, so you have nothing to worry about.
-
-#### Packaging
-
-When you package your project, whether from Illustrator or from InDesign, always ensure you include a PDF file in the packaging process. The folder should be named, as should be the layout file itself. This is going to be the naming convention for the semester.
