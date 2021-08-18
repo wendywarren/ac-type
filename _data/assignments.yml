@@ -51,6 +51,7 @@
         - criterium: "You created a harmonious font pair."
         - criterium: "You made effective use of colour."
         - criterium: "You've used type to create a pleasing, harmonious, context-appropriate design."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [1] Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm's Pages"
@@ -67,8 +68,6 @@
     - outcome: "Set type size, leading and spacing for a long document."
     - outcome: "Use old style figures in an appropriate context and manner."
     - outcome: "Build running headers, and automatic page numbering in a page layout application."
-    - outcome: "Produce print-ready files."
-    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages
@@ -119,8 +118,6 @@
     - outcome: "Make the most of a type family's weights, widths at varied sizes and position on the page."
     - outcome: "Select and apply theme-appropriate colours."
     - outcome: "Use the appropriate software tools and techniques to build the page."
-    - outcome: "Produce print-ready files."
-    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
     - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
@@ -167,8 +164,6 @@
     - outcome: "Devise type hierarchy for a multi-page publication."
     - outcome: "Design functional and decorative page elements like folios, shapes, colours and more."
     - outcome: "Select, then apply context-appropriate colours along with their tints and shades to create a colour theme."
-    - outcome: "Produce print-ready files."
-    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages
@@ -200,6 +195,7 @@
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium for the Newsletter assignment."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [4] Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Signage"
@@ -233,6 +229,7 @@
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [5] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Some_Assignment"
@@ -266,6 +263,7 @@
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [6] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Another_Assignment"
@@ -299,6 +297,8 @@
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium."
+        - criterium: "You've submitted files as directed, ready for print."
+        
 
 # [7] Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Magazine"
@@ -335,12 +335,15 @@
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [8] Font Pairing # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Font Pairing"
   url: type-3/font-pairing/index.html
   serial: level-3-micro-1-home
   deck: "What makes a pair of type families harmonious versus another that simply clash? Are there any clues to get us started in making compatible matches? We'll delve deep into the witchcraft of type pairs."
+  outcomes:
+    - outcome: "Discern the characteristics of type families which show they harmonize."
   resource-links: |
     - https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch05.xhtml
@@ -352,14 +355,21 @@
     - https://www.fontshop.com/content/how-to-mix-type
     - https://www.typography.com/blog/typographic-doubletakes
   pages:
-    - title: "First Subpage"
+    - title: "Font Harmony"
       serial: level-3-micro-1-subpage-1
-      url: type-3/font-pairing/some_filename.html
-      deck: "This is the deck for the Font Pairing micro-assignment in Type 3."
+      url: type-3/font-pairing/activity.html
+      deck: "Given one type family, match it with a second. Tell me why they go well together. Where would you use them? Show me a sample treatment to demonstrate that."
     - title: "Deliverables"
       serial: level-3-micro-1-deliverables
       url: type-3/font-pairing/deliverables.html
-      deck: "This is the deck for the Font Pairing deliverables page."
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      criteria:
+        - criterium: "You have adhered to the given technical specifications."
+        - criterium: "Your layout visually demonstrates that the families harmonize well."
+        - criterium: "You've clearly verbally explained why you think these families are a sound pairing."
+        - criterium: "Your text is properly written and error-free."
+        - criterium: "Your font selection is a successful match with the given family."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [9] The Type Industry # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "The Type Industry"
@@ -372,11 +382,6 @@
   outcomes:
     - outcome: "Some outcome number 1"
     - outcome: "Some outcome number 2"
-  criteria:
-    - criterium: "This is the first criteria item."
-    - criterium: "The second criterium comes after the first."
-    - criterium: "Never two without three criterium."
-    - criterium: "Two plus two equals four criteria."
   resource-links: |
     - https://www.creativebloq.com/features/font-licensing
     - https://www.crowdspring.com/blog/font-law-licensing/
@@ -389,7 +394,13 @@
     - title: "Deliverables"
       serial: level-3-micro-2-deliverables
       url: type-3/the-type-industry/deliverables.html
-      deck: "This is the deck for the The Type Industry deliverables page."
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      criteria:
+        - criterium: "This is the first criteria item."
+        - criterium: "The second criterium comes after the first."
+        - criterium: "Never two without three criterium."
+        - criterium: "Two plus two equals four criteria."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [10] Typographer of the Week # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Typographer of the Week"
@@ -402,11 +413,6 @@
   outcomes:
     - outcome: "Some outcome number 1"
     - outcome: "Some outcome number 2"
-  criteria:
-    - criterium: "This is the first criteria item."
-    - criterium: "The second criterium comes after the first."
-    - criterium: "Never two without three criterium."
-    - criterium: "Two plus two equals four criteria."
   resource-links: |
     - https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
   # Subpages
@@ -418,8 +424,12 @@
     - title: "Deliverables"
       serial: level-3-micro-3-deliverables
       url: type-3/typographer-of-the-week/deliverables.html
-      deck: "This is the deck for the Typographer of the Week deliverables page."
-
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      criteria:
+        - criterium: "This is the first criteria item."
+        - criterium: "The second criterium comes after the first."
+        - criterium: "Never two without three criterium."
+        - criterium: "Two plus two equals four criteria."
 
 # [11] "Type Facts Repo" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type Facts Repo"
@@ -453,11 +463,6 @@
   pinterest: "https://pin.it/alainparadis"
   outcomes:
     - outcome: "Some outcome number 1"
-  criteria:
-    - criterium: "This is the first criteria item."
-    - criterium: "The second criterium comes after the first."
-    - criterium: "Never two without three criterium."
-    - criterium: "Two plus two equals four criteria."
   resource-links: |
     - https://learning.oreilly.com/
   # Subpages
@@ -469,8 +474,12 @@
     - title: "Deliverables"
       serial: level-4-micro-1-deliverables
       url: type-4/type-4-micro-1/deliverables.html
-      deck: "This is the deck for the Typographer of the Week deliverables page."
-
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      criteria:
+        - criterium: "This is the first criteria item."
+        - criterium: "The second criterium comes after the first."
+        - criterium: "Never two without three criterium."
+        - criterium: "Two plus two equals four criteria."
 
 # [13] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #2"
@@ -482,11 +491,6 @@
   pinterest: "https://pin.it/alainparadis"
   outcomes:
     - outcome: "Some outcome number 1"
-  criteria:
-    - criterium: "This is the first criteria item."
-    - criterium: "The second criterium comes after the first."
-    - criterium: "Never two without three criterium."
-    - criterium: "Two plus two equals four criteria."
   resource-links: |
     - https://learning.oreilly.com/
   # Subpages
@@ -498,7 +502,12 @@
     - title: "Deliverables"
       serial: level-4-micro-2-deliverables
       url: type-4/type-4-micro-2/deliverables.html
-      deck: "This is the deck for the Type 4 Micro 2 deliverables page."
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      criteria:
+        - criterium: "This is the first criteria item."
+        - criterium: "The second criterium comes after the first."
+        - criterium: "Never two without three criterium."
+        - criterium: "Two plus two equals four criteria."
 
 # [14] Type 4 Micro #3 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #3"
@@ -510,11 +519,6 @@
   pinterest: "https://pin.it/alainparadis"
   outcomes:
     - outcome: "Some outcome number 1"
-  criteria:
-    - criterium: "This is the first criteria item."
-    - criterium: "The second criterium comes after the first."
-    - criterium: "Never two without three criterium."
-    - criterium: "Two plus two equals four criteria."
   resource-links: |
     - https://learning.oreilly.com/
   # Subpages
@@ -526,7 +530,12 @@
     - title: "Deliverables"
       serial: level-4-micro-3-deliverables
       url: type-4/type-4-micro-3/deliverables.html
-      deck: "This is the deck for the Type 4 Micro #3 deliverables page."
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      criteria:
+        - criterium: "This is the first criteria item."
+        - criterium: "The second criterium comes after the first."
+        - criterium: "Never two without three criterium."
+        - criterium: "Two plus two equals four criteria."
 
 # [15] Type 4 Micro #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #4"
@@ -538,11 +547,6 @@
   pinterest: "https://pin.it/alainparadis"
   outcomes:
     - outcome: "Some outcome number 1"
-  criteria:
-    - criterium: "This is the first criteria item."
-    - criterium: "The second criterium comes after the first."
-    - criterium: "Never two without three criterium."
-    - criterium: "Two plus two equals four criteria."
   resource-links: |
     - https://learning.oreilly.com/
   # Subpages
@@ -554,4 +558,10 @@
     - title: "Deliverables"
       serial: level-4-micro-4-deliverables
       url: type-4/type-4-micro-4/deliverables.html
-      deck: "This is the deck for the Type 4 Micro #4 deliverables page."
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      criteria:
+        - criterium: "This is the first criteria item."
+        - criterium: "The second criterium comes after the first."
+        - criterium: "Never two without three criterium."
+        - criterium: "Two plus two equals four criteria."
+
