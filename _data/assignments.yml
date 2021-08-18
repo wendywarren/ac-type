@@ -359,6 +359,10 @@
       serial: level-3-micro-1-subpage-1
       url: type-3/font-pairing/activity.html
       deck: "Given one type family, match it with a second. Tell me why they go well together. Where would you use them? Show me a sample treatment to demonstrate that."
+    - title: "Examples"
+      serial: level-3-micro-1-subpage-2
+      url: type-3/font-pairing/examples.html
+      deck: "Let's look at some type families to see how they pair up, or don't."
     - title: "Deliverables"
       serial: level-3-micro-1-deliverables
       url: type-3/font-pairing/deliverables.html

@@ -2,15 +2,9 @@
 layout: subpage
 serial: level-3-micro-1-home
 ---
-<!---
-We could do an in-class activity where I present one typeface, then students need to match it up with another one on the fly. They'd have to explain why they match. They could save all the pairs, then share them with the groups.
---->
+Before we can match up any two type families, we need to first decide what our choice will be based on. There are three major criteria, context, visual harmony and functionality.
 
-## Selecting Typefaces
-
-Before we can match up any two type families, we need to first decide what our choice will be based on. There are three major criteria, context and visual harmony and functionality.
-
-### By Context
+#### By Context
 
 Context will be our first guide in selecting typefaces. Our choices for a historical novel will look very different from those for a technical manual. This is where knowledge of the historical origins of typefaces is needed. An old style serif typeface may be used for a historical novel, while a humanist sans serif could be our choice for a technical manual.
 
@@ -18,7 +12,7 @@ Context will be our first guide in selecting typefaces. Our choices for a histor
 
 These two glyphs are from a gothic family and an old style typeface. They're not from the same era, they make a harmonious pair.
 
-### For Visual Harmony
+#### For Visual Harmony
 
 Visual harmony is a little harder to define. We know it when we see it and notice when it is lacking. Families with similar proportions and physical characteristics will be more compatible. As an example, two families that have two-storey 'a' glyphs, amongst other similarities, may be harmonious together.
 
@@ -26,7 +20,7 @@ Visual harmony is a little harder to define. We know it when we see it and notic
 
 Here, we have Caslon and Myriad. Their proportions create a good match.
 
-### Functionality
+#### Functionality
 
 Our typeface selection needs to work with the content. If our historical novel's copy requires ligatures, well, we'll need make sure our typeface includes ligatures. If the technical manual requires fraction glyphs, that will also impact our choice.
 
@@ -38,11 +32,13 @@ These glyphs are part of Formata and Caslon respectively. Both families have ext
 
 Matching up two typefaces is a bit of a dark art. Some go on instinct and experience. Others are more methodical. Using both of the above is probably advisable. These are all elements (in no particular order) to consider in pairing typefaces:
 
-- classification
-- glyph style
-- x-height
-- glyph width
-- ...and more.
+<ul class="hasBullets">
+	<li>classification</li>
+	<li>glyph style</li>
+	<li>x-height</li>
+	<li>glyph width</li>
+	<li>...and more.</li>
+</ul>
 
 What often happens is that you're given the first family. That way, you only need to find a typeface to pair with it. Let's say you're given Lubalin Graph to start with. It's a geometric slab serif.
 
