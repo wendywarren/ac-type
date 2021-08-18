@@ -71,6 +71,11 @@ a:active { color: rgba(247 148 29); }
 a:focus { outline: 2px solid black; }
 .uppercase { text-transform: uppercase; }
 .small { font-size: .8rem; }
+.bold
+{
+font-weight: normal;
+font-family: "FiraSans-Medium";
+}
 
 .skip-to-content-link
 {
@@ -218,13 +223,19 @@ ul > ul {padding-left: 1rem; margin-top: -1rem;}
 #content h3 + p,
 #content h4 + p,
 #content h5 + p,
-#content h6 + p { margin-top: 0; }
+#content h6 + p,
+#content h1 + h2,
+#content h2 + h3,
+#content h3 + h4,
+#content h4 + h5,
+#content h5 + h6
+{ margin-top: 0rem;}
 
 #content h3,
 #content h4,
 #content h5
 {
-	margin-top: 2rem;
+	margin-top: 1.5rem;
 	margin-bottom: 0;
 }
 
