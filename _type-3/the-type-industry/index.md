@@ -30,20 +30,28 @@ There *are* poor quality and superior quality designs, as in everything. Designi
 
 ### Foundries
 
-- [FontShop](https://www.fontshop.com)
-- [Adobe Type](https://en.wikipedia.org/wiki/Apple_Inc.), a division of Adobe Systems
-- [Apple Inc.](https://developer.apple.com/videos/play/wwdc2020/10175/)
-- [Google LLC](https://fonts.google.com)
-- [Monotype Imaging](https://www.monotype.com)
-  - [Ascender Corporation](https://www.fontshop.com/foundries/ascender) a subsidiary of Monotype Imaging
-  - [Bitstream](https://www.myfonts.com/foundry/Bitstream/) a subsidiary of Monotype Imaging
-  - [FontFont](https://www.fontshop.com/foundries/fontfont) a subsidiary of Monotype Imaging, Located in Germany
-  - [International Typeface Corporation](https://en.wikipedia.org/wiki/International_Typeface_Corporation) (ITC) a subsidiary of Monotype Imaging
-  - [Linotype GmbH](https://www.linotype.com) a subsidiary of Monotype Imaging, Located in Germany
-  - [Fontsmith](https://www.fontsmith.com) a subsidiary of Monotype Imaging, Located in United Kingdom
-  - [URW Type Foundry](https://en.wikipedia.org/wiki/URW_Type_Foundry) a subsidiary of Monotype Imaging, Located in Germany
+<ul class="hasBullets">
+	<li><a href="https://www.fontshop.com" title="aaa">FontShop</a></li>
+	<li><a href="https://en.wikipedia.org/wiki/Apple_Inc." title="aaa">Adobe Type</a>, a division of Adobe Systems</li>
+	<li><a href="https://developer.apple.com/videos/play/wwdc2020/10175/" title="aaa">Apple Inc.</a></li>
+	<li><a href="https://fonts.google.com" title="aaa">Google LLC</a></li>
+	<li><a href="https://www.monotype.com" title="aaa">Monotype Imaging</a></li>
+	<ul>
+		<li><a href="https://www.fontshop.com/foundries/ascender" title="aaa">Ascender Corporation</a> a subsidiary of Monotype Imaging</li>
+		<li><a href="https://www.myfonts.com/foundry/Bitstream/" title="aaa">Bitstream</a> a subsidiary of Monotype Imaging</li>
+		<li><a href="https://www.fontshop.com/foundries/fontfont" title="aaa">FontFont</a> a subsidiary of Monotype Imaging, Located in Germany</li>
+		<li><a href="https://en.wikipedia.org/wiki/International_Typeface_Corporation" title="aaa">International Typeface Corporation</a> (ITC) a subsidiary of Monotype Imaging</li>
+		<li><a href="https://www.linotype.com" title="aaa">Linotype GmbH</a> a subsidiary of Monotype Imaging, Located in Germany</li>
+		<li><a href="https://www.fontsmith.com" title="aaa">Fontsmith</a> a subsidiary of Monotype Imaging, Located in United Kingdom</li>
+		<li><a href="https://en.wikipedia.org/wiki/URW_Type_Foundry" title="aaa">URW Type Foundry</a> a subsidiary of Monotype Imaging, Located in Germany</li>
+	</ul>
+</ul>
 
-- [Lots more small foundries](https://www.fontshop.com/foundries)
+<ul class="hasBullets">
+	<li><a href="https://www.fontshop.com/foundries" title="aaa">Lots more small foundries</a></li>
+	<li><a href="https://fonts.adobe.com/foundries" title="aaa">This is a list of all the foundries</a> that distribute fonts on Adobe Fonts.</li>
+</ul>
+
 
 ### Vendors
 
