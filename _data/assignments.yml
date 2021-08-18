@@ -2,6 +2,7 @@
 - title: "Grimm Dust Cover"
   serial: "level-3-assignment-1-home"
   point-value: 20
+  url: type-3/grimm-dust-cover/index.html
   deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout. You'll work with limited type and colours to create a very graphic design."
   download: "https://www.dropbox.com/s/qtwu2cdf2xyd58y/type-3-grimm-dust-cover.zip?dl=1"
   pinterest: "https://pin.it/5pucDHq"
@@ -25,18 +26,23 @@
   pages:
     - title: "About Ad Hoc Grids"
       serial: "level-3-assignment-1-subpage-about-ad-hoc-grids"
+      url: type-3/grimm-dust-cover/about-ad-hoc-grids.html
       deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product. The given space is the canvas for our ad hoc grid."
     - title: "Let's Practice"
       serial: "level-3-assignment-1-subpage-lets-practice"
+      url: type-3/grimm-dust-cover/lets-practice.html
       deck: "Let's build a page using a single type family and an ad hoc grid."
     - title: "Design Stage"
       serial: "level-3-assignment-1-subpage-the-design-stage"
+      url: type-3/grimm-dust-cover/the-design-stage.html
       deck: "This is where the rubber hits the road. The creativity takes place here. Create a style board that will communicate your design to the client."
     - title: "Build Your Design"
       serial: "level-3-assignment-1-subpage-build-your-design"
+      url: type-3/grimm-dust-cover/build-your-design.html
       deck: "As if we were cooks in a kitchen, we’ll combine all the ingredients to date to create a delicious typographic dish."
     - title: "Deliverables"
       serial: "level-3-assignment-1-deliverables"
+      url: type-3/grimm-dust-cover/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
@@ -51,6 +57,7 @@
 - title: "Grimm's Pages"
   serial: "level-3-assignment-2-home"
   point-value: 20
+  url: type-3/grimms-pages/index.html
   deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
@@ -67,21 +74,27 @@
   pages:
     - title: "Designing Our Grid"
       serial: "level-3-assignment-2-subpage-1"
+      url: type-3/grimms-pages/subpage1.html
       deck: "There are many formula for creating the single-column grid. Most of them are trash, myths. There are others which are actually useful. The first is the Van de Graaf Canon. Let's dive in!"
     - title: "Type Selection"
       serial: "level-3-assignment-2-subpage-2"
+      url: type-3/grimms-pages/subpage2.html
       deck: "This is the deck content for this page."
     - title: "Setting Justified Type"
       serial: "level-3-assignment-2-subpage-3"
+      url: type-3/grimms-pages/subpage3.html
       deck: "This is the deck content for this page."
     - title: "Stylistic Elements"
       serial: "level-3-assignment-2-subpage-4"
+      url: type-3/grimms-pages/subpage4.html
       deck: "Fiction novels can have beautiful typographic treatments that can include ornamental glyphs, rules and more. That's what well design here."
     - title: "Putting It All Together"
       serial: "level-3-assignment-2-subpage-5"
+      url: type-3/grimms-pages/subpage5.html
       deck: "This is the deck content for this page."
     - title: "Deliverables"
       serial: "level-3-assignment-2-deliverables"
+      url: type-3/grimms-pages/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
@@ -95,6 +108,7 @@
 - title: "Poster"
   serial: "level-3-assignment-3-home"
   point-value: 20
+  url: type-3/poster/index.html
   deck: "Type classification is a mirky business. We're not going to let that stop us! We'll discover what goes where in the grand timeline of typography. The product will be a poster design from a chosen classification."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
@@ -111,15 +125,19 @@
   pages:
     - title: "Type Classification"
       serial: "level-3-assignment-3-subpage-1"
+      url: type-3/poster/subpage1.html
       deck: "This is the deck for the Poster assignment in Type 4"
     - title: "Your Content"
       serial: "level-3-assignment-3-subpage-2"
+      url: type-3/poster/subpage2.html
       deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
     - title: "Your Process"
       serial: "level-3-assignment-3-subpage-3"
+      url: type-3/poster/subpage3.html
       deck: "While this is not a software assignment, your file needs to be built properly in order to go to production. Then there's the creative process, too."
     - title: "Deliverables"
       serial: "level-3-assignment-3-deliverables"
+      url: type-3/poster/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
@@ -131,6 +149,7 @@
 
 # [3] Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Newsletter"
+  url: type-3/newsletter/index.html
   point-value: 20
   serial: "level-3-assignment-4-home"
   deck: "With this assignment, we increase the complexity of our layouts. We'll design a modular grid, type and image treatments."
@@ -151,21 +170,27 @@
   pages:
     - title: "Gridify Our Page"
       serial: "level-3-assignment-4-subpage-1"
+      url: type-3/newsletter/subpage1.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Type Selection"
       serial: "level-3-assignment-4-subpage-2"
+      url: type-3/newsletter/subpage2.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Type Hierarchy"
       serial: "level-3-assignment-4-subpage-3"
+      url: type-3/newsletter/subpage3.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Page Element Design"
       serial: "level-3-assignment-4-subpage-4"
+      url: type-3/newsletter/subpage4.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Assembly Work"
       serial: "level-3-assignment-4-subpage-5"
+      url: type-3/newsletter/subpage5.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Deliverables"
       serial: "level-3-assignment-4-deliverables"
+      url: type-3/newsletter/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
@@ -175,6 +200,7 @@
 # [4] Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Signage"
   serial: "level-4-assignment-1-home"
+  url: type-4/signage/index.html
   deck: "This is the deck for the Signage assignment in Type 4."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
@@ -186,15 +212,19 @@
   pages:
     - title: "Signage First Subpage"
       serial: "level-4-assignment-1-subpage-1"
+      url: type-4/signage/subpage1.html
       deck: "This is the text for the deck for the Signage assignment."
     - title: "Second Subpage"
       serial: "level-4-assignment-1-subpage-2"
+      url: type-4/signage/subpage2.html
       deck: "This is the text for the deck for the Signage assignment."
     - title: "Third Subpage"
       serial: "level-4-assignment-1-subpage-3"
+      url: type-4/signage/subpage3.html
       deck: "This is the text for the deck for the Signage assignment."
     - title: "Deliverables"
       serial: "level-4-assignment-1-deliverables"
+      url: type-4/signage/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
@@ -204,6 +234,7 @@
 # [5] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Some_Assignment"
   serial: "level-4-assignment-2-home"
+  url: type-4/some_assignment/index.html
   deck: "This is the deck for some assignment in Type 4."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
@@ -215,15 +246,19 @@
   pages:
     - title: "First Subpage"
       serial: "level-4-assignment-2-subpage-1"
+      url: type-4/some_assignment/subpage1.html
       deck: "This is the deck for some assignment in Type 4."
     - title: "Second Subpage"
       serial: "level-4-assignment-2-subpage-2"
+      url: type-4/some_assignment/subpage2.html
       deck: "This is the deck for some assignment in Type 4."
     - title: "Third Subpage"
       serial: "level-4-assignment-2-subpage-3"
+      url: type-4/some_assignment/subpage3.html
       deck: "This is the deck for some assignment in Type 4."
     - title: "Deliverables"
       serial: "level-4-assignment-2-deliverables"
+      url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
@@ -233,6 +268,7 @@
 # [6] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Another_Assignment"
   serial: "level-4-assignment-3-home"
+  url: type-4/Some_Assignment/index.html
   deck: "This is the text for the deck for this page."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
@@ -244,15 +280,19 @@
   pages:
     - title: "First Page"
       serial: "level-4-assignment-3-subpage-1"
+      url: type-4/some_assignment/subpage1.html
       deck: "This is the text for the deck for this page."
     - title: "Second Subpage"
       serial: "level-4-assignment-3-subpage-2"
+      url: type-4/some_assignment/subpage2.html
       deck: "This is the text for the deck for this page."
     - title: "Third Subpage"
       serial: "level-4-assignment-3-subpage-3"
+      url: type-4/some_assignment/subpage3.html
       deck: "This is the text for the deck for this page."
     - title: "Deliverables"
       serial: "level-4-assignment-3-deliverables"
+      url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
@@ -263,6 +303,7 @@
 # [7] Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Magazine"
   serial: "level-4-assignment-4-home"
+  url: type-4/magazine/index.html
   deck: "This is the deck for the Magazine assignment in Type 4."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
@@ -277,15 +318,19 @@
   pages:
     - title: "First Subpage"
       serial: "level-4-assignment-4-subpage-1"
+      url: type-4/magazine/subpage1.html
       deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Second Subpage"
       serial: "level-4-assignment-4-subpage-2"
+      url: type-4/magazine/subpage2.html
       deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Third Subpage"
       serial: "level-4-assignment-4-subpage-3"
+      url: type-4/magazine/subpage3.html
       deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Deliverables"
       serial: "level-4-assignment-4-deliverables"
+      url: type-4/magazine/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
@@ -294,6 +339,7 @@
 
 # [8] Font Pairing # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Font Pairing"
+  url: type-3/font-pairing/index.html
   serial: level-3-micro-1-home
   deck: "What makes a pair of type families harmonious versus another that simply clash? Are there any clues to get us started in making compatible matches? We'll delve deep into the witchcraft of type pairs."
   outcomes:
@@ -311,12 +357,15 @@
   pages:
     - title: "Font Harmony"
       serial: level-3-micro-1-subpage-1
+      url: type-3/font-pairing/activity.html
       deck: "Given one type family, match it with a second. Tell me why they go well together. Where would you use them? Show me a sample treatment to demonstrate that."
     - title: "Examples, Good & Bad"
       serial: level-3-micro-1-subpage-2
+      url: type-3/font-pairing/examples-good-and-bad.html
       deck: "Let's look at some type families to see how they pair up, or don't."
     - title: "Deliverables"
       serial: level-3-micro-1-deliverables
+      url: type-3/font-pairing/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "You have adhered to the given technical specifications."
@@ -330,6 +379,7 @@
 - title: "The Type Industry"
   serial: level-3-micro-2-home
   point-value: 5
+  url: type-3/the-type-industry/index.html
   deck: "We'll explore how a type design makes it from a typographer's imagination all the way to your design pieces. How are fonts designed? Who profits along the way? Who owns the fonts? etc..."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -343,9 +393,11 @@
   pages:
     - title: "First Subpage"
       serial: level-3-micro-2-subpage-1
+      url: type-3/the-type-industry/some_filename.html
       deck: "This is the deck for the The Type Industry micro-assignment in Type 3."
     - title: "Deliverables"
       serial: level-3-micro-2-deliverables
+      url: type-3/the-type-industry/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
@@ -358,6 +410,7 @@
 - title: "Typographer of the Week"
   serial: level-3-micro-3-home
   point-value: 20
+  url: type-3/typographer-of-the-week/index.html
   deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -370,9 +423,11 @@
   pages:
     - title: "First Subpage"
       serial: level-3-micro-3-subpage-1
+      url: type-3/typographer-of-the-week/some_filename.html
       deck: "This is the deck for the Typographer of the Week micro-assignment in Type 3."
     - title: "Deliverables"
       serial: level-3-micro-3-deliverables
+      url: type-3/typographer-of-the-week/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
@@ -384,6 +439,7 @@
 - title: "Type Facts Repo"
   serial: level-3-micro-4-home
   point-value: 5
+  url: /type-facts-repo/index.html
   deck: "Learn some pretty pro type facts so you can school your designer friends."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -405,6 +461,7 @@
 - title: "Type 4 Micro #1"
   serial: "level-4-micro-1-home"
   point-value: 5
+  url: type-4/type-4-micro-1/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -416,9 +473,11 @@
   pages:
     - title: "First Subpage Type 4 Micro #1"
       serial: "level-4-micro-1-subpage-1"
+      url: type-4/type-4-micro-1/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro #1 Subpage 1."
     - title: "Deliverables"
       serial: level-4-micro-1-deliverables
+      url: type-4/type-4-micro-1/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
@@ -430,6 +489,7 @@
 - title: "Type 4 Micro #2"
   serial: "level-4-micro-2-home"
   point-value: 5
+  url: type-4/type-4-micro-2/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -441,9 +501,11 @@
   pages:
     - title: "First Subpage Type 4 Micro #2"
       serial: "level-4-micro-2-subpage-1"
+      url: type-4/type-4-micro-2/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro 2 Subpage 1."
     - title: "Deliverables"
       serial: level-4-micro-2-deliverables
+      url: type-4/type-4-micro-2/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
@@ -455,6 +517,7 @@
 - title: "Type 4 Micro #3"
   serial: "level-4-micro-3-home"
   point-value: 5
+  url: type-4/type-4-micro-3/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -466,9 +529,11 @@
   pages:
     - title: "First Subpage Type 4 Micro #3"
       serial: "level-4-micro-1-subpage-1"
+      url: type-4/type-4-micro-3/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro #3 Subpage 1."
     - title: "Deliverables"
       serial: level-4-micro-3-deliverables
+      url: type-4/type-4-micro-3/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
@@ -480,6 +545,7 @@
 - title: "Type 4 Micro #4"
   serial: "level-4-micro-4-home"
   point-value: 5
+  url: type-4/type-4-micro-4/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -491,9 +557,11 @@
   pages:
     - title: "First Subpage Type 4 Micro #4"
       serial: "level-4-micro-4-subpage-1"
+      url: type-4/type-4-micro-4/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro 4 Subpage 1."
     - title: "Deliverables"
       serial: level-4-micro-4-deliverables
+      url: type-4/type-4-micro-4/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
