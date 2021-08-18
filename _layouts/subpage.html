@@ -29,7 +29,7 @@
 		{% endfor %}
 		</ul>
 		</h1>
-	{% elsif page.serial contains "micro" or page.serial contains "deliverables" %}
+	{% elsif page.serial contains "micro" or page.serial contains "deliverables" or page.serial contains "subpage" %}
 		<h1>
 		<ul>
 		{% for entry in site.data.assignments %}
@@ -109,9 +109,9 @@
 		{% endif %}
 		{{ content }}
 		{% if page.serial contains 'deliverables' %} 
-		<h3>File Naming</h3>
+		<h3>File Naming & Packaging</h3>
 		<p>
-			Name your project submission files and folder as follows:
+			When you package your project, always ensure you include a PDF file in the packaging process. The folder should be named, as should be the layout file itself.	Name your project submission files and folder as follows:
 		</p>
 		<p>
 			Last Name, First Name, Group Number, Assignment Name.indd
