@@ -19,15 +19,6 @@
 	<div class="course-info1">{% include course-info1.html %}</div>
 	<div class="course-info2">{% include course-info2.html %}</div>
 	<div id="content">
-	<ul>
-	{% for nextPages in site.data.assignments %}
-		{% for nextPage in nextPages.pages %}
-		{% if page.serial == nextPage.serial %} 
-			<li><a href="{{ site.url }}/{{nextPage.next.url}}">Next Page</a></li>
-		{% endif %}
-		{% endfor %}
-	{% endfor %}
-	</ul>
 	{% if page.serial contains "home" %}
 		<h1>
 		<ul>
