@@ -71,10 +71,19 @@ a:active { color: rgba(247 148 29); }
 a:focus { outline: 2px solid black; }
 .uppercase { text-transform: uppercase; }
 .small { font-size: .8rem; }
+
 .bold
 {
-font-weight: normal;
-font-family: "FiraSans-Medium";
+	font-weight: normal;
+	font-style: normal;
+	font-family: "FiraSans-Medium";
+}
+
+em
+{
+	font-weight: normal;
+	font-style: normal;
+	font-family: "FiraSans-Italic", Arial, Helvetica, sans-serif;
 }
 
 .skip-to-content-link
@@ -190,7 +199,12 @@ ul.hasBullets li:before
 	margin-right: 10px;
 	font-size: 0.5rem;
 }
-ul > ul {padding-left: 1rem; margin-top: -1rem;}
+
+ul > ul
+{
+	padding-left: 1rem;
+	margin-top: -1rem;
+}
 
 .brightspace
 {
@@ -228,8 +242,7 @@ ul > ul {padding-left: 1rem; margin-top: -1rem;}
 #content h2 + h3,
 #content h3 + h4,
 #content h4 + h5,
-#content h5 + h6
-{ margin-top: 0rem;}
+#content h5 + h6 { margin-top: 0rem; }
 
 #content h3,
 #content h4,
@@ -412,9 +425,9 @@ li.criterium::before { content: " "; }
 	.site-id { font-size: 7rem; }
 	
 	.course-info1 h3,
-								.course-info2 h3,
-								.assignment h3,
-								.item h4
+									.course-info2 h3,
+									.assignment h3,
+									.item h4
 	{
 		border-bottom: 2px solid var(--lightgrey);
 		padding-bottom: 1rem;
