@@ -123,17 +123,17 @@
     - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
   # Subpages
   pages:
-    - title: "Type Classification"
+    - title: "Classification Categories"
       serial: "level-3-assignment-3-subpage-1"
-      url: type-3/poster/subpage1.html
+      url: type-3/poster/classification-categories.html
       deck: "This is the deck for the Poster assignment in Type 4"
     - title: "Your Content"
       serial: "level-3-assignment-3-subpage-2"
-      url: type-3/poster/subpage2.html
+      url: type-3/poster/your-content.html
       deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
     - title: "Your Process"
       serial: "level-3-assignment-3-subpage-3"
-      url: type-3/poster/subpage3.html
+      url: type-3/poster/your-process.html
       deck: "While this is not a software assignment, your file needs to be built properly in order to go to production. Then there's the creative process, too."
     - title: "Deliverables"
       serial: "level-3-assignment-3-deliverables"
