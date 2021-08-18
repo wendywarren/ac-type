@@ -14,7 +14,7 @@ Show glyphs from both families together to demonstrate how they harmonize.
 	<li><a href="https://fonts.adobe.com/fonts/bell-centennial-std" target="_blank" title="Bell Centennial">Bell Centennial</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/birch" target="_blank" title="Birch">Birch</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/brioso" target="_blank" title="Brioso">Brioso</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/https://fonts.adobe.com/fonts/century-old-style" target="_blank" title="Century Old Style">Century Old Style</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/century-old-style" target="_blank" title="Century Old Style">Century Old Style</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/chaparral" target="_blank" title="Chaparral">Chaparral</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/charlemagne" target="_blank" title="Charlemagne">Charlemagne</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/cooper-black" target="_blank" title="Cooper Black">Cooper Black</a></li>
