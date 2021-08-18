@@ -29,7 +29,7 @@
 		{% endfor %}
 		</ul>
 		</h1>
-	{% elsif page.serial contains "micro" %}
+	{% elsif page.serial contains "micro" or page.serial contains "deliverables" %}
 		<h1>
 		<ul>
 		{% for entry in site.data.assignments %}
@@ -105,10 +105,23 @@
 			{% endfor %}
 			{% endfor %}
 		</ul>
-		<h2>The Brief</h2>
+		<h3>The Brief</h3>
 		{% endif %}
 		{{ content }}
 		{% if page.serial contains 'deliverables' %} 
+		<h3>File Naming</h3>
+		<p>
+			Name your project submission files and folder as follows:
+		</p>
+		<p>
+			Last Name, First Name, Group Number, Assignment Name.indd
+		</p>
+		<p>
+			so,
+		</p>
+		<p class="bold">
+			appleseed-johnny-010-assignment-name.indd
+		</p>
 		<h2>Grading Criteria</h2>
 		<ul class="hasBullets">
 		{% assign allCriteria = site.data.assignments %}
