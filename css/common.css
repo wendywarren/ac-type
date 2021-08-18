@@ -79,11 +79,18 @@ a:focus { outline: 2px solid black; }
 	font-family: "FiraSans-Medium";
 }
 
-em
+em, italic
 {
 	font-weight: normal;
 	font-style: normal;
 	font-family: "FiraSans-Italic", Arial, Helvetica, sans-serif;
+}
+
+bold {
+	font-weight: normal;
+	font-style: normal;
+	font-family: "FiraSans-Medium", Arial, Helvetica, sans-serif;
+
 }
 
 .skip-to-content-link
