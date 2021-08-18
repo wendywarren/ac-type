@@ -351,6 +351,15 @@
     - https://www.creativebloq.com/typography/tips-choosing-typeface-31514399
     - https://www.fontshop.com/content/how-to-mix-type
     - https://www.typography.com/blog/typographic-doubletakes
+  pages:
+    - title: "First Subpage"
+      serial: level-3-micro-1-subpage-1
+      url: type-3/font-pairing/some_filename.html
+      deck: "This is the deck for the Font Pairing micro-assignment in Type 3."
+    - title: "Deliverables"
+      serial: level-3-micro-1-deliverables
+      url: type-3/font-pairing/deliverables.html
+      deck: "This is the deck for the Font Pairing deliverables page."
 
 # [9] The Type Industry # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "The Type Industry"
@@ -373,7 +382,14 @@
     - https://www.crowdspring.com/blog/font-law-licensing/
   # Subpages
   pages:
-    - 
+    - title: "First Subpage"
+      serial: level-3-micro-2-subpage-1
+      url: type-3/the-type-industry/some_filename.html
+      deck: "This is the deck for the The Type Industry micro-assignment in Type 3."
+    - title: "Deliverables"
+      serial: level-3-micro-2-deliverables
+      url: type-3/the-type-industry/deliverables.html
+      deck: "This is the deck for the The Type Industry deliverables page."
 
 # [10] Typographer of the Week # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Typographer of the Week"
@@ -395,33 +411,19 @@
     - https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
   # Subpages
   pages:
-    - 
+    - title: "First Subpage"
+      serial: level-3-micro-3-subpage-1
+      url: type-3/typographer-of-the-week/some_filename.html
+      deck: "This is the deck for the Typographer of the Week micro-assignment in Type 3."
+    - title: "Deliverables"
+      serial: level-3-micro-3-deliverables
+      url: type-3/typographer-of-the-week/deliverables.html
+      deck: "This is the deck for the Typographer of the Week deliverables page."
 
-# [11] "Copy Fitting" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Copy Fitting"
-  serial: level-3-micro-4-home
-  point-value: 5
-  url: type-3/copy-fitting/index.html
-  deck: "We'll take a look at challenging layouts for copy-fitting. You'll learn solutions to resolve any issue."
-  download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
-  pinterest: "https://pin.it/alainparadis"
-  outcomes:
-    - outcome: "Some outcome number 1"
-    - outcome: "Some outcome number 2"
-  criteria:
-    - criterium: "This is the first criteria item."
-    - criterium: "The second criterium comes after the first."
-    - criterium: "Never two without three criterium."
-    - criterium: "Two plus two equals four criteria."
-  resource-links: |
-    - https://learning.oreilly.com/
-  # Subpages
-  pages:
-    - 
 
-# [12] "Type Facts Repo" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# [11] "Type Facts Repo" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type Facts Repo"
-  serial: level-3-micro-5-home
+  serial: level-3-micro-4-home
   point-value: 5
   url: /type-facts-repo/index.html
   deck: "Learn some pretty pro type facts so you can school your designer friends."
@@ -441,11 +443,11 @@
   pages:
     - 
 
-# [13] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #1"
-  serial: "level-4-micro-assignment-1-home"
+  serial: "level-4-micro-1-home"
   point-value: 5
-  url: type-4/type-4-micro_1/index.html
+  url: type-4/type-4-micro-1/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -460,16 +462,21 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - title: "This is a subpage for this assignment"
-      serial: "level-4-micro-assignment-1-subpage-1"
-      url: type-4/type-4-micro_1/subpage1.html
-      deck: "This is the text for the deck for this assignment."
+    - title: "First Subpage Type 4 Micro #1"
+      serial: "level-4-micro-1-subpage-1"
+      url: type-4/type-4-micro-1/subpage1.html
+      deck: "This is the text for the deck for Type 4 Micro #1 Subpage 1."
+    - title: "Deliverables"
+      serial: level-4-micro-1-deliverables
+      url: type-4/type-4-micro-1/deliverables.html
+      deck: "This is the deck for the Typographer of the Week deliverables page."
 
-# [14] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# [13] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #2"
-  serial: "level-4-micro-assignment-2-home"
+  serial: "level-4-micro-2-home"
   point-value: 5
-  url: type-4/type-4-micro_2/index.html
+  url: type-4/type-4-micro-2/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -484,16 +491,20 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - title: "This is a subpage for this assignment"
-      serial: "level-4-micro-assignment-2-subpage-1"
-      url: type-4/type-4-micro_1/subpage1.html
-      deck: "This is the text for the deck for this assignment."
+    - title: "First Subpage Type 4 Micro #2"
+      serial: "level-4-micro-2-subpage-1"
+      url: type-4/type-4-micro-2/subpage1.html
+      deck: "This is the text for the deck for Type 4 Micro 2 Subpage 1."
+    - title: "Deliverables"
+      serial: level-4-micro-2-deliverables
+      url: type-4/type-4-micro-2/deliverables.html
+      deck: "This is the deck for the Type 4 Micro 2 deliverables page."
 
-# [15] Type 4 Micro #3 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# [14] Type 4 Micro #3 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #3"
-  serial: "level-4-micro-assignment-3-home"
+  serial: "level-4-micro-3-home"
   point-value: 5
-  url: type-4/type-4-micro_3/index.html
+  url: type-4/type-4-micro-3/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -508,16 +519,20 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - title: "This is a subpage for this assignment"
-      serial: "level-4-micro-assignment-1-subpage-1"
-      url: type-4/type-4-micro_3/subpage1.html
-      deck: "This is the text for the deck for this assignment."
+    - title: "First Subpage Type 4 Micro #3"
+      serial: "level-4-micro-1-subpage-1"
+      url: type-4/type-4-micro-3/subpage1.html
+      deck: "This is the text for the deck for Type 4 Micro #3 Subpage 1."
+    - title: "Deliverables"
+      serial: level-4-micro-3-deliverables
+      url: type-4/type-4-micro-3/deliverables.html
+      deck: "This is the deck for the Type 4 Micro #3 deliverables page."
 
-# [16] Type 4 Micro #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# [15] Type 4 Micro #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #4"
-  serial: "level-4-micro-assignment-4-home"
+  serial: "level-4-micro-4-home"
   point-value: 5
-  url: type-4/type-4-micro_4/index.html
+  url: type-4/type-4-micro-4/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -532,7 +547,11 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - title: "This is a subpage for this assignment"
-      serial: "level-4-micro-assignment-4-subpage-1"
-      url: type-4/type-4-micro_4/subpage1.html
-      deck: "This is the text for the deck for this assignment."
+    - title: "First Subpage Type 4 Micro #4"
+      serial: "level-4-micro-4-subpage-1"
+      url: type-4/type-4-micro-4/subpage1.html
+      deck: "This is the text for the deck for Type 4 Micro 4 Subpage 1."
+    - title: "Deliverables"
+      serial: level-4-micro-4-deliverables
+      url: type-4/type-4-micro-4/deliverables.html
+      deck: "This is the deck for the Type 4 Micro #4 deliverables page."

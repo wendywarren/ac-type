@@ -1,4 +1,4 @@
 ---
 layout: subpage
-serial: level-4-micro-assignment-2-home
+serial: level-4-micro-2-home
 ---
