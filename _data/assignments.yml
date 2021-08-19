@@ -415,16 +415,11 @@
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
   outcomes:
-    - outcome: "Some outcome number 1"
-    - outcome: "Some outcome number 2"
+    - outcome: "Gain a historical knowledge of the typographers behind the typefaces."
   resource-links: |
     - https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
   # Subpages
   pages:
-    - title: "First Subpage"
-      serial: level-3-micro-3-subpage-1
-      url: type-3/typographer-of-the-week/some_filename.html
-      deck: "This is the deck for the Typographer of the Week micro-assignment in Type 3."
     - title: "Deliverables"
       serial: level-3-micro-3-deliverables
       url: type-3/typographer-of-the-week/deliverables.html
@@ -437,15 +432,14 @@
 
 # [11] "Type Facts Repo" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type Facts Repo"
-  serial: level-3-micro-4-home
+  serial: level-3-repo-4-home
   point-value: 5
   url: /type-facts-repo/index.html
   deck: "Learn some pretty pro type facts so you can school your designer friends."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
   outcomes:
-    - outcome: "Some outcome number 1"
-    - outcome: "Some outcome number 2"
+    - outcome: "Learn some pretty pro type facts so you can school your designer friends."
   criteria:
     - criterium: "This is the first criteria item."
     - criterium: "The second criterium comes after the first."
@@ -455,7 +449,46 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - 
+    - Title: "Anti-Aliasing"
+      serial: level-3-type-facts-repo-subpage-1
+      url: type-facts-repo/anti-aliasing.html
+      deck: 
+    - Title: "Arial Vs. Helvetica"
+      serial: level-3-type-facts-repo-subpage-2
+      url: type-facts-repo/arial-vs-helvetica.html
+      deck: 
+    - Title: "Cupped Serif"
+      serial: level-3-type-facts-repo-subpage-3
+      url: type-facts-repo/cupped-serif.html
+      deck: 
+    - Title: "Font File Types"
+      serial: level-3-type-facts-repo-subpage-4
+      url: type-facts-repo/font-file-types.html
+      deck: 
+    - Title: "Gadzook"
+      serial: level-3-type-facts-repo-subpage-5
+      url: type-facts-repo/gadzook.html
+      deck: 
+    - Title: "Grotesque Fonts"
+      serial: level-3-type-facts-repo-subpage-6
+      url: type-facts-repo/grotesque-font.html
+      deck: 
+    - Title: "Ink Traps"
+      serial: level-3-type-facts-repo-subpage-7
+      url: type-facts-repo/ink-traps.html
+      deck: 
+    - Title: "Overshoot"
+      serial: level-3-type-facts-repo-subpage-8
+      url: type-facts-repo/overshoot.html
+      deck: 
+    - Title: "Same Type, Different Foundry"
+      serial: level-3-type-facts-repo-subpage-9
+      url: type-facts-repo/same-type-different-foundry.html
+      deck: 
+    - Title: "Variable Fonts"
+      serial: level-3-type-facts-repo-subpage-10
+      url: type-facts-repo/variable-fonts.html
+      deck: 
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #1"
