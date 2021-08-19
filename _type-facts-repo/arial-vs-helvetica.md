@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-type-facts-repo-subpage-1
+serial: level-3-type-facts-repo-subpage-2
 ---
 
 Not very many people in our blue and green marble can distinguish Arial from Helvetica. It's really a prized talent. I've pulled a few glyphs from each family to give you a hand.
