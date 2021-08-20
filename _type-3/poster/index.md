@@ -8,7 +8,7 @@ Once we've done our exploration of type classifications, the ball's going to be 
 
 Tell the reason for your choice. No B.S. Make it honest. Take your time. What is it that appealed to you about this family? Don't worry, it doesn't need to be some deep historical thing, though it *can* be.
 
-If it were me, I'd chose Kinesis as a glyphic serif. Take a sec to go check out the lower case g glyph in [Kinesis Italic](https://fonts.adobe.com/fonts/kinesis). Zoom in. Crazy, eh? The p glyph is no slouch either.
+If it were me, I'd chose Kinesis as a glyphic serif. Take a sec to go check out the lower case g glyph in [Kinesis Italic](https://fonts.adobe.com/fonts/kinesis){:target="_blank"}. Zoom in. Crazy, eh? The p glyph is no slouch either.
 
 Do your research. Make your choice, then tell me.
 
@@ -22,6 +22,8 @@ The fewer colours you use, the more focused your design will be. You *could* des
 
 These are pretty simple.
 
-- Dimensions: 24" x 36" plus ⅛" bleed
-- Colour: 2 spot colours
-- Illustrator or InDesign are your tools of choice. *No Photoshop!*
+<ul class="hasBullets">
+	<li>Dimensions: 24" x 36" plus ⅛" bleed</li>
+	<li>Colour: 2 spot colours</li>
+	<li>Illustrator or InDesign are your tools of choice. *No Photoshop!*</li>
+</ul>
