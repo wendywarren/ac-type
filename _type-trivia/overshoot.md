@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-type-trivia-subpage-8
 ---
 The overshoot is what it says it is. It's the part of the letter that overshoots the baseline or the cap line to make the glyph size look *optically* correct.

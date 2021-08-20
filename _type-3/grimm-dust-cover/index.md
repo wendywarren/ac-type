@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-assignment-1-home
 ---
 We'll design a book cover layout using an ad hoc page layout grid. This is really fun because it's a blend of spontaneity and structure. Ad hoc, or *informal* grids are created as you sketch your pages. Elements simply align with each other on the page.

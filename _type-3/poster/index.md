@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-assignment-3-home
 ---
 Once we've done our exploration of type classifications, the ball's going to be in your court. Pour through type families that are representative of a given era or classification.

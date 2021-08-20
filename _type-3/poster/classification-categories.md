@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-assignment-3-subpage-1
 ---
 ### Classification Categories

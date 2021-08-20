@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-type-trivia-subpage-2
 ---
 I've pulled a few glyphs from each family to give you a hand.

@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-assignment-3-subpage-2
 ---
 You will include the following on your poster. These are minimum requirements. You can include more if you come across it during your research.

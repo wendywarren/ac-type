@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 title: "ScratchPad"
 deck: Web site notes and Todo's.
 ---

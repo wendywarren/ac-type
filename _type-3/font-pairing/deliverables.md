@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-micro-1-subpage-deliverables
 ---
 ### Package It Up!

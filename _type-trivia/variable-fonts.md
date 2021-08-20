@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-type-trivia-subpage-10
 ---
 ### What Are They?

@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-type-trivia-subpage-3
 ---
 Cupped serifs are simply curved rather than flat.

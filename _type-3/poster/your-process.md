@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-assignment-3-subpage-3
 ---
 ### Creative Process

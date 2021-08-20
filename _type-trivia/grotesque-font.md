@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-type-trivia-subpage-6
 ---
 You can use Grotesque as a synonym for sans-serif. The term is also used as a sub-category of sans-serif families.

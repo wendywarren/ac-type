@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-micro-1-subpage-1
 ---
 Build a letter-sized layout with a type treatment which includes the two families. Use limited colour.

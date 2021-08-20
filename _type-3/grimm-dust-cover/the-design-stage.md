@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-assignment-1-subpage-the-design-stage
 ---
 ### Style Board

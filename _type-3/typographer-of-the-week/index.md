@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-micro-3-home
 ---
 Each of you will be given the name of a modern-day typographer. You'll research them to create a profile including:

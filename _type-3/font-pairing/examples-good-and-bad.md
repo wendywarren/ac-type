@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 serial: level-3-micro-1-subpage-2
 ---
 ### A Good Match
