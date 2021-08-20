@@ -45,13 +45,6 @@ nav { grid-area: nav; }
 .footer2 { grid-area: footer2; }
 .footer3 { grid-area: footer3; }
 .footer4 { grid-area: footer4; }
-/* 
-.nav, .site-id, .assignment1, .assignment2, .assignment3, .assignment4, item1, item2, item3, item4, #content, footer1, footer2, footer3, footer4 {
-  grid-column-start: 1;
-  grid-column-end: -1;
-  }
- */
-
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 480px – 608px * * * * * * * * * */
