@@ -41,7 +41,7 @@
       url: type-3/grimm-dust-cover/build-your-design.html
       deck: "As if we were cooks in a kitchen, we’ll combine all the ingredients to date to create a delicious typographic dish."
     - title: "Deliverables"
-      serial: "level-3-assignment-1-deliverables"
+      serial: "level-3-assignment-1-subpage-deliverables"
       url: type-3/grimm-dust-cover/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
@@ -93,7 +93,7 @@
       url: type-3/grimms-pages/subpage5.html
       deck: "This is the deck content for this page."
     - title: "Deliverables"
-      serial: "level-3-assignment-2-deliverables"
+      serial: "level-3-assignment-2-subpage-deliverables"
       url: type-3/grimms-pages/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
@@ -136,7 +136,7 @@
       url: type-3/poster/your-process.html
       deck: "While this is not a software assignment, your file needs to be built properly in order to go to production. Then there's the creative process, too."
     - title: "Deliverables"
-      serial: "level-3-assignment-3-deliverables"
+      serial: "level-3-assignment-3-subpage-deliverables"
       url: type-3/poster/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
@@ -189,7 +189,7 @@
       url: type-3/newsletter/subpage5.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Deliverables"
-      serial: "level-3-assignment-4-deliverables"
+      serial: "level-3-assignment-4-subpage-deliverables"
       url: type-3/newsletter/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
@@ -223,7 +223,7 @@
       url: type-4/signage/subpage3.html
       deck: "This is the text for the deck for the Signage assignment."
     - title: "Deliverables"
-      serial: "level-4-assignment-1-deliverables"
+      serial: "level-4-assignment-1-subpage-deliverables"
       url: type-4/signage/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
@@ -257,7 +257,7 @@
       url: type-4/some_assignment/subpage3.html
       deck: "This is the deck for some assignment in Type 4."
     - title: "Deliverables"
-      serial: "level-4-assignment-2-deliverables"
+      serial: "level-4-assignment-2-subpage-deliverables"
       url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
@@ -291,7 +291,7 @@
       url: type-4/some_assignment/subpage3.html
       deck: "This is the text for the deck for this page."
     - title: "Deliverables"
-      serial: "level-4-assignment-3-deliverables"
+      serial: "level-4-assignment-3-subpage-deliverables"
       url: type-4/some_assignment/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
@@ -329,7 +329,7 @@
       url: type-4/magazine/subpage3.html
       deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Deliverables"
-      serial: "level-4-assignment-4-deliverables"
+      serial: "level-4-assignment-4-subpage-deliverables"
       url: type-4/magazine/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
@@ -364,7 +364,7 @@
       url: type-3/font-pairing/examples-good-and-bad.html
       deck: "Let's look at some type families to see how they pair up, or don't."
     - title: "Deliverables"
-      serial: level-3-micro-1-deliverables
+      serial: level-3-micro-1-subpage-deliverables
       url: type-3/font-pairing/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
@@ -396,7 +396,7 @@
       url: type-3/the-type-industry/some_filename.html
       deck: "This is the deck for the The Type Industry micro-assignment in Type 3."
     - title: "Deliverables"
-      serial: level-3-micro-2-deliverables
+      serial: level-3-micro-2-subpage-deliverables
       url: type-3/the-type-industry/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
@@ -420,21 +420,12 @@
     - https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
   # Subpages
   pages:
-    - title: "Deliverables"
-      serial: level-3-micro-3-deliverables
-      url: type-3/typographer-of-the-week/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
-      criteria:
-        - criterium: "This is the first criteria item."
-        - criterium: "The second criterium comes after the first."
-        - criterium: "Never two without three criterium."
-        - criterium: "Two plus two equals four criteria."
 
-# [11] "Type Facts Repo" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Type Facts Repo"
-  serial: level-3-repo-4-home
+# [11] "Type Trivia" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Type Trivia"
+  serial: level-3-type-trivia-home
   point-value: 5
-  url: /type-facts-repo/index.html
+  url: /type-trivia/index.html
   deck: "Learn some pretty pro type facts so you can school your designer friends."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -449,45 +440,45 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - Title: "Anti-Aliasing"
-      serial: level-3-type-facts-repo-subpage-1
-      url: type-facts-repo/anti-aliasing.html
+    - title: "Anti-Aliasing"
+      serial: level-3-type-trivia-subpage-1
+      url: type-trivia/anti-aliasing.html
+      deck: "Anti-aliasing is the lighter pixels you see on edges of shapes when you zoom into a raster image."
+    - title: "Arial Vs. Helvetica"
+      serial: level-3-type-trivia-subpage-2
+      url: type-trivia/arial-vs-helvetica.html
+      deck: "Not very many people in our blue and green marble can distinguish Arial from Helvetica. It's really a prized talent."
+    - title: "Cupped Serif"
+      serial: level-3-type-trivia-subpage-3
+      url: type-trivia/cupped-serif.html
       deck: 
-    - Title: "Arial Vs. Helvetica"
-      serial: level-3-type-facts-repo-subpage-2
-      url: type-facts-repo/arial-vs-helvetica.html
+    - title: "Font File Types"
+      serial: level-3-type-trivia-subpage-4
+      url: type-trivia/font-file-types.html
       deck: 
-    - Title: "Cupped Serif"
-      serial: level-3-type-facts-repo-subpage-3
-      url: type-facts-repo/cupped-serif.html
+    - title: "Gadzook"
+      serial: level-3-type-trivia-subpage-5
+      url: type-trivia/gadzook.html
       deck: 
-    - Title: "Font File Types"
-      serial: level-3-type-facts-repo-subpage-4
-      url: type-facts-repo/font-file-types.html
+    - title: "Grotesque Fonts"
+      serial: level-3-type-trivia-subpage-6
+      url: type-trivia/grotesque-font.html
       deck: 
-    - Title: "Gadzook"
-      serial: level-3-type-facts-repo-subpage-5
-      url: type-facts-repo/gadzook.html
+    - title: "Ink Traps"
+      serial: level-3-type-trivia-subpage-7
+      url: type-trivia/ink-traps.html
       deck: 
-    - Title: "Grotesque Fonts"
-      serial: level-3-type-facts-repo-subpage-6
-      url: type-facts-repo/grotesque-font.html
+    - title: "Overshoot"
+      serial: level-3-type-trivia-subpage-8
+      url: type-trivia/overshoot.html
       deck: 
-    - Title: "Ink Traps"
-      serial: level-3-type-facts-repo-subpage-7
-      url: type-facts-repo/ink-traps.html
+    - title: "Same Type, Different Foundry"
+      serial: level-3-type-trivia-subpage-9
+      url: type-trivia/same-type-different-foundry.html
       deck: 
-    - Title: "Overshoot"
-      serial: level-3-type-facts-repo-subpage-8
-      url: type-facts-repo/overshoot.html
-      deck: 
-    - Title: "Same Type, Different Foundry"
-      serial: level-3-type-facts-repo-subpage-9
-      url: type-facts-repo/same-type-different-foundry.html
-      deck: 
-    - Title: "Variable Fonts"
-      serial: level-3-type-facts-repo-subpage-10
-      url: type-facts-repo/variable-fonts.html
+    - title: "Variable Fonts"
+      serial: level-3-type-trivia-subpage-10
+      url: type-trivia/variable-fonts.html
       deck: 
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -509,7 +500,7 @@
       url: type-4/type-4-micro-1/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro #1 Subpage 1."
     - title: "Deliverables"
-      serial: level-4-micro-1-deliverables
+      serial: level-4-micro-1-subpage-deliverables
       url: type-4/type-4-micro-1/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
@@ -537,7 +528,7 @@
       url: type-4/type-4-micro-2/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro 2 Subpage 1."
     - title: "Deliverables"
-      serial: level-4-micro-2-deliverables
+      serial: level-4-micro-2-subpage-deliverables
       url: type-4/type-4-micro-2/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
@@ -565,7 +556,7 @@
       url: type-4/type-4-micro-3/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro #3 Subpage 1."
     - title: "Deliverables"
-      serial: level-4-micro-3-deliverables
+      serial: level-4-micro-3-subpage-deliverables
       url: type-4/type-4-micro-3/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
@@ -593,7 +584,7 @@
       url: type-4/type-4-micro-4/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro 4 Subpage 1."
     - title: "Deliverables"
-      serial: level-4-micro-4-deliverables
+      serial: level-4-micro-4-subpage-deliverables
       url: type-4/type-4-micro-4/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
