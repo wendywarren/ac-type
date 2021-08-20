@@ -113,6 +113,9 @@ ul.inline-list li a
 
 ul.inline-list li { display: inline; }
 
+.columns3 { columns: 3 12rem; margin-top: 1rem; }
+
+
 .skip-to-content-link
 {
 	position: absolute;

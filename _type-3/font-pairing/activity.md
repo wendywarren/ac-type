@@ -6,7 +6,7 @@ Build a letter-sized layout with a type treatment which includes the two familie
 
 Show glyphs from both families together to demonstrate how they harmonize.
 
-<ul class="hasBullets">
+<ul class="hasBullets columns3">
 	<li><a href="https://fonts.adobe.com/fonts/acumin" target="_blank" title="Acumin">Acumin</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/arno" target="_blank" title="Arno">Arno</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/itc-avant-garde-gothic" target="_blank" title="Avant Garde">Avant Garde</a></li>
