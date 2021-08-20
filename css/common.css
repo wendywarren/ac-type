@@ -1,4 +1,4 @@
-  :root
+:root
 {
 	/* Colours */
 	--orange100: rgb(242, 101, 34);
@@ -92,6 +92,26 @@ bold
 	font-style: normal;
 	font-family: "FiraSans-Medium", Arial, Helvetica, sans-serif;
 }
+
+ul.inline-list { margin-top: 1rem; }
+
+ul.inline-list li
+{
+	display: inline;
+	list-style: none;
+}
+
+ul.inline-list li a
+{
+	padding-right: 1rem;
+	padding-left: .5rem;
+	border-right: 1px solid var(--mediumgrey);
+	text-decoration-color: var(--blue50);
+	text-decoration-thickness: 2px;
+	text-underline-offset: 1.5px;
+}
+
+ul.inline-list li { display: inline; }
 
 .skip-to-content-link
 {
@@ -386,13 +406,11 @@ nav span { padding-right: 2rem; }
 }
 
 /* Rubric Layout */
-ul.criteria
+#content ul.criteria
 {
 	margin: 0;
 	padding: 0;
 }
-
-li.criterium::before { content: " "; }
 
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 480px – 608px * * * * * * * * * */
@@ -432,9 +450,9 @@ li.criterium::before { content: " "; }
 	.site-id { font-size: 7rem; }
 	
 	.course-info1 h3,
-										.course-info2 h3,
-										.assignment h3,
-										.item h4
+				.course-info2 h3,
+				.assignment h3,
+				.item h4
 	{
 		border-bottom: 2px solid var(--lightgrey);
 		padding-bottom: 1rem;
