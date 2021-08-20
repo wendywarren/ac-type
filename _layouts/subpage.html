@@ -29,29 +29,20 @@
 		{% endfor %}
 		</ul>
 		</h1>
-	{% elsif page.serial contains "micro" or page.serial contains "deliverables" or page.serial contains "subpage" %}
+	{% endif %}
+	{% if page.serial contains "subpage" %}
 		<h1>
 		<ul>
-		{% for entry in site.data.assignments %}
-			{% for headings in entry.pages %}
+		{% for allHeadings in site.data.assignments %}
+			{% for headings in allHeadings.pages %}
 				{% if page.serial == headings.serial %} 
 					<li>{{ headings.title }}</li>
 				{% endif %}
 			{% endfor %}
-		{% endfor %}
+	{% endfor %}
 		</ul>
 		</h1>
 		{% endif %}
-		<h1>
-		<ul>
-		{% assign allTitles = site.data.type-facts-repo %}
-			{% for entry in allTitles %}
-				{% if page.serial == entry.serial %} 
-					<li>{{ entry.title }}</li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		</h1>
 		<div class="deck">
 		{% if page.serial contains "home" %}
 		<ul>
