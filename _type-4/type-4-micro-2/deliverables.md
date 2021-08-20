@@ -1,4 +1,4 @@
 ---
 layout: subpage
-serial: level-4-micro-2-deliverables
+serial: level-4-micro-2-subpage-deliverables
 ---

@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-assignment-1-deliverables
+serial: level-3-assignment-1-subpage-deliverables
 ---
 ### Prepare Print-Ready Files
 

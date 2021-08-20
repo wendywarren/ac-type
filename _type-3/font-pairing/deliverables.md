@@ -1,6 +1,6 @@
 ---
 layout: subpage
-serial: level-3-micro-1-deliverables
+serial: level-3-micro-1-subpage-deliverables
 ---
 ### Package It Up!
 

@@ -1,4 +1,4 @@
 ---
 layout: subpage
-serial: level-4-assignment-2-deliverables
+serial: level-4-assignment-2-subpage-deliverables
 ---
