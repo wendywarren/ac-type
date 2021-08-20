@@ -1,7 +1,7 @@
 # [0] Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm Dust Cover"
   serial: "level-3-assignment-1-home"
-  point-value: 20
+  point-value: 15
   url: type-3/grimm-dust-cover/index.html
   deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout. You'll work with limited type and colours to create a very graphic design."
   download: "https://www.dropbox.com/s/qtwu2cdf2xyd58y/type-3-grimm-dust-cover.zip?dl=1"
@@ -201,6 +201,7 @@
 - title: "Signage"
   serial: "level-4-assignment-1-home"
   url: type-4/signage/index.html
+  point-value: 20
   deck: "This is the deck for the Signage assignment in Type 4."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://www.pinterest.ca/alainparadis/"
@@ -309,9 +310,6 @@
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
     - outcome: "Outcomes_placeholder."
-    - outcome: "Outcomes_placeholder."
-    - outcome: "Outcomes_placeholder."
-    - outcome: "Outcomes_placeholder."
   resource-links: |
     - 
   # Subpages
@@ -340,6 +338,7 @@
 # [8] Font Pairing # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Font Pairing"
   url: type-3/font-pairing/index.html
+  point-value: 5
   serial: level-3-micro-1-home
   deck: "What makes a pair of type families harmonious versus another that simply clash? Are there any clues to get us started in making compatible matches? We'll delve deep into the witchcraft of type pairs."
   outcomes:
@@ -409,7 +408,7 @@
 # [10] Typographer of the Week # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Typographer of the Week"
   serial: level-3-micro-3-home
-  point-value: 20
+  point-value: 5
   url: type-3/typographer-of-the-week/index.html
   deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
@@ -420,6 +419,10 @@
     - https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
   # Subpages
   pages:
+    - title: "Deliverables"
+      serial: level-3-micro-3-subpage-deliverables
+      url: type-3/typographer-of-the-week/deliverables.html
+      deck: "Gather all your stuff. It's time to send your assignment home."
 
 # [11] "Type Trivia" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type Trivia"
