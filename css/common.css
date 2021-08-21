@@ -176,6 +176,12 @@ a:visited.site-id
 	border-bottom: 0;
 }
 
+.site-id sup
+{
+	line-height: 0;
+	font-family: "FiraSans-MediumItalic";
+}
+
 a:hover.site-id { color: var(--blue); }
 
 /* * * * * * Heading Formatting * * * * * */
@@ -287,9 +293,18 @@ ul > ul
 	padding-bottom: 0;
 }
 
-.course-info2 h3 a
+h3, .course-info1 div, .course-info2 div
 {
-	margin-right: 2rem;
+	display: none;
+	visibility: hidden;
+}
+
+h3.home-icon
+{
+	display: block;
+	visibility: visible;
+	text-align: right;
+	margin-right: .5rem;
 }
 
 .course-info1, .course-info2
@@ -297,6 +312,17 @@ ul > ul
 	font-size: .875rem;
 	line-height: 160%;
 }
+
+.course-info1 h3, .course-info2 h3, .assignment h3, .item h4
+{
+	border-bottom: 2px solid var(--lightgrey);
+	padding-bottom: 1rem;
+	margin-bottom: 0.875rem;
+	line-height: 1.3rem;
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+}
+
 
 .item { font-size: 0.875rem; }
 
@@ -432,6 +458,11 @@ nav span { padding-right: 2rem; }
 		padding-top: 1rem;
 		margin-top: 2rem;
 	}
+	h3, .course-info1 div, .course-info2 div
+{
+	display: block;
+	visibility: visible;
+}
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
@@ -449,6 +480,7 @@ nav span { padding-right: 2rem; }
 	}
 	
 	.item p { display: block; }
+	
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
@@ -457,20 +489,7 @@ nav span { padding-right: 2rem; }
 {
 	html { font-size: 110%; }
 	.site-id { font-size: 7rem; }
-	
-	.course-info1 h3,
-									.course-info2 h3,
-									.assignment h3,
-									.item h4
-	{
-		border-bottom: 2px solid var(--lightgrey);
-		padding-bottom: 1rem;
-		margin-bottom: 0.875rem;
-		line-height: 1.3rem;
-		font-weight: normal;
-		font-family: "FiraSans-Medium";
-	}
-	
+		
 	#content { padding-right: 1rem; }
 	
 	.item h4
