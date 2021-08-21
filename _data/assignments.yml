@@ -73,24 +73,24 @@
   # Subpages
   pages:
     - title: "Designing Our Grid"
-      serial: "level-3-assignment-2-subpage-1"
-      url: type-3/grimms-pages/subpage1.html
+      serial: "level-3-assignment-2-subpage-designing-our-grid"
+      url: type-3/grimms-pages/designing-our-grid.html
       deck: "There are many formula for creating the single-column grid. Most of them are trash, myths. There are others which are actually useful. The first is the Van de Graaf Canon. Let's dive in!"
     - title: "Type Selection"
-      serial: "level-3-assignment-2-subpage-2"
-      url: type-3/grimms-pages/subpage2.html
+      serial: "level-3-assignment-2-subpage-type-selection"
+      url: type-3/grimms-pages/type-selection.html
       deck: "This is the deck content for this page."
     - title: "Setting Justified Type"
-      serial: "level-3-assignment-2-subpage-3"
-      url: type-3/grimms-pages/subpage3.html
+      serial: "level-3-assignment-2-subpage-setting-justified-type"
+      url: type-3/grimms-pages/setting-justified-type.html
       deck: "This is the deck content for this page."
     - title: "Stylistic Elements"
-      serial: "level-3-assignment-2-subpage-4"
-      url: type-3/grimms-pages/subpage4.html
+      serial: "level-3-assignment-2-subpage-stylistic-elements"
+      url: type-3/grimms-pages/stylistic-elements.html
       deck: "Fiction novels can have beautiful typographic treatments that can include ornamental glyphs, rules and more. That's what well design here."
     - title: "Putting It All Together"
-      serial: "level-3-assignment-2-subpage-5"
-      url: type-3/grimms-pages/subpage5.html
+      serial: "level-3-assignment-2-subpage-putting-it-all-together"
+      url: type-3/grimms-pages/putting-it-all-together.html
       deck: "This is the deck content for this page."
     - title: "Deliverables"
       serial: "level-3-assignment-2-subpage-deliverables"
