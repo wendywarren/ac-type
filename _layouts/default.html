@@ -13,7 +13,7 @@
 	</div>
 	<div class="course-info1">{% include course-info1.html %}</div>
 	<div class="course-info2">{% include course-info2.html %}</div>
-	<div id="content">
+	<div id="content" role="main">
 	<h1>
 	<ul>
 	{% for headings in site.data.assignments %}
@@ -135,6 +135,5 @@ fill:rgb(41, 151, 255, 1);
 	</div>
 	{% include assignment-nav.html %}
 	{% include footer.html %}
-	</div>
 </body>
 </html>
