@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-assignment-3-subpage-1
+serial: level-3-assignment-3-subpage-classification-categories
 ---
 ### Classification Categories
 

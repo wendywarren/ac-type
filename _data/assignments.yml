@@ -124,15 +124,15 @@
   # Subpages
   pages:
     - title: "Classification Categories"
-      serial: "level-3-assignment-3-subpage-1"
+      serial: "level-3-assignment-3-subpage-classification-categories"
       url: type-3/poster/classification-categories.html
       deck: "This is the deck for the Poster assignment in Type 4"
     - title: "Your Content"
-      serial: "level-3-assignment-3-subpage-2"
+      serial: "level-3-assignment-3-subpage-your-content"
       url: type-3/poster/your-content.html
       deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
     - title: "Your Process"
-      serial: "level-3-assignment-3-subpage-3"
+      serial: "level-3-assignment-3-subpage-your-process"
       url: type-3/poster/your-process.html
       deck: "While this is not a software assignment, your file needs to be built properly in order to go to production. Then there's the creative process, too."
     - title: "Deliverables"
@@ -169,24 +169,24 @@
   # Subpages
   pages:
     - title: "Gridify Our Page"
-      serial: "level-3-assignment-4-subpage-1"
-      url: type-3/newsletter/subpage1.html
+      serial: "level-3-assignment-4-subpage-gridify-our-page"
+      url: type-3/newsletter/gridify-our-page.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Type Selection"
-      serial: "level-3-assignment-4-subpage-2"
-      url: type-3/newsletter/subpage2.html
+      serial: "level-3-assignment-4-subpage-type-selection"
+      url: type-3/newsletter/type-selection.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Type Hierarchy"
-      serial: "level-3-assignment-4-subpage-3"
-      url: type-3/newsletter/subpage3.html
+      serial: "level-3-assignment-4-subpage-type-hierarchy"
+      url: type-3/newsletter/type-hierarchy.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Page Element Design"
-      serial: "level-3-assignment-4-subpage-4"
-      url: type-3/newsletter/subpage4.html
+      serial: "level-3-assignment-4-subpage-page-element-design"
+      url: type-3/newsletter/page-element-design.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Assembly Work"
-      serial: "level-3-assignment-4-subpage-5"
-      url: type-3/newsletter/subpage5.html
+      serial: "level-3-assignment-4-subpage-assembly-work"
+      url: type-3/newsletter/assembly-work.html
       deck: "This is the text for the deck for the Newsletter assignment."
     - title: "Deliverables"
       serial: "level-3-assignment-4-subpage-deliverables"
@@ -444,59 +444,57 @@
   # Subpages
   pages:
     - title: "Anti-Aliasing"
-      serial: level-3-type-trivia-subpage-1
+      serial: level-3-type-trivia-subpage-anti-aliasing
       url: type-trivia/anti-aliasing.html
       deck: "Anti-aliasing is the lighter pixels you see on edges of shapes when you zoom into a raster image."
+    - title: "Font File Types"
+      serial: level-3-type-trivia-subpage-font-file-types
+      url: type-trivia/font-file-types.html
+      deck: Even if cloud type services are hiding font file types from our every-day work, it's still important to be familiar with them.
     - title: "Arial Vs. Helvetica"
-      serial: level-3-type-trivia-subpage-2
+      serial: level-3-type-trivia-subpage-arial-vs-helvetica
       url: type-trivia/arial-vs-helvetica.html
       deck: "Not very many people in our blue and green marble can distinguish Arial from Helvetica. It's really a prized talent."
     - title: "Cupped Serif"
-      serial: level-3-type-trivia-subpage-3
+      serial: level-3-type-trivia-subpage-cupped-serif
       url: type-trivia/cupped-serif.html
-      deck: 
-    - title: "Font File Types"
-      serial: level-3-type-trivia-subpage-4
-      url: type-trivia/font-file-types.html
-      deck: 
+      deck: "Cupped serifs are simply curved rather than flat."
     - title: "Gadzook"
-      serial: level-3-type-trivia-subpage-5
+      serial: level-3-type-trivia-subpage-gadzook
       url: type-trivia/gadzook.html
-      deck: 
-    - title: "Grotesque Fonts"
-      serial: level-3-type-trivia-subpage-6
-      url: type-trivia/grotesque-font.html
-      deck: 
-    - title: "Ink Traps"
-      serial: level-3-type-trivia-subpage-7
-      url: type-trivia/ink-traps.html
-      deck: 
+      deck: "A gadzook is a ligature between two glyphs that wouldn't usually have one."
     - title: "Overshoot"
-      serial: level-3-type-trivia-subpage-8
+      serial: level-3-type-trivia-subpage-overshoot
       url: type-trivia/overshoot.html
-      deck: 
+      deck: "Overshoots are optical size adjustments to make glyphs appear the correct size."
     - title: "Same Type, Different Foundry"
-      serial: level-3-type-trivia-subpage-9
+      serial: level-3-type-trivia-subpage-same-type-different-foundry
       url: type-trivia/same-type-different-foundry.html
-      deck: 
+      deck: "Subtle nuances between the same typeface from different foundries can make all the difference."
+    - title: "Ink Traps"
+      serial: level-3-type-trivia-subpage-ink-traps
+      url: type-trivia/ink-traps.html
+      deck: "Ink traps solve a problem only encountered when setting type at small, dense sizes."
     - title: "Variable Fonts"
-      serial: level-3-type-trivia-subpage-10
+      serial: level-3-type-trivia-subpage-variable-fonts
       url: type-trivia/variable-fonts.html
-      deck: 
+      deck: "Variable fonts are a new technology that offers greater design flexibility within a single font file."
     - title: "The Ampersand"
-      serial: level-3-type-trivia-subpage-11
+      serial: level-3-type-trivia-subpage-ampersand
       url: type-trivia/ampersand.html
-      deck: 
+      deck: "The venerated and elegant ampersand has a really fun history involving primary school children."
     - title: "Arabic Numerals"
-      serial: level-3-type-trivia-subpage-12
+      serial: level-3-type-trivia-subpage-arabic-numerals
       url: type-trivia/arabic-numerals.html
-      deck: 
+      deck: "The digits we use every day in the western world are actually called arabic numerals. Who knew?"
+    - title: "Grotesque Fonts"
+      serial: level-3-type-trivia-subpage-grotesque-fonts
+      url: type-trivia/grotesque-fonts.html
+      deck: "Grotesque is one of those terms which can mean different things in different contexts."
     - title: "The @ Symbol"
-      serial: level-3-type-trivia-subpage-13
+      serial: level-3-type-trivia-subpage-at-symbol
       url: type-trivia/at-symbol.html
       deck: The symbol's history is a bit cloudy. This is what we know.
-
-
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #1"

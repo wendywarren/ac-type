@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-assignment-3-subpage-2
+serial: level-3-assignment-3-subpage-your-content
 ---
 You will include the following on your poster. These are minimum requirements. You can include more if you come across it during your research.
 

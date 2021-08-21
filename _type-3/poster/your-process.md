@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-assignment-3-subpage-3
+serial: level-3-assignment-3-subpage-your-process
 ---
 ### Creative Process
 
