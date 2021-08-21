@@ -178,15 +178,6 @@ a:visited.site-id
 
 a:hover.site-id { color: var(--blue); }
 
-/* * * * * * Course Nav * * * * * */
-nav { text-align: right; }
-
-nav span
-{
-	font-weight: normal;
-	font-family: "FiraSans-MediumItalic";
-}
-
 /* * * * * * Heading Formatting * * * * * */
 h1,
 h2,
@@ -401,6 +392,7 @@ img
 .darkgrey { fill: var(--darkgrey); }
 .mediumgrey { fill: var(--mediumgrey); }
 .lightgrey { fill: var(--lightgrey); }
+a.hover-blue:hover { color: var(—blue); }
 
 /* END SVG Styles */
 nav span { padding-right: 2rem; }
