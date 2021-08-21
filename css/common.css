@@ -113,8 +113,12 @@ ul.inline-list li a
 
 ul.inline-list li { display: inline; }
 
-.columns3 { columns: 3 12rem; margin-top: 1rem; }
-
+.columns3
+{
+	columns: 3 12rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
 
 .skip-to-content-link
 {
@@ -453,9 +457,9 @@ nav span { padding-right: 2rem; }
 	.site-id { font-size: 7rem; }
 	
 	.course-info1 h3,
-				.course-info2 h3,
-				.assignment h3,
-				.item h4
+					.course-info2 h3,
+					.assignment h3,
+					.item h4
 	{
 		border-bottom: 2px solid var(--lightgrey);
 		padding-bottom: 1rem;
