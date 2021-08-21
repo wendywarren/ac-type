@@ -483,6 +483,20 @@
       serial: level-3-type-trivia-subpage-10
       url: type-trivia/variable-fonts.html
       deck: 
+    - title: "The Ampersand"
+      serial: level-3-type-trivia-subpage-11
+      url: type-trivia/ampersand.html
+      deck: 
+    - title: "Arabic Numerals"
+      serial: level-3-type-trivia-subpage-12
+      url: type-trivia/arabic-numerals.html
+      deck: 
+    - title: "The @ Symbol"
+      serial: level-3-type-trivia-subpage-13
+      url: type-trivia/at-symbol.html
+      deck: The symbol's history is a bit cloudy. This is what we know.
+
+
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #1"
