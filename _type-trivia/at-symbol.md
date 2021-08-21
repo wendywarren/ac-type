@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-type-trivia-subpage-13
+serial: level-3-type-trivia-subpage-at-symbol
 ---
 ![The at symbol]({{site.url}}/svg/type-trivia/at-symbol.svg "The at symbol"){:width="120px"}
 

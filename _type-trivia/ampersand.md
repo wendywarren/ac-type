@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-type-trivia-subpage-11
+serial: level-3-type-trivia-subpage-ampersand
 ---
 ![The Ampersand]({{site.url}}/svg/type-trivia/ampersand.svg "The Ampersand"){:width="500px"}
 

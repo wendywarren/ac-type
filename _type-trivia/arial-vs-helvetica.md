@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-type-trivia-subpage-2
+serial: level-3-type-trivia-subpage-arial-vs-helvetica
 ---
 I've pulled a few glyphs from each family to give you a hand.
 

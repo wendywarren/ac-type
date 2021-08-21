@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-type-trivia-subpage-5
+serial: level-3-type-trivia-subpage-gadzook
 ---
 
 ![gadzook]({{site.url}}/svg/type-trivia/gadzook.svg "Gadzook"){:width="500px"}

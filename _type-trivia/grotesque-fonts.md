@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-type-trivia-subpage-6
+serial: level-3-type-trivia-subpage-grotesque-fonts
 ---
 You can use Grotesque as a synonym for sans-serif. The term is also used as a sub-category of sans-serif families.
 

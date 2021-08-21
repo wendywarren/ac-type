@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-type-trivia-subpage-12
+serial: level-3-type-trivia-subpage-arabic-numerals
 ---
 The numbers we use every day are called arabic numerals because they originated in Arab North Africa. It was Italian scholar Leonardo Fibonacci who popularized them in Europe.
 
