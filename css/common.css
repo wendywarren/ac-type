@@ -166,6 +166,7 @@ blockquote ~ a { color: var(--mediumgrey); }
 	font-weight: normal;
 	font-family: "FiraSans-UltraItalic";
 	font-size: 6rem;
+	align-self: start;
 }
 
 a.site-id,
