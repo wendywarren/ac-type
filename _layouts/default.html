@@ -98,6 +98,9 @@
 		</ul>
 		<h3>The Brief</h3>
 		{% endif %}
+		{% if page.serial contains 'trivia' %} 
+			{% include type-trivia.html %}
+		{% endif %}		
 		{{ content }}
 		{% if page.serial contains 'deliverables' %} 
 		<h3>File Naming & Packaging</h3>
