@@ -57,6 +57,14 @@ body
 	margin: 0 auto;
 }
 
+body { border: 3px solid var(--orange100); }
+
+.nav-page-list
+{
+	visibility: hidden;
+	display: none;
+}
+
 a, a:link
 {
 	color: black;
@@ -425,8 +433,10 @@ nav span { padding-right: 2rem; }
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 480px – 608px * * * * * * * * * */
 
-@media only screen and (min-width: 30em)
+@media only screen and (min-width: 34rem)
 {
+	body { border: 3px solid var(--blue); }
+	
 	.footer2
 	{
 		border-top: 6px solid var(--lightgrey);
@@ -453,8 +463,15 @@ nav span { padding-right: 2rem; }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
 
-@media only screen and (min-width: 42em)
+@media only screen and (min-width: 50rem)
 {
+	body { border: 3px solid limegreen; }
+	.nav-page-list
+	{
+		visibility: visible;
+		display: block;
+	}
+
 	body { padding-top: 0.5rem; }
 	.site-id1 { font-size: 6rem; }
 	
@@ -472,6 +489,7 @@ nav span { padding-right: 2rem; }
 
 @media only screen and (min-width: 60em)
 {
+	body { border: 3px solid darkgrey; }
 	html { font-size: 110%; }
 	.site-id { font-size: 7rem; }
 	#content { padding-right: 1rem; }
@@ -485,12 +503,11 @@ nav span { padding-right: 2rem; }
 		font-weight: normal;
 		font-family: "FiraSans-Medium";
 	}
-	
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
 
 @media only screen and (min-width: 90em)
 {
-	
+	body { border: 3px solid red; }
 }

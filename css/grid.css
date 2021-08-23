@@ -47,7 +47,7 @@ body {
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 480px – 608px * * * * * * * * * */
 
-@media only screen and (min-width: 30em)
+@media only screen and (min-width: 34rem)
 {
 #grid  {
 	grid-template-columns: 1fr 1fr;
@@ -72,21 +72,37 @@ body {
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
 
-@media only screen and (min-width: 38em) {
+@media only screen and (min-width: 50rem) {
 
-	#grid {
-		grid-template-columns: 1fr 1fr 1fr;
+	#grid
+	{
+		grid-template-columns: 1fr 1fr 1fr 1fr;
 		grid-auto-rows: min-content;
 		grid-template-areas:
-		"site-id     course-info1 course-info2"
-		"assignment1 assignment2 assignment3"
-		"assignment4 .           . "
-		"item1 item2 item3"
-		"item4 . ."
-		"content . ."
-		"footer1 footer2 footer3"
-		"footer4 . .";
+		"site-id . course-info1 course-info2"
+		"content .  .           assignment1"
+		". .        .           assignment2"
+		". .        .           assignment3"
+		". .        .           assignment4"
+		". .        .           item1"
+		". .        .           item2"
+		". .        .           item3"
+		". .        .           item4"
+		". .        . . "
+		". .        . . "
+		". .        . . "
+		". .        . . "
+		". .        . . "
+		". .        . . "
+		". .        . . "
+		". .        . . "
+		". .        . . "		
+		"footer1 footer2 footer3 footer4";
 	}
+	.site-id {	grid-area: 1 / 1 / auto / span 2; }
+	.course-info1 { grid-area: 1 / 3; }
+	.course-info2 { grid-area: 1 / 4; }
+	#content { grid-area: 2 / 1 / 14 / 4; }
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
@@ -124,5 +140,33 @@ body {
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */
 
 @media only screen and (min-width: 90em) {
+	#grid
+	{
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+		grid-auto-rows: min-content;
+		grid-template-areas:
+		"site-id . . course-info1 course-info2"
+		"content .  assignment1 assignment2 assignment3"
+		". .        assignment4 . ."
+		". .        item1 item2 item3"
+		". .        item4 . ."
+		". .        . . ."
+		". .        . . ."
+		". .        . . ."
+		". .        . . ."
+		". .        . . ."
+		". .        . . ."
+		". .        . . ."
+		". .        . . ."
+		". .        . . ."
+		". .        . . ."
+		". .        . . ."
+		"footer1 footer2 footer3 footer4 .";
+	}
+	.site-id {	grid-area: 1 / 1 / auto / span 3; }
+	.course-info1 { grid-area: 1 / 4; }
+	.course-info2 { grid-area: 1 / 5; }
+	.assignment1 { grid-area: 2 / 3; }
+	#content { grid-area: 2 / 1 / 14 / 3; }
 
 }
