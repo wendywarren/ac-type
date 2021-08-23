@@ -63,6 +63,7 @@ body { border: 3px solid var(--orange100); }
 {
 	visibility: hidden;
 	display: none;
+	margin-bottom: .5rem;
 }
 
 a, a:link
@@ -77,6 +78,8 @@ a:visited { color: rgba(60, 60, 60, 1); }
 a:hover { color: var(--blue); }
 a:active { color: rgba(247 148 29); }
 a:focus { outline: 2px solid black; }
+.nav-page-list a { text-decoration-thickness: 2px; }
+
 .uppercase { text-transform: uppercase; }
 .small { font-size: .8rem; }
 
