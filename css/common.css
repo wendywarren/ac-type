@@ -57,7 +57,7 @@ body
 	margin: 0 auto;
 }
 
-body { border: 3px solid var(--orange100); }
+/* body { border: 3px solid var(--orange100); } */
 
 .nav-page-list
 {
@@ -438,7 +438,7 @@ nav span { padding-right: 2rem; }
 
 @media only screen and (min-width: 34rem)
 {
-	body { border: 3px solid var(--blue); }
+/* 	body { border: 3px solid var(--blue); } */
 	.nav-page-list { margin-left: 0rem; }
 	
 	.course-info1 h3, course-info2 h3, .course-info1 div, .course-info2 div
@@ -469,7 +469,7 @@ nav span { padding-right: 2rem; }
 
 @media only screen and (min-width: 50rem)
 {
-	body { border: 3px solid limegreen; }
+/* 	body { border: 3px solid limegreen; } */
 	
 	.nav-page-list
 	{
@@ -492,7 +492,7 @@ nav span { padding-right: 2rem; }
 
 @media only screen and (min-width: 60em)
 {
-	body { border: 3px solid darkgrey; }
+/* 	body { border: 3px solid darkgrey; } */
 	html { font-size: 110%; }
 	.site-id { font-size: 7rem; }
 	#content { padding-right: 1rem; }
@@ -512,5 +512,5 @@ nav span { padding-right: 2rem; }
 
 @media only screen and (min-width: 90em)
 {
-	body { border: 3px solid red; }
+/* 	body { border: 3px solid red; } */
 }
