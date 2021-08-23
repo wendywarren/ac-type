@@ -339,7 +339,7 @@
 - title: "Font Pairing"
   url: type-3/font-pairing/index.html
   point-value: 5
-  serial: level-3-micro-1-home
+  serial: level-3-item-1-home
   deck: "What makes a pair of type families harmonious versus another that simply clash? Are there any clues to get us started in making compatible matches? We'll delve deep into the witchcraft of type pairs."
   outcomes:
     - outcome: "Discern the characteristics of type families which show they harmonize."
@@ -355,15 +355,15 @@
     - https://www.typography.com/blog/typographic-doubletakes
   pages:
     - title: "Font Harmony"
-      serial: level-3-micro-1-subpage-1
+      serial: level-3-item-1-subpage-1
       url: type-3/font-pairing/activity.html
       deck: "Given one type family, match it with a second. Tell me why they go well together. Where would you use them? Show me a sample treatment to demonstrate that."
     - title: "Examples, Good & Bad"
-      serial: level-3-micro-1-subpage-2
+      serial: level-3-item-1-subpage-2
       url: type-3/font-pairing/examples-good-and-bad.html
       deck: "Let's look at some type families to see how they pair up, or don't."
     - title: "Deliverables"
-      serial: level-3-micro-1-subpage-deliverables
+      serial: level-3-item-1-subpage-deliverables
       url: type-3/font-pairing/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
@@ -376,7 +376,7 @@
 
 # [9] The Type Industry # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "The Type Industry"
-  serial: level-3-micro-2-home
+  serial: level-3-item-2-home
   point-value: 5
   url: type-3/the-type-industry/index.html
   deck: "We'll explore how a type design makes it from a typographer's imagination all the way to your design pieces. How are fonts designed? Who profits along the way? Who owns the fonts? etc..."
@@ -391,11 +391,11 @@
   # Subpages
   pages:
     - title: "First Subpage"
-      serial: level-3-micro-2-subpage-1
+      serial: level-3-item-2-subpage-1
       url: type-3/the-type-industry/some_filename.html
       deck: "This is the deck for the The Type Industry micro-assignment in Type 3."
     - title: "Deliverables"
-      serial: level-3-micro-2-subpage-deliverables
+      serial: level-3-item-2-subpage-deliverables
       url: type-3/the-type-industry/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
@@ -407,7 +407,7 @@
 
 # [10] Typographer of the Week # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Typographer of the Week"
-  serial: level-3-micro-3-home
+  serial: level-3-item-3-home
   point-value: 5
   url: type-3/typographer-of-the-week/index.html
   deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
@@ -420,7 +420,7 @@
   # Subpages
   pages:
     - title: "Deliverables"
-      serial: level-3-micro-3-subpage-deliverables
+      serial: level-3-item-3-subpage-deliverables
       url: type-3/typographer-of-the-week/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
 
@@ -498,9 +498,9 @@
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #1"
-  serial: "level-4-micro-1-home"
+  serial: "level-4-item-1-home"
   point-value: 5
-  url: type-4/type-4-micro-1/index.html
+  url: type-4/type-4-item-1/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -511,12 +511,12 @@
   # Subpages
   pages:
     - title: "First Subpage Type 4 Micro #1"
-      serial: "level-4-micro-1-subpage-1"
-      url: type-4/type-4-micro-1/subpage1.html
+      serial: "level-4-item-1-subpage-1"
+      url: type-4/type-4-item-1/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro #1 Subpage 1."
     - title: "Deliverables"
-      serial: level-4-micro-1-subpage-deliverables
-      url: type-4/type-4-micro-1/deliverables.html
+      serial: level-4-item-1-subpage-deliverables
+      url: type-4/type-4-item-1/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
@@ -526,9 +526,9 @@
 
 # [13] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #2"
-  serial: "level-4-micro-2-home"
+  serial: "level-4-item-2-home"
   point-value: 5
-  url: type-4/type-4-micro-2/index.html
+  url: type-4/type-4-item-2/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -539,12 +539,12 @@
   # Subpages
   pages:
     - title: "First Subpage Type 4 Micro #2"
-      serial: "level-4-micro-2-subpage-1"
-      url: type-4/type-4-micro-2/subpage1.html
+      serial: "level-4-item-2-subpage-1"
+      url: type-4/type-4-item-2/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro 2 Subpage 1."
     - title: "Deliverables"
-      serial: level-4-micro-2-subpage-deliverables
-      url: type-4/type-4-micro-2/deliverables.html
+      serial: level-4-item-2-subpage-deliverables
+      url: type-4/type-4-item-2/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
@@ -554,9 +554,9 @@
 
 # [14] Type 4 Micro #3 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #3"
-  serial: "level-4-micro-3-home"
+  serial: "level-4-item-3-home"
   point-value: 5
-  url: type-4/type-4-micro-3/index.html
+  url: type-4/type-4-item-3/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -567,12 +567,12 @@
   # Subpages
   pages:
     - title: "First Subpage Type 4 Micro #3"
-      serial: "level-4-micro-1-subpage-1"
-      url: type-4/type-4-micro-3/subpage1.html
+      serial: "level-4-item-1-subpage-1"
+      url: type-4/type-4-item-3/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro #3 Subpage 1."
     - title: "Deliverables"
-      serial: level-4-micro-3-subpage-deliverables
-      url: type-4/type-4-micro-3/deliverables.html
+      serial: level-4-item-3-subpage-deliverables
+      url: type-4/type-4-item-3/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
@@ -582,9 +582,9 @@
 
 # [15] Type 4 Micro #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #4"
-  serial: "level-4-micro-4-home"
+  serial: "level-4-item-4-home"
   point-value: 5
-  url: type-4/type-4-micro-4/index.html
+  url: type-4/type-4-item-4/index.html
   deck: "This is the text for the deck for this assignment."
   download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
   pinterest: "https://pin.it/alainparadis"
@@ -595,12 +595,12 @@
   # Subpages
   pages:
     - title: "First Subpage Type 4 Micro #4"
-      serial: "level-4-micro-4-subpage-1"
-      url: type-4/type-4-micro-4/subpage1.html
+      serial: "level-4-item-4-subpage-1"
+      url: type-4/type-4-item-4/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro 4 Subpage 1."
     - title: "Deliverables"
-      serial: level-4-micro-4-subpage-deliverables
-      url: type-4/type-4-micro-4/deliverables.html
+      serial: level-4-item-4-subpage-deliverables
+      url: type-4/type-4-item-4/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."

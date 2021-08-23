@@ -1,4 +1,4 @@
-<ul class="nav-page-list">
+<ul class="nav-page-list {% if page.serial contains 'level-3-assignment-2' %}visible{% endif %}">
 	{% assign assignmentPages = site.data.assignments[1].pages %}
 	{% for item in assignmentPages %}
 	{% unless item.type == 'assignment-home' %} 
