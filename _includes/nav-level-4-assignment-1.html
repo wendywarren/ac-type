@@ -1,0 +1,8 @@
+<ul class="nav-page-list">
+	{% assign assignmentPages = site.data.assignments[4].pages %}
+		{% for item in assignmentPages %}
+		{% unless item.type == 'assignment-home' %} 
+			<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
+		{% endunless %}
+	{% endfor %}
+</ul>
