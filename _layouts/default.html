@@ -89,6 +89,9 @@ fill:rgb(41, 151, 255, 1);
 	</ul>
 	<h2>The Brief</h2>
 	{% endif %}
+	{% if page.serial contains 'trivia' %} 
+		{% include type-trivia.html %}
+	{% endif %}		
 	{{ content }}
 	{% if page.serial contains 'deliverables' %} 
 	<h3>File Naming & Packaging</h3>

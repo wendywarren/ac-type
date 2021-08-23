@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-item-3-subpage-deliverables
+serial: level-3-assignment-3-subpage-deliverables
 ---
 ### Presentation
 

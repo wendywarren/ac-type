@@ -277,22 +277,18 @@ ul > ul
 	padding-bottom: 0;
 }
 
-.visible
+h3, .course-info1 div, .course-info2 div
+{
+	display: none;
+	visibility: hidden;
+}
+
+h3.home-icon
 {
 	display: block;
 	visibility: visible;
-}
-
-.invisible
-{
-	display: none;
-	visibility: hidden;
-}
-
-.course-info1 div, .course-info2 div
-{
-	display: none;
-	visibility: hidden;
+	text-align: right;
+	margin-right: .5rem;
 }
 
 .course-info1, .course-info2
@@ -300,6 +296,17 @@ ul > ul
 	font-size: .875rem;
 	line-height: 160%;
 }
+
+.course-info1 h3, .course-info2 h3, .assignment h3, .item h4
+{
+	border-bottom: 2px solid var(--lightgrey);
+	padding-bottom: 1rem;
+	margin-bottom: 0.875rem;
+	line-height: 1.3rem;
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+}
+
 
 .item { font-size: 0.875rem; }
 
@@ -324,6 +331,8 @@ strong
 	margin-bottom: 1rem;
 	color: rgba(100, 100, 100, 1);
 }
+
+.item p { display: none; }
 
 dt
 {
@@ -433,22 +442,21 @@ nav span { padding-right: 2rem; }
 		padding-top: 1rem;
 		margin-top: 2rem;
 	}
+<<<<<<< HEAD
 	
 	.course-info1 h3, course-info2 h3, .course-info1 div, .course-info2 div
 	{
 		display: block;
 		visibility: visible;
 	}
-	
-	.course-info1 h3, .course-info2 h3, .assignment h3, .item h4
-	{
-		border-bottom: 2px solid var(--lightgrey);
-		padding-bottom: 1rem;
-		margin-bottom: 0.875rem;
-		line-height: 1.3rem;
-		font-weight: normal;
-		font-family: "FiraSans-Medium";
-	}
+
+=======
+	h3, .course-info1 div, .course-info2 div
+{
+	display: block;
+	visibility: visible;
+}
+>>>>>>> parent of ffbc84b (move nav subpage lists to includes so they can appear only on their own pages)
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
@@ -457,6 +465,13 @@ nav span { padding-right: 2rem; }
 {
 	body { padding-top: 0.5rem; }
 	.site-id1 { font-size: 6rem; }
+	.course-info1 h3, .course-info2 h3, .assignment h3, .item h4
+	{
+		margin-top: 0.875rem;
+		line-height: 1.3rem;
+		font-weight: normal;
+		font-family: "FiraSans-Medium";
+	}
 	
 	.footer3, .footer4
 	{
@@ -466,6 +481,7 @@ nav span { padding-right: 2rem; }
 	}
 	
 	.item p { display: block; }
+	
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
@@ -474,8 +490,11 @@ nav span { padding-right: 2rem; }
 {
 	html { font-size: 110%; }
 	.site-id { font-size: 7rem; }
+		
 	#content { padding-right: 1rem; }
 	
+<<<<<<< HEAD
+=======
 	.item h4
 	{
 		border-bottom: 2px solid var(--lightgrey);
@@ -485,7 +504,7 @@ nav span { padding-right: 2rem; }
 		font-weight: normal;
 		font-family: "FiraSans-Medium";
 	}
-	
+>>>>>>> parent of ffbc84b (move nav subpage lists to includes so they can appear only on their own pages)
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */

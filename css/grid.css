@@ -7,7 +7,7 @@ body {
 	display: grid;
 	grid-template-columns: 1fr;
 	grid-auto-rows: min-content;
-	grid-gap: 1rem;
+	grid-gap: .25rem;
 	grid-template-areas:
     "course-info1"
     "course-info2"
@@ -53,12 +53,16 @@ body {
 	grid-template-columns: 1fr 1fr;
 	grid-auto-rows: min-content;
 	grid-template-areas:
-	"course-info1 course-info2"
-	"site-id ."
-	"assignment1 assignment2"
-	"assignment3 assignment4"
-	"item1 item2"
-	"item3 item4"
+	"course-info1  course-info2"
+	"site-id       ."
+	"assignment1   ."
+	"assignment2   ."
+	"assignment3   ."
+	"assignment4   ."
+	"item1         ."
+	"item2         ."
+	"item3         ."
+	"item4         ."
 	"content ."
 	"footer1 footer2"
 	"footer3 footer4";
@@ -67,25 +71,41 @@ body {
 #content {
 	grid-column-start: 1;
 	grid-column-end: -1;
-  }
+	grid-row-start: 11;
+ }
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
 
 @media only screen and (min-width: 38em) {
 
-	#grid {
-		grid-template-columns: 1fr 1fr 1fr;
-		grid-auto-rows: min-content;
-		grid-template-areas:
-		"site-id     course-info1 course-info2"
-		"assignment1 assignment2 assignment3"
-		"assignment4 .           . "
-		"item1 item2 item3"
-		"item4 . ."
-		"content . ."
-		"footer1 footer2 footer3"
-		"footer4 . .";
+#grid {
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-auto-rows: min-content;
+	grid-template-areas:
+	"site-id     course-info1 course-info2"
+	"assignment1   content ."
+	"assignment2   . ."
+	"assignment3   . ."
+	"assignment4   . ."
+	"item1         . ."
+	"item2         . ."
+	"item3         . ."
+	"item4         . ."
+	".         . ."
+	".         . ."
+	".         . ."
+	".         . ."
+	".         . ."
+	".         . ."
+	"footer1 footer2 ."
+	"footer3 footer4 .";
+}
+#content { grid-area: 2 / 2 / 14 / 4; }
+
+.assignment2 {
+	grid-column-start: 1;
+	grid-row-start: 3;
 	}
 }
 
@@ -98,27 +118,30 @@ body {
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 		grid-auto-rows: min-content;
 		grid-template-areas:
-		"site-id . course-info1 course-info2"
-		"content .  assignment1 assignment2"
-		". .        assignment3 assignment4"
-		". .        item1 item2"
-		". .        item3 item4"
-		". .        . . "
-		". .        . . "
-		". .        . . "
-		". .        . . "
-		". .        . . "
-		". .        . . "
-		". .        . . "
-		". .        . . "
-		". .        . . "		
+		"site-id      .       course-info1 course-info2"
+		"assignment1  content .            .           "
+		"assignment2  .       .            .           "
+		"assignment3  .       .            .           "
+		"assignment4  .       .            .           "
+		"item1        .       .            .           "
+		"item2        .       .            .           "
+		"item3        .       .            .           "
+		"item4        .       .            .           "
+		".            .       .            .           "
+		".            .       .            .           "
+		".            .       .            .           "
+		".            .       .            .           "
+		".            .       .            .           "
+		".            .       .            .           "
+		".            .       .            .           "
+		".            .       .            .           "
+		".            .       .            .           "
+		".            .       .            .           "
 		"footer1 footer2 footer3 footer4";
 	}
-	.site-id {	grid-area: 1 / 1 / auto / span 2; }
-	.course-info1 { grid-area: 1 / 3; }
-	.course-info2 { grid-area: 1 / 4; }
-	.assignment1 { grid-area: 2 / 3; }
-	#content { grid-area: 2 / 1 / 14 / 3; }
+
+	#content { grid-area: 2 / 2 / 15 / 5; }
+	.footer1, .footer2, .footer3, .footer4 { grid-row-start: 20; }
 }
 
 /* * * * * * * * * * Greater Than 1440px * * * * * * * * * */

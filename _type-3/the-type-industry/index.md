@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-item-2-home
+serial: level-3-micro-2-home
 ---
 How does a font go from the typographer's mind to the market, to your page?
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-item-1-home
+serial: level-3-micro-1-home
 ---
 Before we can match up any two type families, we need to first decide what our choice will be based on. There are three major criteria, context, visual harmony and functionality.
 

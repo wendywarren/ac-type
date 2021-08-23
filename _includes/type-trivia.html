@@ -1,4 +1,4 @@
-<ul class="nav-page-list">
+<ul class="columns3">
 	{% for items in site.type-trivia %}
 		{% if items.serial contains "subpage" %} 
 			<li><a href="{{site.baseurl}}{{site.url}}{{ items.url }}">{{ items.title | replace: ' ', '&nbsp;' }}</a></li>
