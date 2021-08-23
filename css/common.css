@@ -64,6 +64,7 @@ body { border: 3px solid var(--orange100); }
 	visibility: hidden;
 	display: none;
 	margin-bottom: .5rem;
+	margin-left: .5rem;
 }
 
 a, a:link
@@ -79,7 +80,6 @@ a:hover { color: var(--blue); }
 a:active { color: rgba(247 148 29); }
 a:focus { outline: 2px solid black; }
 .nav-page-list a { text-decoration-thickness: 2px; }
-
 .uppercase { text-transform: uppercase; }
 .small { font-size: .8rem; }
 
@@ -439,13 +439,7 @@ nav span { padding-right: 2rem; }
 @media only screen and (min-width: 34rem)
 {
 	body { border: 3px solid var(--blue); }
-	
-	.footer2
-	{
-		border-top: 6px solid var(--lightgrey);
-		padding-top: 1rem;
-		margin-top: 2rem;
-	}
+	.nav-page-list { margin-left: 0rem; }
 	
 	.course-info1 h3, course-info2 h3, .course-info1 div, .course-info2 div
 	{
@@ -462,6 +456,13 @@ nav span { padding-right: 2rem; }
 		font-weight: normal;
 		font-family: "FiraSans-Medium";
 	}
+	
+	.footer2
+	{
+		border-top: 6px solid var(--lightgrey);
+		padding-top: 1rem;
+		margin-top: 2rem;
+	}
 }
 
 /* * * * * * * * * * 608px – 960px * * * * * * * * * */
@@ -469,12 +470,13 @@ nav span { padding-right: 2rem; }
 @media only screen and (min-width: 50rem)
 {
 	body { border: 3px solid limegreen; }
+	
 	.nav-page-list
 	{
 		visibility: visible;
 		display: block;
 	}
-
+	
 	body { padding-top: 0.5rem; }
 	.site-id1 { font-size: 6rem; }
 	
@@ -484,7 +486,6 @@ nav span { padding-right: 2rem; }
 		padding-top: 1rem;
 		margin-top: 2rem;
 	}
-	
 }
 
 /* * * * * * * * * * 960px – 1440px * * * * * * * * * */
