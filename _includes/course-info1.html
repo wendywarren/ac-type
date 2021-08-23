@@ -1,14 +1,26 @@
-<h3>About This Course</h3>
-{% if page.serial contains 'level-3' %}
 <div>
-  {{ site.data.metadata.courses[0].coursecode }} {{ site.data.metadata.courses[0].title }}
+	<h3>
+		About This Course
+	</h3>
 </div>
-<div>Hours: {{ site.data.metadata.courses[0].hours }}</div>
-<div>Prof: {{ site.data.metadata.courses[0].prof }}</div>
-{% elsif page.serial contains 'level-4' %}
-<div>
-    {{ site.data.metadata.courses[1].coursecode }} {{ site.data.metadata.courses[1].title }}
-  </div>
-  <div>Hours: {{ site.data.metadata.courses[1].hours }}</div>
-  <div>Prof: {{ site.data.metadata.courses[1].prof }}</div>
+{% if page.serial contains 'level-3' %} 
+	<div>
+		{{ site.data.metadata.courses[0].coursecode }} {{ site.data.metadata.courses[0].title }} 
+	</div>
+	<div>
+		Hours: {{ site.data.metadata.courses[0].hours }}
+	</div>
+	<div>
+		Prof: {{ site.data.metadata.courses[0].prof }}
+	</div>
+{% elsif page.serial contains 'level-4' %} 
+	<div>
+		{{ site.data.metadata.courses[1].coursecode }} {{ site.data.metadata.courses[1].title }} 
+	</div>
+	<div>
+		Hours: {{ site.data.metadata.courses[1].hours }}
+	</div>
+	<div>
+		Prof: {{ site.data.metadata.courses[1].prof }}
+	</div>
 {% endif %}
