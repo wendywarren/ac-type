@@ -15,27 +15,27 @@
 
 @font-face {
   font-family: FiraSans-Regular;
-  src: url("../fonts/FiraSans-Regular.woff") format("woff");
+  src: url("../fonts/FiraSans-Regular.woff2") format("woff2");
 }
 @font-face {
   font-family: FiraSans-Italic;
-  src: url("../fonts/FiraSans-Italic.woff") format("woff");
+  src: url("../fonts/FiraSans-Italic.woff2") format("woff2");
 }
 @font-face {
   font-family: FiraSans-Medium;
-  src: url("../fonts/FiraSans-Medium.woff") format("woff");
+  src: url("../fonts/FiraSans-Medium.woff2") format("woff2");
 }
 @font-face {
   font-family: FiraSans-MediumItalic;
-  src: url("../fonts/FiraSans-MediumItalic.woff") format("woff");
+  src: url("../fonts/FiraSans-MediumItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: FiraSans-UltraItalic;
-  src: url("../fonts/FiraSans-UltraItalic.woff") format("woff");
+  src: url("../fonts/FiraSans-UltraItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: FiraMono-Medium;
-  src: url("../fonts/FiraMono-Medium.woff") format("woff");
+  src: url("../fonts/FiraMono-Medium.woff2") format("woff2");
 }
 
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
@@ -55,9 +55,18 @@ body
 	max-width: 90rem;
 	padding: 0 .5rem 0 .5rem;
 	margin: 0 auto;
+	border-left: 1px solid var(--lightgrey);
+	border-right: 1px solid var(--lightgrey);
+/* 	border: 3px solid var(--orange100); */
 }
 
-/* body { border: 3px solid var(--orange100); } */
+img
+{
+	border: 0px solid rgba(100, 100, 100, 1);
+	display: block;
+	margin: 1rem auto;
+	max-width: 100%;
+}
 
 .nav-page-list
 {
@@ -194,7 +203,17 @@ h6
 h1,
 h2 { letter-spacing: -0.0312rem; }
 h2 { font-size: 1.2rem; }
-#content h1 { font-size: 1.6rem; }
+
+#content h1
+{
+	font-size: 1.6rem;
+	color: var(--blue);
+	border-bottom: 2px solid var(--blue);
+	margin-bottom: 1rem;
+	line-height: 100%;
+	padding-bottom: .75rem;
+}
+
 #content ol li { list-style-type: decimal; }
 
 #content ul.links
@@ -402,14 +421,6 @@ code
 	padding-top: 0;
 }
 
-img
-{
-	border: 0px solid rgba(100, 100, 100, 1);
-	display: block;
-	margin: 1rem auto;
-	max-width: 100%;
-}
-
 /* SVG Styles */
 .darkgrey { fill: var(--darkgrey); }
 .mediumgrey { fill: var(--mediumgrey); }
@@ -438,7 +449,7 @@ nav span { padding-right: 2rem; }
 
 @media only screen and (min-width: 34rem)
 {
-/* 	body { border: 3px solid var(--blue); } */
+	/* 	body { border: 3px solid var(--blue); } */
 	.nav-page-list { margin-left: 0rem; }
 	
 	.course-info1 h3, course-info2 h3, .course-info1 div, .course-info2 div
@@ -469,8 +480,7 @@ nav span { padding-right: 2rem; }
 
 @media only screen and (min-width: 50rem)
 {
-/* 	body { border: 3px solid limegreen; } */
-	
+	/* 	body { border: 3px solid limegreen; } */
 	.nav-page-list
 	{
 		visibility: visible;
@@ -492,7 +502,7 @@ nav span { padding-right: 2rem; }
 
 @media only screen and (min-width: 60em)
 {
-/* 	body { border: 3px solid darkgrey; } */
+	/* 	body { border: 3px solid darkgrey; } */
 	html { font-size: 110%; }
 	.site-id { font-size: 7rem; }
 	#content { padding-right: 1rem; }
@@ -512,5 +522,5 @@ nav span { padding-right: 2rem; }
 
 @media only screen and (min-width: 90em)
 {
-/* 	body { border: 3px solid red; } */
+	/* 	body { border: 3px solid red; } */
 }
