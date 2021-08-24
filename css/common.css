@@ -38,9 +38,6 @@
   src: url("../fonts/FiraMono-Medium.woff2") format("woff2");
 }
 
-/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
-/* * * * * * * * * * General Type Stuff * * * * * * * * */
-/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 html
 {
 	font-size: 100%;
@@ -57,7 +54,7 @@ body
 	margin: 0 auto;
 	border-left: 1px solid var(--lightgrey);
 	border-right: 1px solid var(--lightgrey);
-/* 	border: 3px solid var(--orange100); */
+	/* 	border: 3px solid var(--orange100); */
 }
 
 img
@@ -68,14 +65,9 @@ img
 	max-width: 100%;
 }
 
-.nav-page-list
-{
-	visibility: hidden;
-	display: none;
-	margin-bottom: .5rem;
-	margin-left: .5rem;
-}
-
+/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * General Type Stuff * * * * * * * * */
+/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 a, a:link
 {
 	color: black;
@@ -92,12 +84,22 @@ a:focus { outline: 2px solid black; }
 .uppercase { text-transform: uppercase; }
 .small { font-size: .8rem; }
 
-.bold
+.italic
+{
+	font-weight: normal;
+	font-family: "FiraSans-Italic", Arial, Helvetica, sans-serif;
+}
+
+.blue { color: var(--blue); }
+
+.bold, bold
 {
 	font-weight: normal;
 	font-style: normal;
 	font-family: "FiraSans-Medium";
 }
+
+.text-align-right { text-align: right; }
 
 em, italic
 {
@@ -106,13 +108,73 @@ em, italic
 	font-family: "FiraSans-Italic", Arial, Helvetica, sans-serif;
 }
 
-bold
+blockquote
 {
 	font-weight: normal;
-	font-style: normal;
-	font-family: "FiraSans-Medium", Arial, Helvetica, sans-serif;
+	font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
+	margin: 2rem 0 2rem 2rem;
+	margin-left: 2rem;
+	margin-bottom: 2rem;
+	border-left: 4px solid var(--mediumgrey);
+	padding-left: 1rem;
+	padding-right: 6rem;
+	color: var(--blue);
 }
 
+blockquote ~ a { color: var(--mediumgrey); }
+
+em
+{
+	font-style: normal;
+	font-weight: normal;
+	font-family: "FiraSans-Italic";
+}
+
+strong
+{
+	font-style: normal;
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+}
+
+dt
+{
+	font-style: normal;
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+	margin-top: 0.5em;
+	margin-left: 1rem;
+}
+
+dd
+{
+	margin-bottom: 0.25em;
+	margin-left: 2em;
+}
+
+dd:last-of-type, ul.hasBullets li:last-of-type { margin-bottom: 1rem; }
+
+code
+{
+	background: #ededed;
+	font-style: normal;
+	font-weight: normal;
+	font-family: "FiraMono-Medium";
+	padding: 0.2em 0.5rem;
+	border-radius: 4px;
+	border: 1px solid lightgrey;
+}
+
+.mono
+{
+	font-style: normal;
+	font-weight: normal;
+	font-family: "FiraMono-Medium";
+}
+
+/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * LISTS LISTS LISTS * * * * * * * * */
+/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 ul.inline-list { margin-top: 1rem; }
 
 ul.inline-list li
@@ -133,36 +195,43 @@ ul.inline-list li a
 
 ul.inline-list li { display: inline; }
 
+ul.hasBullets
+{
+	margin-top: 1rem;
+	padding: 0;
+	padding-left: 2rem;
+	list-style: none;
+}
+
+ul.hasBullets li { text-indent: -1rem; }
+
+ul.hasBullets li:before
+{
+	content: "\27A4";
+	margin-right: 10px;
+	font-size: 0.5rem;
+}
+
+ul > ul
+{
+	padding-left: 1rem;
+	margin-top: -1rem;
+}
+
+.nav-page-list
+{
+	visibility: hidden;
+	display: none;
+	margin-bottom: .5rem;
+	margin-left: .5rem;
+}
+
 .columns3
 {
 	columns: 3 12rem;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 }
-
-.italic
-{
-	font-weight: normal;
-	font-family: "FiraSans-Italic", Arial, Helvetica, sans-serif;
-}
-
-.blue { color: var(--blue); }
-.text-align-right { text-align: right; }
-
-blockquote
-{
-	font-weight: normal;
-	font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
-	margin: 2rem 0 2rem 2rem;
-	margin-left: 2rem;
-	margin-bottom: 2rem;
-	border-left: 4px solid var(--mediumgrey);
-	padding-left: 1rem;
-	padding-right: 6rem;
-	color: var(--blue);
-}
-
-blockquote ~ a { color: var(--mediumgrey); }
 
 .site-id
 {
@@ -204,53 +273,6 @@ h1,
 h2 { letter-spacing: -0.0312rem; }
 h2 { font-size: 1.2rem; }
 
-#content h1
-{
-	font-size: 1.6rem;
-	color: var(--blue);
-	border-bottom: 2px solid var(--blue);
-	margin-bottom: 1rem;
-	line-height: 100%;
-	padding-bottom: .75rem;
-}
-
-#content ol li { list-style-type: decimal; }
-
-#content ul.links
-{
-	padding: .25rem;
-	text-align: center;
-}
-
-#content ul li.links
-{
-	display: inline-block;
-	margin-right: 2rem;
-}
-
-ul.hasBullets
-{
-	margin-top: 1rem;
-	padding: 0;
-	padding-left: 2rem;
-	list-style: none;
-}
-
-ul.hasBullets li { text-indent: -1rem; }
-
-ul.hasBullets li:before
-{
-	content: "\27A4";
-	margin-right: 10px;
-	font-size: 0.5rem;
-}
-
-ul > ul
-{
-	padding-left: 1rem;
-	margin-top: -1rem;
-}
-
 .brightspace
 {
 	text-align: center;
@@ -264,10 +286,13 @@ ul > ul
 	font-size: 1rem;
 }
 
+/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * MAIN CONTENT AREA * * * * * * * * */
+/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 #content h2
 {
 	font-size: 1.4rem;
-	margin-top: 2rem;
+	margin-top: 0rem;
 }
 
 #content h3
@@ -299,12 +324,29 @@ ul > ul
 
 #content p + p { margin-top: .5rem; }
 
-.course-info1 h3,
-.course-info2 h3,
-.assignment
+#content h1
 {
-	margin-bottom: 0;
-	padding-bottom: 0;
+	font-size: 1.6rem;
+	color: var(--blue);
+	border-bottom: 2px solid var(--blue);
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+	line-height: 100%;
+	padding-bottom: .75rem;
+}
+
+#content ol li { list-style-type: decimal; }
+
+#content ul.links
+{
+	padding: .25rem;
+	text-align: center;
+}
+
+#content ul li.links
+{
+	display: inline-block;
+	margin-right: 2rem;
 }
 
 .visible
@@ -331,21 +373,15 @@ ul > ul
 	line-height: 160%;
 }
 
+.course-info1 h3,
+.course-info2 h3,
+.assignment
+{
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
 .item { font-size: 0.875rem; }
-
-em
-{
-	font-style: normal;
-	font-weight: normal;
-	font-family: "FiraSans-Italic";
-}
-
-strong
-{
-	font-style: normal;
-	font-weight: normal;
-	font-family: "FiraSans-Medium";
-}
 
 .deck
 {
@@ -353,41 +389,6 @@ strong
 	font-family: "FiraSans-Italic";
 	margin-bottom: 1rem;
 	color: rgba(100, 100, 100, 1);
-}
-
-dt
-{
-	font-style: normal;
-	font-weight: normal;
-	font-family: "FiraSans-Medium";
-	margin-top: 0.5em;
-	margin-left: 1rem;
-}
-
-dd
-{
-	margin-bottom: 0.25em;
-	margin-left: 2em;
-}
-
-dd:last-of-type, ul.hasBullets li:last-of-type { margin-bottom: 1rem; }
-
-code
-{
-	background: #ededed;
-	font-style: normal;
-	font-weight: normal;
-	font-family: "FiraMono-Medium";
-	padding: 0.2em 0.5rem;
-	border-radius: 4px;
-	border: 1px solid lightgrey;
-}
-
-.mono
-{
-	font-style: normal;
-	font-weight: normal;
-	font-family: "FiraMono-Medium";
 }
 
 .footer a, .footer a:link, .footer a:visited, .footer { color: var(--mediumgrey); }
@@ -421,6 +422,13 @@ code
 	padding-top: 0;
 }
 
+.footer1
+{
+	border-top: 6px solid var(--lightgrey);
+	padding-top: 1rem;
+	margin-top: 2rem;
+}
+
 /* SVG Styles */
 .darkgrey { fill: var(--darkgrey); }
 .mediumgrey { fill: var(--mediumgrey); }
@@ -429,13 +437,6 @@ a.hover-blue:hover { color: var(—blue); }
 
 /* END SVG Styles */
 nav span { padding-right: 2rem; }
-
-.footer1
-{
-	border-top: 6px solid var(--lightgrey);
-	padding-top: 1rem;
-	margin-top: 2rem;
-}
 
 /* Rubric Layout */
 #content ul.criteria
@@ -489,6 +490,7 @@ nav span { padding-right: 2rem; }
 	
 	body { padding-top: 0.5rem; }
 	.site-id1 { font-size: 6rem; }
+	#content h1 { margin-top: 0; }
 	
 	.footer3, .footer4
 	{
