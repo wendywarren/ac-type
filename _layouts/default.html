@@ -14,6 +14,7 @@
 	<div class="course-info1">{% include course-info1.html %}</div>
 	<div class="course-info2">{% include course-info2.html %}</div>
 	<div id="content" role="main">
+	{% if page.serial contains "home" %} 
 	<h1>
 	<ul>
 	{% for headings in site.data.assignments %}
@@ -23,6 +24,7 @@
 	{% endfor %}
 	</ul>
 	</h1>
+	{% elsif page.serial contains "subpage" %}
 	<h1>
 	<ul>
 	{% for allHeadings in site.data.assignments %}
@@ -34,6 +36,7 @@
 	{% endfor %}
 	</ul>
 	</h1>
+	{% endif %}
 	<div class="deck">
 	{% if page.serial contains "home" %}
 	<ul>
