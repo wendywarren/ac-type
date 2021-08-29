@@ -511,6 +511,14 @@
       serial: level-3-type-trivia-subpage-auto-leading
       url: type-trivia/auto-leading.html
       deck: "What is automatic leading. Should I use it?"
+    - title: "Ems"
+      serial: level-3-type-trivia-subpage-ems
+      url: type-trivia/ems.html
+      deck: "What is an em? What about its fractions?"
+    - title: "Slanted vs Italic"
+      serial: level-3-type-trivia-subpage-slanted-vs-italic
+      url: type-trivia/slanted-vs-italic.html
+      deck: "Slanted vs italic. What's the difference?"
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #1"
