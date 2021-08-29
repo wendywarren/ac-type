@@ -24,6 +24,10 @@ When designing a typeface, there are other considerations beyond the glyphs. The
 
 There are typefaces created for corporate use and some for general sale.
 
+#### Licensing
+
+
+
 #### Design Quality
 
 There *are* poor quality and superior quality designs, as in everything. Designing typefaces is incredibly detailed, painstaking work. Neglecting such details can lead to a typeface that is missing needed features or lacks finesse. That said, there may be a place for such type. It all depends on context.
