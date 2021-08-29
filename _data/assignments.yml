@@ -495,6 +495,10 @@
       serial: level-3-type-trivia-subpage-at-symbol
       url: type-trivia/at-symbol.html
       deck: The symbol's history is a bit cloudy. This is what we know.
+    - title: "Monospace Type"
+      serial: level-3-type-trivia-subpage-monospace-type
+      url: type-trivia/monospace-type.html
+      deck: "Each glyph in a monospace font occupies the same amount of space, regardless of its width."
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #1"
