@@ -499,6 +499,14 @@
       serial: level-3-type-trivia-subpage-monospace-type
       url: type-trivia/monospace-type.html
       deck: "Each glyph in a monospace font occupies the same amount of space, regardless of its width."
+    - title: "Lorem Ipsum"
+      serial: level-3-type-trivia-subpage-lorem-ipsum
+      url: type-trivia/lorem-ipsum.html
+      deck: "What is Lorem Ipsum. Are there really varying qualities of Lorem Ipsum?"
+    - title: "Faux Small Caps"
+      serial: level-3-type-trivia-subpage-faux-small-caps
+      url: type-trivia/faux-small-caps.html
+      deck: "What are faux small caps? How can I spot them?"
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #1"
