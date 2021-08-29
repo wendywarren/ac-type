@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-assignment-2-subpage-5
+serial: level-3-assignment-2-subpage-putting-it-all-together
 ---
 ### What's on the Board
 

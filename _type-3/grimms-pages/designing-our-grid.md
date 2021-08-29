@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-assignment-2-subpage-1
+serial: level-3-assignment-2-subpage-designing-our-grid
 ---
 ### The Perfect Page 
 
