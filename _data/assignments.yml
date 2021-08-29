@@ -507,6 +507,10 @@
       serial: level-3-type-trivia-subpage-faux-small-caps
       url: type-trivia/faux-small-caps.html
       deck: "What are faux small caps? How can I spot them?"
+    - title: "Auto Leading"
+      serial: level-3-type-trivia-subpage-auto-leading
+      url: type-trivia/auto-leading.html
+      deck: "What is automatic leading. Should I use it?"
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #1"
