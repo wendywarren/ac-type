@@ -1,6 +1,10 @@
 ---
 layout: default
 serial: level-3-type-trivia-subpage-variable-fonts
+Links: |
+  - [Variable Fonts.com](https://www.variable-fonts.com/about)
+  - [Can I use variable fonts on the web](https://caniuse.com/variable-fonts)
+  - [More about Variable Fonts](https://web.dev/variable-fonts/)
 ---
 ### What Are They?
 
