@@ -60,10 +60,6 @@ deck: Web site notes and Todo's.
 - [Great historical book](https://learning.oreilly.com/library/view/typography-referenced/9781592537020/) It includes a list of type designers.
 - [Really detailed book on letterforms](https://learning.oreilly.com/library/view/lessons-in-typography/9780133993738/). A microscopic view of type.
 
-## Type Tidbits
-
-These are little type tidbits that are reminders of fundamental type concepts. They're mostly dos and donts. 
-
 ### Type Facts Repo Ideas 
 
 - [useful glossary](https://www.fontshop.com/glossary)
