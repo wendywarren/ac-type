@@ -4,7 +4,7 @@ serial: level-3-assignment-3-subpage-classification-categories
 ---
 ### Classification Categories
 
-#### Humanist Serif
+#### <a name="humanist-serif">Humanist Serif</a>
 
 <ul class="hasBullets">
 	<li>When? 1600's</li>
@@ -15,7 +15,7 @@ serial: level-3-assignment-3-subpage-classification-categories
 
 How to spot them: Note the slanted bar on the lower case e and the slanted axis on the upper case O. The strokes show their origins from a broad-nibbed pen. It looks caligraphic.
 
-#### Old Style
+#### <a name="old-style">Old Style</a>
 
 <ul class="hasBullets">
 	<li>When? 1400's to 1700's</li>
@@ -26,7 +26,7 @@ How to spot them: Note the slanted bar on the lower case e and the slanted axis 
 
 Note the horizontal cross bar on the lower case e. The stroke weight contrast is less pronounced than those of humanist faces. Here the serifs are bracketed (curved). The O style has a slanted stress.
 
-#### Transitional
+#### <a name="transitional">Transitional</a>
 
 <ul class="hasBullets">
 	<li>When? 1700's</li>
@@ -37,7 +37,7 @@ Note the horizontal cross bar on the lower case e. The stroke weight contrast is
 
 These are called transitional because they span the gap between Old Style and Modern. They're letterforms are more geometric than hand-drawn. They have a pronounced thick/thin stroke weight contrast. They too have bracketed serifs, though they are more diminutive.
 
-#### Modern
+#### <a name="modern">Modern</a>
 
 <ul class="hasBullets">
 	<li>When? 1700's to 1800's</li>
@@ -48,7 +48,7 @@ These are called transitional because they span the gap between Old Style and Mo
 
 Also known as Didone, Moderns have dramatic and abrupt contrast in weight between the vertical strokes and the horizontal hairlines. Terminals are ball shapes. Serifs are flat and not bracketed. The axis of the upper case 0 is vertical.
 
-#### Slab Serif
+#### <a name="slab-serif">Slab Serif</a>
 
 <ul class="hasBullets">
 	<li>When? 1700's</li>
@@ -59,7 +59,7 @@ Also known as Didone, Moderns have dramatic and abrupt contrast in weight betwee
 
 There is little stroke weight contrast in slab serif faces. They generally have short ascenders and descenders. Serifs are chunky and with little or no bracketing. The axis of the capital O is vertical.
 
-#### Sans Serif
+#### <a name="sans-serif">Sans Serif</a>
 
 <ul class="hasBullets">
 	<li>When? 1800's</li>
@@ -72,7 +72,7 @@ This classification is a broad one which includes all designs without serifs. It
 
 ![Sans Serif Variants]({{site.url}}/svg/classification-sans-variants.svg "Sans Serif Variants"){:width="700px"}
 
-#### Script
+#### <a name="script">Script</a>
 
 <ul class="hasBullets">
 	<li>When? 1600's</li>
@@ -83,7 +83,7 @@ This classification is a broad one which includes all designs without serifs. It
 
 Script fonts also have sub-categories: Formal, Casual and Calligraphic. The first known script letterforms were identified as *lettre courante* in France and *secretary hand* in England. They originated as a formal genre of hand writing.
 
-#### Decorative
+#### <a name="decorative">Decorative</a>
 
 <ul class="hasBullets">
 	<li>When? 1900's</li>
@@ -94,7 +94,7 @@ Script fonts also have sub-categories: Formal, Casual and Calligraphic. The firs
 
 Inspired by wood-engraved initial capitals, decorative typefaces were used for advertisements, broadsides, and posters. Their appearance varies dramatically. What they do have in common is that they're designed for limited use at larger display sizes.
 
-#### Blackletter
+#### <a name="blackletter">Blackletter</a>
 
 <ul class="hasBullets">
 	<li>When? 1300's</li>
