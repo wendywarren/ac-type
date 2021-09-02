@@ -1,10 +1,10 @@
 ---
 layout: default
-serial: level-3-item-1-subpage-1
+serial: level-3-item-1-subpage-type-harmony
 ---
-Build a letter-sized layout with a type treatment which includes the two families. Use limited colour.
+Choose a family from the list below. You're going to use this one as your first choice. Your job is to find a second family that harmonizes well with your first choice. Choose from [Adobe Fonts](http://fonts.adobe.com) only. If your first family is a serif, then choose a sans-serif for your pairing, and vice-versa.
 
-Show glyphs from both families together to demonstrate how they harmonize.
+Build a letter-sized layout with a type treatment which includes the two families. Use limited colour.
 
 <ul class="hasBullets columns3">
 	<li><a href="https://fonts.adobe.com/fonts/acumin" target="_blank" title="Acumin">Acumin</a></li>
@@ -30,3 +30,13 @@ Show glyphs from both families together to demonstrate how they harmonize.
 	<li><a href="https://fonts.adobe.com/fonts/utopia" target="_blank" title="Utopia">Utopia</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/warnock" target="_blank" title="Warnock">Warnock</a></li>
 </ul>
+
+### What to Include
+
+Show glyphs from both families together to demonstrate how they harmonize. Set some body copy to see how it displays in longer text. Pull out some glyphs from each family to show individually so we see how they harmonize.
+
+You can also describe in writing what you see being similarities with the families.
+
+Are there differences you've noticed? You can note those too if you have doubts that they'd hinder the pairing.
+
+Please make sure your document is error-free. Having a second person carefully read it is a good idea.

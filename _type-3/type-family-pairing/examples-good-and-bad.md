@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-item-1-subpage-2
+serial: level-3-item-1-subpage-examples-good-and-bad
 ---
 ### A Good Match
 
