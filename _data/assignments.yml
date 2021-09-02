@@ -336,8 +336,8 @@
         - criterium: "You've submitted files as directed, ready for print."
 
 # [8] Font Pairing # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Font Pairing"
-  url: type-3/font-pairing/index.html
+- title: "Type Family Pairing"
+  url: type-3/type-family-pairing/index.html
   point-value: 5
   serial: level-3-item-1-home
   deck: "What makes a pair of type families harmonious versus another that simply clash? Are there any clues to get us started in making compatible matches? We'll delve deep into the witchcraft of type pairs."
@@ -354,17 +354,17 @@
     - https://www.fontshop.com/content/how-to-mix-type
     - https://www.typography.com/blog/typographic-doubletakes
   pages:
-    - title: "Font Harmony"
-      serial: level-3-item-1-subpage-1
-      url: type-3/font-pairing/activity.html
-      deck: "Given one type family, match it with a second. Tell me why they go well together. Where would you use them? Show me a sample treatment to demonstrate that."
     - title: "Examples, Good & Bad"
-      serial: level-3-item-1-subpage-2
-      url: type-3/font-pairing/examples-good-and-bad.html
+      serial: level-3-item-1-subpage-examples-good-and-bad
+      url: type-3/type-family-pairing/examples-good-and-bad.html
       deck: "Let's look at some type families to see how they pair up, or don't."
+    - title: "Type Harmony"
+      serial: level-3-item-1-subpage-type-harmony
+      url: type-3/type-family-pairing/type-harmony.html
+      deck: "Given one type family, match it with a second. Tell me why they go well together. Where would you use them? Show me a sample treatment to demonstrate that."
     - title: "Deliverables"
       serial: level-3-item-1-subpage-deliverables
-      url: type-3/font-pairing/deliverables.html
+      url: type-3/type-family-pairing/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "You have adhered to the given technical specifications."
