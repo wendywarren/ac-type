@@ -417,7 +417,7 @@ h2 { font-size: 1.2rem; }
 	color: var(--darkgrey);
 }
 
-.footer1 a.site-id:hover { color: var(--orange100); }
+.footer1 a.site-id:hover { color: var(--blue); }
 
 .footer1 h4, .footer2 h4, .footer3 h4, .footer4 h4
 {
