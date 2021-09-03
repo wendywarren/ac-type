@@ -20,7 +20,7 @@ This is why:
 
 <ul class="hasBullets">
 	<li>Their general appearance just clashes.</li>
-	<li>Avant Garde is a geometric sans. Mrs Eaves has a calligraphic style to it. The sans could be termed <em>computer-generated</em>, while the serif is reminiscent of a pen work.</li>
+	<li>Avant Garde is a geometric sans. Mrs Eaves has a calligraphic style. The sans could be termed <em>computer-generated</em>, while the serif is reminiscent of a pen work.</li>
 	<li>Avant Garde has a single storey g and a. Mrs Eaves has two storey g and a.</li>
 	<li>Avant Garde has a huge x-height. Eaves has a tiny x-height.</li>
 </ul>
