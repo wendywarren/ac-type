@@ -18,6 +18,10 @@
   src: url("../fonts/FiraSans-Regular.woff2") format("woff2");
 }
 @font-face {
+  font-family: FiraSans-Light;
+  src: url("../fonts/FiraSans-Light.woff2") format("woff2");
+}
+@font-face {
   font-family: FiraSans-Italic;
   src: url("../fonts/FiraSans-Italic.woff2") format("woff2");
 }
@@ -44,7 +48,7 @@ html
 	line-height: 1.5;
 	color: #000000;
 	font-weight: normal;
-	font-family: "FiraSans-Regular", Arial, Helvetica, sans-serif;
+	font-family: "FiraSans-Light", Arial, Helvetica, sans-serif;
 }
 
 body
@@ -80,9 +84,9 @@ a:visited { color: rgba(60, 60, 60, 1); }
 a:hover { color: var(--blue); }
 a:active { color: rgba(247 148 29); }
 a:focus { outline: 2px solid black; }
-.nav-page-list a { text-decoration-thickness: 2px; }
 .uppercase { text-transform: uppercase; }
 .small { font-size: .8rem; }
+.nav-page-list a { text-decoration-thickness: 2px; }
 
 .italic
 {
@@ -129,12 +133,15 @@ em
 	font-weight: normal;
 	font-family: "FiraSans-Italic";
 }
-.footnote {
+
+.footnote
+{
 	font-style: normal;
 	font-weight: normal;
 	font-size: .75rem;
 	color: var(--mediumgrey);
 }
+
 strong
 {
 	font-style: normal;
@@ -146,7 +153,7 @@ dt
 {
 	font-style: normal;
 	font-weight: normal;
-	font-family: "FiraSans-Medium";
+	font-family: "FiraSans-Regular";
 	margin-top: 0.5em;
 	margin-left: 1rem;
 }
@@ -271,7 +278,7 @@ h5,
 h6
 {
 	font-weight: normal;
-	font-family: "FiraSans-Medium";
+	font-family: "FiraSans-Regular";
 }
 
 h1,
@@ -331,6 +338,7 @@ h2 { font-size: 1.2rem; }
 
 #content h1
 {
+	font-family: "FiraSans-Medium";
 	font-size: 1.6rem;
 	color: var(--blue);
 	border-bottom: 2px solid var(--blue);
@@ -471,7 +479,7 @@ nav span { padding-right: 2rem; }
 		margin-bottom: 0.875rem;
 		line-height: 1.3rem;
 		font-weight: normal;
-		font-family: "FiraSans-Medium";
+		font-family: "FiraSans-Regular";
 	}
 	
 	.footer2
@@ -521,7 +529,7 @@ nav span { padding-right: 2rem; }
 		margin-bottom: 0.875rem;
 		line-height: 1.3rem;
 		font-weight: normal;
-		font-family: "FiraSans-Medium";
+		font-family: "FiraSans-Regular";
 	}
 }
 
