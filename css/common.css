@@ -129,7 +129,12 @@ em
 	font-weight: normal;
 	font-family: "FiraSans-Italic";
 }
-
+.footnote {
+	font-style: normal;
+	font-weight: normal;
+	font-size: .75rem;
+	color: var(--mediumgrey);
+}
 strong
 {
 	font-style: normal;
