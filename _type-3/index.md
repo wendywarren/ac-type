@@ -33,3 +33,7 @@ Late by more than one hour
 : You earn a grade of zero. Full feedback will be provided.
 
 If an assignment is submitted before the deadline, but is missing elements to the point where it's not usable, that assignment will be deemed incomplete. You'll earn a grade of zero.
+
+#### Adobe Fonts Only
+
+Unless stated otherwise, we'll use only [Adobe Fonts](https://fonts.adobe.com) for the whole semester. It's just easier for everyone. They have a sufficient selection for us to work with.
