@@ -458,6 +458,36 @@ nav span { padding-right: 2rem; }
 	padding: 0;
 }
 
+.rubric
+{
+	table-layout: fixed;
+	width: 100%;
+	white-space: nowrap;
+	border-spacing: .25rem;
+	margin-bottom: 1rem;
+}
+
+.rubric th
+{
+	background: #EBEBEB;
+	text-align: left;
+	font-family: "FiraMono-Medium";
+	padding: .25rem;
+}
+th.column-3 {text-align: center;}
+.column-1 { }
+.column-2 { }
+.column-3 { text-align: center; }
+
+.rubric td
+{
+	white-space: nowrap;
+	padding: .25rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	border-bottom: 1px solid silver;
+}
+
 /* * * * * * * * * * Media Queries * * * * * * * * * */
 /* * * * * * * * * * 480px – 608px * * * * * * * * * */
 
