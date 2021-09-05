@@ -22,9 +22,7 @@ You'll have time during class to work on assignments so you can ask questions. W
 
 #### Due Dates
 
-This course adheres to the program policy for assignment submission deadlines. All deadlines will be posted on BrightSpace. In the rare occasion where a deadline changes, you'll be notified well in advance. The change will be reflected on BrightSpace. Odds are, if there's a change, it would likely end up being an extension, not less time.
-
-All assignments are due at the date and time posted on BrightSpace.
+This course adheres to the program policy for assignment submission deadlines. **All deadlines will be posted on BrightSpace**. In the rare occasion where a deadline changes, you'll be notified well in advance. The change will be reflected on BrightSpace. Odds are, if there's a change, it would likely end up being an extension, not less time.
 
 Late by less than one hour
 : Your assignment will be graded out of half of total points. Full feedback will be provided.
