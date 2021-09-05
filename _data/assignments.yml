@@ -148,7 +148,7 @@
         - criterium: "You've submitted files as directed, ready for print."
 
 # [3] Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-- title: "Newsletter"
+- title: "Assignment #4"
   url: type-3/newsletter/index.html
   point-value: 20
   serial: "level-3-assignment-4-home"
