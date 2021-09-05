@@ -476,7 +476,7 @@ nav span { padding-right: 2rem; }
 }
 th.column-3 {text-align: center;}
 .column-1 { }
-.column-2 { }
+.column-2 { max-width: 40%; }
 .column-3 { text-align: center; }
 
 .rubric td
