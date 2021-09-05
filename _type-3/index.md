@@ -20,6 +20,10 @@ We'll review each assignment as they begin. You'll have the opportunity to pract
 
 You'll have time during class to work on assignments so you can ask questions. Whatever you don't complete in class will be done as homework.
 
+#### Milestones
+
+The major projects will have milestones. This means that you'll have to submit files part-way through the design process. These submissions will be graded. This is done because design is a process, not only the final product.
+
 #### Due Dates
 
 This course adheres to the program policy for assignment submission deadlines. **All deadlines will be posted on BrightSpace**. In the rare occasion where a deadline changes, you'll be notified well in advance. The change will be reflected on BrightSpace. Odds are, if there's a change, it would likely end up being an extension, not less time.
