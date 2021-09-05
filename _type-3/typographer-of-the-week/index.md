@@ -21,7 +21,7 @@ Create a single-page letter-sized bio in InDesign. The layout should be inspired
 
 ### Typographers
 
-<ol>
+<ol class="columns3">
 	<li>Barnbrook, Jonathan</li>
 	<li>Benguiat, Ed</li>
 	<li>Benton, Morris Fuller</li>
