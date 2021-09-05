@@ -3,6 +3,24 @@ layout: default
 serial: level-3-subpage-grading
 ---
 ### Course Description
+
+<table class="rubric">
+	<thead>
+	<tr>
+	<th>Assignment</th>
+	<th>Type</th>
+	<th class="column-3">Weight</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr><td>Poster</td><td>File Submission</td><td class="column-3">20%</td></tr>
+	<tr><td>Grimm Dust Cover</td><td>File Submission</td><td class="column-3">20%</td></tr>
+	<tr><td>Grimm's Pages</td><td>File Submission</td><td class="column-3">20%</td></tr>
+	<tr><td>Presentations</td><td>Presentations</td><td class="column-3">10%</td></tr>
+	<tr><td>Quiz Pool</td><td>Lots'o'Quizzes</td><td class="column-3">10%</td></tr>
+	</tbody>
+</table>
+
 <div>
 	{% if page.serial contains 'level-3' %}
 		{{ site.data.metadata.courses[0].course-description }}
@@ -21,3 +39,4 @@ serial: level-3-subpage-grading
 	{% endif %}
 {% endfor %}
 </ul>
+
