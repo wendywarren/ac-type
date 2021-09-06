@@ -488,42 +488,16 @@ th.column-3 {text-align: center;}
 	border-bottom: 1px solid silver;
 }
 
-/* * * * * * * * * * Media Queries * * * * * * * * * */
-/* * * * * * * * * * 480px – 608px * * * * * * * * * */
+/* * * * * * * * * * 608px – 960px * * * * * * * * * */
 
-@media only screen and (min-width: 34rem)
+@media only screen and (min-width: 50rem)
 {
-	/* 	body { border: 3px solid var(--blue); } */
-	.nav-page-list { margin-left: 0rem; }
-	
 	.course-info1 h3, course-info2 h3, .course-info1 div, .course-info2 div
 	{
 		display: block;
 		visibility: visible;
 	}
-	
-	.course-info1 h3, .course-info2 h3, .assignment h3, .item h4
-	{
-		border-bottom: 2px solid var(--lightgrey);
-		padding-bottom: 1rem;
-		margin-bottom: 0.875rem;
-		line-height: 1.3rem;
-		font-weight: normal;
-		font-family: "FiraSans-Regular";
-	}
-	
-	.footer2
-	{
-		border-top: 6px solid var(--lightgrey);
-		padding-top: 1rem;
-		margin-top: 2rem;
-	}
-}
 
-/* * * * * * * * * * 608px – 960px * * * * * * * * * */
-
-@media only screen and (min-width: 50rem)
-{
 	/* 	body { border: 3px solid limegreen; } */
 	.nav-page-list
 	{
