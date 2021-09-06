@@ -509,7 +509,7 @@ th.column-3 {text-align: center;}
 	.site-id1 { font-size: 6rem; }
 	#content h1 { margin-top: 0; }
 	
-	.footer3, .footer4
+	.footer2, .footer3, .footer4
 	{
 		border-top: 6px solid var(--lightgrey);
 		padding-top: 1rem;
@@ -525,8 +525,8 @@ th.column-3 {text-align: center;}
 	html { font-size: 110%; }
 	.site-id { font-size: 7rem; }
 	#content { padding-right: 1rem; }
-	
-	.item h4
+
+	.assignment h3, .item h4
 	{
 		border-bottom: 2px solid var(--lightgrey);
 		padding-bottom: 1rem;
