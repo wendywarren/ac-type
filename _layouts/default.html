@@ -18,6 +18,9 @@
 	<div id="content" role="main">
 	{% if page.serial contains "home" %} 
 	<h1>
+	{% if page.serial == 'level-3-course-home' %} 
+	{{ page.title }}
+	{% endif %}
 	<ul>
 	{% for headings in site.data.assignments %}
 		{% if page.serial == headings.serial %} 
