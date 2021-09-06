@@ -26,7 +26,9 @@ There are typefaces created for corporate use and some for general sale.
 
 #### Licensing
 
+It's complicated.
 
+There are two perspectives to consider. The owner of the copyrighted material and the user.
 
 #### Design Quality
 
@@ -52,8 +54,8 @@ There *are* poor quality and superior quality designs, as in everything. Designi
 		<li><a href="https://en.wikipedia.org/wiki/URW_Type_Foundry" title="URW Type Foundry">URW Type Foundry</a> a subsidiary of Monotype Imaging, Located in Germany</li>
 	</ul>
 </ul>
-
 <ul class="hasBullets">
+	<li><a href="https://www.type-together.com/" title="The Type Together foudry">Type Together</a></li>
 	<li><a href="https://www.fontshop.com/foundries" title="Lots more small foundries">Lots more small foundries</a></li>
 	<li><a href="https://fonts.adobe.com/foundries" title="All Adobe Fonts foundries">This is a list of all the foundries</a> that distribute fonts on Adobe Fonts.</li>
 </ul>
@@ -110,5 +112,3 @@ Experimental type foundry specializing in custom fonts.
 
 [T26](http://www.T26.com)  
 Fonts, eps illustrations, merchandise.
-
-# [Take the Quiz](https://brightspace.algonquincollege.com/d2l/home)
