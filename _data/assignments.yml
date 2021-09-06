@@ -1,47 +1,4 @@
-# [0] Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Poster"
-  serial: "level-3-assignment-3-home"
-  point-value: 20
-  url: type-3/poster/index.html
-  deck: "Type classification is a mirky business. We're not going to let that stop us! We'll discover what goes where in the grand timeline of typography. The product will be a poster design from a chosen classification."
-  download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
-  pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
-  outcomes:
-    - outcome: "Recognize the features of a typeface which determine its classification category."
-    - outcome: "Research and organize historical typographic information."
-    - outcome: "Make the most of a type family's weights, widths at varied sizes and position on the page."
-    - outcome: "Select and apply theme-appropriate colours."
-    - outcome: "Use the appropriate software tools and techniques to build the page."
-  resource-links: |
-    - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
-    - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
-  # Subpages
-  pages:
-    - title: "Classification Categories"
-      serial: "level-3-assignment-3-subpage-classification-categories"
-      url: type-3/poster/classification-categories.html
-      deck: "This is the deck for the Poster assignment in Type 4"
-    - title: "Your Content"
-      serial: "level-3-assignment-3-subpage-your-content"
-      url: type-3/poster/your-content.html
-      deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
-    - title: "Your Process"
-      serial: "level-3-assignment-3-subpage-your-process"
-      url: type-3/poster/your-process.html
-      deck: "While this is not a software assignment, your file needs to be built properly in order to go to production. Then there's the creative process, too."
-    - title: "Deliverables"
-      serial: "level-3-assignment-3-subpage-deliverables"
-      url: type-3/poster/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-      criteria:
-        - criterium: "You've successfully classified your chosen type family."
-        - criterium: "The information you've sourced about your chose typeface is plentiful and relevant."
-        - criterium: "You've made the most of the type family's various weights and widths."
-        - criterium: "Your treatment demonstrates a confident handling of a limited number of colours, achieving a strong impact."
-        - criterium: "You've submitted files as directed, ready for print."
-
-# [1] Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# [0] Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm Dust Cover"
   serial: "level-3-assignment-1-home"
   point-value: 20
@@ -96,7 +53,7 @@
         - criterium: "You've used type to create a pleasing, harmonious, context-appropriate design."
         - criterium: "You've submitted files as directed, ready for print."
 
-# [2] Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# [1] Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm's Pages"
   serial: "level-3-assignment-2-home"
   point-value: 20
@@ -147,8 +104,51 @@
         - criterium: "You've implemented the software goals listed in the course outcomes."
         - criterium: "You've submitted files as directed, ready for print."
 
+# [2] Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Poster"
+  serial: "level-3-assignment-3-home"
+  point-value: 20
+  url: type-3/poster/index.html
+  deck: "Type classification is a mirky business. We're not going to let that stop us! We'll discover what goes where in the grand timeline of typography. The product will be a poster design from a chosen classification."
+  download: "https://www.dropbox.com/s/k1m0vvzfjs8sprx/readme.txt?dl=1"
+  pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
+  outcomes:
+    - outcome: "Recognize the features of a typeface which determine its classification category."
+    - outcome: "Research and organize historical typographic information."
+    - outcome: "Make the most of a type family's weights, widths at varied sizes and position on the page."
+    - outcome: "Select and apply theme-appropriate colours."
+    - outcome: "Use the appropriate software tools and techniques to build the page."
+  resource-links: |
+    - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
+    - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
+  # Subpages
+  pages:
+    - title: "Classification Categories"
+      serial: "level-3-assignment-3-subpage-classification-categories"
+      url: type-3/poster/classification-categories.html
+      deck: "This is the deck for the Poster assignment in Type 4"
+    - title: "Your Content"
+      serial: "level-3-assignment-3-subpage-your-content"
+      url: type-3/poster/your-content.html
+      deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
+    - title: "Your Process"
+      serial: "level-3-assignment-3-subpage-your-process"
+      url: type-3/poster/your-process.html
+      deck: "While this is not a software assignment, your file needs to be built properly in order to go to production. Then there's the creative process, too."
+    - title: "Deliverables"
+      serial: "level-3-assignment-3-subpage-deliverables"
+      url: type-3/poster/deliverables.html
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "You've successfully classified your chosen type family."
+        - criterium: "The information you've sourced about your chose typeface is plentiful and relevant."
+        - criterium: "You've made the most of the type family's various weights and widths."
+        - criterium: "Your treatment demonstrates a confident handling of a limited number of colours, achieving a strong impact."
+        - criterium: "You've submitted files as directed, ready for print."
+
 # [3] Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-- title: "Assignment #4"
+- title: "Publication"
   url: type-3/newsletter/index.html
   point-value: 20
   serial: "level-3-assignment-4-home"
