@@ -7,11 +7,12 @@ serial: level-3-assignment-2-home
 <ol>
 	<li>Read through the web site pages for this assignment.</li>
 	<li>Research examples of fiction novel page treatments.</li>
-	<li>Research what makes a good font for a long document like a fiction novel.</li>
-	<li>Get the text of [your fairy tale](http://www-2.cs.cmu.edu/~spok/grimmtmp/).</li>
-	<li>Font selection</li>
+	<li>Research what makes a good typeface for a long document like a fiction novel.</li>
+	<li>Get the text of <a href="http://www-2.cs.cmu.edu/~spok/grimmtmp/" title="Get the text for your fairy tale." target="_blank">your fairy tale</a>.</li>
+	<li>Typeface selection</li>
 	<li>Page sketches on paper</li>
 	<li>Stylistic elements development</li>
+	<li>Get my approval on your design</li>
 	<li>Build the final product</li>
 </ol>
 
