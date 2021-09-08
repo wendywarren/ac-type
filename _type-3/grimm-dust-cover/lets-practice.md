@@ -30,7 +30,7 @@ The last item is the block of body copy. It'll be at text size, say 9 to 11 poin
 Once you're done, save your work, then export it as a PDF file.
 
 <span class="brightspace">
-<a href="https://brightspace.algonquincollege.com/d2l/home" title="Submit your PDF on BrightSpace">Submit your PDF here.</a></span>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351623&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">Submit your PDF here.</a></span>
 
 We'll do a quick critique of the result.
 
