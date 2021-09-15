@@ -106,6 +106,7 @@ a:focus { outline: 2px solid black; }
 	font-family: "FiraSans-Medium";
 }
 
+.text-align-center { text-align: center; }
 .text-align-right { text-align: right; }
 
 em, italic, .italic
@@ -290,7 +291,6 @@ h2 { font-size: 1.2rem; }
 
 .brightspace
 {
-	text-align: center;
 	font-family: FiraSans-Medium;
 }
 
@@ -484,6 +484,8 @@ nav span { padding-right: 2rem; }
 {
 	background: #EBEBEB;
 	text-align: left;
+	font-style: normal;
+	font-weight: normal;
 	font-family: "FiraMono-Medium";
 	padding: .25rem;
 }
