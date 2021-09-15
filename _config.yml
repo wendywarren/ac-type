@@ -16,6 +16,8 @@ exclude:
   - Gemfile.lock
 
 collections:
+  posts:
+    output: true
   type-3:
     output: true
   type-4:
