@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-assignment-1-subpage-the-design-stage
+serial: level-3-assignment-2-subpage-lay-out-ingredients
 ---
 ### Style Board
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-serial: level-3-assignment-2-subpage-designing-our-grid
+serial: level-3-assignment-3-subpage-designing-our-grid
 ---
 ### The Perfect Page 
 
@@ -13,3 +13,7 @@ We'll draw this grid together.
 Using these guides, no matter the dimensions of the pages, the margins will always have the same ratio. This creates margins with a ratio of: inner margin 2, top margin 3, outer margin 4, and bottom margin 6, or 2:3:4:6. We can also express this as 1/9 and 2/9 of the page.
 
 There are other page layout canons. You can [see them here](https://en.wikipedia.org/wiki/Canons_of_page_construction){:target="_blank"}.
+
+We'll draw a grid on given page dimensions today.
+
+<span class="brightspace"><a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351635&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your zipped package on BrightSpace" target="_blank">Submit your zipped package here.</a></span>

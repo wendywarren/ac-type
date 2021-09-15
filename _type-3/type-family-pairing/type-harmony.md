@@ -42,4 +42,6 @@ Are there differences you've noticed? You can note those too if you have doubts 
 
 Please make sure your document is error-free. Having a second person carefully read it is a good idea.
 
+Only source fonts from Adobe Fonts.
+
 **Two students will present their findings to the group at the start of each class.**

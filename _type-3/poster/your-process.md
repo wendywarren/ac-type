@@ -1,10 +1,10 @@
 ---
 layout: default
-serial: level-3-assignment-3-subpage-your-process
+serial: level-3-assignment-1-subpage-your-process
 ---
 ### Creative Process
 
-Once you've chosen your type family, you should explore its glyph complement, its *repertoire*. You can see this in the Glyphs panel in either InDesign or Illustrator. You can even filter through glyphs by category. [<a href="https://helpx.adobe.com/indesign/using/glyphs-special-characters.html" class="mono" >support link</a>] Hopefully there'll be some beauties in there you can highlight on your poster.
+Once you've chosen your type family, you should explore its glyph complement, its *repertoire*. You can see this in the Glyphs panel in either InDesign or Illustrator. You can even filter through glyphs by category. [<a href="https://helpx.adobe.com/indesign/using/glyphs-special-characters.html">support link</a>] Hopefully there'll be some beauties in there you can highlight on your poster.
 
 #### Thumbnails
 
@@ -31,3 +31,16 @@ Remember our lesson from semester one. When you type short bits of text, use poi
 You'll know if you have point type in Illustrator if the bounding box has an empty cicle on it vs an solid one. Of course, InDesign only has area type -- no point type.
 
 It's a good idea to set up paragraph styles in either application so you can make quick changes with more consistency and fewer errors.
+
+### Design Approval
+
+Create a single-page PDF mood board. If we were cooking, this would be all the ingredients laid out on the counter. From them, we could see what the dish will be. It should include:
+
+<ul class="hasBullets">
+	<li>colour swatches</li>
+	<li>type specimens</li>
+	<li>a small sample of the type treatment</li>
+</ul>
+
+<span class="brightspace">
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351628&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">Submit your PDF here.</a></span>

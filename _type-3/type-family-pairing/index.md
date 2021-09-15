@@ -42,9 +42,9 @@ Matching up two typefaces is a bit of a dark art. Some go on instinct and experi
 
 What often happens is that you're given the first family. That way, you only need to find a typeface to pair with it. Let's say you're given Lubalin Graph to start with. It's a geometric slab serif.
 
-![Lubalin paired with Futura]({{site.url}}/svg/lubalin-futura-pairing.svg "Lubalin paired with Futura"){:width="800px"}
+![Lubalin paired with Avant Garde]({{site.url}}/svg/lubalin-avant-garde-pairing.svg "Lubalin paired with Avant Garde"){:width="800px"}
 
-Which font are geometric sans-serifs? There's Futura, for sure. There's also Avant Guard. That's the font that Lubalin was based on. We've chosen Futura above.
+Which font are geometric sans-serifs? There's Futura, for sure. There's also Avant Guard. That's the font that Lubalin was based on. We've chosen Avant Garde above.
 
 ### What to Avoid?
 
