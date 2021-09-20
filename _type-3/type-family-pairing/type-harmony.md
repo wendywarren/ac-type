@@ -7,6 +7,7 @@ Choose a family from the list below. You're going to use this one as your first 
 Build a letter-sized layout with a type treatment which includes the two families. Use limited colour.
 
 <ul class="hasBullets columns3">
+	<li><a href="https://fonts.adobe.com/fonts/abril" title="Abril" target="_blank">Abril</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/acumin" target="_blank" title="Acumin">Acumin</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/arno" target="_blank" title="Arno">Arno</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/itc-avant-garde-gothic" target="_blank" title="Avant Garde">Avant Garde</a></li>
@@ -18,16 +19,20 @@ Build a letter-sized layout with a type treatment which includes the two familie
 	<li><a href="https://fonts.adobe.com/fonts/century-old-style" target="_blank" title="Century Old Style">Century Old Style</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/chaparral" target="_blank" title="Chaparral">Chaparral</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/charlemagne" target="_blank" title="Charlemagne">Charlemagne</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/clarendon-urw" title="Clarendon URW" target="_blank">Clarendon URW</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/cooper-black" target="_blank" title="Cooper Black">Cooper Black</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/franklin-gothic-urw" target="_blank" title="Franklin Gothic">Franklin Gothic</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/futura-pt" target="_blank" title="Futura">Futura</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/garamond-premier" target="_blank" title="Adobe Garamond">Adobe Garamond</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/goudy-old-style" title="Goudy Old Style" target="_blank">Goudy Old Style</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/adobe-jenson" target="_blank" title="Adobe Jenson">Adobe Jenson</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/kepler" target="_blank" title="Kepler">Kepler</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/minion" target="_blank" title="Minion">Minion</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/myriad" target="_blank" title="Myriad">Myriad</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/neue-haas-grotesk" target="_blank" title="Neue Haas Grotesk">Neue Haas Grotesk</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/news-gothic" target="_blank" title="News Gothic">News Gothic</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/news-gothic" target="_blank" title="News Gothic">News Gothic</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/itc-officina-sans" title="ITC Officina" target="_blank">ITC Officina</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/utopia" target="_blank" title="Utopia">Utopia</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/warnock" target="_blank" title="Warnock">Warnock</a></li>
 </ul>
