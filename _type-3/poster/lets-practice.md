@@ -21,16 +21,32 @@ Activate your chosen type family. Create an Illustrator page. Let's try a square
 
 Choose your own topic for your layout. I'm going to choose a title *Man's Best Friend*. A sub-title *Are dogs really man's best friend? How did this come to be?* Then a block of body copy. We can use Lorem Ipsum.
 
-The whole idea of the ad hoc grid is that we set one page element after another, starting with the most important. So let's set the title. Remember, you're working with size, weight, italics, greys (no colour) and more.
+The whole idea of the ad hoc grid is that we set one page element after another, starting with the most important. So let's set the title.
+
+These are some variables you can work with:
+
+<ul class="hasBullets columns3">
+	<li>size</li>
+	<li>weight</li>
+	<li>width</li>
+	<li>case</li>
+	<li>greys</li>
+	<li>strokes</li>
+	<li>columns</li>
+	<li>diagonal</li>
+	<li>italics</li>
+	<li>reversed</li>
+</ul>
+
 
 Now we'll set the sub-title. It needs to appear noticeably less important than the title. Alignment is important here. That's the ad hoc grid at work.
 
-The last item is the block of body copy. It'll be at text size, say 9 to 11 points at the very largest.
+The last item is the block of body copy. Make sure to set proper leading and reasonable hyphenation.
 
-Once you're done, save your work, then package the Illlustrator document including a PDF file.
+Once you're done, save your work, save a copy of your file as a Print Ready PDF file.
 
 Submit your <span class="brightspace">
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351623&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">zipped Illustrator package</a></span>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351623&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">PDF file</a></span>
 
 We'll do a quick critique of the result.
 
