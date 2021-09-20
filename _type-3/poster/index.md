@@ -22,6 +22,6 @@ These are pretty simple.
 
 <ul class="hasBullets">
 	<li>Dimensions: 24" x 36" plus ⅛" bleed</li>
-	<li>Colour: 2 spot colours</li>
+	<li>Colour: Four Colour Process (full colour)</li>
 	<li>Illustrator or InDesign are your tools of choice. *No Photoshop!*</li>
 </ul>
