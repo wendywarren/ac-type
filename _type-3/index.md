@@ -21,14 +21,6 @@ Proficient typesetting allows a designer to compose and structure complex passag
 
 Deborah Buck has retired. Ahmed El-Badri is your new Student Success Specialist. His email is <a href="mailto:elbadra@algonquincollege.com" title="Contact Ahmed via email">elbadra@algonquincollege.com</a>
 
-### Program Notes
-
-We'll be registering you with your Professional Association, the <a href="https://rgd.ca" title="Registered Graphic Designers of Ontario">RGD</a>. You'll receive e-mail communications in the coming weeks.
-
-> Remember to get back on Slack
-
-The winter semester program delivery will be face-to-face, with possible modifications. Stay tuned for more news from college leadership.
-
 ### Course Logistics
 
 You can navigate all the semester's assignments to explore what you'll be learning. All course content is on this site. It includes theory, lesson instructions, examples and file downloads.
