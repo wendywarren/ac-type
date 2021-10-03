@@ -64,26 +64,6 @@
 	{% endif %}
 	</div>
 	<div>
-	{% if page.serial contains "home" and page.serial contains "assignment" %}
-	<ul class="links">
-<!-- 
-		<li class="links"><a href="{% assign allDownloads = site.data.assignments %}
-		{% for entry in allDownloads %}
-		{% if page.serial == entry.serial %} 
-			{{ entry.download }}
-		{% endif %} 
-		{% endfor %}"><svg width="40" height="40" viewBox="0 0 24 24"><style>.mediumgrey{fill:rgb(153, 153, 153)}.mediumgrey:hover {
-fill:rgb(41, 151, 255, 1);
-}</style><path d="M19.479 10.092c-.212-3.951-3.473-7.092-7.479-7.092-4.005 0-7.267 3.141-7.479 7.092-2.57.463-4.521 2.706-4.521 5.408 0 3.037 2.463 5.5 5.5 5.5h13c3.037 0 5.5-2.463 5.5-5.5 0-2.702-1.951-4.945-4.521-5.408zm-7.479 6.908l-4-4h3v-4h2v4h3l-4 4z" class="mediumgrey" /></svg></a></li>
- -->
-		{% for pinterests in site.data.assignments %}
-		{% if page.serial == pinterests.serial %}
-		<li class="links">
-		<a href="{{ pinterests.pinterest }}"><svg id="icon-pinterest" width="40" height="40" viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12c0 5.1 3.2 9.4 7.6 11.2-.1-.9-.2-2.4 0-3.4.2-.9 1.4-6 1.4-6s-.3-.8-.3-1.8c0-1.7 1-2.9 2.2-2.9 1 0 1.5.8 1.5 1.7 0 1-.7 2.6-1 4-.3 1.2.6 2.2 1.8 2.2 2.1 0 3.8-2.2 3.8-5.5 0-2.9-2.1-4.9-5-4.9-3.4 0-5.4 2.6-5.4 5.2 0 1 .4 2.1.9 2.7.1.1.1.2.1.3l-.3 1.4c-.1.2-.2.3-.4.2-1.5-.7-2.4-2.9-2.4-4.6 0-3.8 2.8-7.3 7.9-7.3 4.2 0 7.4 3 7.4 6.9 0 4.1-2.6 7.5-6.2 7.5-1.2 0-2.4-.6-2.8-1.4l-.7 2.9c-.3 1-1 2.4-1.5 3.1 1 .3 2.2.5 3.4.5 6.6 0 12-5.4 12-12S18.6 0 12 0z" class="mediumgrey"/></svg></a></li>
-		{% endif %}
-		{% endfor %}
-	</ul>
-	{% endif %}
 	{% if page.serial contains 'home' and page.serial contains 'assignment' %}
 	<h2>Outcomes</h2>
 	<p>By the time you've completed this assignment, you will have learned to:</p>
@@ -99,44 +79,6 @@ fill:rgb(41, 151, 255, 1);
 	<h2>The Brief</h2>
 	{% endif %}
 	{{ content }}
-	{% if page.serial contains 'deliverables' %} 
-	<h3>File Naming & Packaging</h3>
-	<p>
-		When you package your project, always ensure you include a PDF file in the packaging process. The folder should be named, as should be the layout file itself.	Name your project submission files and folder as follows:
-	</p>
-	<p>
-		Last Name, First Name, Group Number, Assignment Name.indd
-	</p>
-	<p>
-		so,
-	</p>
-	<p class="bold">
-		appleseed-johnny-010-assignment-name.indd
-	</p>
-	<h3>Grading Criteria</h3>
-	<ul class="hasBullets">
-	{% assign allCriteria = site.data.assignments %}
-	{% for entry in allCriteria %}
-		{% for item in entry.pages %}
-			{% for object in item.criteria %}
-				{% if page.serial == item.serial %} 
-					<li>{{ object.criterium }}</li>
-				{% endif %}
-			{% endfor %}
-		{% endfor %}
-	{% endfor %}
-	</ul>
-	<ul>
-	{% assign allSubmissions = site.data.assignments %}
-	{% for entry in allSubmissions %}
-	{% for item in entry.pages %}
-	{% if page.serial == item.serial %} 
-		<li class="brightspace"><a href="{{ item.brightspace }}">Submit Here</a></li>
-	{% endif %}
-	{% endfor %}
-	{% endfor %}
-	</ul>
-	{% endif %}
 	</div>
 	</div>
 	{% include assignment-nav.html %}
