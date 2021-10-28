@@ -106,14 +106,21 @@ a:focus { outline: 2px solid black; }
 	font-family: "FiraSans-Medium";
 }
 
-.text-align-center { text-align: center; }
-.text-align-right { text-align: right; }
-
 em, italic, .italic
 {
 	font-weight: normal;
 	font-style: normal;
 	font-family: "FiraSans-LightItalic", Arial, Helvetica, sans-serif;
+}
+
+.command {
+	background: var(--lightgrey);
+	font-family: FiraMono-Medium;
+	font-style: normal;
+	font-size: .85rem;
+	padding: .2em;
+	border-radius: 4px;
+	border: 1px solid var(--mediumgrey);
 }
 
 blockquote
@@ -220,12 +227,19 @@ ul.hasBullets
 }
 
 ul.hasBullets li { text-indent: -1rem; }
-
 ul.hasBullets li:before
 {
 	content: "\27A4";
 	margin-right: 10px;
 	font-size: 0.5rem;
+}
+
+ul.hasBullets li.second { text-indent: .25rem; }
+
+ul.hasBullets li.second::before { 
+	content: "\2043";
+	margin-right: 10px;
+	font-size: 1rem;
 }
 
 ul > ul
@@ -289,17 +303,6 @@ h1,
 h2 { letter-spacing: -0.0312rem; }
 h2 { font-size: 1.2rem; }
 
-.brightspace
-{
-	font-family: FiraSans-Medium;
-}
-
-.brightspace:after
-{
-	content: "\2197";
-	margin-right: 10px;
-	font-size: 1rem;
-}
 
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * MAIN CONTENT AREA * * * * * * * * */
@@ -312,6 +315,7 @@ h2 { font-size: 1.2rem; }
 
 #content h3
 {
+	font-family: "FiraSans-Medium";
 	font-size: 1.1rem;
 	text-transform: uppercase;
 }
@@ -471,16 +475,17 @@ nav span { padding-right: 2rem; }
 	padding: 0;
 }
 
-.rubric
+table
 {
 	table-layout: fixed;
 	width: 100%;
 	white-space: nowrap;
 	border-spacing: .25rem;
-	margin-bottom: 1rem;
+	margin-bottom: 2rem;
+	margin-top: 2rem
 }
 
-.rubric th
+th
 {
 	background: #EBEBEB;
 	text-align: left;
@@ -495,7 +500,7 @@ th.column-3 { text-align: center; }
 .column-2 { max-width: 40%; }
 .column-3 { text-align: center; }
 
-.rubric td
+td
 {
 	white-space: nowrap;
 	padding: .25rem;
@@ -566,4 +571,5 @@ th.column-3 { text-align: center; }
 	{
 		margin-top: 1rem;
 	}
+
 }
