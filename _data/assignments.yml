@@ -9,6 +9,8 @@
   outcomes:
     - outcome: "Recognize the features of a typeface which determine its classification category."
     - outcome: "Research and organize historical typographic information."
+    - outcome: "Make the most of the glyphs in a given type family."
+    - outcome: "Implement a design with an ad hoc grid."
     - outcome: "Make the most of a type family's weights, widths at varied sizes and position on the page."
     - outcome: "Select and apply theme-appropriate colours."
     - outcome: "Use the appropriate software tools and techniques to build the page."
@@ -55,11 +57,12 @@
   url: type-3/grimm-dust-cover/index.html
   deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout. You'll work with limited type and colours to create a very graphic design."
   download: "https://www.dropbox.com/s/qtwu2cdf2xyd58y/type-3-grimm-dust-cover.zip?dl=1"
-  pinterest: "https://pin.it/5pucDHq"
+  pinterest:
   outcomes:
     - outcome: "Inventory, organize and prepare provided materials to use in a type-based design."
     - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
     - outcome: "Implement a design with an ad hoc grid."
+    - outcome: "Use type to symbolically express a concept."
     - outcome: "Devise type hierarchy for a single-page design."
     - outcome: "Create an context-appropriate and technically correct colour theme."
     - outcome: "Make a reasoned font pairing which suits a given context."
@@ -75,16 +78,16 @@
   # Subpages
   pages:
     - title: "Choosing Your Type"
-      serial: "level-3-assignment-2-choosing-your-type"
+      serial: "level-3-assignment-2-subpage-choosing-your-type"
       url: type-3/grimm-dust-cover/choosing-your-type.html
       deck: "You'll need two type families for this assignment. It's time to put your type pairing knowledge to work."
     - title: "Explore Your Space"
       serial: "level-3-assignment-2-subpage-explore-your-space"
       url: type-3/grimm-dust-cover/explore-your-space.html
       deck: "Some areas on the page will be reserved for given content. Others are yours to work with."
-    - title: "Lay Out Ingredients"
-      serial: "level-3-assignment-2-subpage-lay-out-ingredients"
-      url: type-3/grimm-dust-cover/lay-out-ingredients.html
+    - title: "Layout Ingredients"
+      serial: "level-3-assignment-2-subpage-layout-ingredients"
+      url: type-3/grimm-dust-cover/layout-ingredients.html
       deck: "This is where the rubber hits the road. The creativity takes place here. Create a style board that will communicate your design to the client."
     - title: "Build Your Design"
       serial: "level-3-assignment-2-subpage-build-your-design"
@@ -115,29 +118,25 @@
     - outcome: "Design a perfect page single-column grid using the van de Graaf Canon."
     - outcome: "Select a typeface for good legibility in a long document."
     - outcome: "Set justified type with proper hyphenation and no rivers."
-    - outcome: "Set type size, leading and spacing for a long document."
+    - outcome: "Set type size, leading and spacing for a long document in order to achieve good page colour."
     - outcome: "Use old style figures in an appropriate context and manner."
     - outcome: "Build running headers, and automatic page numbering in a page layout application."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages
   pages:
-    - title: "Designing Our Grid"
-      serial: "level-3-assignment-3-subpage-designing-our-grid"
-      url: type-3/grimms-pages/designing-our-grid.html
-      deck: "There are many formula for creating the single-column grid. Most of them are trash, myths. There are others which are actually useful. The first is the Van de Graaf Canon. Let's dive in!"
+    - title: "Anatomy of a Book"
+      serial: "level-3-assignment-3-subpage-anatomy-of-a-book"
+      url: type-3/grimms-pages/anatomy-of-a-book.html
+      deck: "These are elements commonly found in fiction novels. There are others. It all depends on the context of your book."
+    - title: "Page Design"
+      serial: "level-3-assignment-3-subpage-page-design"
+      url: type-3/grimms-pages/page-design.html
+      deck: "This is the guts of the project. It's where we determine the margins and the colour of the page."
     - title: "Type Selection"
       serial: "level-3-assignment-3-subpage-type-selection"
       url: type-3/grimms-pages/type-selection.html
       deck: "When choosing a type family for setting a book, we need to take both a microscopic and a big picture view of our choice."
-    - title: "Setting Justified Type"
-      serial: "level-3-assignment-3-subpage-setting-justified-type"
-      url: type-3/grimms-pages/setting-justified-type.html
-      deck: "This is the deck content for this page."
-    - title: "Stylistic Elements"
-      serial: "level-3-assignment-3-subpage-stylistic-elements"
-      url: type-3/grimms-pages/stylistic-elements.html
-      deck: "Fiction novels can have beautiful typographic treatments that can include ornamental glyphs, rules and more. That's what well design here."
     - title: "Putting It All Together"
       serial: "level-3-assignment-3-subpage-putting-it-all-together"
       url: type-3/grimms-pages/putting-it-all-together.html
