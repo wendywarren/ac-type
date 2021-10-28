@@ -8,7 +8,7 @@ Each of you will be given the name of a modern-day typographer. You'll research 
 	<li>General biographical information</li>
 	<li>A head-shot if possible</li>
 	<li>A synopsis of their career</li>
-	<li>Notable typefaces they've designed, with samples</li>
+	<li>Notable typefaces they've designed, with prominent samples on your page so we can see their designs and their style.</li>
 	<li>What was their approach, goal, their philosophy in their type design?</li>
 	<li>Their web site and social media handles, if possible</li>
 </ul>
