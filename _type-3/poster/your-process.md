@@ -44,3 +44,7 @@ Create a single-page PDF mood board. If we were cooking, this would be all the i
 
 <span class="brightspace">
 <a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351628&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">Submit your PDF here.</a></span>
+
+### Type Size
+
+Be sure to print a section of your poster at 100%. Check the size of the smallest text to ensure it's large enough to read from 2 metres away.
