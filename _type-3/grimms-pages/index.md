@@ -41,3 +41,13 @@ Your mockup will need to include:
 	<li>A block quote</li>
 	<li>A drop cap</li>
 </ul>
+
+### Real-World Context
+
+In the real world, there may be many players involved in designing a book. You could be doing this as an in-house designer for a publishing company. In other circumstances, you could be working directly for the author.
+
+Usually, the designer is provided a Word document with the manuscript. You would need to remove certain formatting from the Word document. It all depends on how it is produced. In this case, it's a good idea to work closely with the author so they format the text properly.
+
+In our case, we need to remove double paragraph breaks from our text. We'll be using a Space After setting instead.
+
+Before doing the layout for all the pages, we would supply a few representative pages to the client so they can sign-off on the design. That's what this project is going to be -- just those few pages.

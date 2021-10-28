@@ -1,0 +1,61 @@
+---
+layout: default
+serial: level-3-assignment-3-subpage-type-selection
+---
+Outline:
+  - Elements of Book Design
+    - Running heads
+    - [Front Matter](https://www.thebookdesigner.com/2021/09/self-publishing-basics-how-to-organize-your-books-front-matter/) & Back Matter
+    - Page Numbers (Folios)
+  - Page dimensions
+    - Grid construction
+    - Units of measure
+    - 25-35 lines of text per page.
+    - Consult the Info panel for stats.
+    - The printer will take care of creep.
+  - Page colour
+    - Justified type settings
+    - [Keep Options](https://www.thebookdesigner.com/2010/10/pagination-styles-shall-we-kill-the-widows-orphans/)
+    - Text composition -- widows & orphans
+    - H&J Highlighting.
+    - Story panel.
+  - Master Page setup
+    - Based-on Master Pages
+      - Text Pages
+      - Chapter Openings
+      - Front/Back Matter
+    - Folios
+      - Roman numerals for front matter.
+      - Arabic numbers for text pages.
+  - Type selection
+    - Use an Old Style typeface.
+    - x-height
+    - Character width
+  - How to turn on old style figures.
+  - How to use ligatures?
+    - What are discretionary ligatures?
+  - Widows & Orphans. What are they?
+Typefaces for Fiction Novels:
+  - Baskerville
+  - Calluna
+  - Caslon
+  - Chaparral
+  - Essonnes
+  - Expo Serif
+  - Filosofia
+  - Freight Text
+  - Galliard
+  - Garamond
+  - Goudy Old Style
+  - LTC Italian Old Style
+  - Jenson
+  - Kinesis
+  - Le Monde Journal
+  - Meta Serif
+  - Minion
+  - Plantin
+  - Sabon
+  - MVB Sirenne
+  - Utopia
+  - Verdigris Pro
+  - Warnock

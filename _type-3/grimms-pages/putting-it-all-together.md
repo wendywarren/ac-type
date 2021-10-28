@@ -4,16 +4,22 @@ serial: level-3-assignment-3-subpage-putting-it-all-together
 ---
 ### What's on the Board
 
-This is what we have put together to date:
+### Prepare Your Text
+
+Copy and paste the text from the web page to a text editor, not into InDesign. You'll want to use the Find/Change command in your text editor to remove:
 
 <ul class="hasBullets">
-	<li>our page grid</li>
-	<li>typeface selection</li>
-	<li>stylistic elements</li>
+	<li>double spaces</li>
+	<li>double paragraph breaks</li>
+	<li>any tab characters</li>
 </ul>
 
-We don't have colour selection to do, since we're working with only black ink.
+If ever your text happens to have giant, long paragraphs, find a logical spot to add a paragraph break.
 
-> The black ink in a novel is C0 M0 Y0 K100. It's only black ink. If you look closely (especially with a loupe), you can see that it's grey-ish on the page. That way, it's actually easier on the eyes. The contrast is too high on really black ink on super-white paper.
+Read through your story. When I read mine, there were question marks missing in the quotations. Also, add quotation marks throughout the text where people are speaking. This is how to apply them. Note where the punctuation is in the different examples.
 
-From here on in, it's just a matter of assembly. Now we become the production department.
+> "Birds of a feather flock together, let us remain together, and seek our way."
+
+> "I don't know that myself", answered the huntsman, "I have lost my way in the forest".
+
+See how the punctuation is sometimes on the inside of the quote marks and sometimes on the outside? If the whole sentence is a spoken one, the quotes go on the outside. If not, they go on the inside.
