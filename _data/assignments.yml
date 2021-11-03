@@ -115,20 +115,16 @@
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
-    - outcome: "Design a perfect page single-column grid using the van de Graaf Canon."
+    - outcome: "You've effectively created a balanced single-column grid using the economical approach."
     - outcome: "Select a typeface for good legibility in a long document."
     - outcome: "Set justified type with proper hyphenation and no rivers."
     - outcome: "Set type size, leading and spacing for a long document in order to achieve good page colour."
-    - outcome: "Use old style figures in an appropriate context and manner."
-    - outcome: "Build running headers, and automatic page numbering in a page layout application."
+    - outcome: "Use stylistic elements in an appropriate context and manner."
+    - outcome: "Use software tools effectively to build pages for a long document."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages
   pages:
-    - title: "Anatomy of a Book"
-      serial: "level-3-assignment-3-subpage-anatomy-of-a-book"
-      url: type-3/grimms-pages/anatomy-of-a-book.html
-      deck: "These are elements commonly found in fiction novels. There are others. It all depends on the context of your book."
     - title: "Page Design"
       serial: "level-3-assignment-3-subpage-page-design"
       url: type-3/grimms-pages/page-design.html
@@ -140,18 +136,12 @@
     - title: "Putting It All Together"
       serial: "level-3-assignment-3-subpage-putting-it-all-together"
       url: type-3/grimms-pages/putting-it-all-together.html
-      deck: "This is the deck content for this page."
+      deck: "We have all our ingredients, now it's time to cook the dish. The design is done. Now the technical work begins."
     - title: "Deliverables"
       serial: "level-3-assignment-3-subpage-deliverables"
       url: type-3/grimms-pages/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-      criteria:
-        - criterium: "You've effectively created a balanced single-column grid using the van de Graaf Canon."
-        - criterium: "Your typeface selection promotes legibility specifically for a long document."
-        - criterium: "You've successfully set type in the context of a long document."
-        - criterium: "You've implemented the software goals listed in the course outcomes."
-        - criterium: "You've submitted files as directed, ready for print."
 
 # [3] Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Publication"
@@ -540,6 +530,12 @@
       serial: level-3-type-trivia-subpage-fat-faces
       url: type-trivia/fat-faces.html
       deck: "Fat face typefaces are like Moderns on steroids — even more extreme contrast."
+    - title: "Oldstyle Figures"
+      serial: level-3-type-trivia-subpage-oldstyle-figures
+      url: type-trivia/oldstyle-figures.html
+      deck: "Oldstyle figures blend into running text better than tabular lining."
+
+      
 
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

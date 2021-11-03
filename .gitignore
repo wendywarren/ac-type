@@ -15,10 +15,10 @@ _site/
 .DS_Store
 .AppleDouble
 .LSOverride
+Desktop.ini
 
 # Icon must end with two \r
 Icon
-
 
 # Thumbnails
 ._*
@@ -38,3 +38,56 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Vendor files
+node_modules
+npm-debug.log
+vendor
+
+# Jekyll
+_site
+.jekyll-metadata
+
+# Temporary files
+tmp
+
+# Adobe files
+*.ai
+*.psd
+*.indd
+*.indb
+
+# Compressed files
+*.zip
+*.gz
+*.tar
+*.7z
+
+# Type faces
+*.otf
+*.ttf
+*.woff
+*.eot
+*.ttc
+
+# Video & audio
+*.mov
+*.mp4
+*.m4v
+*.f4v
+*.f4p
+*.ogv
+*.webm
+*.flv
+*.mp3
+*.m4a
+*.f4a
+*.f4b
+*.oga
+*.ogg
+*.opus
+
+
+# Thumbnail cache files
+._*
+Thumbs.db

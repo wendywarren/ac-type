@@ -2,7 +2,9 @@
 layout: default
 serial: level-3-assignment-3-subpage-page-design
 ---
-### The Perfect Page 
+### Design Your Page
+
+#### Option #1: The Perfect Page 
 
 There are many formula for creating the single-column grid. Most of them are trash, myths. There are others which are actually useful. The first is the Van de Graaf Canon. Let's dive in!
 
@@ -16,15 +18,24 @@ Using these guides, no matter the dimensions of the pages, the margins will alwa
 
 There are other page layout canons. You can [see them here](https://en.wikipedia.org/wiki/Canons_of_page_construction){:target="_blank"}.
 
-We'll draw a grid on given page dimensions today.
+We'll draw a grid on given page dimensions.
 
-<span class="brightspace"><a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351635&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your zipped package on BrightSpace" target="_blank">Submit your zipped package here.</a></span>
+#### Option #2: The Economical Approach
+
+Here, we're going to take a more practical approach to our page layout. All we need is enough margins to accommodate the binding on the inside, our thumbs on the outside, running headers at the top and folios at the bottom.
+
+![Example of a single-column grid]({{site.url}}/svg/economical-layout.svg "Example of a single-column grid")
+
 
 ### The Colour of the Page
 
 The phrase *colour of the page* doesn't literally refer to colour itself. It refers to what the page looks like if you print one, hold it at arm's length, then blur your vision. How light or dark grey is the page? The density of the content is the colour of the page. There are many factors that affect page colour, type selection, type weight, leading and letter-spacing. See some examples in this PDF.
 
 [![See the colour of the page in this PDF file.]({{site.url}}/svg/button-download-pdf.svg "See the colour of the page in this PDF file."){:width="200px"}](https://www.dropbox.com/s/b3zqqafvrb8jv8e/colour-of-the-page.pdf?dl=1)
+
+> Your page should have 25 to 32 lines of text. Consult the Info panel for the numbers.
+
+The goal is to create a harmonious page, free of distracting graphic elements.
 
 #### Composition
 
@@ -40,10 +51,16 @@ Set <span class="command">Single Word Justification</span> to <span class="comma
 
 These numbers are a starting point. They're not written in stone. They're better than what Adobe set as defaults, but if they don't work for you, adjust them.
 
+![InDesign Composition Highlighting]({{site.url}}/svg/indesign-composition-highlighting.svg "InDesign Composition Highlighting."){:width="320px"}
+
+You'll know you're settings are incorrect if there is yellow highlighting on your InDesign pages. You can see bad and good justified text in the PDF file linked below.
+
+[![See good vs bad Justification.]({{site.url}}/svg/button-download-pdf.svg "See good vs bad Justification."){:width="200px"}](https://www.dropbox.com/s/tceqy4n160vpwsn/good-vs-bad-justification.pdf?dl=1)
+
+
 #### Rivers
 
 Rivers are unfortunate spaces which vertically span lines of text. They're mostly a thing of the past. InDesign takes care of this for us. [This is what they look like](http://www.edgee.net/wp-content/uploads/2014/05/justified_rivers.png){:target="_blank"}, just in case.
-
 
 #### Hyphenation
 
