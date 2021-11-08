@@ -1,7 +1,7 @@
 :root
 {
 	/* Colours */
-	--orange100: rgb(242, 101, 34);
+	--orange: rgb(242, 101, 34);
 	--orange75: rgb(242, 101, 34, 0.75);
 	--orange50: rgb(242, 101, 34, 0.5);
 	--orange33: rgb(242, 101, 34, 0.33);
@@ -20,6 +20,8 @@ html
 	color: #000000;
 	font-weight: normal;
 	font-family: "FiraSans-Light", Arial, Helvetica, sans-serif;
+	font-variant-numeric: oldstyle-nums;
+	font-variant-numeric: slashed-zero;
 }
 
 body
@@ -68,7 +70,7 @@ img
 {
 	border: 0px solid rgba(100, 100, 100, 1);
 	display: block;
-	margin: 1rem auto;
+	margin: 3rem auto;
 	max-width: 100%;
 }
 
@@ -98,6 +100,7 @@ a:focus { outline: 2px solid black; }
 }
 
 .blue { color: var(--blue); }
+.orange { color: var(--orange); }
 
 .bold, bold
 {

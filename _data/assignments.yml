@@ -143,14 +143,13 @@
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 
-# [3] Newsletter # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-- title: "Publication"
-  url: type-3/newsletter/index.html
+# [3] Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+- title: "Magazine Design"
+  url: type-3/magazine/index.html
   point-value: 20
-  serial: "level-3-assignment-4-home"
+  serial: "level-3-magazine-assignment-home"
   deck: "With this assignment, we increase the complexity of our layouts. We'll design a modular grid, type and image treatments."
   download:
-  pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
     - outcome: "Inventory, organize and prepare provided materials to use in a type-based design."
     - outcome: "Design and construct a modular grid for a multi-page publication."
@@ -165,32 +164,24 @@
   # Subpages
   pages:
     - title: "Gridify Our Page"
-      serial: "level-3-assignment-4-subpage-gridify-our-page"
-      url: type-3/newsletter/gridify-our-page.html
-      deck: "This is the text for the deck for the Newsletter assignment."
-    - title: "Type Selection"
-      serial: "level-3-assignment-4-subpage-type-selection"
-      url: type-3/newsletter/type-selection.html
-      deck: "This is the text for the deck for the Newsletter assignment."
-    - title: "Type Hierarchy"
-      serial: "level-3-assignment-4-subpage-type-hierarchy"
-      url: type-3/newsletter/type-hierarchy.html
-      deck: "This is the text for the deck for the Newsletter assignment."
-    - title: "Page Element Design"
-      serial: "level-3-assignment-4-subpage-page-element-design"
-      url: type-3/newsletter/page-element-design.html
-      deck: "This is the text for the deck for the Newsletter assignment."
+      serial: "level-3-magazine-subpage-gridify-our-page"
+      url: type-3/magazine/gridify-our-page.html
+      deck: "This is the text for the deck for the magazine assignment."
+    - title: "Your Type System"
+      serial: "level-3-magazine-subpage-your-type-system"
+      url: type-3/magazine/your-type-system.html
+      deck: "Design a type system that can accommodate any content you may encounter in your magazine page layout."
     - title: "Assembly Work"
-      serial: "level-3-assignment-4-subpage-assembly-work"
-      url: type-3/newsletter/assembly-work.html
-      deck: "This is the text for the deck for the Newsletter assignment."
+      serial: "level-3-magazine-subpage-assembly-work"
+      url: type-3/magazine/assembly-work.html
+      deck: "This is the text for the deck for the magazine assignment."
     - title: "Deliverables"
-      serial: "level-3-assignment-4-subpage-deliverables"
-      url: type-3/newsletter/deliverables.html
+      serial: "level-3-magazine-subpage-deliverables"
+      url: type-3/magazine/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
-        - criterium: "This is the first criterium for the Newsletter assignment."
+        - criterium: "This is the first criterium for the Magazine assignment."
         - criterium: "You've submitted files as directed, ready for print."
 
 # [4] Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -297,11 +288,11 @@
         - criterium: "You've submitted files as directed, ready for print."
         
 
-# [7] Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# [7] Publication # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Magazine"
   serial: "level-4-assignment-4-home"
-  url: type-4/magazine/index.html
-  deck: "This is the deck for the Magazine assignment in Type 4."
+  url: type-4/publication/index.html
+  deck: "This is the deck for the Publication assignment in Type 4."
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
@@ -312,19 +303,19 @@
   pages:
     - title: "First Subpage"
       serial: "level-4-assignment-4-subpage-1"
-      url: type-4/magazine/subpage1.html
+      url: type-4/publication/subpage1.html
       deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Second Subpage"
       serial: "level-4-assignment-4-subpage-2"
-      url: type-4/magazine/subpage2.html
+      url: type-4/publication/subpage2.html
       deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Third Subpage"
       serial: "level-4-assignment-4-subpage-3"
-      url: type-4/magazine/subpage3.html
+      url: type-4/publication/subpage3.html
       deck: "This is the deck for the Magazine assignment in Type 4."
     - title: "Deliverables"
       serial: "level-4-assignment-4-subpage-deliverables"
-      url: type-4/magazine/deliverables.html
+      url: type-4/publication/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:

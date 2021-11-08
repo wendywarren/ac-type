@@ -1,28 +1,11 @@
 ---
 layout: default
-serial: level-3-assignment-3-subpage-putting-it-all-together
+serial: level-3-magazine-subpage-assembly-work
 ---
 ### Prepare Your Text
 
-Copy and paste <a href="http://www-2.cs.cmu.edu/~spok/grimmtmp/" title="Get the text for your fairy tale." target="_blank">the text from the web page</a> to a text editor or into InDesign. You'll want to use the Find/Change command in your text editor to remove:
+Be sure to remove double spaces, double paragraph breaks, any useless tab characters and any other text elements that don't need to be there
 
-<ul class="hasBullets">
-	<li>double spaces</li>
-	<li>double paragraph breaks</li>
-	<li>any tab characters</li>
-</ul>
-
-If ever your text happens to have giant, long paragraphs, find a logical spot to add paragraph breaks as needed.
-
-Read through your story. When I read mine, there were question marks missing in the quotations. Also, add quotation marks throughout the text where people are speaking. This is how to apply them. Note where the punctuation is in the different examples.
-
-> "Birds of a feather flock together, let us remain together, and seek our way."
-
-> "I don't know that myself", answered the huntsman, "I have lost my way in the forest".
-
-See how the punctuation is sometimes on the inside of the quote marks and sometimes on the outside? If the whole sentence is a spoken one, the quotes go on the outside. If not, they go on the inside.
-
-You're going to use all the text from your story. Let it take as many pages as necessary. If you have a few lines of text left at the end, send them to an overset text frame.
 
 ### InDesign Work
 
@@ -45,3 +28,17 @@ Now you need to set up text frames on Parent Pages and style sheets.
 	<li>Create Character Styles only for italics and bold text.</li>
 	<li>Have no more than one consecutive paragraph break in the whole document.</li>
 </ul>
+
+### Story Jumps and Enders
+
+When a story jumps from one page to another, we need to direct the reader to the story's continuation. This is where the story jump becomes useful.
+
+![Story Jumps]({{site.url}}/svg/story-jumps.svg "Story Jumps"){:width="650px"}
+
+[![Story jumps video tutorial]({{site.url}}/svg/button-youtube.svg "Story jumps video tutorial"){:width="200px"}](https://www.youtube.com/watch?v=_dkUnuqcoyg)
+
+We also need to indicate when the story ends. This is where we can insert a small graphic to indicate the story does not continue on another page.
+
+![Story Enders]({{site.url}}/svg/story-ender.svg "Story Enders"){:width="280px"}
+
+[![Story jumps video tutorial]({{site.url}}/svg/button-youtube.svg "Story jumps video tutorial"){:width="200px"}](https://www.youtube.com/watch?v=kL9yGfVE0qM)

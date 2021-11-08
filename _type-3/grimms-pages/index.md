@@ -40,6 +40,8 @@ Typefaces for Fiction Novels:
 	<li>Build the final product</li>
 </ol>
 
+[![Submit your type choice.]({{site.url}}/svg/button-submit-type-choice.svg "Submit your type choice."){:width="320px"}](https://forms.office.com/r/xDC77zxwSK)
+
 ### Project Parameters
 
 <ul class="hasBullets">
@@ -62,11 +64,13 @@ Typefaces for Fiction Novels:
 ### InDesign Tools
 
 <ul class="hasBullets">
+	<li><a href="https://youtu.be/o0aubQ4T2_Y" title="Video tutorial for Find/Change in InDesign" target="_blank">Video Tutorial</a>: Remove all double paragraph breaks and double spaces from your text.</li>
 	<li>Create Parent Pages based on a base Parent Page, if needed.</li>
 	<li><a href="https://www.youtube.com/watch?v=TUBfSw84wt8" title="Video tutorial for creating automatic page numbers in InDesign" target="_blank">Video Tutorial</a>: Automatic page numbers on Parent Pages.</li>
 	<li><a href="https://www.youtube.com/watch?v=fYPXkHnawN0" title="Video tutorial for creating Running Headers in InDesign" target="_blank">Video Tutorial</a>: Create a Running Header for the chapter title.</li>
 	<li>Create Paragraph Styles for each of the text styles.</li>
 	<li><a href="https://youtu.be/4Npyv18YZag" title="Video tutorial for creating paragraph styles in InDesign" target="_blank">Video Tutorial</a>: Create a parent paragraph style on which to base the other styles.</li>
+	<li><a href="https://www.youtube.com/watch?v=AKPclQr00ro" title="Video tutorial for creating Drop Caps in InDesign" target="_blank">Video Tutorial</a>: Create a drop cap on your chapter opening page.</li>
 	<li>Create Character Styles only for italics and bold text.</li>
 	<li>Have no more than one consecutive paragraph break in the whole document.</li>
 </ul>

@@ -4,21 +4,27 @@ serial: level-3-assignment-3-subpage-page-design
 ---
 ### Design Your Page
 
+#### Text Alignment
+
+This project will have you using left-justified type. If you look at the graphic below, you'll see that this is different than left-aligned text. With left-justified text, you have no rag. Only the last line of the paragraphs are left-aligned.
+
+![Text Alignment]({{site.url}}/svg/text-alignment.svg "Text Alignment"){:width="360px"}
+
+A large majority of the text you'll set in your career will be simply left-aligned. Some will be left-justified. The others are used less frequently, and only in specific contexts that require them.
+
 #### Option #1: The Perfect Page 
 
 There are many formula for creating the single-column grid. Most of them are trash, myths. There are others which are actually useful. The first is the Van de Graaf Canon. Let's dive in!
 
 J.A. van de Graaf created the Van de Graaf Canon. This is a formula to create a harmonious single-column pages.
 
-We'll draw this grid together.
+  **We're not going to use this type of grid.** I just want you to be aware of it.
 
 ![Example of a single-column grid]({{site.url}}/svg/van-de-graaf-canon.svg "Example of a single-column grid")
 
 Using these guides, no matter the dimensions of the pages, the margins will always have the same ratio. This creates margins with a ratio of: inner margin 2, top margin 3, outer margin 4, and bottom margin 6, or 2:3:4:6. We can also express this as 1/9 and 2/9 of the page.
 
 There are other page layout canons. You can [see them here](https://en.wikipedia.org/wiki/Canons_of_page_construction){:target="_blank"}.
-
-We'll draw a grid on given page dimensions.
 
 #### Option #2: The Economical Approach
 
@@ -86,39 +92,3 @@ This will make text on the left margin hang out of the text frame to create an o
 #### Widows & Orphans
 
 We can use InDesign's settings to get rid of *most* widows and orphans. The rest we must fix manually. We'll explore <span class="command">Keep Options</span> in your Paragraph Style for the body copy.
-
-### Stylistic Elements
-
-#### Ornaments
-
-![Wood Type Ornament]({{site.url}}/svg/ornaments.svg){:width="180px"}
-
-Ornaments are actually glyphs that are part of a font. The simplest way to choose one is to select a font, then open the glyphs panel to get a list. A majority of fonts don't have ornaments. They're a lot of work for the typographer to design.
-
-If you want to see an impressive array of ornaments, take a gander at [this PDF with details on the Warnock family](https://www.adobe.com/content/dam/acom/en/products/type/pdfs/WarnockPro.pdf){:target="_blank"}. Be sure to read how the story of the typeface began in the PDF. It'll surely bring a tear to your eye.
-
-Depending on the context, ornaments can create a visual break in reading and enhance the appearance of our pages.
-
-#### Alternates
-
-![Alternate Characters]({{site.url}}/svg/alternates.svg){:width="180px"}
-
-Stylistic alternates can add elegance or ease-of-reading to our text. Conversely, we need to careful that they're not more of a distraction.
-
-#### Ligatures
-
-![Sample Ligature]({{site.url}}/svg/ligatures.svg){:width="240px"}
-
-Ligatures can ease flow when reading. As with alternates, they can be distracting.
-
-#### Old Style Figures
-
-![Old Style Figures]({{site.url}}/svg/old-style-figures.svg){:width="180px"}
-
-Old style figures, also known as non-lining figures are shifted relative to the baseline. These figures add style and legibility to numbers. There's more differentiation between digits.
-
-#### By the way...
-
-This is what I meant by distracting ligatures.
-
-![This is a distracting ligature.]({{site.url}}/svg/distractions.svg){:width="320px"}
