@@ -28,8 +28,12 @@ program-links:
     url: "https://cg.algonquindesign.ca/"
   - name: "Book an Appointment"
     url: "https://outlook.office365.com/owa/calendar/AlgonquinCollegeGraphicDesign@AlgonquinLivecom.onmicrosoft.com/bookings"
-college-links:
+  - name: "Assessment"
+    url: "https://cg.algonquindesign.ca/administration/assessment.html"
+other-links:
   - name: "Centre for Accessible Learning"
     url: "https://www.algonquincollege.com/cal"
   - name: "Peer Tutoring"
     url: "https://algonquincollege.libguides.com/slc/peer-tutoring"
+  - name: "Ergonomics"
+    url: "https://support.apple.com/en-ca/HT205655"
