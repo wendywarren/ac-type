@@ -14,21 +14,19 @@ We must still have something with good readability. A tall x-height is good. A b
 
 #### Your Sans-Serif
 
-Here you want something with some real punch. It should really have impact.
+Here you want something with some real punch. It should really have impact. Also, choose a large family so you have options when designing titles.
 
 ### Hierarchy
 
-Hierarchy helps us differentiate different types of content. Size is not the only way to differentiate type, making some more and some less *important*.
+Hierarchy helps us differentiate various types of content. Size is not the only way to achieve this differentiation, making some more and some less important.
 
 ![Hierarchy]({{site.url}}/svg/hierarchy.svg "Hierarchy"){:width="320px"}
 
-We can use type weight, width, size, capitals colour, italics. We can have reversed type. There are so many options!
+We can use type weight, width, size, capitals, colour, italics. We can have reversed type. There are so many options!
 
 ### Hierarchy, but with finess
 
-We need clear differentiation between elements, but it can be done with *some* subtlety.
-
-All these pieces of type are the same size!
+We need clear differentiation between elements, but it can be done with *some* subtlety. All these pieces of type are the same size!
 
 ![Subtle Hierarchy]({{site.url}}/svg/hierarchy-subtle.svg "Subtle Hierarchy"){:width="320px"}
 

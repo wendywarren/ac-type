@@ -477,10 +477,6 @@
       serial: level-3-type-trivia-subpage-ampersand
       url: type-trivia/ampersand.html
       deck: "The venerated and elegant ampersand has a really fun history involving primary school children."
-    - title: "Arabic Numerals"
-      serial: level-3-type-trivia-subpage-arabic-numerals
-      url: type-trivia/arabic-numerals.html
-      deck: "The digits we use every day in the western world are actually called arabic numerals. Who knew?"
     - title: "Grotesque Fonts"
       serial: level-3-type-trivia-subpage-grotesque-fonts
       url: type-trivia/grotesque-fonts.html
@@ -500,7 +496,7 @@
     - title: "Faux Small Caps"
       serial: level-3-type-trivia-subpage-faux-small-caps
       url: type-trivia/faux-small-caps.html
-      deck: "What are faux small caps? How can I spot them?"
+      deck: "What are faux small caps? How can we spot them?"
     - title: "Auto Leading"
       serial: level-3-type-trivia-subpage-auto-leading
       url: type-trivia/auto-leading.html
@@ -525,8 +521,6 @@
       serial: level-3-type-trivia-subpage-oldstyle-figures
       url: type-trivia/oldstyle-figures.html
       deck: "Oldstyle figures blend into running text better than tabular lining."
-
-      
 
 
 # [12] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -640,4 +634,3 @@
         - criterium: "The second criterium comes after the first."
         - criterium: "Never two without three criterium."
         - criterium: "Two plus two equals four criteria."
-

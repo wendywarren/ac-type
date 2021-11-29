@@ -6,9 +6,9 @@ To date, we've designed ad hoc grids which lend themselves to single pages of co
 
 With increased flexibility comes increased complexity. We'll be juggling with more balls at a time, so it's easier to drop one. That's why we need to be methodical in our process.
 
-[![Download assignment assets]({{site.url}}/svg/button-Download.svg "Download assignment files"){:width="200px"}](https://www.dropbox.com/s/dg0apd9u2p92vut/magazine-assets.zip?dl=1)
+[![Download assignment assets]({{site.url}}/svg/button-download.svg "Download assignment files"){:width="240px"}](https://www.dropbox.com/s/dg0apd9u2p92vut/magazine-assets.zip?dl=1)
 
-We'll design newsletter pages considering the following:
+We'll design magazine pages considering the following:
 
 Content Inventory
 : As a cook needs to know what ingredients they have at their disposal, we need to inventory our content.

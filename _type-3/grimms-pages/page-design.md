@@ -8,7 +8,7 @@ serial: level-3-assignment-3-subpage-page-design
 
 This project will have you using left-justified type. If you look at the graphic below, you'll see that this is different than left-aligned text. With left-justified text, you have no rag. Only the last line of the paragraphs are left-aligned.
 
-![Text Alignment]({{site.url}}/svg/text-alignment.svg "Text Alignment"){:width="360px"}
+![Text Alignment]({{site.url}}/svg/text-alignment-left-justified.svg "Text Alignment"){:width="360px"}
 
 A large majority of the text you'll set in your career will be simply left-aligned. Some will be left-justified. The others are used less frequently, and only in specific contexts that require them.
 
@@ -39,7 +39,7 @@ The phrase *colour of the page* doesn't literally refer to colour itself. It ref
 
 [![See the colour of the page in this PDF file.]({{site.url}}/svg/button-download-pdf.svg "See the colour of the page in this PDF file."){:width="200px"}](https://www.dropbox.com/s/b3zqqafvrb8jv8e/colour-of-the-page.pdf?dl=1)
 
-> Your page should have 25 to 32 lines of text. Consult the Info panel for the numbers.
+> Your page should have somewhere around 28 lines of text. Consult the Info panel for the numbers.
 
 The goal is to create a harmonious page, free of distracting graphic elements.
 

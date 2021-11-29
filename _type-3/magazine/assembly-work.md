@@ -9,11 +9,7 @@ Be sure to remove double spaces, double paragraph breaks, any useless tab charac
 
 ### InDesign Work
 
-The important work is done at the outset. Document setup, margin setup and Parent Pages (previously called Master Pages) are where the action happens.
-
-You'll want to create your pages to fit the dust cover you just completed. Remember that the front of the trimmed dust cover measured 12cm wide by 20cm tall. That means that each page will need to be three or four millimetres smaller than the cover. You need to figure out your dimensions.
-
-You can create a document with a few pages, then add more as needed to accomodate the length of your story.
+The important work is done at the outset. Document setup, margin setup and Parent Pages (previously called Master Pages) are where the action happens. There is no set length to your document. It can have as many pages as you want.
 
 Now you need to set up text frames on Parent Pages and style sheets.
 
@@ -42,3 +38,9 @@ We also need to indicate when the story ends. This is where we can insert a smal
 ![Story Enders]({{site.url}}/svg/story-ender.svg "Story Enders"){:width="280px"}
 
 [![Story jumps video tutorial]({{site.url}}/svg/button-youtube.svg "Story jumps video tutorial"){:width="200px"}](https://www.youtube.com/watch?v=kL9yGfVE0qM)
+
+### Get Feedback
+
+As you progress with your layout, you can submit PDF files for me to provide feedback. Let's please be reasonable with this. Ask for feedback when you have a substantial amount of work completed.
+
+[![Submit for Feedback]({{site.url}}/svg/button-submit-for-feedback.svg "<#title#>"){:width="240px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=367213&grpid=0&isprv=0&bp=0&ou=372600)

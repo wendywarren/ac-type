@@ -2,6 +2,38 @@
 layout: default
 serial: level-3-magazine-subpage-deliverables
 ---
+### Submit a Style Tile
+
+Create a style tile which shows the elements of your design. It must include:
+
+<ul class="hasBullets">
+	<li>Typeface names</li>
+	<li class="second">Sans-serif</li>
+	<li class="second">Serif</li>
+	<li>Two main colours</li>
+	<li class="second">CMYK colour recipes</li>
+	<li>Type hierarchy</li>
+	<li class="second">Feature title</li>
+	<li class="second">Main story title</li>
+	<li class="second">Sub-titles</li>
+	<li class="second">Byline style</li>	
+	<li class="second">Body copy</li>
+	<li class="second">All your other type styles</li>
+	<li>Photo treatment</li>
+	<li>Pull quote treatment</li>
+	<li>Sidebar story design</li>
+</ul>
+
+[**See my example**](https://www.dropbox.com/s/a7vihd1f7oe6nrd/paradis-alain-010-style-tile.pdf?dl=1) [PDF] style tile for more reference info. You are free to add more, depending on your design.
+
+[![Submit Style Tile]({{site.url}}/svg/button-submit-style-tile.svg "Submit Style Tile"){:width="240px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=367214&grpid=0&isprv=0&bp=0&ou=372600)
+
+### Get Feedback
+
+As you progress with your layout, you can submit PDF files for me to provide feedback. Let's please be reasonable with this. Ask for feedback when you have a substantial amount of work completed.
+
+[![Submit for Feedback]({{site.url}}/svg/button-submit-for-feedback.svg "<#title#>"){:width="240px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=367213&grpid=0&isprv=0&bp=0&ou=372600)
+
 ### Prepare Print-Ready Files
 
 All the assignments you submit in Typography courses should be print ready. This is what you have to check before packaging your files.
