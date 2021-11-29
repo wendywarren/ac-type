@@ -1,4 +1,4 @@
 ---
 layout: default
-serial: "level-4-assignment-1-subpage-1"
+serial: level-4-assignment-1-subpage-1
 ---
