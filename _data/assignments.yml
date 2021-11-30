@@ -184,12 +184,48 @@
         - criterium: "This is the first criterium for the Magazine assignment."
         - criterium: "You've submitted files as directed, ready for print."
 
-# [4] Signage # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Signage"
+# [4] Save the Date # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+- title: "Save The Date"
   serial: "level-4-assignment-1-home"
-  url: type-4/signage/index.html
+  url: type-4/save-the-date/index.html
+  deck: "We'll design an announcement in this warm-up assignment."
+  download:
+  pinterest: "https://www.pinterest.ca/alainparadis/"
+  outcomes:
+    - outcome: "Select a subject-appropriate typeface."
+    - outcome: "Create hierarchy in a simple, single-page layout."
+    - outcome: "Use typography, layout and colour to create an audience-appropriate design."
+  resource-links: |
+    - 
+  # Subpages
+  pages:
+    - title: "First Subpage"
+      serial: "level-4-assignment-1-subpage-1"
+      url: type-4/save-the-date/subpage1.html
+      deck: "This is the deck for some assignment in Type 4."
+    - title: "Second Subpage"
+      serial: "level-4-assignment-1-subpage-2"
+      url: type-4/save-the-date/subpage2.html
+      deck: "This is the deck for some assignment in Type 4."
+    - title: "Third Subpage"
+      serial: "level-4-assignment-1-subpage-3"
+      url: type-4/save-the-date/subpage3.html
+      deck: "This is the deck for some assignment in Type 4."
+    - title: "Deliverables"
+      serial: "level-4-assignment-1-subpage-deliverables"
+      url: type-4/save-the-date/deliverables.html
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "This is the first criterium."
+        - criterium: "You've submitted files as directed, ready for print."
+
+# [5] Menu Design # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Menu"
+  serial: "level-4-assignment-2-menu-home"
+  url: type-4/menu/index.html
   point-value: 20
-  deck: "This is the deck for the Signage assignment in Type 4."
+  deck: "This is the deck for the Menu assignment in Type 4."
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
@@ -198,32 +234,32 @@
     - 
   # Subpages
   pages:
-    - title: "Signage First Subpage"
-      serial: "level-4-assignment-1-subpage-1"
-      url: type-4/signage/subpage1.html
-      deck: "This is the text for the deck for the Signage assignment."
-    - title: "Second Subpage"
-      serial: "level-4-assignment-1-subpage-2"
-      url: type-4/signage/subpage2.html
-      deck: "This is the text for the deck for the Signage assignment."
-    - title: "Third Subpage"
-      serial: "level-4-assignment-1-subpage-3"
-      url: type-4/signage/subpage3.html
-      deck: "This is the text for the deck for the Signage assignment."
-    - title: "Deliverables"
-      serial: "level-4-assignment-1-subpage-deliverables"
-      url: type-4/signage/deliverables.html
+    - title: "Menu First Subpage"
+      serial: "level-4-assignment-2-menu-subpage-1"
+      url: type-4/menu/subpage1.html
+      deck: "This is the text for the deck for the Menu assignment."
+    - title: "Menu Second Subpage"
+      serial: "level-4-assignment-2-menu-subpage-2"
+      url: type-4/menu/subpage2.html
+      deck: "This is the text for the deck for the Menu assignment."
+    - title: "Menu Third Subpage"
+      serial: "level-4-assignment-2-menu-subpage-3"
+      url: type-4/menu/subpage3.html
+      deck: "This is the text for the deck for the Menu assignment."
+    - title: "Menu Deliverables"
+      serial: "level-4-assignment-2-menu-subpage-deliverables"
+      url: type-4/menu/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
 
-# [5] Comparative Analysis # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# [6] Comparative Analysis # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Comparative Analysis"
-  serial: "level-4-comparative-analysis-home"
+  serial: "level-4-assignment-3-comparative-analysis-home"
   url: type-4/comparative-analysis/index.html
-  deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+  deck: "You will design a booklet with a competitive analysis of two similar typefaces."
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
@@ -233,15 +269,15 @@
   # Subpages
   pages:
     - title: "First Subpage"
-      serial: "level-4-comparative-analysis-subpage-1"
+      serial: "level-4-assignment-3-comparative-analysis-subpage-1"
       url: type-4/comparative-analysis/subpage1.html
       deck: "This is the deck for the Comparative Analysis assignment in Type 4."
     - title: "Second Subpage"
-      serial: "level-4-comparative-analysis-subpage-2"
+      serial: "level-4-assignment-3-comparative-analysis-subpage-2"
       url: type-4/comparative-analysis/subpage2.html
       deck: "This is the deck for the Comparative Analysis assignment in Type 4."
     - title: "Third Subpage"
-      serial: "level-4-comparative-analysis-subpage-3"
+      serial: "level-4-assignment-3-comparative-analysis-subpage-3"
       url: type-4/comparative-analysis/subpage3.html
       deck: "This is the deck for the Comparative Analysis assignment in Type 4."
     - title: "Deliverables"
@@ -253,10 +289,10 @@
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
 
-# [6] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-- title: "Assignment #3"
-  serial: "level-4-assignment-3-home"
-  url: type-4/Some_Assignment/index.html
+# [7] Assignment #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+- title: "Stratford Fest Program"
+  serial: "level-4-assignment-4-home"
+  url: type-4/assignment-4/index.html
   deck: "This is the text for the deck for this page."
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
@@ -267,60 +303,25 @@
   # Subpages
   pages:
     - title: "First Page"
-      serial: "level-4-assignment-3-subpage-1"
-      url: type-4/some_assignment/subpage1.html
-      deck: "This is the text for the deck for this page."
-    - title: "Second Subpage"
-      serial: "level-4-assignment-3-subpage-2"
-      url: type-4/some_assignment/subpage2.html
-      deck: "This is the text for the deck for this page."
-    - title: "Third Subpage"
-      serial: "level-4-assignment-3-subpage-3"
-      url: type-4/some_assignment/subpage3.html
-      deck: "This is the text for the deck for this page."
-    - title: "Deliverables"
-      serial: "level-4-assignment-3-subpage-deliverables"
-      url: type-4/some_assignment/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-      criteria:
-        - criterium: "This is the first criterium."
-        - criterium: "You've submitted files as directed, ready for print."
-
-# [7] Some_Assignment # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-- title: "Assignment #4"
-  serial: "level-4-assignment-2-home"
-  url: type-4/some_assignment/index.html
-  deck: "This is the deck for some assignment in Type 4."
-  download:
-  pinterest: "https://www.pinterest.ca/alainparadis/"
-  outcomes:
-    - outcome: "Outcomes_placeholder."
-  resource-links: |
-    - 
-  # Subpages
-  pages:
-    - title: "First Subpage"
       serial: "level-4-assignment-4-subpage-1"
-      url: type-4/some_assignment/subpage1.html
-      deck: "This is the deck for some assignment in Type 4."
+      url: type-4/assignment-4/subpage1.html
+      deck: "This is the text for the deck for this page."
     - title: "Second Subpage"
       serial: "level-4-assignment-4-subpage-2"
-      url: type-4/some_assignment/subpage2.html
-      deck: "This is the deck for some assignment in Type 4."
+      url: type-4/assignment-4/subpage2.html
+      deck: "This is the text for the deck for this page."
     - title: "Third Subpage"
       serial: "level-4-assignment-4-subpage-3"
-      url: type-4/some_assignment/subpage3.html
-      deck: "This is the deck for some assignment in Type 4."
+      url: type-4/assignment-4/subpage3.html
+      deck: "This is the text for the deck for this page."
     - title: "Deliverables"
       serial: "level-4-assignment-4-subpage-deliverables"
-      url: type-4/some_assignment/deliverables.html
+      url: type-4/assignment-4/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
-
 
 # [8] Font Pairing # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type Family Pairing"

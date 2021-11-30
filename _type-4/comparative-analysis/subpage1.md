@@ -1,4 +1,4 @@
 ---
 layout: default
-serial: level-4-comparative-analysis-subpage-1
+serial: level-4-assignment-3-comparative-analysis-subpage-1
 ---

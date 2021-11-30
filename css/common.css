@@ -22,6 +22,7 @@ html
 	font-family: "FiraSans-Light", Arial, Helvetica, sans-serif;
 	font-variant-numeric: oldstyle-nums;
 	font-variant-numeric: slashed-zero;
+	font-variant-ligatures: common-ligatures contextual discretionary-ligatures;
 }
 
 body

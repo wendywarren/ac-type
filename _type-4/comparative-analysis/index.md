@@ -1,4 +1,4 @@
 ---
 layout: default
-serial: level-4-comparative-analysis-home
+serial: level-4-assignment-3-comparative-analysis-home
 ---
