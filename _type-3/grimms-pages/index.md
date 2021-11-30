@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-assignment-3-home
 Typefaces for Fiction Novels:
   - Baskerville

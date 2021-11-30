@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-item-1-subpage-examples-good-and-bad
 ---
 ### A Good Match

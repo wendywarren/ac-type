@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-assignment-1-subpage-lets-practice
 ---
 Let's launch InDesign to practice creating a layout with an ad hoc grid. Start with activating one of the following families on Adobe Fonts.

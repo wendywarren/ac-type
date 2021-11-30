@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-magazine-subpage-gridify-our-page
 ---
 ### Criteria for your pages

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-assignment-3-subpage-type-selection
 ---
 Legibility is the focus when choosing a typeface for a long publication. We'll choose an Old Style serif type family designed for such an application. There are times when you can use a sans-serif for a long document, but not in a fiction novel. Our choice needs to have a large compliment of OpenType features such as ligatures, small caps, old style numerals and alternate glyphs.

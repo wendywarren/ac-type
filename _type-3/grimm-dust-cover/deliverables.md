@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-assignment-2-subpage-deliverables
 ---
 ### Prepare Print-Ready Files

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-assignment-1-subpage-classification-categories
 resources: |
   - https://ilovetypography.com/2007/11/06/type-terminology-humanist-2/

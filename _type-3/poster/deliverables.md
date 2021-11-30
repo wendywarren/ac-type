@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-assignment-1-subpage-deliverables
 ---
 The odds are good you've done this assignment in Illustrator. If so, you'll want to name your file:

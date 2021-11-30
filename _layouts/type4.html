@@ -1,0 +1,83 @@
+<! DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+	{% include head-type4.html %}
+</head>
+<body>
+<div id="grid">
+	<div class="site-id">
+		<a href="{{ site.url }}/type-4/index.html" class="site-id">Type<sup>4</sup></a>
+	</div>
+	<div class="course-info1">{% include course-info1.html %}</div>
+	<div class="course-info2">{% include course-info2.html %}</div>
+	<div id="content" role="main">
+	{% if page.serial contains "home" %} 
+	<h1>
+	{% if page.serial contains 'course-home' %} 
+		{{ page.title }}
+	{% endif %}
+	<ul>
+	{% for headings in site.data.type4 %}
+		{% if page.serial == headings.serial %} 
+			<li>{{ headings.title }}</li>
+		{% endif %}
+	{% endfor %}
+	</ul>
+	</h1>
+	{% elsif page.serial contains "subpage" %}
+	<h1>
+	<ul>
+	{% for allHeadings in site.data.assignments %}
+	{% for headings in allHeadings.pages %}
+		{% if page.serial == headings.serial %} 
+			<li>{{ headings.title }}</li>
+		{% endif %}
+	{% endfor %}
+	{% endfor %}
+	</ul>
+	</h1>
+	{% endif %}
+	<div class="deck">
+	{% if page.serial contains "home" %}
+	<ul>
+	{% for decks in site.data.assignments %}
+		{% if page.serial == decks.serial %} 
+			<li>{{ decks.deck }}</li>
+		{% endif %}
+	{% endfor %}
+	</ul>
+	{% else %}
+	<ul>
+	{% for entry in site.data.assignments %}
+		{% for decks in entry.pages %}
+			{% if page.serial == decks.serial %} 
+				<li>{{ decks.deck }}</li>
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+	</ul>
+	{% endif %}
+	</div>
+	<div>
+	{% if page.serial contains 'home' and page.serial contains 'assignment' %}
+	<h2>Outcomes</h2>
+	<p>By the time you've completed this assignment, you will have learned to:</p>
+	<ul class="hasBullets">
+		{% for entry in site.data.assignments %}
+		{% for item in entry.outcomes %}
+		{% if page.serial == entry.serial %} 
+			<li>{{ item.outcome }}</li>
+		{% endif %} 
+		{% endfor %}
+		{% endfor %}
+	</ul>
+	<h2>The Brief</h2>
+	{% endif %}
+	{{ content }}
+	</div>
+	</div>
+	{% include type4-assignment-nav.html %}
+	{% include footer.html %}
+</body>
+</html>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-magazine-subpage-your-type-system
 ---
 ### Type Selection

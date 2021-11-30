@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-course-home
 title: Welcome to Type 3
 ---

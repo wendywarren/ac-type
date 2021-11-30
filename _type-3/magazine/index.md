@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-magazine-assignment-home
 ---
 To date, we've designed ad hoc grids which lend themselves to single pages of content. We then designed single-column grids which are commonly found in fiction novels. Now, we'll step up once again to the modular grid. This is the most flexible type of grid. It allows for placement of text and other types of content like images, tables of data, graphics and more.

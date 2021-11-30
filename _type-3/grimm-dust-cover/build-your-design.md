@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-assignment-2-subpage-build-your-design
 ---
 We'll be using InDesign and optionally Illustrator to create your design.

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: type3
 serial: level-3-assignment-2-subpage-explore-your-space
 ---
 We'll review the areas of the dust jacket we have to work with.

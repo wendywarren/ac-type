@@ -1,5 +1,5 @@
 <ul class="nav-page-list {% if page.serial contains 'level-3-item-1' %}visible{% endif %}">
-	{% assign assignmentPages = site.data.assignments[8].pages %}
+	{% assign assignmentPages = site.data.type3[4].pages %}
 		{% for item in assignmentPages %}
 			{% unless item.serial contains home %} 
 				<li><a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a></li>
