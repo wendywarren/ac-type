@@ -137,10 +137,10 @@
         - criterium: "You've submitted files as directed, ready for print."
 
 # [4] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Type 4 Micro #1"
+- title: "Baseline Grids"
   serial: "level-4-item-1-home"
   url: type-4/type-4-item-1/index.html
-  deck: "This is the text for the deck for this assignment."
+  deck: "We'll create a type system that works entirely on a baseline grid."
   download:
   pinterest: "https://pin.it/alainparadis"
   outcomes:
