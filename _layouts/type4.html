@@ -28,7 +28,7 @@
 	{% elsif page.serial contains "subpage" %}
 	<h1>
 	<ul>
-	{% for allHeadings in site.data.assignments %}
+	{% for allHeadings in site.data.type4 %}
 	{% for headings in allHeadings.pages %}
 		{% if page.serial == headings.serial %} 
 			<li>{{ headings.title }}</li>
@@ -41,7 +41,7 @@
 	<div class="deck">
 	{% if page.serial contains "home" %}
 	<ul>
-	{% for decks in site.data.assignments %}
+	{% for decks in site.data.type4 %}
 		{% if page.serial == decks.serial %} 
 			<li>{{ decks.deck }}</li>
 		{% endif %}
@@ -49,7 +49,7 @@
 	</ul>
 	{% else %}
 	<ul>
-	{% for entry in site.data.assignments %}
+	{% for entry in site.data.type4 %}
 		{% for decks in entry.pages %}
 			{% if page.serial == decks.serial %} 
 				<li>{{ decks.deck }}</li>
@@ -64,7 +64,7 @@
 	<h2>Outcomes</h2>
 	<p>By the time you've completed this assignment, you will have learned to:</p>
 	<ul class="hasBullets">
-		{% for entry in site.data.assignments %}
+		{% for entry in site.data.type4 %}
 		{% for item in entry.outcomes %}
 		{% if page.serial == entry.serial %} 
 			<li>{{ item.outcome }}</li>
