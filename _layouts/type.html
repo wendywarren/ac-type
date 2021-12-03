@@ -4,15 +4,14 @@
 <head>
 	{% include head.html %}
 </head>
-<body>
-<div id="grid">
+<body id="grid">
 	<div class="site-id">
-		<a href="{{ site.url }}/type-3/index.html" class="site-id">Type<sup>Blog</sup></a>
+		<a href="{{ site.url }}/index.html" class="site-id">Type</a>
 	</div>
 	<div class="course-info1">{% include course-info1.html %}</div>
 	<div class="course-info2">{% include course-info2.html %}</div>
 	<div id="content" role="main">
-		<h1>Blog Home</h1>
+		<h1>Home</h1>
 		<ul>
     {% for post in site.posts %}
         <li><a href="{{ post.url | relative_url }}">{{post.title}}</a>
@@ -21,7 +20,7 @@
     {% endfor %}
 		</ul>
 	</div>
-	{% include assignment-nav.html %}
+	{% include home-nav.html %}
 	{% include footer.html %}
 </body>
 </html>

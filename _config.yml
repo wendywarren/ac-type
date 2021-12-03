@@ -16,7 +16,7 @@ exclude:
   - Gemfile.lock
 
 collections:
-  blog:
+  type:
     output: true
   posts:
     output: true
