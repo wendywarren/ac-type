@@ -7,6 +7,9 @@ baseurl: ""
 url: ""
 twitter_username: alainparadis
 github_username:  alainparadis
+plugins: [jekyll-paginate]
+paginate_path: "/blog/page:num/"
+paginate: 8
 
 exclude:
   - .sass-cache/
@@ -18,11 +21,11 @@ exclude:
 collections:
   type:
     output: true
-  posts:
-    output: true
   type-3:
     output: true
   type-4:
     output: true
-  type-trivia:
+  kb:
+    output: true
+  posts:
     output: true
