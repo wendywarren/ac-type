@@ -69,7 +69,7 @@
 		". .        . . "		
 		"footer1 footer2 footer3 footer4";
 	}
-	.site-id {	grid-area: 1 / 1 / auto / span 2; }
+	.site-id { grid-area: 1 / 1 / auto / span 2; }
 	.course-info1 { grid-area: 1 / 3; }
 	.course-info2 { grid-area: 1 / 4; }
 	#content { grid-area: 2 / 1 / 14 / 4; }
