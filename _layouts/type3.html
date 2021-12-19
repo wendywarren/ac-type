@@ -61,8 +61,8 @@
 	</div>
 	<div>
 	{% if page.serial contains 'home' and page.serial contains 'assignment' %}
-	<h2>Outcomes</h2>
-	<p>By the time you've completed this assignment, you will have learned to:</p>
+	<h3>How To Get An A</h3>
+	<p>This is what you need to do to ace this assignment.</p>
 	<ul class="hasBullets">
 		{% for entry in site.data.type3 %}
 		{% for item in entry.outcomes %}
@@ -72,7 +72,7 @@
 		{% endfor %}
 		{% endfor %}
 	</ul>
-	<h2>The Brief</h2>
+	<h3>The Brief</h3>
 	{% endif %}
 	{{ content }}
 	</div>
