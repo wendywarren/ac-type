@@ -1,8 +1,12 @@
 <div>
 	<h3>
-		&nbsp;
+		<a href="{{ site.url }}/type/index.html" title="Type Home">Type Home</a>
 	</h3>
 </div>
 <div>
-	{% if page.serial contains 'level-3' %} <a href="{{ site.data.metadata.courses[0].brightspace }}">Type 3 on BrightSpace</a> {% elsif page.serial contains 'level-4' %} <a href="{{ site.data.metadata.courses[1].brightspace }}">Type 3 on BrightSpace</a> {% endif %} 
+	{% if page.serial contains 'level-3' %}
+	<a href="{{ site.data.metadata.courses[0].brightspace }}">Type 3 on BrightSpace</a>
+	{% elsif page.serial contains 'level-4' %}
+	<a href="{{ site.data.metadata.courses[1].brightspace }}">Type 4 on BrightSpace</a>
+	{% endif %} 
 </div>
