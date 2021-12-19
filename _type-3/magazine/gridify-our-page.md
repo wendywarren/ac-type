@@ -34,11 +34,9 @@ Our magazine dimensions are going to be A4 size, that's 21cm x 29.7cm. This is o
 
 ### Your Grid
 
-I suggest you divide your page into either 6 or 8 columns. That way, you can mostly use them as a three column or a four column, with halves built-in
+I suggest you divide your page into 6 columns. That way, you can mostly use them as a three columns, with halves built-in
 
 ![6-column-page-grid]({{site.url}}/svg/6-column-page-grid.svg "6-column-page-grid"){:width="550px"}
-
-![8-column-page-grid]({{site.url}}/svg/8-column-page-grid.svg "8-column-page-grid"){:width="550px"}
 
 ### Bleeds
 
