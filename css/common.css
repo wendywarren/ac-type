@@ -126,7 +126,7 @@ em, italic, .italic
 	border-radius: 4px;
 	border: 1px solid var(--mediumgrey);
 }
-
+.text-center { text-align: center; }
 blockquote
 {
 	font-weight: normal;
@@ -198,6 +198,22 @@ code
 	font-weight: normal;
 	font-family: "FiraMono-Medium";
 }
+
+.post_title {
+	display: block;
+	font-style: normal;
+	font-weight: normal;
+	font-family: "FiraSans-Medium";
+	margin-top: 2em;
+}
+.post_excerpt {
+	font-style: normal;
+	font-weight: normal;
+	font-family: "FiraSans-Light";
+	font-size: 1rem;
+}
+.post_excerpt p { margin-bottom: 1rem; }
+.pagination { margin-top: 3rem;}
 
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * LISTS LISTS LISTS * * * * * * * * */
@@ -303,8 +319,7 @@ h6
 	font-family: "FiraSans-Regular";
 }
 
-h1,
-h2 { letter-spacing: -0.0312rem; }
+h1, h2 { letter-spacing: -0.0312rem; }
 h2 { font-size: 1.2rem; }
 
 
