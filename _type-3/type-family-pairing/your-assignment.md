@@ -1,6 +1,6 @@
 ---
 layout: type3
-serial: level-3-item-1-subpage-type-harmony
+serial: level-3-item-1-subpage-your-assignment
 ---
 Choose a family from the list below. You're going to use this one as your first choice. Your job is to find a second family that harmonizes well with your first choice. Choose from [Adobe Fonts](http://fonts.adobe.com) only. If your first family is a serif, then choose a sans-serif for your pairing, and vice-versa.
 
