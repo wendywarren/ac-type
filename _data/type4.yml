@@ -149,7 +149,7 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - title: "First Subpage Type 4 Micro #1"
+    - title: "Subpage 1 Type 4 Micro #1"
       serial: "level-4-item-1-subpage-1"
       url: type-4/type-4-item-1/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro #1 Subpage 1."
@@ -164,10 +164,10 @@
         - criterium: "Two plus two equals four criteria."
 
 # [5] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Type 4 Micro #2"
+- title: "Set Web Type"
   serial: "level-4-item-2-home"
   url: type-4/type-4-item-2/index.html
-  deck: "This is the text for the deck for this assignment."
+  deck: "We'll build a single page with our type selections and hierarchy."
   download:
   pinterest: "https://pin.it/alainparadis"
   outcomes:
@@ -191,10 +191,10 @@
         - criterium: "Two plus two equals four criteria."
 
 # [6] Type 4 Micro #3 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Type 4 Micro #3"
+- title: "Page Layout Sketches"
   serial: "level-4-item-3-home"
   url: type-4/type-4-item-3/index.html
-  deck: "This is the text for the deck for this assignment."
+  deck: "We will learn to draw page layout sketches which will clearly communicate our concept to our client."
   download:
   pinterest: "https://pin.it/alainparadis"
   outcomes:
