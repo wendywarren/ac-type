@@ -2,7 +2,7 @@
 <html lang="en">
 <html>
 <head>
-	{% include head.html %}
+	{% include head.html %} 
 </head>
 <body id="grid">
 	<div class="site-id">
@@ -11,16 +11,9 @@
 	<div class="course-info1">{% include course-info1.html %}</div>
 	<div class="course-info2">{% include course-info2.html %}</div>
 	<div id="content" role="main">
-		<h1>Home</h1>
-		<ul>
-    {% for post in site.posts %}
-        <li><a href="{{ post.url | relative_url }}">{{post.title}}</a>
-        {{ post.excerpt }}
-        </li>
-    {% endfor %}
-		</ul>
+		{{ content }}
 	</div>
-	{% include home-nav.html %}
+	{% include nav_type.html %}
 	{% include footer.html %}
 </body>
 </html>
