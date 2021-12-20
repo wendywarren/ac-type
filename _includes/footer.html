@@ -1,11 +1,16 @@
 <span class="footer footer1">
-<div><a href="{{ site.url }}/type-3/index.html" class="site-id" title="Return to Typography 3 Home Page">Typography<sup>3</sup></a></div>
-<!-- <div><a href="{{ site.url }}/type-4/index.html" class="site-id">Typography<sup>4</sup></a></div>	 -->
+{% if page.path contains "type-3" %}
+	<div><a href="{{ site.url }}/type-3/index.html" class="site-id" title="Return to Typography 3 Home Page">Typography<sup>3</sup></a></div>
+{% elsif page.path contains "type-4" %}
+	<div><a href="{{ site.url }}/type-4/index.html" class="site-id" title="Return to Typography 4 Home Page">Typography<sup>4</sup></a></div>
+{% else %}
+	<div><a href="{{ site.url }}/index.html" class="site-id" title="Return to Typography Home Page">Typography</a></div>
+{% endif %}
 </span>
 <span class="footer footer2">
 	<h4>Faculty</h4>
 	<ul>
-		<li>{{ site.data.metadata.courses[0].prof }}</li>
+		<li><i>{{ site.data.metadata.courses[0].prof }}</i></li>
 		<li><a href="mailto:{{ site.data.metadata.courses[0].email }}">{{ site.data.metadata.courses[0].email }}</a></li>
 	</ul>
 </span>
