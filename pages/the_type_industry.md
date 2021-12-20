@@ -2,6 +2,8 @@
 layout: type
 title: The Type Industry
 ---
+## The Type Industry
+
 How does a font go from the typographer's mind to the market, to your page?
 
 ### The Typographer
