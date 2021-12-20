@@ -3,7 +3,7 @@
 		&nbsp;
 	</h3>
 </div>
-{% if page.serial contains 'level-3' %} 
+{% if page.path contains "type-3" %} 
 	<div>
 		{{ site.data.metadata.courses[0].coursecode }} {{ site.data.metadata.courses[0].title }} 
 	</div>
@@ -11,9 +11,12 @@
 		Hours: {{ site.data.metadata.courses[0].hours }}
 	</div>
 	<div>
-		Prof: {{ site.data.metadata.courses[0].prof }}
+		Prof. {{ site.data.metadata.courses[0].prof }}
 	</div>
-{% elsif page.serial contains 'level-4' %} 
+	<div>
+		{{ site.data.metadata.courses[1].position }}
+	</div>
+{% elsif page.path contains "type-4" %} 
 	<div>
 		{{ site.data.metadata.courses[1].coursecode }} {{ site.data.metadata.courses[1].title }} 
 	</div>
@@ -21,6 +24,16 @@
 		Hours: {{ site.data.metadata.courses[1].hours }}
 	</div>
 	<div>
-		Prof: {{ site.data.metadata.courses[1].prof }}
+		Prof. {{ site.data.metadata.courses[1].prof }}
+	</div>
+	<div>
+		{{ site.data.metadata.courses[1].position }}
+	</div>
+{% else %}
+	<div>
+		Prof. {{ site.data.metadata.courses[1].prof }}
+	</div>
+	<div>
+		{{ site.data.metadata.courses[1].position }}
 	</div>
 {% endif %}
