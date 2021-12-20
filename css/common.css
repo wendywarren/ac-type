@@ -127,6 +127,7 @@ em, italic, .italic
 	border: 1px solid var(--mediumgrey);
 }
 .text-center { text-align: center; }
+.text-right, a.text-right { text-align: right;}
 blockquote
 {
 	font-weight: normal;
@@ -588,7 +589,7 @@ td
 	
 	.assignment h3, .item h4
 	{
-		margin-top: 1rem;
+		margin-top: 2.25rem;
 	}
 
 }
