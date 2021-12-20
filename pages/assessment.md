@@ -29,7 +29,7 @@ title: Assessment
 
 ### Numeric Values
 
-Note that letter grades take priority in grading, not percentages. For instance, if you earn an 85%, you havent lost 15%. That's the grade that equates to a grade of A.
+Note that letter grades take priority in grading, not percentages. For instance, if you earn an 85%, you havent lost 15%. That's the grade that equates to an A.
 
 <table>
 	<thead>

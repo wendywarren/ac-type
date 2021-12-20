@@ -47,6 +47,7 @@ There *are* poor quality and superior quality designs, as in everything. Designi
 	<li><a href="https://fonts.google.com" title="Google LLC">Google LLC</a></li>
 	<li><a href="https://www.monotype.com" title="Monotype Imaging">Monotype Imaging</a></li>
 	<ul>
+		<li><a href="http://www.Typography.com" title="Hoefler & Co.">Hoefler & Co.</a> a library of original and licensed fonts</li>
 		<li><a href="https://www.fontshop.com/foundries/ascender" title="Ascender Corporation">Ascender Corporation</a> a subsidiary of Monotype Imaging</li>
 		<li><a href="https://www.myfonts.com/foundry/Bitstream/" title="Bitstream">Bitstream</a> a subsidiary of Monotype Imaging</li>
 		<li><a href="https://www.fontshop.com/foundries/fontfont" title="FontFont">FontFont</a> a subsidiary of Monotype Imaging, Located in Germany</li>
@@ -85,7 +86,7 @@ Over 30,000 fonts by many designers.
 [The FontSite](http://www.FontSite.com)  
 Fonts, articles, and more.
 
-[Hoefler & Frere-Jones](http://www.Typography.com)  
+[Hoefler & Co.](http://www.Typography.com)  
 A library of original and licensed fonts.
 
 [International Typeface Corporation](http://www.ITCfonts.com) (ITC)  
