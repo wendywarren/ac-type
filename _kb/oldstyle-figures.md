@@ -1,7 +1,9 @@
 ---
-layout: default
-serial: level-3-type-trivia-subpage-oldstyle-figures
+layout: type
+serial: kb-subpage-oldstyle-figures
 ---
+### Old Style Figures
+
 The numbers we use ever day in the western world are called Arabic numerals. There are different ways of setting type with these figures.
 
 ![Old style lining figures]({{site.url}}/svg/oldstyle-lining-figures.svg "Old style lining figures"){:width="600px"}

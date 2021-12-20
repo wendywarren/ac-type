@@ -1,4 +1,6 @@
 ---
-layout: default
-serial: level-3-type-trivia-subpage-lorem-ipsum
+layout: type
+serial: kb-subpage-lorem-ipsum
 ---
+### Lorem Ipsum
+

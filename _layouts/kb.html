@@ -1,0 +1,28 @@
+<! DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+	{% include head.html %} 
+</head>
+<body id="grid">
+	<div class="site-id">
+		<a href="{{ site.url }}/index.html" class="site-id">Type</a>
+	</div>
+	<div class="course-info1">{% include course-info1.html %}</div>
+	<div class="course-info2">{% include course-info2.html %}</div>
+	<div id="content" role="main">
+	<h3>{{ page.title }}</h3>
+		{{ content }}
+	</div>
+	<div class="assignment nav_1" role="navigation" id="navigation">
+	</div>
+	<div class="assignment nav_2">
+	<ul class="hasBullets">
+	{% for kb_item in site.kb %}
+		<li><a href="{{ site.url }}/{{ kb_item.url }}" title="kb_item.title">{{ kb_item.title }}</a></li>
+	{% endfor %}
+	</ul>
+	</div>
+	{% include footer.html %}
+</body>
+</html>

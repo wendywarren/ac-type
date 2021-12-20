@@ -1,7 +1,9 @@
 ---
-layout: default
-serial: level-3-type-trivia-subpage-ampersand
+layout: type
+serial: kb-subpage-ampersand
 ---
+### Ampersand
+
 ![The Ampersand]({{site.url}}/svg/type-trivia/ampersand.svg "The Ampersand"){:width="500px"}
 
 The ampersand glyph comes from the ligature of the letters **e** and **t**. It spelled the word **et**, which means **and** in latin. The two letters morphed with time into the one we know today.

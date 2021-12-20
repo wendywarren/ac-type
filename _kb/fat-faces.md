@@ -1,7 +1,9 @@
 ---
-layout: default
-serial: level-3-type-trivia-subpage-fat-faces
+layout: type
+serial: kb-subpage-fat-faces
 ---
+### Fat Faces
+
 What is a fat face typeface? Imagine Bodoni gorged itself on donuts and candy for a month.
 
 ![Fat Faces]({{site.url}}/svg/type-trivia/fat-faces.svg "Fat Faces"){:width="400px"}

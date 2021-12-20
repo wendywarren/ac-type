@@ -1,7 +1,9 @@
 ---
-layout: default
-serial: level-3-type-trivia-subpage-arial-vs-helvetica
+layout: type
+serial: kb-subpage-arial-vs-helvetica
 ---
+### Arial vs. Helvetica
+
 I've pulled a few glyphs from each family to give you a hand.
 
 ![Arial Vs. Helvetica]({{site.url}}/svg/type-trivia/arial-vs-helvetica.svg "Arial Vs Helvetica"){:width="800px"}

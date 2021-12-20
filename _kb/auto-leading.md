@@ -1,7 +1,9 @@
 ---
-layout: default
-serial: level-3-type-trivia-subpage-auto-leading
+layout: type
+serial: kb-subpage-auto-leading
 ---
+### Auto Leading
+
 <!-- 
 Auto leading is a feature that allows your design software to automatically assign a leading value to the text you set, based on its point size. Most design software programs use a default auto leading setting of 120 percent of the point size. (This value can be changed by the user, as can most default values.)
 

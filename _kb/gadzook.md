@@ -1,7 +1,8 @@
 ---
-layout: default
-serial: level-3-type-trivia-subpage-gadzook
+layout: type
+serial: kb-subpage-gadzook
 ---
+### Gadzook!
 
 ![gadzook]({{site.url}}/svg/type-trivia/gadzook.svg "Gadzook"){:width="500px"}
 

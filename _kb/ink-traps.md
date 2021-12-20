@@ -1,7 +1,9 @@
 ---
-layout: default
-serial: level-3-type-trivia-subpage-ink-traps
+layout: type
+serial: kb-subpage-ink-traps
 ---
+### Ink Traps
+
 An ink trap is a feature meant to aid printing at small sizes. The right and acute angles are opened up on letterforms. When the type is printed, ink naturally bleeds into the empty area. On glyphs with no ink traps the ink would bleed excessively.
 
 These are purpose-built typefaces for designs like news print, classified ads or other publications with small, dense typesetting.
