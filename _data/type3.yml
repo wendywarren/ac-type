@@ -7,11 +7,12 @@
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
   outcomes:
+    - outcome: "Implement a design with an ad hoc grid."
     - outcome: "Recognize the features of a typeface which determine its classification category."
     - outcome: "Research and organize historical typographic information."
     - outcome: "Make the most of the glyphs in a given type family."
-    - outcome: "Implement a design with an ad hoc grid."
-    - outcome: "Make the most of a type family's weights, widths at varied sizes and position on the page."
+    - outcome: "Implement learned type rules relating to italicization, quote marks, etc..."
+    - outcome: "Show off a type family's weights, widths at varied sizes and position on the page."
     - outcome: "Select and apply theme-appropriate colours."
     - outcome: "Use the appropriate software tools and techniques to build the page."
   resource-links: |
