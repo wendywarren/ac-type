@@ -1,12 +1,21 @@
 <div>
 	<h3 class="text-right">
-		<a href="{{ site.url }}/index.html" title="Type Home" class="text-right">{% include button-home.svg %}</a>
+		<a href="{{ site.url }}/index.html" title="Type Home" class="text-right">{% include button-home.svg %}</a> 
 	</h3>
 </div>
+{% if page.serial contains 'level-3' %} 
 <div>
-	{% if page.serial contains 'level-3' %}
-	<a href="{{ site.data.metadata.courses[0].brightspace }}">Type 3 on BrightSpace</a>
-	{% elsif page.serial contains 'level-4' %}
-	<a href="{{ site.data.metadata.courses[1].brightspace }}">Type 4 on BrightSpace</a>
-	{% endif %} 
+	<a href="{{ site.data.metadata.courses[0].brightspace }}">Type 3 on BrightSpace</a> 
 </div>
+{% elsif page.serial contains 'level-4' %} 
+<div>
+	<a href="{{ site.data.metadata.courses[1].brightspace }}">Type 4 on BrightSpace</a> 
+</div>
+{% else %} 
+<div>
+	<a href="{{ site.data.metadata.courses[0].brightspace }}">Type 3 on BrightSpace</a> 
+</div>
+<div>
+	<a href="{{ site.data.metadata.courses[1].brightspace }}">Type 4 on BrightSpace</a> 
+</div>
+{% endif %}
