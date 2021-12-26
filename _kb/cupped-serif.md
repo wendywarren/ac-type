@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-cupped-serif
+title: Cupped Serifs
 ---
-### Cupped Serifs
 
 ![Cupped serifs]({{site.url}}/svg/type-trivia/cupped-serifs.svg "Cupped Serifs"){:width="500px"}
 

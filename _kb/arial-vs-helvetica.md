@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-arial-vs-helvetica
+title: Arial vs. Helvetica
 ---
-### Arial vs. Helvetica
 
 I've pulled a few glyphs from each family to give you a hand.
 

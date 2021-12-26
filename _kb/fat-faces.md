@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-fat-faces
+title: Fat Faces
 ---
-### Fat Faces
 
 What is a fat face typeface? Imagine Bodoni gorged itself on donuts and candy for a month.
 

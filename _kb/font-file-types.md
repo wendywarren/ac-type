@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-font-file-types
+title: Font File Types
 ---
-### Font File Types
 
 These days, we don't need to be concerned with font file types as much as we used to. After all, we're mostly using cloud type services like Adobe Fonts, TypeKit and Google Fonts. With these services, the user isn't even made aware where the font files are stored on their computers. The whole process has been simplified for the user.
 

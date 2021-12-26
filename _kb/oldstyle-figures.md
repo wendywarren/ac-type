@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-oldstyle-figures
+title: Old Style Figures
 ---
-### Old Style Figures
 
 The numbers we use ever day in the western world are called Arabic numerals. There are different ways of setting type with these figures.
 

@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-faux-small-caps
+title: Faux Small Caps
 ---
-### Faux Small Caps
 
 Faux small caps happen when we scale down a capital letter to the same x-height as a lower case letter. What happens here is that the weight of the glyph gets scaled down too much compared to the lower-case letter next to it.
 

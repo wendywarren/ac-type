@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-gadzook
+title: Gadzook!
 ---
-### Gadzook!
 
 ![gadzook]({{site.url}}/svg/type-trivia/gadzook.svg "Gadzook"){:width="500px"}
 

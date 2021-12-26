@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-grotesque-fonts
+title: Grotesque Fonts
 ---
-### Grotesque Fonts
 
 You can use Grotesque as a synonym for sans-serif. The term is also used as a sub-category of sans-serif families.
 

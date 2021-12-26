@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-at-symbol
+title: The @ Symbol
 ---
-### @ Symbol
 
 ![The at symbol]({{site.url}}/svg/type-trivia/at-symbol.svg "The at symbol"){:width="120px"}
 

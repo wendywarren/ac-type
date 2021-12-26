@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-ampersand
+title: Ampersand
 ---
-### Ampersand
 
 ![The Ampersand]({{site.url}}/svg/type-trivia/ampersand.svg "The Ampersand"){:width="500px"}
 
@@ -13,4 +13,3 @@ The word ampersand itself came from the combination of **and per se**. This happ
 <div style="font-size: 2rem; font-family: 'firaSans-Italic'">x, y, z and per se and</div>
 
 pronounced *and per say and*. That last part eventually became the word *ampersand*.
-

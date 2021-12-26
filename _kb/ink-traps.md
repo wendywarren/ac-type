@@ -1,8 +1,8 @@
 ---
 layout: type
 serial: kb-subpage-ink-traps
+title: Ink Traps
 ---
-### Ink Traps
 
 An ink trap is a feature meant to aid printing at small sizes. The right and acute angles are opened up on letterforms. When the type is printed, ink naturally bleeds into the empty area. On glyphs with no ink traps the ink would bleed excessively.
 
