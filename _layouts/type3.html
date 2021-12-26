@@ -72,6 +72,16 @@
 		{% endfor %}
 		{% endfor %}
 	</ul>
+	<h3>Video Playlist</h3>
+	<ul class="hasBullets">
+	   {% for entry in site.data.type3 %}
+	   {% for item in entry.videos %}
+	   {% if page.serial == entry.serial %} 
+		   <li><a href="{{ item.video_url}}" title="{{ item.video_title }}" target="_blank">{{ item.video_title }}</a></li>
+	   {% endif %} 
+	   {% endfor %}
+	   {% endfor %}
+	</ul>
 	<h3>The Brief</h3>
 	{% endif %}
 	{{ content }}
