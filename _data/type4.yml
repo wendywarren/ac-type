@@ -1,5 +1,7 @@
 # [0] Save the Date # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Save The Date"
+  type: "Larger Assignment"
+  value: "20%"
   serial: "level-4-assignment-1-home"
   url: type-4/save-the-date/index.html
   deck: "We'll design an announcement in this warm-up assignment."
@@ -36,6 +38,8 @@
 
 # [1] Menu Design # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Menu"
+  type: "Larger Assignment"
+  value: "20%"
   serial: "level-4-assignment-2-menu-home"
   url: type-4/menu/index.html
   deck: "This is the deck for the Menu assignment in Type 4."
@@ -70,6 +74,8 @@
 
 # [2] Comparative Analysis # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Comparative Analysis"
+  type: "Larger Assignment"
+  value: "20%"
   serial: "level-4-assignment-3-comparative-analysis-home"
   url: type-4/comparative-analysis/index.html
   deck: "You will design a booklet with a competitive analysis of two similar typefaces."
@@ -104,6 +110,8 @@
 
 # [3] Assignment #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Stratford Fest Program"
+  type: "Larger Assignment"
+  value: "20%"
   serial: "level-4-assignment-4-home"
   url: type-4/assignment-4/index.html
   deck: "This is the text for the deck for this page."
@@ -138,6 +146,8 @@
 
 # [4] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Baseline Grids"
+  type: "Smaller Assignment"
+  value: "05%"
   serial: "level-4-item-1-home"
   url: type-4/type-4-item-1/index.html
   deck: "We'll create a type system that works entirely on a baseline grid."
@@ -165,6 +175,8 @@
 
 # [5] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Set Web Type"
+  type: "Smaller Assignment"
+  value: "05%"
   serial: "level-4-item-2-home"
   url: type-4/type-4-item-2/index.html
   deck: "We'll build a single page with our type selections and hierarchy."
@@ -192,6 +204,8 @@
 
 # [6] Type 4 Micro #3 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Page Layout Sketches"
+  type: "Smaller Assignment"
+  value: "05%"
   serial: "level-4-item-3-home"
   url: type-4/type-4-item-3/index.html
   deck: "We will learn to draw page layout sketches which will clearly communicate our concept to our client."
@@ -219,6 +233,8 @@
 
 # [7] Type 4 Micro #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type 4 Micro #4"
+  type: "Smaller Assignment"
+  value: "05%"
   serial: "level-4-item-4-home"
   url: type-4/type-4-item-4/index.html
   deck: "This is the text for the deck for this assignment."
