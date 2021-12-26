@@ -15,6 +15,9 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
+    - title: "Classification Categories"
+      serial: "kb-subpage-classification-categories"
+      deck: "Classifying typefaces is simple for Jenson or Futura. The lines between categories can be blurred sometimes. Let's see what fits where."
     - title: "Anti-Aliasing"
       serial: kb-subpage-anti-aliasing
       deck: "Anti-aliasing is the lighter pixels you see on edges of shapes when you zoom into a raster image."
