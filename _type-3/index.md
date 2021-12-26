@@ -3,23 +3,9 @@ layout: type3
 serial: level-3-course-home
 title: Welcome to Type 3
 ---
-<!-- 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
- -->
-
 ### Course Description
 
 Proficient typesetting allows a designer to compose and structure complex passages of content that are visually appealing in order to allow the information to be easily followed. Students combine text and imagery to craft professional layouts and informational documents.
-
-#### Your Student Success Specialist
-
-Deborah Buck has retired. Ahmed El-Badri is your new Student Success Specialist. His email is <a href="mailto:elbadra@algonquincollege.com" title="Contact Ahmed via email">elbadra@algonquincollege.com</a>
 
 ### Course Logistics
 
