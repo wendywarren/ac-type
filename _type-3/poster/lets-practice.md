@@ -17,7 +17,7 @@ Let's launch InDesign to practice creating a layout with an ad hoc grid. Start w
 	<li><a href="https://fonts.adobe.com/fonts/rockwell" title="Rockwell">Rockwell Monotype</a></li>
 </ul>
 
-Activate your chosen type family. Create an Illustrator page. Let's try a square page! Choose your margins.
+Activate your chosen type family. Create an InDesign page. Let's try a square page! Choose your margins.
 
 Choose your own topic for your layout. I'm going to choose a title *Man's Best Friend*. A sub-title *Are dogs really man's best friend? How did this come to be?* Then a block of body copy. We can use Lorem Ipsum.
 

@@ -2,32 +2,20 @@
 layout: type3
 serial: level-3-assignment-1-subpage-deliverables
 ---
-The odds are good you've done this assignment in Illustrator. If so, you'll want to name your file:
-
-**last-name-first-name-group-number-project.ai** or
-
-**appleseed-johnny-010-poster.ai**
-
-Create a PDF named the same way.
-
-**appleseed-johnny-010-poster.pdf**
-
-Put them in a folder named:
-
-**appleseed-johnny-010-poster**
-
-Zip the whole thing and submit.
-
-### InDesign
-
-If ever you did this in InDesign, make sure you name it the same way as above. Then simply package your InDesign document.
+Name your InDesign document like this:
 
 **appleseed-johnny-010-poster.indd**
 
-Folder:
+Use InDesign's Package function. Name the package folder like so:
 
 **appleseed-johnny-010-poster**
 
 Zip, then submit.
 
-Please indicate **FINAL** in the Brightspace comments when you submit your final poster files.
+> Never rename a file while it's open. Close it. Rename it in Finder, then re-open it.
+
+When you package your InDesign document with <span class="command">File > Package...</span> It will create a folder that's properly named if your file was well named to start with.
+
+![submission-indesign-package]({{site.url}}/svg/submission-indesign-package-no-images.svg "Submission Folder"){:width="300px"}
+
+[![Submit on BrightSpace]({{site.url}}/svg/button-submit.svg "Submit on BrightSpace"){:width="320px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351636&grpid=0&isprv=0&bp=0&ou=372600)

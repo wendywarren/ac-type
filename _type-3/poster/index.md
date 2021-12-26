@@ -12,16 +12,16 @@ Do your research. Make your choice, then tell me.
 
 <a href="https://forms.office.com/r/RXXc4Np6L8" target="_blank" class="brightspace">Submit your selection with a rationale here.</a>
 
-### Colour Treatment
+#### Colour Treatment
 
 The fewer colours you use, the more focused your design will be. You *could* design this in a single colour with its tints and shades, or one colour plus black. If you choose two colours, the first should be a prominent colour. The second can be *quieter*. Too many colours will distract from the subject of the poster, the type design.
 
-### Production Specifications
+#### Production Specifications
 
 These are pretty simple.
 
 <ul class="hasBullets">
 	<li>Dimensions: 24" x 36" plus ⅛" bleed</li>
 	<li>Colour: Four Colour Process (full colour)</li>
-	<li>Illustrator or InDesign are your tools of choice. *No Photoshop!*</li>
+	<li>InDesign is your tool of choice.</li>
 </ul>
