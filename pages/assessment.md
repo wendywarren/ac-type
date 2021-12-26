@@ -115,31 +115,9 @@ This is not a correspondence course. In order to earn points for in-class assign
 
 ### Importance of File Naming
 
-Attention to detail is crucial in the practice of Graphic Design. File naming is no exception. Naming files incorrectly can cause disastrous effects, like broken images on the web, print errors and missed deadlines. This is why we are so strict with this in the Computer Graphics courses.
+Attention to detail is crucial in the practice of graphic design. File naming is no exception. Naming files incorrectly can cause disastrous effects, like broken images on the web, print errors and missed deadlines. This is why we are so strict with this.
 
-Organizing, naming and submitting files adhering to precise instructions is an important skill in the practice of Graphic Design. As such, 20% of all assignment values is based on adhering to instructions. These instructions will be given verbally in class and/or online. If files are submitted in such a way that they are not usable to produce the final product, the student can earn a grade of zero on that assignment at the faculty's discretion.
-
-### Submitting a File
-
-When submitting a file, you need to name it according to a specific naming convention. Make sure you close your file before you re-name it in Finder.  Use this convention: First Name, Last Name, Group Nº, Assignment Name.ai. So, name it like this example:
-
-Once you have submitted your zip file, you can delete it. Keep the original file *at least* as long as your time in the program.
-
-When you re-name the zip file, it unzips un-named, which is not a good thing. Make sure to re-name the file, *then* zip-compress it.
-
-### Submitting a Folder
-
-Follow the same process for submitting a folder. Name it First Name, Last Name, Group Nº, Assignment Name. So, name it like this example:
-
-Once you have submitted your zip file, you can delete it. Keep the original folder *at least* as long as your time in the program.
-
-<span class="orangefs90">The following is incorrect:</span>
-
-When you re-name the zip file, it unzips un-named, which is not a good thing. Make sure to re-name the folder, *then* zip-compress it.
-
-Submitting a file or folder that is un-named <em>will earn you a grade of zero</em>. You can avoid this by naming the file/folder as directed <em>before</em> you zip-compress it. 
-
-Not complying with this will cause a needless loss of points. Pay close attention while submitting.
+Organizing, naming and submitting files adhering to precise instructions is an important skill in the practice of graphic design. As such, 20% of all assignment values is based on adhering to instructions. These instructions will be given verbally in class and/or online. If files are submitted in such a way that they are not usable to produce the final product, the student can earn a grade of zero on that assignment at the faculty's discretion.
 
 ### Confirm Your Brightspace Submission
 
