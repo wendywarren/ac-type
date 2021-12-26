@@ -15,15 +15,19 @@
     - outcome: "Show off a type family's weights, widths at varied sizes and position on the page."
     - outcome: "Select and apply theme-appropriate colours."
     - outcome: "Use the appropriate software tools and techniques to build the page."
+  videos:
+    - video_title: "InDesign document setup."
+      video_url: "https://youtube.com/"
+    - video_title: "Test Video Title #2"
+      video_url: "https://youtube.com/"
+    - video_title: "File submission instructions."
+      video_url: "https://youtube.com/"
+
   resource-links: |
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
     - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
   # Subpages
   pages:
-    - title: "Classification Categories"
-      serial: "level-3-assignment-1-subpage-classification-categories"
-      url: type-3/poster/classification-categories.html
-      deck: "Classifying typefaces is simple for Jenson or Futura. The lines between categories can be blurred sometimes. Let's see what fits where."
     - title: "About Ad Hoc Grids"
       serial: "level-3-assignment-1-subpage-about-ad-hoc-grids"
       url: type-3/poster/about-ad-hoc-grids.html
@@ -70,6 +74,13 @@
     - outcome: "Manipulate type to create a pleasing, harmonious, context-appropriate design."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
+  videos:
+    - video_url: "https://youtube.com/"
+      video_title: "Test Video Title #1"
+    - video_url: "https://youtube.com/"
+      video_title: "Test Video Title #2"
+    - video_url: "https://youtube.com/"
+      video_title: "Test Video Title #3"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
     - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
@@ -122,6 +133,13 @@
     - outcome: "Set type size, leading and spacing for a long document in order to achieve good page colour."
     - outcome: "Use stylistic elements in an appropriate context and manner."
     - outcome: "Use software tools effectively to build pages for a long document."
+  videos:
+    - video_url: "https://youtube.com/"
+      video_title: "Test Video Title #1"
+    - video_url: "https://youtube.com/"
+      video_title: "Test Video Title #2"
+    - video_url: "https://youtube.com/"
+      video_title: "Test Video Title #3"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages
@@ -160,6 +178,13 @@
     - outcome: "Devise type hierarchy for a multi-page publication."
     - outcome: "Design functional and decorative page elements like folios, shapes, colours and more."
     - outcome: "Select, then apply context-appropriate colours along with their tints and shades to create a colour theme."
+  videos:
+    - video_url: "https://youtube.com/"
+      video_title: "Test Video Title #1"
+    - video_url: "https://youtube.com/"
+      video_title: "Test Video Title #2"
+    - video_url: "https://youtube.com/"
+      video_title: "Test Video Title #3"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages
@@ -210,6 +235,7 @@
       deck: "Let's look at some type families to see how they pair up, or don't."
     - title: "Your Assignment"
       serial: level-3-item-1-subpage-your-assignment
+      url: type-3/type-family-pairing/your_assignment.html
       deck: "Given one type family, match it with a second. Tell me why they go well together. Where would you use them? Show me a sample treatment to demonstrate that."
     - title: "Deliverables"
       serial: level-3-item-1-subpage-deliverables
@@ -248,3 +274,16 @@
         - criterium: "You communicate the facts clearly, in an organized fashion."
         - criterium: "Your presentation is properly written and error-free."
         - criterium: "You've submitted files as directed on the assignment page."
+
+# [6] Type Knowledge Base # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Type Knowledge Base"
+  serial: level-3-item-3-home
+  point-value: 5
+  url: "/kb/index.html"
+  deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
+  download:
+  pinterest: "https://pin.it/alainparadis"
+  outcomes:
+    - outcome: "Gain a historical knowledge of the typographers behind the typefaces."
+  resource-links: |
+    - https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
