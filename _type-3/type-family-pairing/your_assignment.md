@@ -2,7 +2,7 @@
 layout: type3
 serial: level-3-item-1-subpage-your-assignment
 ---
-Choose a family from the list below. You're going to use this one as your first choice. Your job is to find a second family that harmonizes well with your first choice. Choose from [Adobe Fonts](http://fonts.adobe.com) only. If your first family is a serif, then choose a sans-serif for your pairing, and vice-versa.
+I'm going to assignment a type family from this list. You're going to use this one as your first choice. Your job is to find a second family that harmonizes well with your first choice. Choose from [Adobe Fonts](http://fonts.adobe.com) only. If your first family is a serif, then choose a sans-serif for your pairing, and vice-versa.
 
 Build a letter-sized layout with a type treatment which includes the two families. Use limited colour.
 
@@ -31,8 +31,8 @@ Build a letter-sized layout with a type treatment which includes the two familie
 	<li><a href="https://fonts.adobe.com/fonts/myriad" target="_blank" title="Myriad">Myriad</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/neue-haas-grotesk" target="_blank" title="Neue Haas Grotesk">Neue Haas Grotesk</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/news-gothic" target="_blank" title="News Gothic">News Gothic</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/news-gothic" target="_blank" title="News Gothic">News Gothic</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/itc-officina-sans" title="ITC Officina" target="_blank">ITC Officina</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/trade-gothic-next" title="Trade Next Gothic" target="_blank">Trade Gothic Next</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/utopia" target="_blank" title="Utopia">Utopia</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/warnock" target="_blank" title="Warnock">Warnock</a></li>
 </ul>
