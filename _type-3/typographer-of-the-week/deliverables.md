@@ -20,5 +20,9 @@ Your package will be named the same way.
 
 <span class="bold">appleseed-johnny-010-typographer</span>
 
-
 Zip that folder, then submit on Brightspace.
+
+![submission-indesign-package]({{site.url}}/svg/submission-indesign-package-no-images.svg "Submission Folder"){:width="300px"}
+
+[![Submit on BrightSpace]({{site.url}}/svg/button-submit.svg "Submit on BrightSpace"){:width="320px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351636&grpid=0&isprv=0&bp=0&ou=372600)
+
