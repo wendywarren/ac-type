@@ -33,16 +33,6 @@ You can navigate all the semester's assignments to explore what you'll be learni
 	</tbody>
 </table>
 
-#### Classes
-
-Each class will start with three activities. Each of you will present a <a href="{{site.baseurl}}/type-3/type-family-pairing/index.html" title="Type family pairing">type family pairing</a> and a <a href="{{site.baseurl}}/type-3/typographer-of-the-week/index.html" title="Typographer of the week">typographer of the week</a>. These are short presentations accompanied by the submission of a single-page explainer.
-
-It's always important to pay attention to in-class presentations and discussions. In this course, we put that attention to the test. There will be weekly micro-quizzes on BrightSpace. They'll be only a few questions. They'll refer to topics from the previous week's conversations. We'll start at week two.
-
-We'll review each major assignment as they begin. You'll usually have the opportunity to practice the particular skill together. We'll share the results to do peer critiques so we can all benefit.
-
-You'll have time during class to work on assignments so you can ask questions. Whatever you don't complete in class will be done as homework.
-
 #### Milestones
 
 The major projects will have milestones. This means that you'll have to submit files part-way through the design process. These submissions will be graded. This is done because design is a process, not only the final product.
@@ -67,6 +57,4 @@ Unless stated otherwise, we'll use only [Adobe Fonts](https://fonts.adobe.com) f
 
 #### Course Focus
 
-This semester is a continuation of your Winter semester, focusing on increasing typographical finesse. We want to improve our recognition of fine typographical detail. We'll begin with simple ad hoc grids and grow from there. We'll end the semester having built more complex modular grids for a publication.
-
-Type selection and pairing is also consume a significant part of our attention. Sound type pairing takes years of practice. That's where we'll <a href="{{site.baseurl}}/type-3/type-family-pairing/index.html" title="Type family pairing">start today</a>.
+This semester is a continuation of your Fall semester, focusing on increasing typographical finesse. We want to improve our recognition of fine typographical detail. We'll begin with simple ad hoc grids and grow from there. We'll end the semester having built more complex modular grids for a publication. Type selection and pairing is also consume a significant part of our attention.
