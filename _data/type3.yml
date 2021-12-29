@@ -2,7 +2,7 @@
 - title: "Type in Time Poster"
   serial: "level-3-assignment-1-home"
   point-value: 20
-  url: type-3/poster/index.html
+  url: type-3/type-in-time-poster/index.html
   deck: "Type classification is a mirky business. We're not going to let that stop us! We'll discover what goes where in the grand timeline of typography. The product will be a poster design from a chosen classification."
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
@@ -30,23 +30,23 @@
   pages:
     - title: "About Ad Hoc Grids"
       serial: "level-3-assignment-1-subpage-about-ad-hoc-grids"
-      url: type-3/poster/about-ad-hoc-grids.html
+      url: type-3/type-in-time-poster/about-ad-hoc-grids.html
       deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product. The given space is the canvas for our ad hoc grid."
     - title: "Let's Practice"
       serial: "level-3-assignment-1-subpage-lets-practice"
-      url: type-3/poster/lets-practice.html
+      url: type-3/type-in-time-poster/lets-practice.html
       deck: "Let's build a page using a single type family and an ad hoc grid."
     - title: "Your Content"
       serial: "level-3-assignment-1-subpage-your-content"
-      url: type-3/poster/your-content.html
+      url: type-3/type-in-time-poster/your-content.html
       deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
     - title: "Your Process"
       serial: "level-3-assignment-1-subpage-your-process"
-      url: type-3/poster/your-process.html
+      url: type-3/type-in-time-poster/your-process.html
       deck: "While this is not a software assignment, your file needs to be built properly in order to go to production. Then there's the creative process, too."
     - title: "Deliverables"
       serial: "level-3-assignment-1-subpage-deliverables"
-      url: type-3/poster/deliverables.html
+      url: type-3/type-in-time-poster/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351632&grpid=0&isprv=&bp=0&ou=372600"
       criteria:
@@ -76,11 +76,11 @@
     - outcome: "Organize files and folders for submission according to provided instructions."
   videos:
     - video_url: "https://youtube.com/"
-      video_title: "Test Video Title #1"
+      video_title: "Dust cover document setup."
     - video_url: "https://youtube.com/"
       video_title: "Test Video Title #2"
     - video_url: "https://youtube.com/"
-      video_title: "Test Video Title #3"
+      video_title: "File submission instructions."
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
     - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
