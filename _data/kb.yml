@@ -1,4 +1,4 @@
-- title: "Type Trivia"
+- title: "Type Knowledge Base"
   serial: kb-home
   point-value: 5
   deck: "Learn some pretty pro type facts so you can school your designer friends."
@@ -12,77 +12,5 @@
     - criterium: "Never two without three criterium."
     - criterium: "Two plus two equals four criteria."
   resource-links: |
-    - https://learning.oreilly.com/
-  # Subpages
-  pages:
-    - title: "Chromatic Fonts"
-      serial: kb-subpage-chromatic_fonts
-      deck: "Chromatic fonts are designed to stack one on the other to create to allow one glyph to be set in more than one colour."
-      resource_links:
-        - "https://ilovetypography.com/2017/04/03/the-evolution-of-chromatic-fonts/"
-    - title: "Classification Categories"
-      serial: "kb-subpage-classification-categories"
-      deck: "Classifying typefaces is simple for Jenson or Futura. The lines between categories can be blurred sometimes. Let's see what fits where."
-    - title: "Anti-Aliasing"
-      serial: kb-subpage-anti-aliasing
-      deck: "Anti-aliasing is the lighter pixels you see on edges of shapes when you zoom into a raster image."
-    - title: "Font File Types"
-      serial: kb-subpage-font-file-types
-      deck: "Even if cloud type services are hiding font file types from our every-day work, it's still important to be familiar with them."
-    - title: "Arial Vs. Helvetica"
-      serial: kb-subpage-arial-vs-helvetica
-      deck: "Not very many people in our blue and green marble can distinguish Arial from Helvetica. It's really a prized talent."
-    - title: "Cupped Serif"
-      serial: kb-subpage-cupped-serif
-      deck: "Cupped serifs are simply curved rather than flat."
-    - title: "Gadzook"
-      serial: kb-subpage-gadzook
-      deck: "A gadzook is a ligature between two glyphs that wouldn't usually have one."
-    - title: "Overshoot"
-      serial: kb-subpage-overshoot
-      deck: "Overshoots are optical size adjustments to make glyphs appear the correct size."
-    - title: "Same Type, Different Foundry"
-      serial: kb-subpage-same-type-different-foundry
-      deck: "Subtle nuances between the same typeface from different foundries can make all the difference."
-    - title: "Ink Traps"
-      serial: kb-subpage-ink-traps
-      deck: "Ink traps solve a problem only encountered when setting type at small, dense sizes."
-    - title: "Variable Fonts"
-      serial: kb-subpage-variable-fonts
-      deck: "Variable fonts are a new technology that offers greater design flexibility within a single font file."
-    - title: "The Ampersand"
-      serial: kb-subpage-ampersand
-      deck: "The venerated and elegant ampersand has a really fun history involving primary school children."
-    - title: "Grotesque Fonts"
-      serial: kb-subpage-grotesque-fonts
-      deck: "Grotesque is one of those terms which can mean different things in different contexts."
-    - title: "The @ Symbol"
-      serial: kb-subpage-at-symbol
-      deck: The symbol's history is a bit cloudy. This is what we know.
-    - title: "Monospace Type"
-      serial: kb-subpage-monospace-type
-      deck: "Each glyph in a monospace font occupies the same amount of space, regardless of its width."
-    - title: "Lorem Ipsum"
-      serial: kb-subpage-lorem-ipsum
-      deck: "What is Lorem Ipsum. Are there really varying qualities of Lorem Ipsum?"
-    - title: "Faux Small Caps"
-      serial: kb-subpage-faux-small-caps
-      deck: "What are faux small caps? How can we spot them?"
-    - title: "Auto Leading"
-      serial: kb-subpage-auto-leading
-      deck: "What is automatic leading. Should I use it?"
-    - title: "Ems"
-      serial: kb-subpage-ems
-      deck: "What is an em? What about its fractions?"
-    - title: "Slanted vs Italic"
-      serial: kb-subpage-slanted-vs-italic
-      deck: "Slanted vs italic. What's the difference?"
-    - title: "Single & Two Storey Glyphs"
-      serial: kb-subpage-single-two-storey
-      deck: "This relates two glyphs. a & g."
-    - title: "Fat Faces"
-      serial: kb-subpage-fat-faces
-      deck: "Fat face typefaces are like Moderns on steroids — even more extreme contrast."
-    - title: "Oldstyle Figures"
-      serial: kb-subpage-oldstyle-figures
-      deck: "Oldstyle figures blend into running text better than tabular lining."
+    - "https://learning.oreilly.com/"
+    - "https://ilovetypography.com/2017/04/03/the-evolution-of-chromatic-fonts/"
