@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-overshoot
 title: Overshoots
+deck: "Overshoots are optical size adjustments to make glyphs appear the correct size."
 ---
 
 The overshoot is what it says it is. It's the part of the letter that overshoots the baseline or the cap line to make the glyph size look *optically* correct.

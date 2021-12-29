@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-variable-fonts
 title: Variable Fonts
+deck: "Variable fonts are a new technology that offers greater design flexibility within a single font file."
 Links: |
   - [Variable Fonts.com](https://www.variable-fonts.com/about)
   - [Can I use variable fonts on the web](https://caniuse.com/variable-fonts)

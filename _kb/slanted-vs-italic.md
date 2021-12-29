@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-slanted-vs-italic
 title: Slanted vs Italic
+deck: "Slanted vs italic. What's the difference?"
 ---
 Slanted is with sans-serif. Italics are serifs which are based on calligraphic writing.
 

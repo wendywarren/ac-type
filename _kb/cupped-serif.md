@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-cupped-serif
 title: Cupped Serifs
+deck: "Cupped serifs are simply curved rather than flat."
 ---
 
 ![Cupped serifs]({{site.url}}/svg/type-trivia/cupped-serifs.svg "Cupped Serifs"){:width="500px"}

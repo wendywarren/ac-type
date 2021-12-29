@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-auto-leading
 title: Auto Leading
+deck: "What is automatic leading. Should I use it?"
 ---
 
 <!-- 

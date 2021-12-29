@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-gadzook
 title: Gadzook!
+deck: "A gadzook is a ligature between two glyphs that wouldn't usually have one."
 ---
 
 ![gadzook]({{site.url}}/svg/type-trivia/gadzook.svg "Gadzook"){:width="500px"}

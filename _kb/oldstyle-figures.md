@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-oldstyle-figures
 title: Old Style Figures
+deck: "Oldstyle figures blend into running text better than tabular lining."
 ---
 
 The numbers we use ever day in the western world are called Arabic numerals. There are different ways of setting type with these figures.

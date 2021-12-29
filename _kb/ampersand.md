@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-ampersand
 title: Ampersand
+deck: "The venerated and elegant ampersand has a really fun history involving primary school children."
 ---
 
 ![The Ampersand]({{site.url}}/svg/type-trivia/ampersand.svg "The Ampersand"){:width="500px"}

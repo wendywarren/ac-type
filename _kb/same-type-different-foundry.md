@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-same-type-different-foundry
 title: Same Type, Different Foundry
+deck: "Subtle nuances between the same typeface from different foundries can make all the difference."
 ---
 
 > A type foundry is a company that designs or distributes typefaces. Before digital typography, type foundries manufactured and sold metal and wood typefaces for hand typesetting, and matrices for line-casting machines like the Linotype and Monotype, for letterpress printers. Today's digital type foundries accumulate and distribute typefaces (typically as digitized fonts) created by type designers, who may either be freelancers operating their own independent foundry, or employed by a foundry. Type foundries may also provide custom type design services.

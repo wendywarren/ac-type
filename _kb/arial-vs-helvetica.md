@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-arial-vs-helvetica
 title: Arial vs. Helvetica
+deck: "Not very many people in our blue and green marble can distinguish Arial from Helvetica. It's really a prized talent."
 ---
 
 I've pulled a few glyphs from each family to give you a hand.

@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-anti-aliasing
 title: Anti-Aliasing
+deck: "Anti-aliasing is the lighter pixels you see on edges of shapes when you zoom into a raster image."
 ---
 
 Screens have an actual grid of pixels. That's really ideal when all the content on the screen is made of horizontal and vertical lines. What happens when a line is angled or curved? Those lines will look all jaggy as they're depicted with those square pixels.

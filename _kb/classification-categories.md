@@ -1,7 +1,8 @@
 ---
-layout: type3
+layout: type
 serial: kb-subpage-classification-categories
 title: Classification Categories
+deck: "Classifying typefaces is simple for Jenson or Futura. The lines between categories can be blurred sometimes. Let's see what fits where."
 resources: |
   - https://ilovetypography.com/2007/11/06/type-terminology-humanist-2/
   - https://ilovetypography.com/2007/11/21/type-terminology-old-style/

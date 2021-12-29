@@ -2,6 +2,7 @@
 layout: type
 serial: kb-subpage-ems
 title: Ems
+deck: "What is an em? What about its fractions?"
 ---
 You know what an em is, but have you really become familiar with all the fractions of ems and how they work?
 
