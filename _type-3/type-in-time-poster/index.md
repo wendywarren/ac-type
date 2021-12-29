@@ -2,7 +2,7 @@
 layout: type3
 serial: level-3-assignment-1-home
 ---
-Once we've done our exploration of type classifications, the ball's going to be in your court. Pour through type families that are representative of a given era or classification.
+Once we've done our exploration of [type classifications]({{ site.baseurl }}/kb/classification-categories.html), the ball's going to be in your court. Pour through type families that are representative of a given era or classification.
 
 **Choose a family that is a mainstay of that particular classification.** Avoid minor, little-known typefaces.
 

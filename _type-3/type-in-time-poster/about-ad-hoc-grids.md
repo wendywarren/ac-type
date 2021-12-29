@@ -6,7 +6,7 @@ serial: level-3-assignment-1-subpage-about-ad-hoc-grids
 
 The use of ad hoc grids is the main purpose of this assignment. Ad hoc, *or informal* grids are created as you sketch your pages. They don't have the rhythmic structure the other types of grids have. There aren't columns. Elements simply align with each other on the page.
 
-> Ad hoc is a Latin phrase meaning literally 'to this'. In English, it typically signifies a solution for a specific purpose... [Wikipedia](https://en.wikipedia.org/wiki/Ad_hoc)
+> Ad hoc is a Latin phrase meaning literally **to this**. We usually use it for something created on the fly, like an ad hoc committee. It would be one that is created for a special purpose.
 
 ### What Are They Good For?
 

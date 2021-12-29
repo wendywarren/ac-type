@@ -17,9 +17,11 @@ Let's launch InDesign to practice creating a layout with an ad hoc grid. Start w
 	<li><a href="https://fonts.adobe.com/fonts/rockwell" title="Rockwell">Rockwell Monotype</a></li>
 </ul>
 
-Activate your chosen type family. Create an InDesign page. Let's try a square page! Choose your margins.
+Activate your chosen type family. Create an InDesign document. Let's try a 10" square page. Choose your margins.
 
-Choose your own topic for your layout. I'm going to choose a title *Man's Best Friend*. A sub-title *Are dogs really man's best friend? How did this come to be?* Then a block of body copy. We can use Lorem Ipsum.
+Choose your own topic for your layout. I'm going to choose a title *Man's Best Friend*. A sub-title *Are dogs really man's best friend? How did this come to be?* Then a block of body copy.
+
+<a href="https://www.dropbox.com/s/zixxh4b1lnmx4oi/mans-best-friend.txt?dl=1" title="Download the text file for this practice assignment" target="_blank"><img alt="Submit a PDF" src="{{ site.baseurl }}/svg/button-download.svg" style="width: 240px;"></a>
 
 The whole idea of the ad hoc grid is that we set one page element after another, starting with the most important. So let's set the title.
 
@@ -43,10 +45,8 @@ Now we'll set the sub-title. It needs to appear noticeably less important than t
 
 The last item is the block of body copy. Make sure to set proper leading and reasonable hyphenation.
 
-Once you're done, save your work, save a copy of your file as a Print Ready PDF file.
+Once you're done, save your work, then save a copy of your file as a Print Ready PDF file.
 
-Submit your <span class="brightspace">
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351623&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">PDF file</a></span>
+<img alt="Submit a PDF" src="{{ site.baseurl }}/svg/button-submission-pdf.svg" style="width: 240px;">
 
 We'll do a quick critique of the result.
-

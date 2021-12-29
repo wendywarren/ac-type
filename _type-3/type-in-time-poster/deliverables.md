@@ -2,6 +2,10 @@
 layout: type3
 serial: level-3-assignment-1-subpage-deliverables
 ---
+Before you submit, be sure to go through the assignment pages to ensure you've followed all the instructions.
+
+### Submission
+
 Name your InDesign document like this:
 
 **appleseed-johnny-010-poster.indd**
