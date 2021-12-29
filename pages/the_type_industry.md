@@ -1,11 +1,8 @@
 ---
 layout: type
 title: The Type Industry
+deck: "How does a font go from the typographer's mind to the market, to your page?"
 ---
-## The Type Industry
-
-How does a font go from the typographer's mind to the market, to your page?
-
 ### The Typographer
 
 Typographers actually design typefaces. The start with a purpose or reason for a type design. What problem does it solve? What use-case hasn't been solved that this design will solve? Is the type meant for long text or headlines? Is it to mimic a old typewriter or a broad-tipped pen?
