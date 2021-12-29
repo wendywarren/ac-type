@@ -8,9 +8,13 @@
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
-    - outcome: "Select a subject-appropriate typeface."
+    - outcome: "Implement a design with an ad hoc grid."
     - outcome: "Create hierarchy in a simple, single-page layout."
+    - outcome: "Select a subject-appropriate typeface."
     - outcome: "Use typography, layout and colour to create an audience-appropriate design."
+    - outcome: "Implement learned type rules relating to italicization, quote marks, etc..."
+    - outcome: "Produce print-ready files."
+    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - 
   # Subpages
@@ -22,10 +26,6 @@
     - title: "Second Subpage"
       serial: "level-4-assignment-1-subpage-2"
       url: type-4/save-the-date/subpage2.html
-      deck: "This is the deck for some assignment in Type 4."
-    - title: "Third Subpage"
-      serial: "level-4-assignment-1-subpage-3"
-      url: type-4/save-the-date/subpage3.html
       deck: "This is the deck for some assignment in Type 4."
     - title: "Deliverables"
       serial: "level-4-assignment-1-subpage-deliverables"
