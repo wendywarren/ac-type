@@ -68,3 +68,9 @@ Unless stated otherwise, we'll use only [Adobe Fonts](https://fonts.adobe.com) f
 This semester is a continuation of your Winter semester, focusing on increasing typographical finesse. We want to improve our recognition of fine typographical detail. We'll begin with simple ad hoc grids and grow from there. We'll end the semester having built more complex modular grids for a publication.
 
 Type selection and pairing is also consume a significant part of our attention. Sound type pairing takes years of practice. That's where we'll <a href="{{site.baseurl}}/type-3/type-family-pairing/index.html" title="Type family pairing">start today</a>.
+
+#### Write Your Own Text
+
+During this course you'll be asked to write content for various assignments. It is forbidden to copy text from the web or any other source. When doing one of these assignments I suggest you read and make your own notes in bullet list form. Once you're done with your research, you can re-write the text in your own words. Be sure there isn't even one sentence that is not your own.
+
+No matter how good a writer you are, it's always a good idea to have someone else proof-read your text.
