@@ -19,14 +19,6 @@
     - 
   # Subpages
   pages:
-    - title: "First Subpage"
-      serial: "level-4-assignment-1-subpage-1"
-      url: type-4/save-the-date/subpage1.html
-      deck: "This is the deck for some assignment in Type 4."
-    - title: "Second Subpage"
-      serial: "level-4-assignment-1-subpage-2"
-      url: type-4/save-the-date/subpage2.html
-      deck: "This is the deck for some assignment in Type 4."
     - title: "Deliverables"
       serial: "level-4-assignment-1-subpage-deliverables"
       url: type-4/save-the-date/deliverables.html
@@ -82,22 +74,36 @@
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
-    - outcome: "Outcomes_placeholder."
+    - outcome: "Design and construct a modular grid for a multi-page publication."
+    - outcome: "Discern the characteristics of type families which show they harmonize."
+    - outcome: "Devise type hierarchy for a multi-page publication."
+    - outcome: "Learn some pretty pro type facts so you can school your designer friends."
+    - outcome: "Recognize the features of a typeface which determine its classification category."
+    - outcome: "Research and organize historical typographic information."
+    - outcome: "Select, then apply context-appropriate colours along with their tints and shades to create a colour theme."
+    - outcome: "Design functional and decorative page elements like folios, shapes, colours and more."
+    - outcome: "Build running headers, and automatic page numbering in a page layout application."
+    - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
+    - outcome: "Select a typeface for good legibility in a long document."
+    - outcome: "Set type size, leading and spacing for a long document."
+    - outcome: "Use the appropriate software tools and techniques to build the page."
+    - outcome: "Organize files and folders for submission according to provided instructions."
+    - outcome: "Produce print-ready files."
   resource-links: |
     - 
   # Subpages
   pages:
-    - title: "First Subpage"
-      serial: "level-4-assignment-3-comparative-analysis-subpage-1"
-      url: type-4/comparative-analysis/subpage1.html
+    - title: "Type Pairs"
+      serial: "level-4-assignment-3-comparative-analysis-subpage-type-pairs"
+      url: type-4/comparative-analysis/type-pairs.html
       deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-    - title: "Second Subpage"
-      serial: "level-4-assignment-3-comparative-analysis-subpage-2"
-      url: type-4/comparative-analysis/subpage2.html
+    - title: "Comparative Considerations"
+      serial: "level-4-assignment-3-comparative-analysis-subpage-considerations"
+      url: type-4/comparative-analysis/considerations.html
       deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-    - title: "Third Subpage"
-      serial: "level-4-assignment-3-comparative-analysis-subpage-3"
-      url: type-4/comparative-analysis/subpage3.html
+    - title: "The Booklet"
+      serial: "level-4-assignment-3-comparative-analysis-subpage-the-booklet"
+      url: type-4/comparative-analysis/the-booklet.html
       deck: "This is the deck for the Comparative Analysis assignment in Type 4."
     - title: "Deliverables"
       serial: "level-4-comparative-analysis-subpage-deliverables"
@@ -109,7 +115,7 @@
         - criterium: "You've submitted files as directed, ready for print."
 
 # [3] Assignment #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-- title: "Stratford Fest Program"
+- title: ""
   type: "Larger Assignment"
   value: "20%"
   serial: "level-4-assignment-4-home"
@@ -123,23 +129,6 @@
     - 
   # Subpages
   pages:
-    - title: "First Page"
-      serial: "level-4-assignment-4-subpage-1"
-      url: type-4/assignment-4/subpage1.html
-      deck: "This is the text for the deck for this page."
-    - title: "Second Subpage"
-      serial: "level-4-assignment-4-subpage-2"
-      url: type-4/assignment-4/subpage2.html
-      deck: "This is the text for the deck for this page."
-    - title: "Third Subpage"
-      serial: "level-4-assignment-4-subpage-3"
-      url: type-4/assignment-4/subpage3.html
-      deck: "This is the text for the deck for this page."
-    - title: "Deliverables"
-      serial: "level-4-assignment-4-subpage-deliverables"
-      url: type-4/assignment-4/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
@@ -159,10 +148,10 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - title: "Subpage 1 Type 4 Micro #1"
-      serial: "level-4-item-1-subpage-1"
+    - title: "Building The Grid"
+      serial: level-4-item-1-subpage-1
       url: type-4/type-4-item-1/subpage1.html
-      deck: "This is the text for the deck for Type 4 Micro #1 Subpage 1."
+      deck: "We'll explore options to create rhythm with your text on the page."
     - title: "Deliverables"
       serial: level-4-item-1-subpage-deliverables
       url: type-4/type-4-item-1/deliverables.html
@@ -218,7 +207,7 @@
   # Subpages
   pages:
     - title: "First Subpage Type 4 Micro #3"
-      serial: "level-4-item-1-subpage-1"
+      serial: "level-4-item-3-subpage-1"
       url: type-4/type-4-item-3/subpage1.html
       deck: "This is the text for the deck for Type 4 Micro #3 Subpage 1."
     - title: "Deliverables"

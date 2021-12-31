@@ -11,7 +11,7 @@ Build a letter-sized layout with a type treatment which includes the two familie
 	<li><a href="https://fonts.adobe.com/fonts/acumin" target="_blank" title="Acumin">Acumin</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/arno" target="_blank" title="Arno">Arno</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/itc-avant-garde-gothic" target="_blank" title="Avant Garde">Avant Garde</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/baskerville" target="_blank" title="Baskerville">Baskerville</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/baskerville-urw" target="_blank" title="Baskerville">Baskerville</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/bell-centennial-std" target="_blank" title="Bell Centennial">Bell Centennial</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/birch" target="_blank" title="Birch">Birch</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/brioso" target="_blank" title="Brioso">Brioso</a></li>

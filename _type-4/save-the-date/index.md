@@ -2,6 +2,12 @@
 layout: type4
 serial: level-4-assignment-1-home
 ---
+The focus of this assignment is to capture the essence and the style of the occasion with type, colour and layout.
+
+These invitations are produced in small numbers. It's almost a craft project. Attention to detail and a novel approach are important.
+
+Use finesse, style and creativity.
+
 You will design one of the following invitations:
 
 Anniversary Gala
@@ -26,8 +32,9 @@ This should be a very minimal type-based design that uses hierarchy limited colo
 <ul class="hasBullets">
 	<li>Use Illustrator</li>
 	<li>Dimensions no larger than 8.5" x 5.5"</li>
+	<li>Accurate ⅛" bleeds</li>
 	<li>Can be two-sided</li>
-	<li>Either orientation - vertical or horizontal</li>
+	<li>Either orientation, vertical or horizontal</li>
 	<li>The fewest type families possible</li>
 	<li>The fewest colours possible</li>
 	<li>No photography. No pixels.</li>

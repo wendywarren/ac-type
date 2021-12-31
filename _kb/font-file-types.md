@@ -11,22 +11,23 @@ You may come across the need to actually purchase a font family to cater to a sp
 
 Note that I'm using the term font advisedly on this page. I'm referring to the actual file on your computer, not the type design.
 
-![TrueType Fonts]({{site.url}}/svg/type-trivia/font-types-ttf.svg "TrueType"){:width="100px"}
+{% include /svg/kb/font-types-ttf.svg %}{:width="30%" height="150px"}
+
 
 TrueType
 : This font type was developed by Apple in the late 1980's. It's still in use today. It's claim was to provide font creators pixel-level control called *hinting*. Ironically, today, most of the pixel-level information is ignored by modern operating systems. The OpenType format has mostly taken over from TrueType for quality fonts. The file has a .ttf file extension.
 
-![PostScript Fonts]({{site.url}}/svg/type-trivia/font-types-ps.svg "PostScript Fonts"){:width="100px"}
+{% include /svg/kb/font-types-ps.svg %}{:width="30%" height="150px"}
 
 PostScript
 : These were invented by Adobe. They usually had two types of files per family. One was to view the type on-screen. The other was for printing. There are many different variants of PostScript fonts. Adobe recently [retired support](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html) for PostScript Type 1 fonts.
 
-![OpenType Fonts]({{site.url}}/svg/type-trivia/font-types-otf.svg "OpenType Fonts"){:width="100px"}
+{% include /svg/kb/font-types-otf.svg %}{:width="30%" height="150px"}
 
 OpenType
 : OpenType is an extension to the TrueType format. They were invented by Microsoft with Adobe's support. They're the most common format today. The format's claim to fame is multi-language support and advanced glyph support.
 
-![WOFF Fonts]({{site.url}}/svg/type-trivia/font-types-woff.svg "WOFF Fonts"){:width="100px"}
+{% include /svg/kb/font-types-woff.svg %}{:width="30%" height="150px"}
 
 Web Open Font Format
 : WOFF (the Web Open Font Format) is a web font format developed by Mozilla and other organizations. It boasts compression and includes license information if the author adds it. The format is actually a variant of either OpenType or TrueType. The font data is compressed, so sites using WOFF will tend to load faster. There are two versions called WOFF and WOFF2. The difference is simply their compression algorithms. In @font-face they are identified by the 'woff' and 'woff2' format descriptor respectively.

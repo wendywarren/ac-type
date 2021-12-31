@@ -12,7 +12,7 @@ Variable fonts are a new file format based on OpenType that allows the user to c
 
 Designers can use variable fonts in design applications like InDesign, Illustrator or Photoshop. They can also be used for web site and mobile app development.
 
-![Variable Fonts]({{site.url}}/svg/type-trivia/variable-fonts.svg "Variable fonts"){:width="800px"}
+{% include /svg/kb/variable-fonts.svg %}{:width="90%" height="50%"}
 
 You have variable fonts on your Mac now! We can launch InDesign to test them out.
 
