@@ -30,6 +30,6 @@ Be sure your InDesign document is named as usual:
 
 When you package your InDesign document with <span class="command">File > Package...</span> It will create a folder that's properly named if your file was well named to start with.
 
-![submission-indesign-package]({{site.url}}/svg/submission-indesign-package-no-images.svg "Submission Folder"){:width="300px"}
+{% include /svg/submission-folder.svg %}
 
-[![Submit on BrightSpace]({{site.url}}/svg/button-submit.svg "Submit on BrightSpace"){:width="320px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351636&grpid=0&isprv=0&bp=0&ou=372600)
+{% include /svg/button-submit.svg %}

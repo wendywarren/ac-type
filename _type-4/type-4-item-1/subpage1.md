@@ -2,7 +2,7 @@
 layout: type4
 serial: level-4-item-1-subpage-1
 ---
-{% include /svg/baseline-grid.svg %}
+{% include /svg/baseline-grid.svg %}{:width="90%"}
 
 Create a type system that has a baseline grid that's all in multiples so it can accomodate body copy and sizes of titles.
 

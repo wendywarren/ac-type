@@ -12,4 +12,6 @@ You'll share your findings with the group at the start of class. This should be 
 
 Make sure your InDesign file is in good shape, save, then package it, including a PDF file.
 
-I'll share each PDF file with the group so you have good pairings to use in your work.
+{% include /svg/submission-folder.svg %}
+
+{% include /svg/button-submit.svg %}

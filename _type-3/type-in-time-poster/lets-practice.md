@@ -21,7 +21,7 @@ Activate your chosen type family. Create an InDesign document. Let's try a 10" s
 
 Choose your own topic for your layout. I'm going to choose a title *Man's Best Friend*. A sub-title *Are dogs really man's best friend? How did this come to be?* Then a block of body copy.
 
-<a href="https://www.dropbox.com/s/zixxh4b1lnmx4oi/mans-best-friend.txt?dl=1" title="Download the text file for this practice assignment" target="_blank"><img alt="Submit a PDF" src="{{ site.baseurl }}/svg/button-download.svg" style="width: 240px;"></a>
+<a href="https://www.dropbox.com/s/zixxh4b1lnmx4oi/mans-best-friend.txt?dl=1" title="Download the text file for this practice assignment" target="_blank">{% include /svg/button-submission-pdf.svg %}{:width="40%"}</a>
 
 The whole idea of the ad hoc grid is that we set one page element after another, starting with the most important. So let's set the title.
 
@@ -47,6 +47,6 @@ The last item is the block of body copy. Make sure to set proper leading and rea
 
 Once you're done, save your work, then save a copy of your file as a Print Ready PDF file.
 
-<img alt="Submit a PDF" src="{{ site.baseurl }}/svg/button-submission-pdf.svg" style="width: 240px;">
+{% include /svg/button-submission-pdf.svg %}{:width="40%"}
 
 We'll do a quick critique of the result.

@@ -25,15 +25,19 @@ serial: level-4-assignment-3-comparative-analysis-subpage-considerations
 Terminals
 : The shape of the serifs and other terminals: What is their essential structure and are they perfectly symmetrical or absolutely identical between similar instances. Are they bracketed slightly or not at all? 
 
-Basic glyph comparison
-: Comparisons between letters—or figures—having similar forms: h m n u; b d p q; A V Y v y W w; C O Q; E F L B P; 3 8 5.
+Compare glyphs from both families that are built with similar forms.
 
-Stroke variation
-: The proportional relationship between thick and thin strokes and between the thickness of the cap strokes and those of the lower case and figures.
+{% include /svg/analysis-similar.svg %}
+
+Compare stroke contrast differences or lack thereof.
+
+{% include /svg/analysis-stroke-contrast.svg %}{:width="90%"}
 
 The relationship between the h m n u counters to those of the b d p q and o; the counter of the m is almost always a bit smaller than those of the h m n u, and those of the b d p q wider.
 
-The relationship between counters and angles of v y w and V W X Y.
+The relationship between counters and angles.
+
+{% include /svg/analysis-counters-v.svg %}{:width="90%"}
 
 Comparison between the D O, C O and G O; between B P R and between the O o and zero
 

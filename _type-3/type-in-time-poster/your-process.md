@@ -33,7 +33,7 @@ Create a single-page PDF mood board. If we were cooking, this would be all the i
 </ul>
 
 <span class="brightspace">
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351628&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">Submit your PDF here.</a></span>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351628&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">{% include /svg/button-submission-pdf.svg %}{:width="40%"}</a></span>
 
 ### Type Size
 

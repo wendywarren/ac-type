@@ -18,6 +18,7 @@ html
 	font-size: 100%;
 	line-height: 1.5;
 	color: #000000;
+	font-style: normal;
 	font-weight: normal;
 	font-family: "FiraSans-Light", Arial, Helvetica, sans-serif;
 	font-variant-numeric: oldstyle-nums;
@@ -73,6 +74,11 @@ img
 	display: block;
 	margin: 3rem auto;
 	max-width: 100%;
+}
+
+#content svg {
+	display: block;
+	margin: 3rem auto;
 }
 
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
@@ -162,7 +168,8 @@ strong
 {
 	font-style: normal;
 	font-weight: normal;
-	font-family: "FiraSans-Medium";
+	font-family: "FiraSans-Regular";
+	color: var(--blue);
 }
 
 dt
@@ -171,7 +178,7 @@ dt
 	font-weight: normal;
 	font-family: "FiraSans-Regular";
 	margin-top: 0.5em;
-	margin-left: 1rem;
+	margin-left: 0.5rem;
 }
 
 dd
@@ -316,6 +323,7 @@ h4,
 h5,
 h6
 {
+	font-style: normal;
 	font-weight: normal;
 	font-family: "FiraSans-Medium";
 }
@@ -361,7 +369,7 @@ h2 { font-size: 1.2rem; }
 	margin-bottom: 0;
 }
 
-#content p + p { margin-top: .5rem; }
+#content p + p { margin-top: 1.5rem; }
 
 #content h1
 {

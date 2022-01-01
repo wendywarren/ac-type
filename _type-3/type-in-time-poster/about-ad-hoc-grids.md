@@ -18,7 +18,7 @@ Your page is the canvas you have to work with. Remember that in the west, our ey
 
 As we build our layout, we create hierarchy for each element using size, weight, etc... Once each element is styled, we place the most important one thoughtfully on the page. From there, we can place the other elements in order of descending importance.
 
-![Example of Ad Hoc Grid]({{site.url}}/svg/adhoc-grids.svg "Example of Ad Hoc Grid")
+{% include /svg/adhoc-grids.svg %}{:width="90%" height="35%"}
 
 In the example above, you can see that the main title logically takes the lead in the layout. The two remaining elements align with it. You can see how, even with so few elements, we've achieved harmony on the page.
 

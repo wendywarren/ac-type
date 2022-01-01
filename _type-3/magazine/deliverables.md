@@ -26,13 +26,13 @@ Create a style tile which shows the elements of your design. It must include:
 
 [**See my example**](https://www.dropbox.com/s/a7vihd1f7oe6nrd/paradis-alain-010-style-tile.pdf?dl=1) [PDF] style tile for more reference info. You are free to add more, depending on your design.
 
-[![Submit Style Tile]({{site.url}}/svg/button-submit-style-tile.svg "Submit Style Tile"){:width="240px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=367214&grpid=0&isprv=0&bp=0&ou=372600)
+{% include /svg/button-submit-style-tile.svg %}
 
 ### Get Feedback
 
 As you progress with your layout, you can submit PDF files for me to provide feedback. Let's please be reasonable with this. Ask for feedback when you have a substantial amount of work completed.
 
-[![Submit for Feedback]({{site.url}}/svg/button-submit-for-feedback.svg "<#title#>"){:width="240px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=367213&grpid=0&isprv=0&bp=0&ou=372600)
+{% include /svg/button-submit-for-feedback.svg %}
 
 ### Prepare Print-Ready Files
 
@@ -65,6 +65,6 @@ Note
 
 When you package your InDesign document with <span class="command">File > Package...</span> It will create a folder that's properly named if your file was well named to start with.
 
-![submission-indesign-package]({{site.url}}/svg/submission-indesign-package.svg "Submission Folder"){:width="300px"}
+{% include /svg/submission-folder.svg %}
 
-[![Submit on BrightSpace]({{site.url}}/svg/button-submit.svg "Submit on BrightSpace"){:width="320px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351643&grpid=0&isprv=0&bp=0&ou=372600)
+{% include /svg/button-submit.svg %}
