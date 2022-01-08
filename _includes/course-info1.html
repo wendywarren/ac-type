@@ -1,9 +1,9 @@
+{% if page.path contains "type-3" %} 
 <div>
 	<h3>
-		&nbsp;
+		About Type 3
 	</h3>
 </div>
-{% if page.path contains "type-3" %} 
 	<div>
 		{{ site.data.metadata.courses[0].coursecode }} {{ site.data.metadata.courses[0].title }} 
 	</div>
@@ -16,7 +16,15 @@
 	<div>
 		{{ site.data.metadata.courses[1].position }}
 	</div>
+	<div>
+		<a href="mailto:{{ site.data.metadata.courses[1].email }}">{{ site.data.metadata.courses[1].email }}</a>
+	</div>
 {% elsif page.path contains "type-4" %} 
+<div>
+	<h3>
+		About Type 4
+	</h3>
+</div>
 	<div>
 		{{ site.data.metadata.courses[1].coursecode }} {{ site.data.metadata.courses[1].title }} 
 	</div>
@@ -29,11 +37,22 @@
 	<div>
 		{{ site.data.metadata.courses[1].position }}
 	</div>
+	<div>
+		<a href="mailto:{{ site.data.metadata.courses[1].email }}">{{ site.data.metadata.courses[1].email }}</a>
+	</div>
 {% else %}
+<div>
+	<h3>
+		About The Faculty
+	</h3>
+</div>
 	<div>
 		Prof. {{ site.data.metadata.courses[1].prof }}
 	</div>
 	<div>
 		{{ site.data.metadata.courses[1].position }}
+	</div>
+	<div>
+		<a href="mailto:{{ site.data.metadata.courses[1].email }}">{{ site.data.metadata.courses[1].email }}</a>
 	</div>
 {% endif %}

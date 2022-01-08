@@ -1,7 +1,5 @@
 <div>
-	<h3 class="text-right">
-		<a href="{{ site.url }}/index.html" title="Type Home" class="text-right">{% include button-home.svg %}</a>
-	</h3>
+	<h3>&nbsp;</h3>
 </div>
 {% if page.serial contains 'level-3' %} 
 <div>
@@ -13,9 +11,9 @@
 </div>
 {% else %} 
 <div>
-	<a href="{{ site.data.metadata.courses[0].brightspace }}">BrightSpace: Type 3</a> 
+	<a href="{{ site.data.metadata.program-links[3].url }}">{{ site.data.metadata.program-links[3].name }}</a>
 </div>
 <div>
-	<a href="{{ site.data.metadata.courses[1].brightspace }}">BrightSpace: Type 4</a> 
+	<a href="{{ site.data.metadata.program-links[4].url }}">{{ site.data.metadata.program-links[4].name }}</a>
 </div>
 {% endif %}
