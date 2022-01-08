@@ -2,7 +2,7 @@
 layout: type3
 serial: level-3-magazine-assignment-home
 ---
-To date, we've designed ad hoc grids which lend themselves to single pages of content. We then designed single-column grids which are commonly found in fiction novels. Now, we'll step up once again to the modular grid. This is the most flexible type of grid. It allows for placement of text and other types of content like images, tables of data, graphics and more.
+To date, we've designed informal grids which lend themselves to single pages of content. We then designed single-column grids which are commonly found in fiction novels. Now, we'll step up once again to the modular grid. This is the most flexible type of grid. It allows for placement of text and other types of content like images, tables of data, graphics and more.
 
 With increased flexibility comes increased complexity. We'll be juggling with more balls at a time, so it's easier to drop one. That's why we need to be methodical in our process.
 

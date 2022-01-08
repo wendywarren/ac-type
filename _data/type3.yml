@@ -7,7 +7,7 @@
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
   outcomes:
-    - outcome: "Implement a design with an ad hoc grid."
+    - outcome: "Implement a design with an informal grid."
     - outcome: "Recognize the features of a typeface which determine its classification category."
     - outcome: "Research and organize historical typographic information."
     - outcome: "Make the most of the glyphs in a given type family."
@@ -28,14 +28,14 @@
     - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
   # Subpages
   pages:
-    - title: "About Ad Hoc Grids"
+    - title: "About Informal Grids"
       serial: "level-3-assignment-1-subpage-about-ad-hoc-grids"
       url: type-3/type-in-time-poster/about-ad-hoc-grids.html
-      deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product. The given space is the canvas for our ad hoc grid."
+      deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product. The given space is the canvas for our informal grid."
     - title: "Let's Practice"
       serial: "level-3-assignment-1-subpage-lets-practice"
       url: type-3/type-in-time-poster/lets-practice.html
-      deck: "Let's build a page using a single type family and an ad hoc grid."
+      deck: "Let's build a page using a single type family and an informal grid."
     - title: "Your Content"
       serial: "level-3-assignment-1-subpage-your-content"
       url: type-3/type-in-time-poster/your-content.html
@@ -60,13 +60,13 @@
   serial: "level-3-assignment-2-home"
   point-value: 20
   url: type-3/grimm-dust-cover/index.html
-  deck: "A type-based book dust cover design is a great project on which to use an ad hoc approach to our layout. You'll work with limited type and colours to create a very graphic design."
+  deck: "A type-based book dust cover design is a great project on which to use an informal approach to our layout. You'll work with limited type and colours to create a very graphic design."
   download: "https://www.dropbox.com/s/qtwu2cdf2xyd58y/type-3-grimm-dust-cover.zip?dl=1"
   pinterest:
   outcomes:
     - outcome: "Inventory, organize and prepare provided materials to use in a type-based design."
     - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
-    - outcome: "Implement a design with an ad hoc grid."
+    - outcome: "Implement a design with an informal grid."
     - outcome: "Use type to symbolically express a concept."
     - outcome: "Devise type hierarchy for a single-page design."
     - outcome: "Create an context-appropriate and technically correct colour theme."
@@ -112,7 +112,7 @@
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "Your submission adheres to the physical parameters."
-        - criterium: "You successfully implemented a sound ad hoc grid."
+        - criterium: "You successfully implemented a sound informal grid."
         - criterium: "You created a harmonious font pair."
         - criterium: "You made effective use of colour."
         - criterium: "You've used type to create a pleasing, harmonious, context-appropriate design."

@@ -9,4 +9,4 @@ Add a PDF to the submission folder.
 
 {% include /svg/submission-folder.svg %}
 
-{% include /svg/button-submit.svg %}
+{% include /svg/button-submit-brightspace.svg %}

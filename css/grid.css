@@ -3,6 +3,7 @@
 	grid-template-columns: minmax(0, 1fr);
 	grid-gap: .25rem;
 	grid-template-areas:
+	"top-nav"
     "course-info1"
     "course-info2"
 	"site-id"
@@ -20,10 +21,10 @@
 	"footer3"
 	"footer4";
 }
-
-.site-id { grid-area: site-id; }
-.course-info1 { grid-area: course-info1; }
-.course-info2 { grid-area: course-info2; }
+#top-nav { grid-area: top-nav; }
+#site-id { grid-area: site-id; }
+#course-info1 { grid-area: course-info1; }
+#course-info2 { grid-area: course-info2; }
 #content { grid-area: content; }
 .nav_1 { grid-area: nav_1; }
 .nav_2 { grid-area: nav_2; }
@@ -45,34 +46,10 @@
 
 	#grid
 	{
-		grid-template-columns: 1fr 1fr 1fr 1fr;
-		grid-template-areas:
-		"site-id . course-info1 course-info2"
-		"content . .            nav_1"
-		". .       .            nav_2"
-		". .       .            nav_3"
-		". .       .            nav_4"
-		". .       .            nav_5"
-		". .       .            nav_6"
-		". .       .            nav_7"
-		". .       .            nav_8"
-		"footer1 footer2 footer3 footer4";
-	}
-	.site-id { grid-area: 1 / 1 / auto / span 2; }
-	.course-info1 { grid-area: 1 / 3; }
-	.course-info2 { grid-area: 1 / 4; }
-	#content { grid-area: 2 / 1 / 14 / 4; }
-}
-
-/* * * * * * * * * * 960px – 1440px * * * * * * * * * */
-
-@media only screen and (min-width: 60em)
-{
-	#grid
-	{
-		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-columns: repeat(4, minmax(4rem, 1fr) );
 		grid-auto-rows: min-content;
 		grid-template-areas:
+		"top-nav . .            .           "
 		"site-id . course-info1 course-info2"
 		"content . nav_1        nav_2"
 		".       . nav_3        nav_4"
@@ -101,8 +78,56 @@
 		".       . .            .    "
 		"footer1 footer2 footer3 footer4";
 	}
-	.site-id {	grid-area: 1 / 1 / auto / span 2; }
-	.course-info1 { grid-area: 1 / 3; }
-	.course-info2 { grid-area: 1 / 4; }
-	#content { grid-area: 2 / 1 / 14 / 3; }
+	#top-nav { grid-area: 1 / 3 / auto / span 2;  }
+	#site-id {	grid-area: 2 / 1 / auto / span 2; }
+	#course-info1 { grid-area: 2 / 3; }
+	#course-info2 { grid-area: 2 / 4; }
+	#content { grid-area: 3 / 1 / 28 / 3; }
+	.footer1 { grid-area: 28 / 1; }
+}
+
+/* * * * * * * * * * 960px – 1440px * * * * * * * * * */
+
+@media only screen and (min-width: 60em)
+{
+	#grid
+	{
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-auto-rows: min-content;
+		grid-template-areas:
+		"top-nav . .            .           "
+		"site-id . course-info1 course-info2"
+		"content . nav_1        nav_2"
+		".       . nav_3        nav_4"
+		".       . nav_5        nav_6"
+		".       . nav_7        nav_8"
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		".       . .            .    "
+		"footer1 footer2 footer3 footer4";
+	}
+	#top-nav { grid-area: 1 / 4 ;}
+	#site-id {	grid-area: 2 / 1 / auto / span 2; }
+	#course-info1 { grid-area: 2 / 3; }
+	#course-info2 { grid-area: 2 / 4; }
+	#content { grid-area: 3 / 1 / 28 / 3; }
+	.footer1 { grid-area: 28 / 1; }
 }

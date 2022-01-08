@@ -16,43 +16,58 @@ serial: level-4-assignment-3-comparative-analysis-subpage-considerations
 <ul class="hasBullets">
 	<li>How many instances are there in each family?</li>
 	<li>Compare glyph complements.</li>
+	<li>Do the families include ornaments?</li>
 	<li>Are there multiple writing systems? Cyrillic, Greek, etc…</li>
 </ul>
 
 
 ### Structural Comparison
 
-Terminals
-: The shape of the serifs and other terminals: What is their essential structure and are they perfectly symmetrical or absolutely identical between similar instances. Are they bracketed slightly or not at all? 
+What's below is a list to choose from. You won't compare all of these elements. Some won't be necessary for your two families. You need to look at the items then decide whether they're worth using in your analysis.
 
-Compare glyphs from both families that are built with similar forms.
+  <figure>
+	{% include /svg/analysis-similar.svg %}
+  <figcaption>
+	Compare glyphs from both families that are built with similar forms.    
+  </figcaption>
+  </figure>
 
-{% include /svg/analysis-similar.svg %}
+  <figure>
+	{% include /svg/analysis-terminals.svg %}
+  <figcaption>
+    Compare the properties of the terminals.
+  </figcaption>
+  </figure>
 
-Compare stroke contrast differences or lack thereof.
+How do the terminals compare? Are they bracketed serifs? Angled sans-serif terminals? Describe their general shape. How do they change with italics?
 
-{% include /svg/analysis-stroke-contrast.svg %}{:width="90%"}
+  <figure>
+	{% include /svg/analysis-stroke-contrast.svg %}    
+  <figcaption>
+	Compare stroke contrast differences or lack thereof.    
+  </figcaption>
+  </figure>
 
 The relationship between the h m n u counters to those of the b d p q and o; the counter of the m is almost always a bit smaller than those of the h m n u, and those of the b d p q wider.
 
 The relationship between counters and angles.
 
-{% include /svg/analysis-counters-v.svg %}{:width="90%"}
+{% include /svg/analysis-counters-v.svg %}
 
 Comparison between the D O, C O and G O; between B P R and between the O o and zero
 
-Comparison of the O o to a perfect circle, to demonstrate asymmetry or deviance from a perfect circle, if the O o in the particular typeface appears close to being circular.
+  <figure>
+	{% include /svg/analysis-o.svg %}    
+  <figcaption>
+    Compare the o glyph across families.
+  </figcaption>
+  </figure>
 
-Compare the overall widths of the H N U O, and the E to F.
+Is your typeface geometric? If so, how far is it from being perfectly round? They never really are. If it's not geometric, compare slant and stroke weight contrast.
 
-Compare the top and bottom counters of letters like E B S H or 8. The top stroke of the E is almost always shorter than that on the bottom, and the center stroke shorter than the one on top. 
-
-Illustrate how the curved parts of many characters go below baselines, x-heights or cap heights.
-
-What is the relationship between between the typeface cap height, x-height, ascender and descender? Are the figures the same height as the caps or slightly smaller? In Helvetica, for example the figures are about 90% the height of the caps. 
-
-Numbers are usually monospaced, meaning they are designed so that their overall widths are identical, allowing for tabular setting. Demonstrate these relationships.
-
-Are the strokes of characters perfectly straight or are they subtly curved, as in Optima or Eras?
-
-Show to what degree the diagonal strokes of characters, particularly g in bold sans serif, are tapered in order to make them optically of equal thickness.
+  <figure>
+	{% include /svg/analysis-curved-strokes.svg %}    
+  <figcaption>
+    Are the strokes of the glyphs straight, or do they have a curve as shown above?
+  </figcaption>
+  </figure>

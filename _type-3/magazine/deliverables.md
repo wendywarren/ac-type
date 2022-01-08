@@ -26,13 +26,13 @@ Create a style tile which shows the elements of your design. It must include:
 
 [**See my example**](https://www.dropbox.com/s/a7vihd1f7oe6nrd/paradis-alain-010-style-tile.pdf?dl=1) [PDF] style tile for more reference info. You are free to add more, depending on your design.
 
-{% include /svg/button-submit-style-tile.svg %}
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379280&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">{% include /svg/button-submit-style-tile.svg %}</a>
 
 ### Get Feedback
 
 As you progress with your layout, you can submit PDF files for me to provide feedback. Let's please be reasonable with this. Ask for feedback when you have a substantial amount of work completed.
 
-{% include /svg/button-submit-for-feedback.svg %}
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379281&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">{% include /svg/button-submit-for-feedback.svg %}</a>
 
 ### Prepare Print-Ready Files
 
@@ -67,4 +67,4 @@ When you package your InDesign document with <span class="command">File > Packag
 
 {% include /svg/submission-folder.svg %}
 
-{% include /svg/button-submit.svg %}
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379285&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">{% include /svg/button-submit-brightspace.svg %}</a>

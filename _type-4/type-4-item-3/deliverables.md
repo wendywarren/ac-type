@@ -5,4 +5,4 @@ serial: level-4-item-3-subpage-deliverables
 
 {% include /svg/submission-folder.svg %}
 
-{% include /svg/button-submit.svg %}
+{% include /svg/button-submit-brightspace.svg %}

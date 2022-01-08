@@ -13,7 +13,7 @@ We'll review the areas of the dust jacket we have to work with.
 These are the main content areas for your cover. If you wish to deviate from these guidelines, please ask me for approval for your idea.
 
 
-<a href="https://www.dropbox.com/s/djwq2tc3oi0jumu/type-3-grimm-dust-cover.zip?dl=1" title="Download Files" target="_blank">{% include /svg/button-download.svg %}{:width="30%"}</a>
+<a href="https://www.dropbox.com/s/djwq2tc3oi0jumu/type-3-grimm-dust-cover.zip?dl=1" title="Download Files" target="_blank">{% include /svg/button-download.svg %}</a>
 
 
 Title

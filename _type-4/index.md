@@ -56,4 +56,4 @@ Unless stated otherwise, we'll use only [Adobe Fonts](https://fonts.adobe.com) f
 
 #### Course Focus
 
-This semester is a continuation of your Fall semester, focusing on increasing typographical finesse. We want to improve our recognition of fine typographical detail. We'll begin with simple ad hoc grids and grow from there. We'll end the semester having built more complex modular grids for a publication. Type selection and pairing is also consume a significant part of our attention.
+This semester is a continuation of your Fall semester, focusing on increasing typographical finesse. We want to improve our recognition of fine typographical detail. We'll begin with simple informal grids and grow from there. We'll end the semester having built more complex modular grids for a publication. Type selection and pairing is also consume a significant part of our attention.

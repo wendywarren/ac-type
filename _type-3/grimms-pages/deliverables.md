@@ -35,4 +35,4 @@ When you package your InDesign document with <span class="command">File > Packag
 
 {% include /svg/submission-folder.svg %}
 
-{% include /svg/button-submit.svg %}
+{% include /svg/button-submit-brightspace.svg %}

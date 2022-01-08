@@ -8,7 +8,7 @@
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
-    - outcome: "Implement a design with an ad hoc grid."
+    - outcome: "Implement a design with an informal grid."
     - outcome: "Create hierarchy in a simple, single-page layout."
     - outcome: "Select a subject-appropriate typeface."
     - outcome: "Use typography, layout and colour to create an audience-appropriate design."
@@ -38,28 +38,41 @@
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
-    - outcome: "Outcomes_placeholder."
+    - outcome: "Design page layout grids for single-page and for long documents."
+    - outcome: "Select two typefaces which create a harmonious pairing."
+    - outcome: "Devise type hierarchy which enhances information organization & promotes legibility."
+    - outcome: "Select and apply theme-appropriate colours."
+    - outcome: "Design functional and decorative page elements like folios, shapes, colours and more."
+    - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
+    - outcome: "Organize files and folders for submission according to provided instructions."
+    - outcome: "Produce print-ready files."
+    - outcome: "Use the appropriate software tools and techniques to build the page."
   resource-links: |
-    - 
+    - https://www.underconsideration.com/artofthemenu/
+    - https://www.thebutchersdaughter.com/brooklyn/
+    - http://backrowwest.com.au/menu/
+    - https://www.cafecache.fr
+    - https://www.curiobarsf.com
+    - https://www.leadbellysbar.co.uk
   # Subpages
   pages:
-    - title: "Menu First Subpage"
-      serial: "level-4-assignment-2-menu-subpage-1"
-      url: type-4/menu/subpage1.html
-      deck: "This is the text for the deck for the Menu assignment."
-    - title: "Menu Second Subpage"
-      serial: "level-4-assignment-2-menu-subpage-2"
-      url: type-4/menu/subpage2.html
-      deck: "This is the text for the deck for the Menu assignment."
-    - title: "Menu Third Subpage"
-      serial: "level-4-assignment-2-menu-subpage-3"
-      url: type-4/menu/subpage3.html
-      deck: "This is the text for the deck for the Menu assignment."
-    - title: "Menu Deliverables"
-      serial: "level-4-assignment-2-menu-subpage-deliverables"
-      url: type-4/menu/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+#    - title: "Menu First Subpage"
+#      serial: "level-4-assignment-2-menu-subpage-1"
+#      url: type-4/menu/subpage1.html
+#      deck: "This is the text for the deck for the Menu assignment."
+#    - title: "Menu Second Subpage"
+#      serial: "level-4-assignment-2-menu-subpage-2"
+#      url: type-4/menu/subpage2.html
+#      deck: "This is the text for the deck for the Menu assignment."
+#    - title: "Menu Third Subpage"
+#      serial: "level-4-assignment-2-menu-subpage-3"
+#      url: type-4/menu/subpage3.html
+#      deck: "This is the text for the deck for the Menu assignment."
+#    - title: "Menu Deliverables"
+#      serial: "level-4-assignment-2-menu-subpage-deliverables"
+#      url: type-4/menu/deliverables.html
+#      deck: "Gather all your stuff. It's time to send your assignment home."
+#      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
@@ -163,33 +176,33 @@
         - criterium: "Two plus two equals four criteria."
 
 # [5] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Set Web Type"
-  type: "Smaller Assignment"
-  value: "05%"
-  serial: "level-4-item-2-home"
-  url: type-4/type-4-item-2/index.html
-  deck: "We'll build a single page with our type selections and hierarchy."
-  download:
-  pinterest: "https://pin.it/alainparadis"
-  outcomes:
-    - outcome: "Some outcome number 1"
-  resource-links: |
-    - https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/
-  # Subpages
-  pages:
-    - title: "First Subpage Type 4 Micro #2"
-      serial: "level-4-item-2-subpage-1"
-      url: type-4/type-4-item-2/subpage1.html
-      deck: "This is the text for the deck for Type 4 Micro 2 Subpage 1."
-    - title: "Deliverables"
-      serial: level-4-item-2-subpage-deliverables
-      url: type-4/type-4-item-2/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
-      criteria:
-        - criterium: "This is the first criteria item."
-        - criterium: "The second criterium comes after the first."
-        - criterium: "Never two without three criterium."
-        - criterium: "Two plus two equals four criteria."
+#- title: "Set Web Type"
+#  type: "Smaller Assignment"
+#  value: "05%"
+#  serial: "level-4-item-2-home"
+#  url: type-4/type-4-item-2/index.html
+#  deck: "We'll build a single page with our type selections and hierarchy."
+#  download:
+#  pinterest: "https://pin.it/alainparadis"
+#  outcomes:
+#    - outcome: "Some outcome number 1"
+#  resource-links: |
+#    - https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/
+#  # Subpages
+#  pages:
+#   - title: "First Subpage Type 4 Micro #2"
+#     serial: "level-4-item-2-subpage-1"
+#     url: type-4/type-4-item-2/subpage1.html
+#     deck: "This is the text for the deck for Type 4 Micro 2 Subpage 1."
+#   - title: "Deliverables"
+#     serial: level-4-item-2-subpage-deliverables
+#     url: type-4/type-4-item-2/deliverables.html
+#     deck: "Gather all your stuff. It's time to send your assignment home."
+#      criteria:
+#        - criterium: "This is the first criteria item."
+#        - criterium: "The second criterium comes after the first."
+#        - criterium: "Never two without three criterium."
+#        - criterium: "Two plus two equals four criteria."
 
 # [6] Type 4 Micro #3 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Page Layout Sketches"
@@ -206,45 +219,45 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - title: "First Subpage Type 4 Micro #3"
-      serial: "level-4-item-3-subpage-1"
-      url: type-4/type-4-item-3/subpage1.html
-      deck: "This is the text for the deck for Type 4 Micro #3 Subpage 1."
-    - title: "Deliverables"
-      serial: level-4-item-3-subpage-deliverables
-      url: type-4/type-4-item-3/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
-      criteria:
-        - criterium: "This is the first criteria item."
-        - criterium: "The second criterium comes after the first."
-        - criterium: "Never two without three criterium."
-        - criterium: "Two plus two equals four criteria."
+#    - title: "First Subpage Type 4 Micro #3"
+#      serial: "level-4-item-3-subpage-1"
+#      url: type-4/type-4-item-3/subpage1.html
+#      deck: "This is the text for the deck for Type 4 Micro #3 Subpage 1."
+#    - title: "Deliverables"
+#      serial: level-4-item-3-subpage-deliverables
+#      url: type-4/type-4-item-3/deliverables.html
+#      deck: "Gather all your stuff. It's time to send your assignment home."
+#      criteria:
+#        - criterium: "This is the first criteria item."
+#        - criterium: "The second criterium comes after the first."
+#        - criterium: "Never two without three criterium."
+#        - criterium: "Two plus two equals four criteria."
 
-# [7] Type 4 Micro #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Type 4 Micro #4"
-  type: "Smaller Assignment"
-  value: "05%"
-  serial: "level-4-item-4-home"
-  url: type-4/type-4-item-4/index.html
-  deck: "This is the text for the deck for this assignment."
-  download:
-  pinterest: "https://pin.it/alainparadis"
-  outcomes:
-    - outcome: "Some outcome number 1"
-  resource-links: |
-    - https://learning.oreilly.com/
-  # Subpages
-  pages:
-    - title: "First Subpage Type 4 Micro #4"
-      serial: "level-4-item-4-subpage-1"
-      url: type-4/type-4-item-4/subpage1.html
-      deck: "This is the text for the deck for Type 4 Micro 4 Subpage 1."
-    - title: "Deliverables"
-      serial: level-4-item-4-subpage-deliverables
-      url: type-4/type-4-item-4/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
-      criteria:
-        - criterium: "This is the first criteria item."
-        - criterium: "The second criterium comes after the first."
-        - criterium: "Never two without three criterium."
-        - criterium: "Two plus two equals four criteria."
+## [7] Type 4 Micro #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#- title: "Type 4 Micro #4"
+#  type: "Smaller Assignment"
+#  value: "05%"
+#  serial: "level-4-item-4-home"
+#  url: type-4/type-4-item-4/index.html
+#  deck: "This is the text for the deck for this assignment."
+#  download:
+#  pinterest: "https://pin.it/alainparadis"
+#  outcomes:
+#    - outcome: "Some outcome number 1"
+#  resource-links: |
+#    - https://learning.oreilly.com/
+#  # Subpages
+#  pages:
+#    - title: "First Subpage Type 4 Micro #4"
+#      serial: "level-4-item-4-subpage-1"
+#      url: type-4/type-4-item-4/subpage1.html
+#      deck: "This is the text for the deck for Type 4 Micro 4 Subpage 1."
+#    - title: "Deliverables"
+#      serial: level-4-item-4-subpage-deliverables
+#      url: type-4/type-4-item-4/deliverables.html
+#      deck: "Gather all your stuff. It's time to send your assignment home."
+#      criteria:
+#        - criterium: "This is the first criteria item."
+#        - criterium: "The second criterium comes after the first."
+#        - criterium: "Never two without three criterium."
+#        - criterium: "Two plus two equals four criteria."

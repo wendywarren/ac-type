@@ -10,7 +10,7 @@ Tell the reason for your choice. No B.S. Make it honest. Take your time. What is
 
 Do your research. Make your choice, then tell me.
 
-<a href="https://forms.office.com/r/RXXc4Np6L8" target="_blank" class="brightspace">Submit your selection with a rationale here.</a>
+<a href="https://forms.office.com/r/1sSccGiZNQ" target="_blank" class="brightspace">{% include /svg/button-submit-type-choice.svg %}</a>
 
 #### Colour Treatment
 

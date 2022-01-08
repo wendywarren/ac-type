@@ -14,4 +14,4 @@ Make sure your InDesign file is in good shape, save, then package it, including 
 
 {% include /svg/submission-folder.svg %}
 
-{% include /svg/button-submit.svg %}
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379291&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">{% include /svg/button-submit-brightspace.svg %}</a>

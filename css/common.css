@@ -21,7 +21,6 @@ html
 	font-style: normal;
 	font-weight: normal;
 	font-family: "FiraSans-Light", Arial, Helvetica, sans-serif;
-	font-variant-numeric: oldstyle-nums;
 	font-variant-numeric: slashed-zero;
 	font-variant-ligatures: common-ligatures contextual discretionary-ligatures;
 }
@@ -36,16 +35,20 @@ body
 }
 
 @font-face {
-  font-family: FiraSans-Regular;
-  src: url("../fonts/FiraSans-Regular.woff2") format("woff2");
-}
-@font-face {
   font-family: FiraSans-Light;
   src: url("../fonts/FiraSans-Light.woff2") format("woff2");
 }
 @font-face {
   font-family: FiraSans-LightItalic;
   src: url("../fonts/FiraSans-LightItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: FiraSans-Book;
+  src: url("../fonts/FiraSans-Book.woff2") format("woff2");
+}
+@font-face {
+  font-family: FiraSans-Regular;
+  src: url("../fonts/FiraSans-Regular.woff2") format("woff2");
 }
 @font-face {
   font-family: FiraSans-Italic;
@@ -58,6 +61,14 @@ body
 @font-face {
   font-family: FiraSans-MediumItalic;
   src: url("../fonts/FiraSans-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: FiraSans-Bold;
+  src: url("../fonts/FiraSans-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: FiraSans-BoldItalic;
+  src: url("../fonts/FiraSans-BoldItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: FiraSans-UltraItalic;
@@ -76,9 +87,10 @@ img
 	max-width: 100%;
 }
 
-#content svg {
+#content svg
+{
 	display: block;
-	margin: 3rem auto;
+	margin: .5rem auto;
 }
 
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
@@ -108,22 +120,22 @@ a:focus { outline: 2px solid black; }
 
 .blue { color: var(--blue); }
 .orange { color: var(--orange); }
+.bold, bold { font-family: "FiraSans-Medium"; }
+figure { margin: 3rem auto; }
+figure svg { margin: 0; }
 
-.bold, bold
+figcaption
 {
-	font-weight: normal;
-	font-style: normal;
-	font-family: "FiraSans-Medium";
+	font-size: 0.9rem;
+	color: var(--darkgrey);
+	font-family: FiraSans-Italic;
+	margin: 0 auto 2rem auto;
 }
 
-em, italic, .italic
-{
-	font-weight: normal;
-	font-style: normal;
-	font-family: "FiraSans-LightItalic", Arial, Helvetica, sans-serif;
-}
+em, italic, .italic { font-family: "FiraSans-LightItalic", Arial, Helvetica, sans-serif; }
 
-.command {
+.command
+{
 	background: var(--lightgrey);
 	font-family: FiraMono-Medium;
 	font-style: normal;
@@ -132,8 +144,10 @@ em, italic, .italic
 	border-radius: 4px;
 	border: 1px solid var(--mediumgrey);
 }
+
 .text-center { text-align: center; }
-.text-right, a.text-right { text-align: right;}
+.text-right, a.text-right { text-align: right; }
+
 blockquote
 {
 	font-weight: normal;
@@ -207,21 +221,25 @@ code
 	font-family: "FiraMono-Medium";
 }
 
-.post_title {
+.post_title
+{
 	display: block;
 	font-style: normal;
 	font-weight: normal;
 	font-family: "FiraSans-Medium";
 	margin-top: 2em;
 }
-.post_excerpt {
+
+.post_excerpt
+{
 	font-style: normal;
 	font-weight: normal;
 	font-family: "FiraSans-Light";
 	font-size: 1rem;
 }
+
 .post_excerpt p { margin-bottom: 1rem; }
-.pagination { margin-top: 3rem;}
+.pagination { margin-top: 3rem; }
 
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * LISTS LISTS LISTS * * * * * * * * */
@@ -255,6 +273,7 @@ ul.hasBullets
 }
 
 ul.hasBullets li { text-indent: -1rem; }
+
 ul.hasBullets li:before
 {
 	content: "\27A4";
@@ -264,7 +283,8 @@ ul.hasBullets li:before
 
 ul.hasBullets li.second { text-indent: .25rem; }
 
-ul.hasBullets li.second::before { 
+ul.hasBullets li.second::before
+{
 	content: "\2043";
 	margin-right: 10px;
 	font-size: 1rem;
@@ -310,7 +330,7 @@ a:visited.site-id
 .site-id sup
 {
 	line-height: 0;
-	font-family: "FiraSans-MediumItalic";
+	font-family: FiraSans-BoldItalic;
 }
 
 a:hover.site-id { color: var(--blue); }
@@ -330,7 +350,6 @@ h6
 
 h1, h2 { letter-spacing: -0.0312rem; }
 h2 { font-size: 1.2rem; }
-
 
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * MAIN CONTENT AREA * * * * * * * * */
@@ -429,6 +448,22 @@ h2 { font-size: 1.2rem; }
 	padding-bottom: 0;
 }
 
+#top-nav a
+{
+	font-family: "FiraSans-Regular";
+	margin-right: .5rem;
+	padding-right: 1rem;
+	border-right: 1px solid var(--mediumgrey);
+}
+
+#top-nav a:last-child { border-right: 0; }
+
+.nav_1 p, .nav_2 p, .nav_3 p, .nav_4 p, .nav_5 p, .nav_6 p, .nav_7 p, .nav_8 p
+{
+	display: none;
+	visibility: hidden;
+}
+
 .item { font-size: 0.875rem; }
 
 .deck
@@ -510,7 +545,7 @@ table
 	white-space: nowrap;
 	border-spacing: .25rem;
 	margin-bottom: 2rem;
-	margin-top: 2rem
+	margin-top: 2rem;
 }
 
 th
@@ -526,7 +561,12 @@ th
 th.column-3 { text-align: center; }
 .column-1 { width: 30%; }
 .column-2 { width: 50%; }
-.column-3 { text-align: center; width: 20%; }
+
+.column-3
+{
+	text-align: center;
+	width: 20%;
+}
 
 td
 {
@@ -558,12 +598,31 @@ td
 	.course-info1 h3, .course-info2 h3
 	{
 		border-bottom: 2px solid var(--lightgrey);
-		padding-bottom: 1rem;
+		padding-bottom: .5rem;
 		margin-right: 1rem;
 		margin-bottom: 0.875rem;
 		line-height: 1.3rem;
 		font-weight: normal;
 		font-family: "FiraSans-Regular";
+	}
+	
+	.assignment h3, .item h4
+	{
+		border-top: 2px solid var(--lightgrey);
+		padding-top: .5rem;
+		margin-right: 1rem;
+		margin-bottom: 0.875rem;
+		line-height: 1.3rem;
+		font-weight: normal;
+		font-family: "FiraSans-Regular";
+	}
+	
+	.assignment h3, .item h4 { margin-top: 2.25rem; }
+	
+	.nav_1 p, .nav_2 p, .nav_3 p, .nav_4 p
+	{
+		display: block;
+		visibility: visible;
 	}
 	
 	#content h1 { margin-top: 0; }
@@ -583,21 +642,4 @@ td
 	html { font-size: 110%; }
 	.site-id { font-size: 7rem; }
 	#content { padding-right: 1rem; }
-	
- .assignment h3, .item h4
-	{
-		border-top: 2px solid var(--lightgrey);
-		padding-top: .5rem;
-		margin-right: 1rem;
-		margin-bottom: 0.875rem;
-		line-height: 1.3rem;
-		font-weight: normal;
-		font-family: "FiraSans-Regular";
-	}
-	
-	.assignment h3, .item h4
-	{
-		margin-top: 2.25rem;
-	}
-
 }

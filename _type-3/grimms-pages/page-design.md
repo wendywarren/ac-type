@@ -8,7 +8,7 @@ serial: level-3-assignment-3-subpage-page-design
 
 This project will have you using left-justified type. If you look at the graphic below, you'll see that this is different than left-aligned text. With left-justified text, you have no rag. Only the last line of the paragraphs are left-aligned.
 
-![Text Alignment]({{site.url}}/svg/text-alignment-left-justified.svg "Text Alignment"){:width="360px"}
+{% include /svg/text-alignment-left-justified.svg %}
 
 A large majority of the text you'll set in your career will be simply left-aligned. Some will be left-justified. The others are used less frequently, and only in specific contexts that require them.
 
@@ -20,7 +20,7 @@ J.A. van de Graaf created the Van de Graaf Canon. This is a formula to create a 
 
   **We're not going to use this type of grid.** I just want you to be aware of it.
 
-![Example of a single-column grid]({{site.url}}/svg/van-de-graaf-canon.svg "Example of a single-column grid")
+{% include /svg/van-de-graaf-canon.svg %}
 
 Using these guides, no matter the dimensions of the pages, the margins will always have the same ratio. This creates margins with a ratio of: inner margin 2, top margin 3, outer margin 4, and bottom margin 6, or 2:3:4:6. We can also express this as 1/9 and 2/9 of the page.
 
@@ -30,8 +30,7 @@ There are other page layout canons. You can [see them here](https://en.wikipedia
 
 Here, we're going to take a more practical approach to our page layout. All we need is enough margins to accommodate the binding on the inside, our thumbs on the outside, running headers at the top and folios at the bottom.
 
-![Example of a single-column grid]({{site.url}}/svg/economical-layout.svg "Example of a single-column grid")
-
+{% include /svg/economical-layout.svg %}
 
 ### The Colour of the Page
 
@@ -57,12 +56,11 @@ Set <span class="command">Single Word Justification</span> to <span class="comma
 
 These numbers are a starting point. They're not written in stone. They're better than what Adobe set as defaults, but if they don't work for you, adjust them.
 
-![InDesign Composition Highlighting]({{site.url}}/svg/indesign-composition-highlighting.svg "InDesign Composition Highlighting."){:width="320px"}
+{% include /svg/indesign-composition-highlighting.svg %}
 
 You'll know you're settings are incorrect if there is yellow highlighting on your InDesign pages. You can see bad and good justified text in the PDF file linked below.
 
-[![See good vs bad Justification.]({{site.url}}/svg/button-download-pdf.svg "See good vs bad Justification."){:width="200px"}](https://www.dropbox.com/s/tceqy4n160vpwsn/good-vs-bad-justification.pdf?dl=1)
-
+<a href="https://www.dropbox.com/s/tceqy4n160vpwsn/good-vs-bad-justification.pdf?dl=1" title="Good Vs Bad Justification" target="_blank">{% include /svg/button-download-pdf.svg %}</a>
 
 #### Rivers
 
@@ -85,7 +83,7 @@ Hyphenation zone is irrelevant with justified type.
 
 With no document open, go <span class="command">Window > Type & Tables > Story</span>. In that panel, check the box, then set the type size to 9, which is an average body copy point size.
 
-![InDesign Story Panel optical alignment]({{site.url}}/svg/story-panel-optical-alignment.svg){:width="320px"}
+{% include /svg/story-panel-optical-alignment.svg %}
 
 This will make text on the left margin hang out of the text frame to create an optically aligned margin. Though it may look strange here, when it's at a normal size, it makes the edge of the text actually look straight.
 
