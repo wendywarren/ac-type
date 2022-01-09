@@ -10,7 +10,7 @@
   outcomes:
     - outcome: "Implement a design with an informal grid."
     - outcome: "Create hierarchy in a simple, single-page layout."
-    - outcome: "Select a subject-appropriate typeface."
+    - outcome: "Make a reasoned font pairing which suits a given context."
     - outcome: "Use typography, layout and colour to create an audience-appropriate design."
     - outcome: "Implement learned type rules relating to italicization, quote marks, etc..."
     - outcome: "Produce print-ready files."
@@ -19,6 +19,10 @@
     - 
   # Subpages
   pages:
+    - title: "Guidelines"
+      serial: "level-4-assignment-1-save-the-date-subpage-guidelines"
+      url: type-4/save-the-date/guidelines.html
+      deck: "Make sure to read through all the technical guidelines on this page."
     - title: "Deliverables"
       serial: "level-4-assignment-1-subpage-deliverables"
       url: type-4/save-the-date/deliverables.html
@@ -34,7 +38,7 @@
   value: "20%"
   serial: "level-4-assignment-2-menu-home"
   url: type-4/menu/index.html
-  deck: "This is the deck for the Menu assignment in Type 4."
+  deck: "We'll design a restaurant menu with the given content."
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
@@ -77,10 +81,34 @@
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
 
-# [2] Comparative Analysis # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Comparative Analysis"
+# [3] Assignment #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+- title: "Wordmark"
   type: "Larger Assignment"
   value: "20%"
+  serial: "level-4-assignment-4-home"
+  url: type-4/wordmark/index.html
+  deck: "We'll develop a wordmark with the given content."
+  download:
+  pinterest: "https://www.pinterest.ca/alainparadis/"
+  outcomes:
+    - outcome: "Outcomes_placeholder."
+  resource-links: |
+    - 
+  # Subpages
+  pages:
+  pages:
+    - title: "Brainstorming"
+      serial: "level-4-assignment-3-wordmark-subpage-brainstorming"
+      url: type-4/wordmark/brainstorming.html
+      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+      criteria:
+        - criterium: "This is the first criterium."
+        - criterium: "You've submitted files as directed, ready for print."
+
+# [3] Comparative Analysis # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Comparative Analysis"
+  type: "Larger Assignment"
+  value: "30%"
   serial: "level-4-assignment-3-comparative-analysis-home"
   url: type-4/comparative-analysis/index.html
   deck: "You will design a booklet with a competitive analysis of two similar typefaces."
@@ -127,31 +155,12 @@
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
 
-# [3] Assignment #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-- title: ""
-  type: "Larger Assignment"
-  value: "20%"
-  serial: "level-4-assignment-4-home"
-  url: type-4/assignment-4/index.html
-  deck: "This is the text for the deck for this page."
-  download:
-  pinterest: "https://www.pinterest.ca/alainparadis/"
-  outcomes:
-    - outcome: "Outcomes_placeholder."
-  resource-links: |
-    - 
-  # Subpages
-  pages:
-      criteria:
-        - criterium: "This is the first criterium."
-        - criterium: "You've submitted files as directed, ready for print."
-
 # [4] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Baseline Grids"
   type: "Smaller Assignment"
-  value: "05%"
+  value: "10%"
   serial: "level-4-item-1-home"
-  url: type-4/type-4-item-1/index.html
+  url: type-4/baseline-grids/index.html
   deck: "We'll create a type system that works entirely on a baseline grid."
   download:
   pinterest: "https://pin.it/alainparadis"
@@ -163,11 +172,11 @@
   pages:
     - title: "Building The Grid"
       serial: level-4-item-1-subpage-1
-      url: type-4/type-4-item-1/subpage1.html
+      url: type-4/baseline-grids/building-the-grid.html
       deck: "We'll explore options to create rhythm with your text on the page."
     - title: "Deliverables"
       serial: level-4-item-1-subpage-deliverables
-      url: type-4/type-4-item-1/deliverables.html
+      url: type-4/baseline-grids/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
@@ -205,20 +214,20 @@
 #        - criterium: "Two plus two equals four criteria."
 
 # [6] Type 4 Micro #3 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Page Layout Sketches"
-  type: "Smaller Assignment"
-  value: "05%"
-  serial: "level-4-item-3-home"
-  url: type-4/type-4-item-3/index.html
-  deck: "We will learn to draw page layout sketches which will clearly communicate our concept to our client."
-  download:
-  pinterest: "https://pin.it/alainparadis"
-  outcomes:
-    - outcome: "Some outcome number 1"
-  resource-links: |
-    - https://learning.oreilly.com/
-  # Subpages
-  pages:
+#- title: "Coming Soon..."
+#  type: "Smaller Assignment"
+#  value: "10%"
+#  serial: "level-4-item-3-home"
+#  url: type-4/type-4-item-3/index.html
+#  deck: "This is the text for the deck for this assignment."
+#  download:
+#  pinterest: "https://pin.it/alainparadis"
+#  outcomes:
+#    - outcome: "Some outcome number 1"
+#  resource-links: |
+#    - https://learning.oreilly.com/
+#  # Subpages
+#  pages:
 #    - title: "First Subpage Type 4 Micro #3"
 #      serial: "level-4-item-3-subpage-1"
 #      url: type-4/type-4-item-3/subpage1.html
@@ -233,10 +242,10 @@
 #        - criterium: "Never two without three criterium."
 #        - criterium: "Two plus two equals four criteria."
 
-## [7] Type 4 Micro #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#- title: "Type 4 Micro #4"
+# [7] Type 4 Micro #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#- title: "Coming Soon..."
 #  type: "Smaller Assignment"
-#  value: "05%"
+#  value: "10%"
 #  serial: "level-4-item-4-home"
 #  url: type-4/type-4-item-4/index.html
 #  deck: "This is the text for the deck for this assignment."

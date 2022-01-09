@@ -28,7 +28,6 @@ You can navigate all the semester's assignments to explore what you'll be learni
 	<tr><td>{{ site.data.type4[4].title }}</td><td class="column-2">{{ site.data.type4[4].type }}</td><td class="column-3">{{ site.data.type4[4].value }}</td></tr>
 	<tr><td>{{ site.data.type4[5].title }}</td><td class="column-2">{{ site.data.type4[5].type }}</td><td class="column-3">{{ site.data.type4[5].value }}</td></tr>
 	<tr><td>{{ site.data.type4[6].title }}</td><td class="column-2">{{ site.data.type4[6].type }}</td><td class="column-3">{{ site.data.type4[6].value }}</td></tr>
-	<tr><td>{{ site.data.type4[7].title }}</td><td class="column-2">{{ site.data.type4[7].type }}</td><td class="column-3">{{ site.data.type4[7].value }}</td></tr>
 	</tbody>
 </table>
 

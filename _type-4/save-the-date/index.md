@@ -22,18 +22,3 @@ Housewarming Party - <a href="https://www.dropbox.com/s/5iwag8smmwhsomu/save-the
 
 Wedding Invitation - <a href="https://www.dropbox.com/s/qi0mhci7k9n969b/save-the-date-wedding-invitation.zip?dl=1" title="Download the files" target="_blank">Download the files</a>
 : Josephine & James will be joined in marriage at this traditional christian ceremony with a novel twist. The bride and groom will light a unity candle to symbolize their bond. It will hosted by the groom's family at the Companions of the Cross church.
-
-### Technical Guidelines
-
-This should be a very minimal type-based design that uses hierarchy limited colour for emphasis.
-
-<ul class="hasBullets">
-	<li>Use Illustrator</li>
-	<li>Dimensions no larger than 8.5" x 5.5"</li>
-	<li>Accurate ⅛" bleeds</li>
-	<li>Can be two-sided</li>
-	<li>Either orientation, vertical or horizontal</li>
-	<li>The fewest type families possible</li>
-	<li>The fewest colours possible</li>
-	<li>No photography. No pixels.</li>
-</ul>

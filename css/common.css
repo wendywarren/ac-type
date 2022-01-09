@@ -428,20 +428,20 @@ h2 { font-size: 1.2rem; }
 	visibility: hidden;
 }
 
-.course-info1 div, .course-info2 div
+#course-info1 div, #course-info2 div
 {
 	display: none;
 	visibility: hidden;
 }
 
-.course-info1, .course-info2
+#course-info1, #course-info2
 {
 	font-size: .875rem;
 	line-height: 160%;
 }
 
-.course-info1 h3,
-.course-info2 h3,
+#course-info1 h3,
+#course-info2 h3,
 .assignment
 {
 	margin-bottom: 0;
@@ -581,7 +581,7 @@ td
 
 @media only screen and (min-width: 42rem)
 {
-	.course-info1 h3, course-info2 h3, .course-info1 div, .course-info2 div
+	#course-info1 h3, course-info2 h3, #course-info1 div, #course-info2 div
 	{
 		display: block;
 		visibility: visible;
@@ -595,7 +595,7 @@ td
 	
 	.site-id1 { font-size: 6rem; }
 	
-	.course-info1 h3, .course-info2 h3
+	#course-info1 h3, #course-info2 h3
 	{
 		border-bottom: 2px solid var(--lightgrey);
 		padding-bottom: .5rem;
