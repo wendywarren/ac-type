@@ -91,16 +91,15 @@
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
-    - outcome: "Outcomes_placeholder."
+    - outcome: "Design a wordmark that's inventive, memorable and versatile."
   resource-links: |
     - 
   # Subpages
   pages:
-  pages:
-    - title: "Brainstorming"
-      serial: "level-4-assignment-3-wordmark-subpage-brainstorming"
-      url: type-4/wordmark/brainstorming.html
-      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+#    - title: "Brainstorming"
+#      serial: "level-4-assignment-3-wordmark-subpage-brainstorming"
+#      url: type-4/wordmark/brainstorming.html
+#      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
       criteria:
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
