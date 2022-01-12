@@ -6,7 +6,7 @@ This invitation will take the form of a card. It can be a simple single-sided or
 
 The card will be delivered in an envelope, which you don't need to worry about.
 
-This should be a minimal type-based design that uses hierarchy, limited colour for emphasis and a refined typographic treatment.
+This should be a minimal type-based design that uses hierarchy, limited colour for emphasis, and a refined typographic treatment.
 
 <ul class="hasBullets">
 	<li>Use Illustrator</li>

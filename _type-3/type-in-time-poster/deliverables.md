@@ -22,4 +22,4 @@ When you package your InDesign document with <span class="command">File > Packag
 
 {% include /svg/submission-folder-indd.svg %}
 
-{% include /svg/button-submit-brightspace.svg %}
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379289&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on BrightSpace" target="_blank">{% include /svg/button-submit-brightspace.svg %}</a>

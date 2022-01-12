@@ -18,11 +18,8 @@
   videos:
     - video_title: "InDesign document setup."
       video_url: "https://youtube.com/"
-    - video_title: "Test Video Title #2"
-      video_url: "https://youtube.com/"
     - video_title: "File submission instructions."
       video_url: "https://youtube.com/"
-
   resource-links: |
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
     - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
@@ -77,8 +74,6 @@
   videos:
     - video_url: "https://youtube.com/"
       video_title: "Dust cover document setup."
-    - video_url: "https://youtube.com/"
-      video_title: "Test Video Title #2"
     - video_url: "https://youtube.com/"
       video_title: "File submission instructions."
   resource-links: |
@@ -135,11 +130,7 @@
     - outcome: "Use software tools effectively to build pages for a long document."
   videos:
     - video_url: "https://youtube.com/"
-      video_title: "Test Video Title #1"
-    - video_url: "https://youtube.com/"
-      video_title: "Test Video Title #2"
-    - video_url: "https://youtube.com/"
-      video_title: "Test Video Title #3"
+      video_title: "Document Setup Instructions"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages
@@ -180,11 +171,7 @@
     - outcome: "Select, then apply context-appropriate colours along with their tints and shades to create a colour theme."
   videos:
     - video_url: "https://youtube.com/"
-      video_title: "Test Video Title #1"
-    - video_url: "https://youtube.com/"
-      video_title: "Test Video Title #2"
-    - video_url: "https://youtube.com/"
-      video_title: "Test Video Title #3"
+      video_title: "Document Setup Instructions"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages
@@ -277,9 +264,9 @@
 
 # [6] Type Knowledge Base # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type Knowledge Base"
-  serial: level-3-item-3-home
+  serial: level-3-item-4-home
   point-value: 5
-  url: "/kb/index.html"
+  url: kb/index.html
   deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
   download:
   pinterest: "https://pin.it/alainparadis"

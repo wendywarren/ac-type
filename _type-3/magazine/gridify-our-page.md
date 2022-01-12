@@ -36,13 +36,13 @@ Our magazine dimensions are going to be A4 size, that's 21cm x 29.7cm. This is o
 
 I suggest you divide your page into 6 columns. That way, you can mostly use them as a three columns, with halves built-in
 
-![6-column-page-grid]({{site.url}}/svg/6-column-page-grid.svg "6-column-page-grid"){:width="550px"}
+{% include /svg/6-column-page-grid.svg %}
 
 ### Bleeds
 
 When you place text and artwork on the page, it either needs to be within the margins or reach out to the bleed line *accurately*. The bleed must be ⅛" or 0p9, which are equivalents.
 
-![Bleeds]({{site.url}}/svg/bleeds.svg "Bleeds"){:width="320px"}
+{% include /svg/bleeds.svg %}
 
 Don't leave any artwork beyond the bleed line.
 
@@ -50,15 +50,16 @@ Don't leave any artwork beyond the bleed line.
 
 Your text can either be left-justified or left aligned. Choose one alignment for all your pages.
 
-![Left align or left justified]({{site.url}}/svg/text-alignment-left-j-a.svg "Left align or left justified"){:width="360px"}
+{% include /svg/text-alignment-left-j-a.svg %}
+
 
 #### Baseline Grids
 
 You must align your body copy to the baseline grid. The baseline grid is a set of guides on which can align body copy so text baselines align from column to column. It makes the pages look a lot cleaner—more orderly.
 
-![Baseline Grid]({{site.url}}/svg/baseline-grid.svg "Baseline Grid"){:width="600px"}
+{% include /svg/baseline-grid.svg %}{:width="600px"}
 
-[![Baseline grid video tutorial]({{site.url}}/svg/button-youtube.svg "Baseline grid video tutorial"){:width="200px"}](https://www.youtube.com/watch?v=U_U3-RYLYlg){:target="_blank"}
+<a href="https://www.youtube.com/watch?v=U_U3-RYLYlg" title="View the video tutorial" target="_blank">{% include /svg/button-video-tutorial.svg %}</a>
 
 We can have text aligned to the baseline whether it's left-aligned or left-justified. You **do not** need to align titles or any other text to the baseline grid.
 
@@ -66,4 +67,4 @@ We can have text aligned to the baseline whether it's left-aligned or left-justi
 
 You'll need to sketch page layouts. I usually print pages with a grid on them to guide me in my sketching. It also helps that the proportions are the same as my final printed piece.
 
-[![Print sketching template video tutorial]({{site.url}}/svg/button-youtube.svg "Print sketching template video tutorial"){:width="200px"}](https://youtu.be/TIw4ZRjnt64){:target="_blank"}
+<a href="https://youtu.be/TIw4ZRjnt64" title="View the video tutorial" target="_blank">{% include /svg/button-video-tutorial.svg %}</a>

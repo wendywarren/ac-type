@@ -6,7 +6,7 @@ To date, we've designed informal grids which lend themselves to single pages of 
 
 With increased flexibility comes increased complexity. We'll be juggling with more balls at a time, so it's easier to drop one. That's why we need to be methodical in our process.
 
-[![Download assignment assets]({{site.url}}/svg/button-download.svg "Download assignment files"){:width="240px"}](https://www.dropbox.com/s/dg0apd9u2p92vut/magazine-assets.zip?dl=1)
+<a href="https://www.dropbox.com/s/dg0apd9u2p92vut/magazine-assets.zip?dl=1" title="Download assignment assets" target="_blank">{% include /svg/button-download.svg %}</a>
 
 We'll design magazine pages considering the following:
 

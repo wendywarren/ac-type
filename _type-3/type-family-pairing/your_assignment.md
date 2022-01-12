@@ -49,4 +49,14 @@ Please make sure your document is error-free. Having a second person carefully r
 
 Only source fonts from Adobe Fonts.
 
-**Two students will present their findings to the group at the start of each class.**
+#### Write Your Own Text
+
+This assignment requires that you write your own content. It is forbidden to copy text from the web or any other source. When doing one of these assignments. I suggest make your own notes in bullet list form based on your research. Once you've done your research you can re-write the text in your own words. Be sure there isn't even one sentence that is not your own.
+
+No matter how good a writer you are, it's always a good idea to have someone else proof-read your text.
+
+#### Avoid Reading
+
+Once you have your page layout done, get familiar with the content. When you present, avoid reading the text. Try to speak it in a more natural manner. Just talk to us about the individual while referring to the key points on your sheet.
+
+You've got this!

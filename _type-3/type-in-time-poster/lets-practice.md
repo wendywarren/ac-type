@@ -47,6 +47,6 @@ The last item is the block of body copy. Make sure to set proper leading and rea
 
 Once you're done, save your work, then save a copy of your file as a Print Ready PDF file.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379287&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit a PDF" target="_blank">{% include /svg/button-submit-for-feedback.svg %}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379287&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit a PDF" target="_blank">{% include /svg/button-submit-brightspace.svg %}</a>
 
 We'll do a quick critique of the result.

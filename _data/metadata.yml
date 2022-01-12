@@ -27,7 +27,7 @@ program-links:
   - name: "Computer Graphics"
     url: "https://cg.algonquindesign.ca/"
   - name: "Book an Appointment"
-    url: "https://outlook.office365.com/owa/calendar/AlgonquinCollegeGraphicDesign@AlgonquinLivecom.onmicrosoft.com/bookings"
+    url: "https://outlook.office365.com/owa/calendar/AlgonquinCollegeGraphicDesign@AlgonquinLivecom.onmicrosoft.com/bookings/"
   - name: "Assessment"
     url: "/pages/assessment.html"
 other-links:

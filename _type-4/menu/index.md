@@ -4,6 +4,7 @@ serial: level-4-assignment-2-menu-home
 ---
 You will create a type-based design for a restaurant menu using the provided content. The goal of this assignment is to capture the essence of the style of the establishment with typography.
 
+<!-- 
 <ul class="hasBullets">
 	<li>Write a description of your perception of the establishment.</li>
 	<li>Communicate your style to the client.</li>
@@ -15,6 +16,7 @@ You will create a type-based design for a restaurant menu using the provided con
 		<li class="second">Materials</li>
 		<li class="second">Binding</li>
 </ul>
+ -->
 
 <ul class="hasBullets">
 	<li>You must use all the content.</li>

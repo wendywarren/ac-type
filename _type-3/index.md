@@ -71,6 +71,6 @@ Type selection and pairing is also consume a significant part of our attention. 
 
 #### Write Your Own Text
 
-During this course you'll be asked to write content for various assignments. It is forbidden to copy text from the web or any other source. When doing one of these assignments I suggest you read and make your own notes in bullet list form. Once you're done with your research, you can re-write the text in your own words. Be sure there isn't even one sentence that is not your own.
+During this course you'll be asked to write content for various assignments. It is forbidden to copy text from the web or any other source. When doing one of these assignments. I suggest make your own notes in bullet list form based on your research. Once you've done your research you can re-write the text in your own words. Be sure there isn't even one sentence that is not your own.
 
 No matter how good a writer you are, it's always a good idea to have someone else proof-read your text.

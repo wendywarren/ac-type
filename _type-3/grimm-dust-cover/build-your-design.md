@@ -6,9 +6,7 @@ We'll be using InDesign and optionally Illustrator to create your design.
 
 Create a strokes-only outline similar to the one on this page with the provided dimensions. Save it as a native Illustrator file (.ai).
 
-![Book Cover Mockup]({{site.url}}/svg/dust-cover-wireframe.svg)
-
-[![Watch a video tutorial to set up your document]({{site.url}}/svg/button-youtube.svg "Watch a video tutorial to set up your document"){:width="240px"}](https://youtu.be/PFpVqgjC7Lw)
+{% include /svg/dust-cover-wireframe.svg %}
 
 ## Which Apps?
 

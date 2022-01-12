@@ -1,7 +1,7 @@
 # [0] Save the Date # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Save The Date"
-  type: "Larger Assignment"
-  value: "20%"
+  type: "File Submission"
+  value: "10%"
   serial: "level-4-assignment-1-home"
   url: type-4/save-the-date/index.html
   deck: "We'll design an announcement in this warm-up assignment."
@@ -34,8 +34,8 @@
 
 # [1] Menu Design # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Menu"
-  type: "Larger Assignment"
-  value: "20%"
+  type: "File Submission"
+  value: "25%"
   serial: "level-4-assignment-2-menu-home"
   url: type-4/menu/index.html
   deck: "We'll design a restaurant menu with the given content."
@@ -83,7 +83,7 @@
 
 # [3] Assignment #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Wordmark"
-  type: "Larger Assignment"
+  type: "File Submission"
   value: "20%"
   serial: "level-4-assignment-4-home"
   url: type-4/wordmark/index.html
@@ -91,7 +91,16 @@
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
-    - outcome: "Design a wordmark that's inventive, memorable and versatile."
+    - outcome: "Make a theme-appropriate type selection"
+    - outcome: "Select and apply theme-appropriate colours."
+    - outcome: "Select or create type that's appropriate to the brand."
+    - outcome: "Create a legible wordmark."
+    - outcome: "Develop a concept that's memorable."
+    - outcome: "Implement accessibility factors in the design of a word mark."
+    - outcome: "Produce a design that's usable on multiple platforms and substrates."
+    - outcome: "Organize files and folders for submission according to provided instructions."
+    - outcome: "Produce print-ready files."
+    - outcome: "Use the appropriate software tools and techniques to build the design."
   resource-links: |
     - 
   # Subpages
@@ -106,8 +115,8 @@
 
 # [3] Comparative Analysis # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Comparative Analysis"
-  type: "Larger Assignment"
-  value: "30%"
+  type: "File Submission"
+  value: "25%"
   serial: "level-4-assignment-3-comparative-analysis-home"
   url: type-4/comparative-analysis/index.html
   deck: "You will design a booklet with a competitive analysis of two similar typefaces."
@@ -133,30 +142,30 @@
     - 
   # Subpages
   pages:
-    - title: "Type Pairs"
-      serial: "level-4-assignment-3-comparative-analysis-subpage-type-pairs"
-      url: type-4/comparative-analysis/type-pairs.html
-      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-    - title: "Comparative Considerations"
-      serial: "level-4-assignment-3-comparative-analysis-subpage-considerations"
-      url: type-4/comparative-analysis/considerations.html
-      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-    - title: "The Booklet"
-      serial: "level-4-assignment-3-comparative-analysis-subpage-the-booklet"
-      url: type-4/comparative-analysis/the-booklet.html
-      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-    - title: "Deliverables"
-      serial: "level-4-comparative-analysis-subpage-deliverables"
-      url: type-4/comparative-analysis/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-      criteria:
-        - criterium: "This is the first criterium."
-        - criterium: "You've submitted files as directed, ready for print."
+#    - title: "Type Pairs"
+#      serial: "level-4-assignment-3-comparative-analysis-subpage-type-pairs"
+#      url: type-4/comparative-analysis/type-pairs.html
+#      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+#    - title: "Comparative Considerations"
+#      serial: "level-4-assignment-3-comparative-analysis-subpage-considerations"
+#      url: type-4/comparative-analysis/considerations.html
+#      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+#    - title: "The Booklet"
+#      serial: "level-4-assignment-3-comparative-analysis-subpage-the-booklet"
+#      url: type-4/comparative-analysis/the-booklet.html
+#      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+#    - title: "Deliverables"
+#      serial: "level-4-comparative-analysis-subpage-deliverables"
+#      url: type-4/comparative-analysis/deliverables.html
+#      deck: "Gather all your stuff. It's time to send your assignment home."
+#      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+#      criteria:
+#        - criterium: "This is the first criterium."
+#        - criterium: "You've submitted files as directed, ready for print."
 
 # [4] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Baseline Grids"
-  type: "Smaller Assignment"
+  type: "File Submission"
   value: "10%"
   serial: "level-4-item-1-home"
   url: type-4/baseline-grids/index.html
@@ -169,14 +178,14 @@
     - https://learning.oreilly.com/
   # Subpages
   pages:
-    - title: "Building The Grid"
-      serial: level-4-item-1-subpage-1
-      url: type-4/baseline-grids/building-the-grid.html
-      deck: "We'll explore options to create rhythm with your text on the page."
-    - title: "Deliverables"
-      serial: level-4-item-1-subpage-deliverables
-      url: type-4/baseline-grids/deliverables.html
-      deck: "Gather all your stuff. It's time to send your assignment home."
+#    - title: "Building The Grid"
+#      serial: level-4-item-1-subpage-1
+#      url: type-4/baseline-grids/building-the-grid.html
+#      deck: "We'll explore options to create rhythm with your text on the page."
+#    - title: "Deliverables"
+#      serial: level-4-item-1-subpage-deliverables
+#      url: type-4/baseline-grids/deliverables.html
+#      deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "This is the first criteria item."
         - criterium: "The second criterium comes after the first."
@@ -184,9 +193,9 @@
         - criterium: "Two plus two equals four criteria."
 
 # [5] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#- title: "Set Web Type"
-#  type: "Smaller Assignment"
-#  value: "05%"
+- title: "Quizzes"
+  type: "Quiz!"
+  value: "10%"
 #  serial: "level-4-item-2-home"
 #  url: type-4/type-4-item-2/index.html
 #  deck: "We'll build a single page with our type selections and hierarchy."

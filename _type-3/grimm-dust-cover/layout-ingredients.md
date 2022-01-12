@@ -22,7 +22,7 @@ Your Synopsis
 
 This style board is for your client (me). I should be able to envision your design even if I'm not a designer.
 
-[![Submit on BrightSpace]({{site.url}}/svg/submission-button.svg "Submit on BrightSpace"){:width="200px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351616&grpid=0&isprv=&bp=0&ou=372600)
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379289&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on BrightSpace" target="_blank">{% include /svg/button-submit-brightspace.svg %}</a>
 
 ### Sketch Your Layout
 
@@ -30,5 +30,4 @@ The style board above lays out the ingredients for your design. The sketches hel
 
 You should have multiple pages of sketches. There should be clear progress towards a concept as you go. Once you have a concept with which you're satisfied, take clear photos at a right angle to your pages. Place each photo on a letter page in InDesign. Save that document as a PDF file.
 
-[![Submit on BrightSpace]({{site.url}}/svg/submission-button.svg "Submit on BrightSpace"){:width="200px"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351618&grpid=0&isprv=&bp=0&ou=372600)
-
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379283&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on BrightSpace" target="_blank">{% include /svg/button-submit-brightspace.svg %}</a>

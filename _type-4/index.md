@@ -25,9 +25,9 @@ You can navigate all the semester's assignments to explore what you'll be learni
 	<tr><td>{{ site.data.type4[0].title }}</td><td class="column-2">{{ site.data.type4[0].type }}</td><td class="column-3">{{ site.data.type4[0].value }}</td></tr>
 	<tr><td>{{ site.data.type4[1].title }}</td><td class="column-2">{{ site.data.type4[1].type }}</td><td class="column-3">{{ site.data.type4[1].value }}</td></tr>
 	<tr><td>{{ site.data.type4[2].title }}</td><td class="column-2">{{ site.data.type4[2].type }}</td><td class="column-3">{{ site.data.type4[2].value }}</td></tr>
+	<tr><td>{{ site.data.type4[3].title }}</td><td class="column-2">{{ site.data.type4[3].type }}</td><td class="column-3">{{ site.data.type4[3].value }}</td></tr>
 	<tr><td>{{ site.data.type4[4].title }}</td><td class="column-2">{{ site.data.type4[4].type }}</td><td class="column-3">{{ site.data.type4[4].value }}</td></tr>
 	<tr><td>{{ site.data.type4[5].title }}</td><td class="column-2">{{ site.data.type4[5].type }}</td><td class="column-3">{{ site.data.type4[5].value }}</td></tr>
-	<tr><td>{{ site.data.type4[6].title }}</td><td class="column-2">{{ site.data.type4[6].type }}</td><td class="column-3">{{ site.data.type4[6].value }}</td></tr>
 	</tbody>
 </table>
 
