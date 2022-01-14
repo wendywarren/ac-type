@@ -15,7 +15,7 @@
 
 html
 {
-	font-size: 100%;
+	font-size: 110%;
 	line-height: 1.5;
 	color: #000000;
 	font-style: normal;
@@ -241,9 +241,7 @@ code
 .post_excerpt p { margin-bottom: 1rem; }
 .pagination { margin-top: 3rem; }
 
-/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * LISTS LISTS LISTS * * * * * * * * */
-/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 ul.inline-list { margin-top: 1rem; }
 
 ul.inline-list li
@@ -351,9 +349,7 @@ h6
 h1, h2 { letter-spacing: -0.0312rem; }
 h2 { font-size: 1.2rem; }
 
-/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * MAIN CONTENT AREA * * * * * * * * */
-/* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 #content h2
 {
 	font-size: 1.4rem;
@@ -581,6 +577,8 @@ td
 
 @media only screen and (min-width: 42rem)
 {
+	html { font-size: 100%; }
+	
 	#course-info1 h3, course-info2 h3, #course-info1 div, #course-info2 div
 	{
 		display: block;
@@ -639,7 +637,7 @@ td
 
 @media only screen and (min-width: 60em)
 {
-	html { font-size: 110%; }
+	html { font-size: 100%; }
 	.site-id { font-size: 7rem; }
 	#content { padding-right: 1rem; }
 }

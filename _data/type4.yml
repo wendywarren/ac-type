@@ -4,7 +4,7 @@
   value: "10%"
   serial: "level-4-assignment-1-home"
   url: type-4/save-the-date/index.html
-  deck: "We'll design an announcement in this warm-up assignment."
+  deck: "We'll design an invitation with finesse and style."
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
@@ -16,12 +16,12 @@
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
-    - 
+    - https://discover.typography.com/theme/save-the-date/
   # Subpages
   pages:
-    - title: "Guidelines"
-      serial: "level-4-assignment-1-save-the-date-subpage-guidelines"
-      url: type-4/save-the-date/guidelines.html
+    - title: "The Process"
+      serial: "level-4-assignment-1-save-the-date-subpage-the-process"
+      url: type-4/save-the-date/the-process.html
       deck: "Make sure to read through all the technical guidelines on this page."
     - title: "Deliverables"
       serial: "level-4-assignment-1-subpage-deliverables"
