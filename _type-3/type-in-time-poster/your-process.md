@@ -4,7 +4,7 @@ serial: level-3-assignment-1-subpage-your-process
 ---
 ### Creative Process
 
-Once you've chosen your type family, you should explore its glyph complement, its *repertoire*. You can see this in the Glyphs panel in InDesign. You can even filter through glyphs by category. [<a href="https://helpx.adobe.com/indesign/using/glyphs-special-characters.html">support link</a>] Hopefully there'll be some beauties in there you can highlight on your poster.
+Once you've chosen your type family, you should explore its glyph complement, its *repertoire*. You can see this in the Glyphs panel in Illustrator. You can even filter through glyphs by category. [<a href="https://helpx.adobe.com/indesign/using/glyphs-special-characters.html">support link</a>] Hopefully there'll be some beauties in there you can highlight on your poster.
 
 #### Thumbnails
 
@@ -16,11 +16,7 @@ Produce lots. Show me. Rinse and repeat.
 
 Once you've refined your concepts, you can create a higher fidelity version of your poster. This can be on a full letter or tabloid sized sheet. Remember to use the proportions of the final poster. It measures 24" x 36". That's a 2:3 ratio, so you can make your high-fi rendering 6" by 9" on a letter sheet or 8" by 12" on a tabloid sheet.
 
-This is what you'll base your final poster on. Once you have this done, the creative process is pretty much done. On to building it on your Mac.
-
-### Software Process
-
-You can build this poster either in InDesign or in Illustrator. The process will be very similar either way.
+This is what you'll base your final poster on. Once you have this done, the creative process is pretty much done. On to building the final file for production!
 
 ### Design Approval
 
@@ -33,7 +29,7 @@ Create a single-page PDF mood board. If we were cooking, this would be all the i
 </ul>
 
 <span class="brightspace">
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351628&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">{% include /svg/button-submit-brightspace.svg %}{:width="40%"}</a></span>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351628&grpid=0&isprv=0&bp=0&ou=372600" title="Submit your PDF on BrightSpace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a></span>
 
 ### Type Size
 

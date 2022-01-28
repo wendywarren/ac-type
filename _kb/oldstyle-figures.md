@@ -7,18 +7,17 @@ deck: "Oldstyle figures blend into running text better than tabular lining."
 
 The numbers we use ever day in the western world are called Arabic numerals. There are different ways of setting type with these figures.
 
-{% include /svg/kb/oldstyle-lining-figures.svg %}{:width="90%"}
+![Old Style Lining Figures]({{site.url}}/svg/kb/oldstyle-lining-figures.svg){:width="90%"}
 
 Lining figures are most common. They don't fit very well in running text. It's like they're written in ALL CAPS. They stand out too much.
 
-{% include /svg/kb/oldstyle-proportional.svg %}{:width="90%"}
-
+![Old Style Proportional]({{site.url}}/svg/kb/oldstyle-proportional.svg){:width="90%"}
 
 Proportional old style figures are an elegant addition to your typographic layout, if they're available in the font you've chosen. They're easier to read and flow better in running text. They look like they have ascenders and descenders like the rest of the glyphs in the text.
 
-{% include /svg/kb/oldstyle-tabular-figures.svg %}{:width="90%"}
+![Old Style Tabular figures]({{site.url}}/svg/kb/oldstyle-tabular-figures.svg){:width="90%"}
 
-{% include /svg/kb/oldstyle-prop-tab.svg %}{:width="90%"}
+![Old Style Prop Tab]({{site.url}}/svg/kb/oldstyle-prop-tab.svg){:width="90%"}
 
 Tabular old style figures are identical to the proportional old style figures, except that their letter-spacing is designed to accomodate columns of text. As you can see, the proportional figures don't align well in columns. The tabular ones do.
 

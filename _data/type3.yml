@@ -16,10 +16,18 @@
     - outcome: "Select and apply theme-appropriate colours."
     - outcome: "Use the appropriate software tools and techniques to build the page."
   videos:
-    - video_title: "InDesign document setup."
-      video_url: "https://youtube.com/"
-    - video_title: "File submission instructions."
-      video_url: "https://youtube.com/"
+    - video_title: "Illustrator poster document setup"
+      video_url: "https://youtu.be/vcsat_w1-Lc"
+    - video_title: "Illustrator Every-Line Composter"
+      video_url: "https://youtu.be/_vluUi5x1bk"
+    - video_title: "Poster colour handling"
+      video_url: "https://youtu.be/p-_J40EDses"
+    - video_title: "Poster colour treatment"
+      video_url: "https://youtu.be/XQSCdbXN8Cw"
+    - video_title: "What to include on your poster."
+      video_url: "https://youtu.be/VhUfVQKb4gI"
+    - video_title: "Mood Board Design"
+      video_url: "https://youtu.be/QS8cy3_rZ08"
   resource-links: |
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
     - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml

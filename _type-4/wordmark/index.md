@@ -1,6 +1,6 @@
 ---
 layout: type4
-serial: level-4-assignment-4-home
+serial: level-4-assignment-3-home
 ---
 Your wordmark needs to be a highly conceptual, type-only design.
 

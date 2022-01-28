@@ -2,11 +2,12 @@ port: 4001
 title: Typography Three & Four
 email: paradia@algonquincollege.com
 description: >
-  This is the curriculum web site for DSN1543 Typography 3 course in the Graphic Design program at Algonquin College in Ottawa, Canada.
+  This is the curriculum web site for DSN1543 Typography 3 & DSN1540 Typography 4 courses in the Graphic Design program at Algonquin College in Ottawa, Canada.
 baseurl: ""
 url: ""
 twitter_username: alainparadis
 github_username:  alainparadis
+markdown: Kramdown
 #plugins: [jekyll-paginate]
 #paginate_path: "/posts/page:num/"
 #paginate: 8

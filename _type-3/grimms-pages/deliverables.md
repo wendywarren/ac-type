@@ -33,6 +33,6 @@ Note
 
 When you package your InDesign document with <span class="command">File > Package...</span> It will create a folder that's properly named if your file was well named to start with.
 
-{% include /svg/submission-folder-indd.svg %}
+![InDesign Submission Folder]({{site.url}}/svg/submission-folder-indd.svg){:width="50%"}
 
-{% include /svg/button-submit-brightspace.svg %}
+![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}

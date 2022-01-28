@@ -5,6 +5,6 @@ title: Gadzook!
 deck: "A gadzook is a ligature between two glyphs that wouldn't usually have one."
 ---
 
-{% include /svg/kb/gadzook.svg %}{:width="90%" height="50%"}
+![Gadzook!]({{site.url}}/svg/kb/gadzook.svg){:width="90%"}
 
 A gadzook is a ligature from two letters that wouldn't normally be attached. They're sometimes called *a Quaint*. It's typographical bling.

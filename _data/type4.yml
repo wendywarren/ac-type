@@ -33,7 +33,7 @@
         - criterium: "You've submitted files as directed, ready for print."
 
 # [1] Menu Design # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Menu"
+- title: "The Art of the Menu"
   type: "File Submission"
   value: "25%"
   serial: "level-4-assignment-2-menu-home"
@@ -48,11 +48,14 @@
     - outcome: "Select and apply theme-appropriate colours."
     - outcome: "Design functional and decorative page elements like folios, shapes, colours and more."
     - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
-    - outcome: "Organize files and folders for submission according to provided instructions."
-    - outcome: "Produce print-ready files."
+    - outcome: "Combine the use of photography and typography to compose balanced page layouts."
+    - outcome: "Design functional and decorative page elements like folios, shapes, colours and more."
     - outcome: "Use the appropriate software tools and techniques to build the page."
+    - outcome: "Produce print-ready files."
+    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - https://www.underconsideration.com/artofthemenu/
+    - https://www.touchbistro.com/blog/51-examples-of-excellent-restaurant-menu-design/
     - https://www.thebutchersdaughter.com/brooklyn/
     - http://backrowwest.com.au/menu/
     - https://www.cafecache.fr
@@ -60,32 +63,33 @@
     - https://www.leadbellysbar.co.uk
   # Subpages
   pages:
-#    - title: "Menu First Subpage"
-#      serial: "level-4-assignment-2-menu-subpage-1"
-#      url: type-4/menu/subpage1.html
-#      deck: "This is the text for the deck for the Menu assignment."
-#    - title: "Menu Second Subpage"
-#      serial: "level-4-assignment-2-menu-subpage-2"
-#      url: type-4/menu/subpage2.html
-#      deck: "This is the text for the deck for the Menu assignment."
-#    - title: "Menu Third Subpage"
-#      serial: "level-4-assignment-2-menu-subpage-3"
-#      url: type-4/menu/subpage3.html
-#      deck: "This is the text for the deck for the Menu assignment."
-#    - title: "Menu Deliverables"
-#      serial: "level-4-assignment-2-menu-subpage-deliverables"
-#      url: type-4/menu/deliverables.html
-#      deck: "Gather all your stuff. It's time to send your assignment home."
-#      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-      criteria:
-        - criterium: "This is the first criterium."
-        - criterium: "You've submitted files as directed, ready for print."
+     - title: "Guidelines"
+       serial: "level-4-assignment-2-menu-subpage-guidelines"
+       url: type-4/menu/guidelines.html
+       deck: "Be sure to read all the technical guidelines for your menu design."
+     - title: "Your Clients"
+       serial: "level-4-assignment-2-menu-subpage-your-clients"
+       url: type-4/menu/your-clients.html
+       deck: "All good restaurants should have a voice created by their decor, their food and their vibe."
+     - title: "Menu Design"
+       serial: "level-4-assignment-2-menu-subpage-menu-design"
+       url: type-4/menu/menu-design.html
+       deck: "This project requires that you combine typography and imagery to create a context-appropriate design."
+     - title: "The Type"
+       serial: "level-4-assignment-2-menu-subpage-the-type"
+       url: type-4/menu/the-type.html
+       deck: "You'll have more freedom with type here. With more freedom comes more responsibility."
+     - title: "Deliverables"
+       serial: "level-4-assignment-2-menu-subpage-deliverables"
+       url: type-4/menu/deliverables.html
+       deck: "Gather all your stuff. It's time to send your assignment home."
+       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 
 # [3] Assignment #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Wordmark"
   type: "File Submission"
   value: "20%"
-  serial: "level-4-assignment-4-home"
+  serial: "level-4-assignment-3-home"
   url: type-4/wordmark/index.html
   deck: "We'll develop a wordmark with the given content."
   download:
@@ -98,18 +102,22 @@
     - outcome: "Develop a concept that's memorable."
     - outcome: "Implement accessibility factors in the design of a word mark."
     - outcome: "Produce a design that's usable on multiple platforms and substrates."
-    - outcome: "Organize files and folders for submission according to provided instructions."
-    - outcome: "Produce print-ready files."
     - outcome: "Use the appropriate software tools and techniques to build the design."
+    - outcome: "Produce print-ready files."
+    - outcome: "Organize files and folders for submission according to provided instructions."
   resource-links: |
     - 
   # Subpages
   pages:
-#    - title: "Brainstorming"
-#      serial: "level-4-assignment-3-wordmark-subpage-brainstorming"
-#      url: type-4/wordmark/brainstorming.html
-#      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-      criteria:
+#   - title: "Brainstorming"
+#     serial: "level-4-assignment-3-wordmark-subpage-brainstorming"
+#     url: type-4/wordmark/brainstorming.html
+#     deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+#   - title: "About Wordmarks"
+#     serial: "level-4-assignment-3-wordmark-subpage-about-wordmarks"
+#     url: type-4/wordmark/about-wordmarks.html
+#     deck: "What distinguishes a wordmark from an emblem logo, a mascot logo or a lettermark? We'll dive into the differences here to define a wordmark."
+     criteria:
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
 
@@ -117,7 +125,7 @@
 - title: "Comparative Analysis"
   type: "File Submission"
   value: "25%"
-  serial: "level-4-assignment-3-comparative-analysis-home"
+  serial: "level-4-assignment-4-comparative-analysis-home"
   url: type-4/comparative-analysis/index.html
   deck: "You will design a booklet with a competitive analysis of two similar typefaces."
   download:
@@ -143,19 +151,19 @@
   # Subpages
   pages:
 #    - title: "Type Pairs"
-#      serial: "level-4-assignment-3-comparative-analysis-subpage-type-pairs"
+#      serial: "level-4-assignment-4-comparative-analysis-subpage-type-pairs"
 #      url: type-4/comparative-analysis/type-pairs.html
 #      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
 #    - title: "Comparative Considerations"
-#      serial: "level-4-assignment-3-comparative-analysis-subpage-considerations"
+#      serial: "level-4-assignment-4-comparative-analysis-subpage-considerations"
 #      url: type-4/comparative-analysis/considerations.html
 #      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
 #    - title: "The Booklet"
-#      serial: "level-4-assignment-3-comparative-analysis-subpage-the-booklet"
+#      serial: "level-4-assignment-4-comparative-analysis-subpage-the-booklet"
 #      url: type-4/comparative-analysis/the-booklet.html
 #      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
 #    - title: "Deliverables"
-#      serial: "level-4-comparative-analysis-subpage-deliverables"
+#      serial: "level-4-assignment-4-comparative-analysis-subpage-deliverables"
 #      url: type-4/comparative-analysis/deliverables.html
 #      deck: "Gather all your stuff. It's time to send your assignment home."
 #      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
@@ -175,7 +183,7 @@
   outcomes:
     - outcome: "Some outcome number 1"
   resource-links: |
-    - https://learning.oreilly.com/
+    - https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/setting-up-a-baseline-grid?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2199673
   # Subpages
   pages:
 #    - title: "Building The Grid"

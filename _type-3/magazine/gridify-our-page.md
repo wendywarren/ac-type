@@ -36,13 +36,13 @@ Our magazine dimensions are going to be A4 size, that's 21cm x 29.7cm. This is o
 
 I suggest you divide your page into 6 columns. That way, you can mostly use them as a three columns, with halves built-in
 
-{% include /svg/6-column-page-grid.svg %}
+![Six Column Page Layout Grid]({{site.url}}/svg/6-column-page-grid.svg){:width="90%"}
 
 ### Bleeds
 
 When you place text and artwork on the page, it either needs to be within the margins or reach out to the bleed line *accurately*. The bleed must be ⅛" or 0p9, which are equivalents.
 
-{% include /svg/bleeds.svg %}
+![Page Bleeds]({{site.url}}/svg/bleeds.svg){:width="50%"}
 
 Don't leave any artwork beyond the bleed line.
 
@@ -50,16 +50,16 @@ Don't leave any artwork beyond the bleed line.
 
 Your text can either be left-justified or left aligned. Choose one alignment for all your pages.
 
-{% include /svg/text-alignment-left-j-a.svg %}
+![Justified Type]({{site.url}}/svg/text-alignment-left-j-a.svg){:width="60%"}
 
 
 #### Baseline Grids
 
 You must align your body copy to the baseline grid. The baseline grid is a set of guides on which can align body copy so text baselines align from column to column. It makes the pages look a lot cleaner—more orderly.
 
-{% include /svg/baseline-grid.svg %}{:width="600px"}
+![Baseline Grids]({{site.url}}/svg/baseline-grids.svg){:width="90%"}
 
-<a href="https://www.youtube.com/watch?v=U_U3-RYLYlg" title="View the video tutorial" target="_blank">{% include /svg/button-video-tutorial.svg %}</a>
+<a href="https://www.youtube.com/watch?v=U_U3-RYLYlg" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="50%"}</a>
 
 We can have text aligned to the baseline whether it's left-aligned or left-justified. You **do not** need to align titles or any other text to the baseline grid.
 
@@ -67,4 +67,4 @@ We can have text aligned to the baseline whether it's left-aligned or left-justi
 
 You'll need to sketch page layouts. I usually print pages with a grid on them to guide me in my sketching. It also helps that the proportions are the same as my final printed piece.
 
-<a href="https://youtu.be/TIw4ZRjnt64" title="View the video tutorial" target="_blank">{% include /svg/button-video-tutorial.svg %}</a>
+<a href="https://youtu.be/TIw4ZRjnt64" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="50%"}</a>

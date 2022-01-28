@@ -6,7 +6,7 @@ We'll be using InDesign and optionally Illustrator to create your design.
 
 Create a strokes-only outline similar to the one on this page with the provided dimensions. Save it as a native Illustrator file (.ai).
 
-{% include /svg/dust-cover-wireframe.svg %}
+![Dust Cover Wireframe]({{site.url}}/svg/dust-cover-wireframe.svg){:width="90%"}
 
 ## Which Apps?
 

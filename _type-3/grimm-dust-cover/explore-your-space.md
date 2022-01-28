@@ -6,15 +6,13 @@ We'll review the areas of the dust jacket we have to work with.
 
 ### Physical Format
 
-{% include /svg/dust-cover-wireframe.svg %}{:width="90%" height="15%"}
+![Dust Cover Wirefram]({{site.url}}/svg/dust-cover-wireframe.svg){:width="90%"}
 
 ### Content
 
 These are the main content areas for your cover. If you wish to deviate from these guidelines, please ask me for approval for your idea.
 
-
-<a href="https://www.dropbox.com/s/djwq2tc3oi0jumu/type-3-grimm-dust-cover.zip?dl=1" title="Download Files" target="_blank">{% include /svg/button-download.svg %}</a>
-
+<a href="https://www.dropbox.com/s/djwq2tc3oi0jumu/type-3-grimm-dust-cover.zip?dl=1" title="Download Files" target="_blank">![Download Button]({{site.url}}/svg/button-download.svg){:width="60%"}</a>
 
 Title
 : Everyone will use their title as the main title on the cover.

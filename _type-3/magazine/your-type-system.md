@@ -20,7 +20,7 @@ Here you want something with some real punch. It should really have impact. Also
 
 Hierarchy helps us differentiate various types of content. Size is not the only way to achieve this differentiation, making some more and some less important.
 
-{% include /svg/hierarchy.svg %}
+![Type Hierarchy]({{site.url}}/svg/hierarchy.svg){:width="60%"}
 
 We can use type weight, width, size, capitals, colour, italics. We can have reversed type. There are so many options!
 
@@ -28,7 +28,7 @@ We can use type weight, width, size, capitals, colour, italics. We can have reve
 
 We need clear differentiation between elements, but it can be done with *some* subtlety. All these pieces of type are the same size!
 
-{% include /svg/hierarchy-subtle.svg %}
+![Subtle Type Hierarchy]({{site.url}}/svg/hierarchy-subtle.svg){:width="60%"}
 
 The point is that you can establish clear hierarchy without making huge jumps in text size. As long as the differentiation between elements is clear. Also, we must consider accessibility. Be sure not to set type too light, or with similar colours, or low contrast.
 
@@ -40,7 +40,7 @@ Your job is to find two typefaces, one sans-serif and one serif, to build a type
 
 This project would be printed in full colour. We still need to choose two main colours for our magazine's brand. What's shown here are the colours I've chosen for this very web site. There's black and grey for the text and for elements that need to be more quiet on the page, there's 70% grey.
 
-{% include /svg/magazine-colour-selection.svg %}
+![Magazine Colour Selection]({{site.url}}/svg/magazine-colour-selection.svg){:width="60%"}
 
 The <span class="blue">**blue**</span> is the main colour for the site. It's used for graphics and elements. The <span class="orange">**orange**</span> is used for alerts and other elements which really need to scream.
 

@@ -8,13 +8,13 @@ We want to make sure the colour of the page is uniform. Type size, width and wei
 
 There's on old adage by typesetters that says, *When in doubt, choose Caslon*. So let's avoid Caslon altogether.
 
-[![Submit your type choice.]({{site.url}}/svg/button-submit-type-choice.svg "Submit your type choice."){:width="320px"}](https://forms.office.com/r/xDC77zxwSK)
+![Submit Your Type Choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}
 
 ### Properties to Seek Out
 
 The features below are not all required, but they are good to have. It all depends on context.
 
-![Grimm's Pages Type Properties]({{site.url}}/svg/grimms-pages-type-properties.svg "Grimm's Pages Type Properties"){:width="700px"}
+![Grimm's Pages Type Properties]({{site.url}}/svg/grimms-pages-type-properties.svg){:width="90%"}
 
 We'll need to do research to know which typefaces are suitable for a long fiction text, like Caslon, but not Caslon.
 
@@ -22,7 +22,7 @@ We'll need to do research to know which typefaces are suitable for a long fictio
 
 Not all 36 point type measures 36 points!
 
-![Type Measurement]({{site.url}}/svg/type-measurement.svg "Type Measurement"){:width="700px"}
+![Type Measurement]({{site.url}}/svg/type-measurement.svg){:width="90%"}
 
 In this figure, we have two serif typefaces set at 36pts. Look at the huge difference in apparent size. The one on the left has a small x-height. It also has a very small body hight relative to the point size.
 
@@ -44,7 +44,7 @@ Ornaments
 
 We'll mostly keep to Old Style typefaces for book page design. Remember, Old Style serif typefaces have these characteristics.
 
-![Old Style Glyphs]({{site.url}}/svg/classification-old-style.svg "Old Style Glyphs"){:width="480px"}
+![Classification Old Style]({{site.url}}/svg/kb/classification-old-style.svg){:width="80%"}
 
 The bar on the <span class="mono">e</span> is horizontal. Their serifs are bracketed. An inclined axis. If you want to choose something that's not Old Style, please pass it by me. Some humanist serif typefaces may also be acceptable.
 
@@ -52,13 +52,13 @@ The bar on the <span class="mono">e</span> is horizontal. Their serifs are brack
 
 Avoid typefaces that appear too noisy on the page. This is an example.
 
-![Noisy Typeface]({{site.url}}/svg/text-too-noisy.svg "Noisy Typefaces"){:width="320px"}
+![Text that's too noisy]({{site.url}}/svg/text-too-noisy.svg){:width="60%"}
 
 See in the enlarged word how each glyph has very pronounced angles. This makes the text *noisy* at regular reading type size. This is definitely something to avoid for a long document like a fiction novel.
 
 Modern typefaces have very thin serifs. Also, the thick-thin contrast is too great.
 
-![Skinny Serifs]({{site.url}}/svg/text-skinny-serifs.svg "Skinny Serifs"){:width="320px"}
+![Text with skinny serifs]({{site.url}}/svg/text-skinny-serifs.svg){:width="60%"}
 
 See how the block of text looks like a spider walked all over our page with ink on its feet? That's not a good look. Printing a long document such as a fiction novel is done with black ink only. When the serifs are so fine, they risk not being printed at all which is also frowned upon.
 
@@ -66,7 +66,7 @@ See how the block of text looks like a spider walked all over our page with ink 
 
 #### Ornaments
 
-![Wood Type Ornament]({{site.url}}/svg/ornaments.svg){:width="180px"}
+![Ornaments]({{site.url}}/svg/ornaments.svg){:width="60%"}
 
 Ornaments are actually glyphs that are part of a font. The simplest way to choose one is to select a font, then open the glyphs panel to get a list. A majority of fonts don't have ornaments. They're a lot of work for the typographer to design.
 
@@ -76,19 +76,19 @@ Depending on the context, ornaments can create a visual break in reading and enh
 
 #### Alternates
 
-![Alternate Characters]({{site.url}}/svg/alternates.svg){:width="180px"}
+![Alternates]({{site.url}}/svg/alternates.svg){:width="60%"}
 
 Stylistic alternates can add elegance or ease-of-reading to our text. Conversely, we need to careful that they're not more of a distraction.
 
 #### Ligatures
 
-![Sample Ligature]({{site.url}}/svg/ligatures.svg){:width="240px"}
+![Ligatures]({{site.url}}/svg/ligatures.svg){:width="60%"}
 
 Ligatures can ease flow when reading. As with alternates, they can be distracting.
 
 #### Old Style Figures
 
-![Old Style Figures]({{site.url}}/svg/old-style-figures.svg){:width="180px"}
+![Old Style Figures]({{site.url}}/svg/kb/old-style-figures.svg){:width="50%"}
 
 Old style figures, also known as non-lining figures are shifted relative to the baseline. These figures add style and legibility to numbers. There's more differentiation between digits.
 
@@ -96,4 +96,4 @@ Old style figures, also known as non-lining figures are shifted relative to the 
 
 This is what I meant by distracting ligatures.
 
-![This is a distracting ligature.]({{site.url}}/svg/distractions.svg){:width="320px"}
+![Distracting Text]({{site.url}}/svg/distractions.svg){:width="60%"}

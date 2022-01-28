@@ -8,7 +8,7 @@ All the assignments you submit in Typography courses should be print ready. This
 
 #### File Organization
 
-As you work, keep your files organized in a project folder. You should have your main page layout file.
+As you work, keep your files organized in a project folder. You should have your main page-layout file.
 
 > You will always simply submit a packaged folder including a PDF file for all assignments.
 
@@ -28,11 +28,10 @@ Be sure your InDesign document is named as usual:
 
 **appleseed-johnny-010-grimms-pages.indd**
 
-Note
-: Never rename a file while it's open. Close it. Rename it in Finder, then re-open it.
+> Never rename a file while it's open. Close it. Rename it in Finder, then re-open it.
 
 When you package your InDesign document with <span class="command">File > Package...</span> It will create a folder that's properly named if your file was well named to start with.
 
-{% include /svg/submission-folder-indd.svg %}
+![InDesign Submission Folder]({{site.url}}/svg/submission-folder-indd.svg){:width="50%"}
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390790&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411212" title="Submit on Brightspace" target="_blank">{% include /svg/button-submit-brightspace.svg %}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390790&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411212" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

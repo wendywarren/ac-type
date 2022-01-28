@@ -4,7 +4,7 @@ serial: kb-subpage-ampersand
 title: Ampersand
 deck: "The venerated and elegant ampersand has a really fun history involving primary school children."
 ---
-{% include /svg/ampersand.svg %}{:width="90%"}
+![Ampersand]({{site.url}}/svg/ampersand.svg){:width="90%"}
 
 The ampersand glyph comes from the ligature of the letters **e** and **t**. It spelled the word **et**, which means **and** in latin. The two letters morphed with time into the one we know today.
 

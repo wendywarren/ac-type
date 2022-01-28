@@ -15,7 +15,7 @@
 
 html
 {
-	font-size: 110%;
+	font-size: 120%;
 	line-height: 1.5;
 	color: #000000;
 	font-style: normal;
@@ -87,12 +87,6 @@ img
 	max-width: 100%;
 }
 
-#content svg
-{
-	display: block;
-	margin: .5rem auto;
-}
-
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * General Type Stuff * * * * * * * * */
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
@@ -121,30 +115,30 @@ a:focus { outline: 2px solid black; }
 .blue { color: var(--blue); }
 .orange { color: var(--orange); }
 .bold, bold { font-family: "FiraSans-Medium"; }
-figure { margin: 3rem auto; }
-figure svg { margin: 0; }
+
+#content svg
+{
+	display: block;
+	margin: .5rem auto;
+}
+
+figure
+{
+	margin: 3rem auto;
+	padding: 0;
+	max-width: 90%;
+}
+
+figure svg { margin: 0; max-width: 100%; }
 
 figcaption
 {
-	font-size: 0.9rem;
-	color: var(--darkgrey);
+	color: var(--blue);
 	font-family: FiraSans-Italic;
-	margin: 0 auto 2rem auto;
+	margin: 0 auto 0rem auto;
 }
 
 em, italic, .italic { font-family: "FiraSans-LightItalic", Arial, Helvetica, sans-serif; }
-
-.command
-{
-	background: var(--lightgrey);
-	font-family: FiraMono-Medium;
-	font-style: normal;
-	font-size: .85rem;
-	padding: .2em;
-	border-radius: 4px;
-	border: 1px solid var(--mediumgrey);
-}
-
 .text-center { text-align: center; }
 .text-right, a.text-right { text-align: right; }
 
@@ -203,13 +197,14 @@ dd
 
 dd:last-of-type, ul.hasBullets li:last-of-type { margin-bottom: 1rem; }
 
-code
+code, .command
 {
 	background: #ededed;
+	font-size: .86rem;
 	font-style: normal;
 	font-weight: normal;
 	font-family: "FiraMono-Medium";
-	padding: 0.2em 0.5rem;
+	padding: 0.16rem 0.4rem;
 	border-radius: 4px;
 	border: 1px solid lightgrey;
 }
@@ -353,7 +348,7 @@ h2 { font-size: 1.2rem; }
 #content h2
 {
 	font-size: 1.4rem;
-	margin-top: 0rem;
+	margin-top: 1.5rem;
 }
 
 #content h3
@@ -369,12 +364,12 @@ h2 { font-size: 1.2rem; }
 #content h3 + p,
 #content h4 + p,
 #content h5 + p,
-#content h6 + p,
+#content h6 + p { margin-top: 0rem; }
 #content h1 + h2,
 #content h2 + h3,
 #content h3 + h4,
 #content h4 + h5,
-#content h5 + h6 { margin-top: 0rem; }
+#content h5 + h6 { margin-top: .5rem; }
 
 #content h3,
 #content h4,
@@ -577,7 +572,7 @@ td
 
 @media only screen and (min-width: 42rem)
 {
-	html { font-size: 100%; }
+	html { font-size: 110%; }
 	
 	#course-info1 h3, course-info2 h3, #course-info1 div, #course-info2 div
 	{

@@ -35,4 +35,4 @@ Communicate your concept to the client. Submit a PDF file which includes your
 
 The client needs to be able to make sense of these ingredients which make your design. They need to *see* the final product.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=395227&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411212" title="Submit on BrightSpace" target="_blank">{% include /svg/button-submit-your-concept.svg %}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=395227&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411212" title="Submit on BrightSpace" target="_blank">![Submit your concept]({{site.url}}/svg/button-submit-your-concept.svg){:width="50%"}</a>

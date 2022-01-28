@@ -1,8 +1,8 @@
 ---
 layout: type4
-serial: level-4-assignment-4-subpage-deliverables
+serial: level-4-assignment-3-subpage-deliverables
 ---
 
-{% include /svg/submission-folder-indd.svg %}
+![InDesign Submission Folder]({{site.url}}/svg/submission-folder-indd.svg){:width="50%"}
 
-{% include /svg/button-submit-brightspace.svg %}
+![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}

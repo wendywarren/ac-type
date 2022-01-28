@@ -9,6 +9,6 @@ An ink trap is a feature meant to aid printing at small sizes. The right and acu
 
 These are purpose-built typefaces for designs like news print, classified ads or other publications with small, dense typesetting.
 
-{% include /svg/kb/ink-traps.svg %}{:width="90%" height="40%"}
+![Ink Traps]({{site.url}}/svg/kb/ink-traps.svg){:width="90%"}
 
 Lately, designers have been setting type with ink traps at larger sizes, thus emphasizing the ink traps as a design element. They may be doing this not knowing what an ink trap is. It may be trendy, but Al says it's just wrong. 😡

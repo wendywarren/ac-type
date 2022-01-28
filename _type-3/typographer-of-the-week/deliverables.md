@@ -22,6 +22,6 @@ Your package will be named the same way.
 
 Zip that folder, then submit on Brightspace.
 
-{% include /svg/submission-folder-indd.svg %}
+![InDesign Submission Folder]({{site.url}}/svg/submission-folder-indd.svg){:width="50%"}
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379290&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">{% include /svg/button-submit-brightspace.svg %}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379290&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

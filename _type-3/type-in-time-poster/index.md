@@ -2,26 +2,8 @@
 layout: type3
 serial: level-3-assignment-1-home
 ---
-Once we've done our exploration of [type classifications]({{ site.baseurl }}/kb/classification-categories.html), the ball's going to be in your court. Pour through type families that are representative of a given era or classification.
+This assignment will have you design a poster which describes and showcases a typeface from a given [classification category](/kb/classification-categories.html). The design must only contain type, shapes and/or patterns. Your type selection must be from [Adobe Fonts](https://fonts.adobe.com){: target="_blank"}. An informal grid will create the structure of your layout. Your application of colour should be restrained.
 
-**Choose a family that is a mainstay of that particular classification.** Avoid minor, little-known typefaces.
+You need to put all the type rules you've learned to date into practice. This means italicizing where appropriate; use quotes where needed, etc…
 
-Tell the reason for your choice. No B.S. Make it honest. Take your time. What is it that appealed to you about this family? Don't worry, it doesn't need to be some deep historical thing, though it *can* be.
-
-Do your research. Make your choice, then tell me.
-
-<a href="https://forms.office.com/r/1sSccGiZNQ" target="_blank" class="brightspace">{% include /svg/button-submit-type-choice.svg %}</a>
-
-#### Colour Treatment
-
-The fewer colours you use, the more focused your design will be. You *could* design this in a single colour with its tints and shades, or one colour plus black. If you choose two colours, the first should be a prominent colour. The second can be *quieter*. Too many colours will distract from the subject of the poster, the type design.
-
-#### Production Specifications
-
-These are pretty simple.
-
-<ul class="hasBullets">
-	<li>Dimensions: 24" x 36" plus ⅛" bleed</li>
-	<li>Colour: Four Colour Process (full colour)</li>
-	<li>InDesign is your tool of choice.</li>
-</ul>
+Imagine this poster on the classroom wall. It should entice students to use the typeface in a project. The attractive attributes of the glyphs should be showcased. You will highlight the beauty of the family.

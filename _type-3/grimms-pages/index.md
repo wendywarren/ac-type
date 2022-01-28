@@ -40,7 +40,7 @@ Typefaces for Fiction Novels:
 	<li>Build the final product</li>
 </ol>
 
-<a href="https://forms.office.com/r/Wqn12p8aHC" title="Submit your type choice." target="_blank">{% include /svg/button-submit-type-choice.svg %}</a>
+<a href="https://forms.office.com/r/Wqn12p8aHC" title="Submit your type choice." target="_blank">![button-submit-type-choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}</a>
 
 ### Project Parameters
 

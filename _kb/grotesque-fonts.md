@@ -11,6 +11,6 @@ So, in one case a Grotesque is a synonym for sans-serif.
 
 In the second case, it's used more specifically as a sub-category of sans-serifs. Those categories are Grotesque, Neo-Grotesque, Geometric, and Humanist among some other sub-categories. I look at is everything that's sans-serif that's *not* Geometric nor Humanist. Franklin Gothic is the definitive Grotesque design.
 
-{% include /svg/kb/classification-sans-variants.svg %}{:width="80%" height="50%"}
+![Classification Sans variants]({{site.url}}/svg/kb/classification-sans-variants.svg){:width="80%"}
 
 [You can read more here.]({{site.baseurl}}/type-3/poster/subpage1.html)

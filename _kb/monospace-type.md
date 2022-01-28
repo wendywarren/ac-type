@@ -7,7 +7,7 @@ deck: "Each glyph in a monospace font occupies the same amount of space, regardl
 
 Each glyph in a monospace font occupies the same amount of space, regardless of its width. A wider glyph, like an *m* will be designed to be narrower. A narrow glyph like an *i* is designed to be wide. If you put each glyph in a square, including its surrounding space, each square would be the same width.
 
-{% include /svg/kb/monospace-type.svg %}{:width="80%"}
+![Monospace Type]({{site.url}}/svg/kb/monospace-type.svg){:width="80%"}
 
 Monospace typefaces originated on typewriters. Each time one typed a letter, the carriage would move forward by the same distance, whether you typed the letter *i* or the letter *w*. <span style="font-family: 'Courier';">Courier is the definitive monospaced face</span>. It was commissioned by IBM in the 1950's for its typewriters.
 
@@ -21,7 +21,7 @@ Adobe Fonts has [a whole search category](https://fonts.adobe.com/fonts?browse_m
 
 The American Typewriter family was designed to mimmic monotype faces while actually being a *proportional* type design.
 
-{% include /svg/american-typewriter.svg %}
+![American Typewriter]({{site.url}}/svg/american-typewriter.svg){:width="90%"}
 
 The family is reminiscent of an old typewriter font. It's just beautifully designed.
 
