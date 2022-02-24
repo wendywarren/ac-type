@@ -26,7 +26,7 @@ If there's a font folder in your package folder, there's a problem. Look inside 
 
 Be sure your InDesign document is named as usual:
 
-**appleseed-johnny-010-grimms-pages.indd**
+**appleseed-johnny-010-menu.indd**
 
 > Never rename a file while it's open. Close it. Rename it in Finder, then re-open it.
 
@@ -34,4 +34,4 @@ When you package your InDesign document with <span class="command">File > Packag
 
 ![InDesign Submission Folder]({{site.url}}/svg/submission-folder-indd.svg){:width="50%"}
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390790&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411212" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390791&grpid=0&isprv=0&bp=0&ou=411212" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

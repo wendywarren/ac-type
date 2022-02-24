@@ -2,7 +2,12 @@
 layout: type4
 serial: level-4-item-1-subpage-deliverables
 ---
+Name your file the usual way, with your name and group number.
 
-![InDesign Submission Folder]({{site.url}}/svg/submission-folder-indd.svg){:width="50%"}
+> appleseed-johnny-0#0-baseline-grid.indd
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390793&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411212" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+Use InDesign's Package function to submit your file.
+
+![InDesign Submission Folder]({{site.url}}/svg/submission-indesign-package.svg){:width="40%"}
+
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390793&grpid=0&isprv=0&bp=0&ou=411212" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

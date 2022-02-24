@@ -44,7 +44,7 @@ There *are* poor quality and superior quality designs, as in everything. Designi
 	<li><a href="https://fonts.google.com" title="Google LLC">Google LLC</a></li>
 	<li><a href="https://www.monotype.com" title="Monotype Imaging">Monotype Imaging</a></li>
 	<ul>
-		<li><a href="http://www.Typography.com" title="Hoefler & Co.">Hoefler & Co.</a> a library of original and licensed fonts</li>
+		<li><a href="https://www.Typography.com" title="Hoefler & Co.">Hoefler & Co.</a> a library of original and licensed fonts</li>
 		<li><a href="https://www.fontshop.com/foundries/ascender" title="Ascender Corporation">Ascender Corporation</a> a subsidiary of Monotype Imaging</li>
 		<li><a href="https://www.myfonts.com/foundry/Bitstream/" title="Bitstream">Bitstream</a> a subsidiary of Monotype Imaging</li>
 		<li><a href="https://www.fontshop.com/foundries/fontfont" title="FontFont">FontFont</a> a subsidiary of Monotype Imaging, Located in Germany</li>
@@ -65,28 +65,28 @@ There *are* poor quality and superior quality designs, as in everything. Designi
 
 As the term suggests, vendors sell fonts to the public. There many vendors out there. Note that some of these are vendors and some are *also* foundries.
 
-[Altemus Collection](http://www.Altemus.com)  
+[Altemus Collection](https://www.Altemus.com)  
 An artistic collection of dingbat fonts.
 
-[Font Bureau](http://www.fontbureau.com/)  
+[Font Bureau](https://fontbureau.typenetwork.com)
 Custom typefaces and retail fonts.
 
-[FontFreak](http://www.FontFreak.com)  
+[FontFreak](https://www.FontFreak.com)  
 Thousands of free and shareware fonts, plus links to font software.
 
-[FontHaus Inc.](http://www.FontHaus.com)  
+[FontHaus Inc.](https://www.FontHaus.com)  
 Fonts, clip art, illustrations, and stock photos.
 
-[FontShop](http://www.FontShop.com)  
+[FontShop](https://www.FontShop.com)  
 Over 30,000 fonts by many designers.
 
-[The FontSite](http://www.FontSite.com)  
+[The FontSite](https://www.FontSite.com)  
 Fonts, articles, and more.
 
-[Hoefler & Co.](http://www.Typography.com)  
+[Hoefler & Co.](https://www.Typography.com)  
 A library of original and licensed fonts.
 
-[International Typeface Corporation](http://www.ITCfonts.com) (ITC)  
+[International Typeface Corporation](https://www.fonts.com) (ITC)  
 Over 1500 fonts and an informative web site.
 
 [LetterPerfect](http://www.Letterspace.com)  
@@ -95,19 +95,19 @@ Original display fonts and custom lettering.
 [Linotype](http://www.Linotype.com)  
 More than 6,000 fonts, plus lots of articles and info.
 
-[Monotype Corporation](http://www.Fonts.com)  
+[Monotype Corporation](https://www.Fonts.com)  
 Not only fonts, but articles, news, technology, and more. Monotype is forming a nonprofit organization dedicated to the advancement of the typographic arts.
 
-[My Fonts](http://www.MyFonts.com)  
+[My Fonts](https://www.MyFonts.com)  
 Find, try, and buy fonts. They will also help you identify fonts.
 
 [P22](http://www.p22.com)  
 Fonts inspired by art and history.
 
-[Phil’s Fonts](http://www.PhilsFonts.com)  
+[Phil’s Fonts](https://www.PhilsFonts.com)  
 More than 35,000 fonts from 75 foundries.
 
-[Plazm Media Cooperative](http://www.Plazm.com)  
+[Plazm Media Cooperative](https://Plazm.com)  
 Experimental type foundry specializing in custom fonts.
 
 [T26](http://www.T26.com)  

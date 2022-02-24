@@ -53,6 +53,19 @@
     - outcome: "Use the appropriate software tools and techniques to build the page."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
+  videos:
+    - video_title: "Remove Extraneous Paragraph Breaks in InDesign"
+      video_url: "https://youtu.be/8-H7N1PzNb0"
+    - video_title: "Remove Characters with Find/Change in InDesign"
+      video_url: "https://youtu.be/zfGdbwKosEA"
+    - video_title: "Style Prices with GREP in InDesign"
+      video_url: "https://youtu.be/DrCJM-lSXT4"
+    - video_title: "Apply Paragraph Styles with GREP in InDesign"
+      video_url: "https://youtu.be/Pt8MocyNyOc"
+    - video_title: "Create & Style Tab Leaders"
+      video_url: "https://youtu.be/khYu_X1s0gw"
+    - video_url: "https://youtu.be/n-6dahnPJ-g"
+      video_title: "InDesign Anchored Objects"
   resource-links: |
     - https://www.underconsideration.com/artofthemenu/
     - https://www.touchbistro.com/blog/51-examples-of-excellent-restaurant-menu-design/
@@ -79,6 +92,10 @@
        serial: "level-4-assignment-2-menu-subpage-the-type"
        url: type-4/menu/the-type.html
        deck: "You'll have more freedom with type here. With more freedom comes more responsibility."
+     - title: "The Critique"
+       serial: "level-4-assignment-2-menu-subpage-the-critique"
+       url: type-4/menu/the-critique.html
+       deck: "<i>Critique</i> seems to cary such negative connotations. The goal of this type of design review is to improve the product, so that's what we'll do today."
      - title: "Deliverables"
        serial: "level-4-assignment-2-menu-subpage-deliverables"
        url: type-4/menu/deliverables.html
@@ -181,24 +198,32 @@
   download:
   pinterest: "https://pin.it/alainparadis"
   outcomes:
-    - outcome: "Some outcome number 1"
+    - outcome: "Design a page grid including margins, columns, rows and gutters."
+    - outcome: "Devise a page layout grid using a baseline grid which can accomodate a complete type system."
+    - outcome: "Organize and maintain a sound file structure for graphic design projects."
+    - outcome: "Organize files and folders for submission according to provided instructions."
+    - outcome: "Use the appropriate software tools and techniques to build the design."
   resource-links: |
     - https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/setting-up-a-baseline-grid?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2199673
   # Subpages
   pages:
-#    - title: "Building The Grid"
-#      serial: level-4-item-1-subpage-1
-#      url: type-4/baseline-grids/building-the-grid.html
-#      deck: "We'll explore options to create rhythm with your text on the page."
-#    - title: "Deliverables"
-#      serial: level-4-item-1-subpage-deliverables
-#      url: type-4/baseline-grids/deliverables.html
-#      deck: "Gather all your stuff. It's time to send your assignment home."
-      criteria:
-        - criterium: "This is the first criteria item."
-        - criterium: "The second criterium comes after the first."
-        - criterium: "Never two without three criterium."
-        - criterium: "Two plus two equals four criteria."
+  - title: "Building The Grid"
+    serial: level-4-item-1-subpage-1
+    url: type-4/baseline-grids/building-the-grid.html
+    deck: "We'll explore options to create rhythm with text on the page."
+  - title: "Your Assignment"
+    serial: level-4-item-1-subpage-2
+    url: type-4/baseline-grids/baseline-grids-assignment.html
+    deck: "Reproduce the layout based on the provided information."
+  - title: "Deliverables"
+    serial: level-4-item-1-subpage-deliverables
+    url: type-4/baseline-grids/deliverables.html
+    deck: "Gather all your stuff. It's time to send your assignment home."
+  criteria:
+    - criterium: "This is the first criteria item."
+    - criterium: "The second criterium comes after the first."
+    - criterium: "Never two without three criterium."
+    - criterium: "Two plus two equals four criteria."
 
 # [5] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Quizzes"

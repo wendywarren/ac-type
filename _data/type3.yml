@@ -80,10 +80,12 @@
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
   videos:
-    - video_url: "https://youtube.com/"
-      video_title: "Dust cover document setup."
-    - video_url: "https://youtube.com/"
-      video_title: "File submission instructions."
+    - video_url: "https://youtu.be/xzghRJJajoA"
+      video_title: "Dust cover document setup"
+    - video_url: "https://youtu.be/0OfvhLb63RQ"
+      video_title: "Copy/Paste Vector Art Into Illustrator"
+    - video_url: "https://youtu.be/SpLvedjToNs"
+      video_title: "Dust Cover Sketching Template"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
     - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/

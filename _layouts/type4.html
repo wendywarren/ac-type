@@ -65,7 +65,7 @@
 	{% endif %}
 	</div>
 	<div>
-	{% if page.serial contains 'home' and page.serial contains 'assignment' %}
+	{% if page.serial contains 'home' and page.serial contains 'assignment' or page.serial contains 'item' %}
 	<h3>How To Get An A</h3>
 	<p>This is what you need to do to ace this assignment.</p>
 	<ul class="hasBullets">
@@ -76,6 +76,16 @@
 		{% endif %} 
 		{% endfor %}
 		{% endfor %}
+	</ul>
+	<h3>Video Playlist</h3>
+	<ul class="hasBullets">
+	   {% for entry in site.data.type4 %}
+	   {% for item in entry.videos %}
+	   {% if page.serial == entry.serial %} 
+		   <li><a href="{{ item.video_url}}" title="{{ item.video_title }}" target="_blank">{{ item.video_title }}</a></li>
+	   {% endif %} 
+	   {% endfor %}
+	   {% endfor %}
 	</ul>
 	<h2>The Brief</h2>
 	{% endif %}

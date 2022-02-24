@@ -8,7 +8,7 @@ Links: |
   - [Can I use variable fonts on the web](https://caniuse.com/variable-fonts)
   - [More about Variable Fonts](https://web.dev/variable-fonts/)
 ---
-Variable fonts are a new file format based on OpenType that allows the user to control all the design variants, called *axis*. There's weight, width, italic, slant and optical size. Developpers have gone far beyond these axes by creating delightful transformations such as <a href="https://variablefonts.io/" title="Click the Casual button on the page." target="_blank">*casual*</a>. Apple, Adobe, Microsoft and Google all worked on the development of the format.
+Variable fonts are a new file format based on OpenType that allows the user to control all the design variants, called *axis*. There's weight, width, italic, slant and optical size. Developpers have gone far beyond these axes by creating delightful transformations such as <a href="https://variablefonts.io/" title="Click the Casual button on the page." target="_blank" class="external">*casual*</a>. Apple, Adobe, Microsoft and Google all worked on the development of the format.
 
 Designers can use variable fonts in design applications like InDesign, Illustrator or Photoshop. They're also wonderful to use for web site and mobile app development. Very subtle adjustments can be made to the axes for various screen dimensions. 
 

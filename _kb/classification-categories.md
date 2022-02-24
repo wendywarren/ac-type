@@ -98,7 +98,7 @@ Clarandon's are a sub-category of slab serifs. They're kind of like a Slab Serif
 
 This classification is a broad one which includes all designs without serifs. It includes Grotesque, Neo-Grotesque, Geometric, Humanist. Their characteristics vary widely.
 
-The first Sans Serif was designed in the early 1800. They were called Grotesque, as in deformed, misshapen, mangled, etc... Compared to serif faces, they were initially seen as 
+The first Sans Serif was designed in the early 1800s. They were called Grotesque, as in deformed, misshapen, mangled, etc… Compared to serif faces, they were initially seen as vulgar.
 
 In the graphic below, we move forward chronologically.
 

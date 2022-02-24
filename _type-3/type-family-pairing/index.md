@@ -6,7 +6,7 @@ Before we can match up any two type families, we need to first decide what our c
 
 #### By Context
 
-Context will be our first guide in selecting typefaces. Our choices for a historical novel will look very different from those for a technical manual. This is where knowledge of the historical origins of typefaces is needed. An [old style serif typeface]({{site.baseurl}}/type-3/poster/classification-categories.html#old-style) may be used for a historical novel, while a [humanist sans serif]({{site.baseurl}}/type-3/poster/classification-categories.html#sans-serif) could be our choice for a technical manual.
+Context will be our first guide in selecting typefaces. Our choices for a historical novel will look very different from those for a technical manual. This is where knowledge of the historical origins of typefaces is needed. An [old style serif typeface]({{site.baseurl}}/kb/classification-categories.html#old-style) may be used for a historical novel, while a [humanist sans serif]({{site.baseurl}}/kb/classification-categories.html#sans-serif) could be our choice for a technical manual.
 
 ![Gothic & old style]({{site.url}}/svg/gothic-old-style.svg "Gothic & old style"){:width="200px"}
 

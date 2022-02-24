@@ -2,7 +2,7 @@
 layout: type4
 serial: level-4-assignment-2-menu-subpage-the-type
 ---
-For this project, there are no specific limits on the use of type except for your judgement of what's appropriate for the client. You should be applying the rules you've learned to date. Of course, you must only be choosing from [Adobe Type](http://fonts.adobe.com){:target="_blank"}
+For this project, there are no specific limits on the use of type except for your judgement of what's appropriate for the client. You should be applying the rules you've learned to date. Of course, you must only be choosing from [Adobe Type](https://fonts.adobe.com){:target="_blank"}
 
 ### Display Typefaces
 
@@ -19,8 +19,7 @@ You have the choice of working with a serif and a sans, or both, in addition to 
 The *minimum* elements of your menu design will include
 
 <ul class="hasBullets">
-	<li>Cover design</li>
-	<li class="second">Restaurant Name</li>
+	<li>Restaurant Name</li>
 	<li>Content</li>
 	<li class="second">section titles</li>
 	<li class="second">item names</li>
@@ -54,6 +53,16 @@ The text for your menu is going to need some cleaning up. You'll remove multiple
 
 > Let InDesign do most of this work. Type in the text the very least possible, if at all.
 
+#### GREP Patterns
+
 InDesign's `Edit > Find/Change…` command is going to be your friend here. Use it wisely and attentively.
+
+This is a little primer on GREP (or regex) patterns. You can use these in the Find/Change `cmd-f` dialogue in InDesign. Be sure to click on the `GREP` tab in the Find/Change dialogue.
+
+You can find a price like this `$12` with `\$\d+`. `\$` finds a dollar sign. `d+` finds one or more digits.
+
+See [this table](https://github.com/ziishaned/learn-regex/blob/master/README.md#2-meta-characters){:target="_blank"} for the definitions of more *meta characters*.
+
+If you're interested in learning more about GREP patterns, these sites will get you going. [Learn REGEX The Easy Way](https://github.com/ziishaned/learn-regex/blob/master/README.md) and [Regexer](https://regexr.com) and [Adobe Support doc](https://helpx.adobe.com/indesign/using/find-change.html).
 
 You can also use `Type > Change Case…`. If you're using small caps, you can set that in your paragraph styles.

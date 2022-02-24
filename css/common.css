@@ -79,6 +79,10 @@ body
   src: url("../fonts/FiraMono-Medium.woff2") format("woff2");
 }
 
+p {
+	lang="en-CA"
+	hyphens: auto;
+}
 img
 {
 	border: 0px solid rgba(100, 100, 100, 1);
@@ -102,6 +106,12 @@ a:visited { color: var(--darkgrey); }
 a:hover { color: var(--blue); }
 a:active { color: var(--orange100); }
 a:focus { outline: 2px solid black; }
+
+a.external[target="_blank"]::after {
+  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+  margin: 0px 3px 0px 5px;
+}
+
 .uppercase { text-transform: uppercase; }
 .small { font-size: .8rem; }
 .nav-page-list a { text-decoration-thickness: 2px; }
@@ -129,7 +139,11 @@ figure
 	max-width: 90%;
 }
 
-figure svg { margin: 0; max-width: 100%; }
+figure svg
+{
+	margin: 0;
+	max-width: 100%;
+}
 
 figcaption
 {
@@ -460,9 +474,16 @@ h2 { font-size: 1.2rem; }
 .deck
 {
 	font-size: 1.2rem;
-	font-family: "FiraSans-Italic", Arial, Helvetica, sans-serif;
+	font-family: "FiraSans-Medium", Arial, Helvetica, sans-serif;
+	font-style: normal;
 	margin-bottom: 1rem;
 	color: rgba(100, 100, 100, 1);
+}
+
+.deck i
+{
+	font-family: "FiraSans-MediumItalic", Arial, Helvetica, sans-serif;
+	font-style: normal;
 }
 
 .footer a, .footer a:link, .footer a:visited

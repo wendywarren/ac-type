@@ -43,6 +43,7 @@ Create a single-page letter-sized bio in InDesign. The layout should be inspired
 	<li>Morison, Stanley</li>
 	<li>Novarese, Aldo</li>
 	<li>Paul, Alejandro</li>
+	<li>Porchez, Jean François</li>
 	<li>Renner, Paul</li>
 	<li>Rogers, Bruce</li>
 	<li>Scaglione, José</li>
