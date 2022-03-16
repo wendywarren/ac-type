@@ -1,70 +1,88 @@
 ---
 layout: type4
-serial: level-4-assignment-3-wordmark-subpage-brainstorming
+serial: level-4-assignment-3-wordmark-subpage-1-about-wordmarks
 ---
-## What Are Wordmarks?
+### What Are Wordmarks?
 
-These need to be highly conceptual, type-only designs.
+There are different types of logos. There are emblems, mascots, pictorial and other types. [Read more about the types of logos here](https://99designs.ca/blog/tips/types-of-logos/). Wordmarks, or logotypes, are designed with type only. They depict the company name alone. They're appropriate for organizations and companies with short, distinct names. There are minimal pictorial elements. Some wordmarks have subtle, at times hidden, imagery within the letters. The combination of a novel company name and strong typography create a logotype which fosters strong brand recognition.
 
-There are different types of logos. There are emblems, mascots, pictorial and other types. Wordmarks, or logotypes, are designed with type only. They depict the company name alone. They're appropriate for organizations and companies with short, distinct names. There are no pictorial elements, though some wordmarks have subtle, at times hidden, imagery within the letters. The combination of a novel company name and strong typography create a logotype which fosters strong brand recognition.
+### What We're Going For
 
-Since a wordmark is heavily reliant on type, it is important that you select or create typography that is appropriate to the tone of the brand—think elegant or traditional or fun or minimal.
+Our designs need to conjur visuals without actually using a separate pictorial logo. The meaning of the visuals can be very obvious or more subtle. These are examples.
 
-Your final wordmark needs to be:
+![FedEx logos]({{site.url}}/svg/wordmark/logo-fedex.svg){:width="60%"}
 
-Memorable
-: Much like a song, your wordmark needs a clever hook—that thing that makes other designers think *Darn, I wish I had thought of that!* 
+The FedEx logotype famously has a hidden forward-pointing arrow in its negative space.
 
-Versatile
-: It needs to be easy to depict across media. It should be just as distinct on a small screen, on apparel, stationery, etc… Avoid very thin stroke weights. They don't scale down well. The concept must not depend on the colours. That means that the mark works in a single colour.
+Our goal is to create a logotype or wordmark. These are type-centric. They can have imagery, but it's integrated with the type.
 
-Accessible
-: The mark needs to be very legible. Elements cannot be obstructed by a contrived design trying too hard to integrate a visual. Contrast needs to be great enough so even those with vision challenges can discern your wordmark.
+![Logo examples good and bad]({{site.url}}/svg/wordmark/examples-good-and-bad.svg){:width="80%"}
 
-## Styles
+### Let's Practice
 
-- Hand written
-- 3D
-- Vintage or Retro
+Let's practice this a little. Grab your word from below. You have 30 minutes to create a conceptual logo as shown above. As a matter of fact, create as many as you can, quickly. choose your best to show the class. 
 
-## Company Names
+The ground rules:
 
-Create a profile for each.
-
-- Gold Digger
-- Sticky Fingers
-	- BBQ Catering Co.
-- Nitro
-- Elm Hill Kids
-	- Clothing for Stylish Little People.
-- Coffee & Donuts
-- Angry letters
+<ul class="hasBullets">
+	<li>Keep it simple! As simple as possible.</li>
+	<li>One type family only.</li>
+	<li>Use only black—no colour nor greys.</li>
+</ul>
 
 
-## Technical Requirements
+| Last Name           | First Name    | Concept       | 
+|---------------------|---------------|---------------| 
+| Adair               | Brittany      | Catch         | 
+| Aly                 | Aska          | Link          | 
+| Anya Mengue         | Pierre        | Switch        | 
+| Bain                | Michael       | Evolution     | 
+| Boucher             | Julie         | Flexible      | 
+| Bourquin            | Remy          | Positive      | 
+| Buzzell             | Brianne       | Return        | 
+| Calderon            | Pamela        | Interview     | 
+| Ching               | Sophia        | Left          | 
+| Ciliberto           | Chris         | Woman         | 
+| Cui                 | Zhikai        | Hide          | 
+| Dasilva             | Samantha      | Float         | 
+| Decarle             | Anna          | Capacity      | 
+| Demir               | Jodi          | Shot          | 
+| Devolin             | Jordyn        | Pickup        | 
+| Drew                | Holly         | Password      | 
+| Hadzimustafic       | Ema           | Puppet        | 
+| Hanselman           | Adrianna      | Walkie-Talkie | 
+| Hardy               | Danielle      | Child         | 
+| Ikhlas              | Ayesha        | Cinema        | 
+| Johnstone           | Stacey        | Braille       | 
+| Jolo                | Arnie         | Bottle        | 
+| Jones               | Hunter        | Pillar        | 
+| Lipinska            | Gabriela      | Mailbox       | 
+| Lu                  | Sophie        | Shoot         | 
+| Ly                  | Minh Tu       | Peel          | 
+| McGregor            | Morgan        | Clamp         | 
+| Mclellan            | Gillian       | Morning       | 
+| Mcnair              | Connor        | Dive          | 
+| Mendoza Garza       | Karen         | Half          | 
+| Myshrall            | Shaylyn       | Stitch        | 
+| Netchaev            | Alexei        | Razor Blade   | 
+| Nguyen              | Huu Tri       | Flatbed       | 
+| Phan                | Andrea        | Umbrella      | 
+| Porovoznyk          | Marta         | Knot          | 
+| Reitenbach          | Kieffer       | Honey         | 
+| Ren                 | Xiaoyu        | Cone          | 
+| Rodrigues Sales     | Isabela       | Launch        | 
+| Saunders            | Becca         | Bowling       | 
+| Schultz             | Maya          | Pine          | 
+| Sweet               | Jennifer      | Unite         | 
+| Tighe               | Bridget       | Spool         | 
+| Tonkykh             | Darya         | Waterfall     | 
+| Vanberkel           | Melody        | Drill         | 
+| Wascher             | Calista       | Shirt         | 
+| Wehrstedt           | Caj           | Minimum       | 
+| Wong                | Alwin         | Third         | 
+| Zhao                | Lenka         | Interlock     | 
 
-- Type only
-	- Choose a typeface, or draw it yourself.
-	- If you draw it yourself, yes, you can customize an existing typeface. Just beware not to undo the care the typographer took when designing the original.
-- Design for a full gamut of colours. Produce a version in
-	- Black only. Reversed on black, too.
-	- in RGB
-	- in spot colours
-	- in CMYK
 
-## The Process
+Save your file as a PDF, then submit it here.
 
-### Research
-
-Read the brief posted about the company you've chosen. Research the concept behind the name of the company. 
-
-### Concept Sketches
-
-If you're using an existing typeface, you'll likely print the company name in that typeface as a base for your design. You can use tracing paper to reproduce it, then draw on top to develop your concept.
-
-## Deliverables
-
-- appleseed-johnny-wordmark
-	- rgb.ai
-	- spot-colour.ai
-	- cmyk.ai
+[![Submit on Brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="40%"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=403346&grpid=0&isprv=0&bp=0&ou=411212){: target="_blank"}

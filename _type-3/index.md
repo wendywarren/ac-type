@@ -27,7 +27,7 @@ You can navigate all the semester's assignments to explore what you'll be learni
 	<tr><td>Grimm's Pages</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
 	<tr><td>Publication</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
 	<tr><td>Presentations</td><td class="column-2">Presentations & Submissions</td><td class="column-3">10%</td></tr>
-	<tr><td>Quiz Pool</td><td class="column-2">Lots'o'Quizzes</td><td class="column-3">10%</td></tr>
+	<tr><td>Quiz Pool</td><td class="column-2">Lots o' Quizzes</td><td class="column-3">10%</td></tr>
 	</tbody>
 </table>
 

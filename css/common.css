@@ -94,6 +94,20 @@ img
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * General Type Stuff * * * * * * * * */
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
+
+.fs05 { font-size: 0.5rem; }
+.fs07 { font-size: 0.7rem; }
+.fs08 { font-size: 0.8rem; }
+.fs09 { font-size: 0.9rem; }
+.fs10 { font-size: 1.0rem; }
+.fs11 { font-size: 1.1rem; }
+.fs12 { font-size: 1.2rem; }
+.fs15 { font-size: 1.5rem; }
+.fs16 { font-size: 1.6rem; }
+.fs20 { font-size: 2.0rem; }
+.fs25 { font-size: 2.5rem; }
+.fs30 { font-size: 3.0rem; }
+
 a, a:link
 {
 	color: black;
@@ -154,6 +168,7 @@ figcaption
 
 em, italic, .italic { font-family: "FiraSans-LightItalic", Arial, Helvetica, sans-serif; }
 .text-center { text-align: center; }
+a.text-center { text-align: center; }
 .text-right, a.text-right { text-align: right; }
 
 blockquote
@@ -394,6 +409,9 @@ h2 { font-size: 1.2rem; }
 }
 
 #content p + p { margin-top: 1rem; }
+
+#content .left-margin { margin-left: 1.1rem; }
+#content .top-margin { margin-top: 1.0rem; }
 
 #content h1
 {

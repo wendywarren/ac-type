@@ -15,6 +15,11 @@
     - outcome: "Implement learned type rules relating to italicization, quote marks, etc..."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
+  brightspace:
+    - bs_link_title: "Save The Date Concept"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=395227&grpid=0&isprv=0&bp=0&ou=411212"
+    - bs_link_title: "Save the Date Final"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390790&grpid=0&isprv=0&bp=0&ou=411212"
   resource-links: |
     - https://discover.typography.com/theme/save-the-date/
   # Subpages
@@ -53,6 +58,13 @@
     - outcome: "Use the appropriate software tools and techniques to build the page."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
+  brightspace:
+    - bs_link_title: "Menu Concept"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=396417&grpid=0&isprv=0&bp=0&ou=411212"
+    - bs_link_title: "Menu Feedback"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=396418&grpid=0&isprv=0&bp=0&ou=411212"
+    - bs_link_title: "Menu"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390791&grpid=0&isprv=0&bp=0&ou=411212"
   videos:
     - video_title: "Remove Extraneous Paragraph Breaks in InDesign"
       video_url: "https://youtu.be/8-H7N1PzNb0"
@@ -122,19 +134,41 @@
     - outcome: "Use the appropriate software tools and techniques to build the design."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
+  brightspace:
+    - bs_link_title: "Conceptual Wordmark"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=403346&grpid=0&isprv=&bp=0&ou=411212"
+    - bs_link_title: "Wordmark Sketches"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=396419&grpid=0&isprv=&bp=0&ou=411212"
+    - bs_link_title: "Final Wordmark"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=393815&grpid=0&isprv=&bp=0&ou=411212"
+  videos:
+    - video_title: "Prepare vector art for production"
+      video_url: "https://youtu.be/XI_Zp5MAemU"
   resource-links: |
     - 
   # Subpages
   pages:
-#   - title: "Brainstorming"
-#     serial: "level-4-assignment-3-wordmark-subpage-brainstorming"
-#     url: type-4/wordmark/brainstorming.html
-#     deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-#   - title: "About Wordmarks"
-#     serial: "level-4-assignment-3-wordmark-subpage-about-wordmarks"
-#     url: type-4/wordmark/about-wordmarks.html
-#     deck: "What distinguishes a wordmark from an emblem logo, a mascot logo or a lettermark? We'll dive into the differences here to define a wordmark."
-     criteria:
+    - title: "About Wordmarks"
+      serial: "level-4-assignment-3-wordmark-subpage-1-about-wordmarks"
+      url: type-4/wordmark/about-wordmarks.html
+      deck: "What distinguishes a wordmark from an emblem logo, a mascot logo or a lettermark? We'll dive into the differences here to define a wordmark."
+    - title: "Your Clients"
+      serial: "level-4-assignment-3-wordmark-subpage-2-your-clients"
+      url: type-4/wordmark/your-clients.html
+      deck: "Get to know who you're working for. The more you know, the better your design can be."
+    - title: "Concept Development"
+      serial: "level-4-assignment-3-wordmark-subpage-3-concept-development"
+      url: type-4/wordmark/concept-development.html
+      deck: "This is where the heavy lifting happens. It's all about concept."
+    - title: "Technical Requirements"
+      serial: "level-4-assignment-3-wordmark-subpage-4-technical-requirements"
+      url: type-4/wordmark/technical-requirements.html
+      deck: "The wordmark needs to maintain its appearance and reproduce reliably."
+    - title: "Deliverables"
+      serial: "level-4-assignment-3-subpage-deliverables"
+      url: type-4/wordmark/deliverables.html
+      deck: "Gather all your stuff. It's time to send your assignment home."
+  criteria:
         - criterium: "This is the first criterium."
         - criterium: "You've submitted files as directed, ready for print."
 
@@ -149,7 +183,6 @@
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
     - outcome: "Design and construct a modular grid for a multi-page publication."
-    - outcome: "Discern the characteristics of type families which show they harmonize."
     - outcome: "Devise type hierarchy for a multi-page publication."
     - outcome: "Learn some pretty pro type facts so you can school your designer friends."
     - outcome: "Recognize the features of a typeface which determine its classification category."
@@ -163,30 +196,36 @@
     - outcome: "Use the appropriate software tools and techniques to build the page."
     - outcome: "Organize files and folders for submission according to provided instructions."
     - outcome: "Produce print-ready files."
+  brightspace:
+    - bs_link_title: "Comparative Analysis"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390792&grpid=0&isprv=0&bp=0&ou=411212"
+  videos:
+    - video_title: "Some YouTube Video"
+      video_url: "https://youtu.be/"
   resource-links: |
     - 
   # Subpages
   pages:
-#    - title: "Type Pairs"
-#      serial: "level-4-assignment-4-comparative-analysis-subpage-type-pairs"
-#      url: type-4/comparative-analysis/type-pairs.html
-#      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-#    - title: "Comparative Considerations"
-#      serial: "level-4-assignment-4-comparative-analysis-subpage-considerations"
-#      url: type-4/comparative-analysis/considerations.html
-#      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-#    - title: "The Booklet"
-#      serial: "level-4-assignment-4-comparative-analysis-subpage-the-booklet"
-#      url: type-4/comparative-analysis/the-booklet.html
-#      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-#    - title: "Deliverables"
-#      serial: "level-4-assignment-4-comparative-analysis-subpage-deliverables"
-#      url: type-4/comparative-analysis/deliverables.html
-#      deck: "Gather all your stuff. It's time to send your assignment home."
-#      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-#      criteria:
-#        - criterium: "This is the first criterium."
-#        - criterium: "You've submitted files as directed, ready for print."
+#   - title: "Type Pairs"
+#     serial: "level-4-assignment-4-comparative-analysis-subpage-type-pairs"
+#     url: type-4/comparative-analysis/type-pairs.html
+#     deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+#   - title: "Comparative Considerations"
+#     serial: "level-4-assignment-4-comparative-analysis-subpage-considerations"
+#     url: type-4/comparative-analysis/considerations.html
+#     deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+#   - title: "The Booklet"
+#     serial: "level-4-assignment-4-comparative-analysis-subpage-the-booklet"
+#     url: type-4/comparative-analysis/the-booklet.html
+#     deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+#   - title: "Deliverables"
+#     serial: "level-4-assignment-4-comparative-analysis-subpage-deliverables"
+#     url: type-4/comparative-analysis/deliverables.html
+#     deck: "Gather all your stuff. It's time to send your assignment home."
+#     brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+#     criteria:
+#       - criterium: "This is the first criterium."
+#       - criterium: "You've submitted files as directed, ready for print."
 
 # [4] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Baseline Grids"

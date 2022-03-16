@@ -8,7 +8,7 @@ serial: level-3-assignment-3-subpage-page-design
 
 This project will have you using left-justified type. If you look at the graphic below, you'll see that this is different than left-aligned text. With left-justified text, you have no rag. Only the last line of the paragraphs are left-aligned.
 
-![Text Alignment Left justified]({{site.url}}/svg/text-alignment-left-justified.svg){:width="60%"}
+![Text Alignment Left justified]({{site.url}}/svg/text-alignment-left-justified.svg){:width="50%"}
 
 A large majority of the text you'll set in your career will be simply left-aligned. Some will be left-justified. The others are used less frequently, and only in specific contexts that require them.
 
@@ -36,9 +36,9 @@ Here, we're going to take a more practical approach to our page layout. All we n
 
 The phrase *colour of the page* doesn't literally refer to colour itself. It refers to what the page looks like if you print one, hold it at arm's length, then blur your vision. How light or dark grey is the page? The density of the content is the colour of the page. There are many factors that affect page colour, type selection, type weight, leading and letter-spacing. See some examples in this PDF.
 
-<a href="https://www.dropbox.com/s/b3zqqafvrb8jv8e/colour-of-the-page.pdf?dl=1" title="Download the PDF" target="_blank">![Download a PDF]({{site.url}}/svg/button-download-pdf.svg){:width="50%"}</a>
+<a href="https://www.dropbox.com/s/b3zqqafvrb8jv8e/colour-of-the-page.pdf?dl=1" title="Download the PDF" target="_blank">![Download a PDF]({{site.url}}/svg/button-download-pdf.svg){:width="40%"}</a>
 
-> Your page should have somewhere around 28 lines of text. Consult the Info panel for the numbers.
+> Your page should have somewhere around 28 lines of text and 9-12 words per line. Consult the Info panel for the numbers.
 
 The goal is to create a harmonious page, free of distracting graphic elements.
 
@@ -63,11 +63,9 @@ These numbers are a starting point. They're not written in stone. They're better
   </figcaption>
   </figure>
 
-
-
 You'll know you're settings are incorrect if there is yellow highlighting on your InDesign pages. You can see bad and good justified text in the PDF file linked below.
 
-<a href="https://www.dropbox.com/s/tceqy4n160vpwsn/good-vs-bad-justification.pdf?dl=1" title="Good Vs Bad Justification" target="_blank">![Download a PDF]({{site.url}}/svg/button-download-pdf.svg){:width="50%"}</a>
+<a href="https://www.dropbox.com/s/tceqy4n160vpwsn/good-vs-bad-justification.pdf?dl=1" title="Good Vs Bad Justification" target="_blank">![Download a PDF]({{site.url}}/svg/button-download-pdf.svg){:width="40%"}</a>
 
 #### Rivers
 

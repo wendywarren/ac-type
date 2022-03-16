@@ -22,6 +22,8 @@ Read through your story. When I read mine, there were question marks missing in 
 
 See how the punctuation is sometimes on the inside of the quote marks and sometimes on the outside? If the whole sentence is a spoken one, the quotes go on the outside. If not, they go on the inside.
 
+<a href="https://firstmanuscript.com/format-dialogue/" title="How to format dialogue" class="external" target="_blank">How to format dialogue</a>
+
 You're going to use all the text from your story. Let it take as many pages as necessary. If you have a few lines of text left at the end, send them to an overset text frame.
 
 ### InDesign Work
@@ -34,14 +36,4 @@ You can create a document with a few pages, then add more as needed to accomodat
 
 Now you need to set up text frames on Parent Pages and style sheets.
 
-<ul class="hasBullets">
-	<li><a href="https://youtu.be/o0aubQ4T2_Y" title="Video tutorial for Find/Change in InDesign" target="_blank">Video Tutorial</a>: Remove all double paragraph breaks and double spaces from your text.</li>
-	<li>Create Parent Pages based on a base Parent Page, if needed.</li>
-	<li><a href="https://www.youtube.com/watch?v=TUBfSw84wt8" title="Video tutorial for creating automatic page numbers in InDesign" target="_blank">Video Tutorial</a>: Automatic page numbers on Parent Pages.</li>
-	<li><a href="https://www.youtube.com/watch?v=fYPXkHnawN0" title="Video tutorial for creating Running Headers in InDesign" target="_blank">Video Tutorial</a>: Create a Running Header for the chapter title.</li>
-	<li>Create Paragraph Styles for each of the text styles.</li>
-	<li><a href="https://youtu.be/4Npyv18YZag" title="Video tutorial for creating paragraph styles in InDesign" target="_blank">Video Tutorial</a>: Create a parent paragraph style on which to base the other styles.</li>
-	<li><a href="https://www.youtube.com/watch?v=AKPclQr00ro" title="Video tutorial for creating Drop Caps in InDesign" target="_blank">Video Tutorial</a>: Create a drop cap on your chapter opening page.</li>
-	<li>Create Character Styles only for italics and bold text.</li>
-	<li>Have no more than one consecutive paragraph break in the whole document.</li>
-</ul>
+See the video tutorials on [this assignment's front page](index.html).

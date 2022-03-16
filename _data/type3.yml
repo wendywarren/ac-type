@@ -139,8 +139,17 @@
     - outcome: "Use stylistic elements in an appropriate context and manner."
     - outcome: "Use software tools effectively to build pages for a long document."
   videos:
-    - video_url: "https://youtube.com/"
-      video_title: "Document Setup Instructions"
+    - video_url: "https://youtu.be/o0aubQ4T2_Y"
+      video_title: "Remove all double paragraph breaks and double spaces from your text."
+    - video_url: "https://www.youtube.com/watch?v=TUBfSw84wt8"
+      video_title: "Automatic page numbers on Parent Pages"
+    - video_url: "https://www.youtube.com/watch?v=fYPXkHnawN0"
+      video_title: "Running Headers in InDesign"
+    - video_url: "https://youtu.be/4Npyv18YZag"
+      video_title: "Create a parent paragraph style on which to base the other styles"
+    - video_url: "https://www.youtube.com/watch?v=AKPclQr00ro"
+      video_title: "Drop Caps in InDesign"
+
   resource-links: |
     - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages

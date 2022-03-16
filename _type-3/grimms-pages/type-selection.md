@@ -8,7 +8,7 @@ We want to make sure the colour of the page is uniform. Type size, width and wei
 
 There's on old adage by typesetters that says, *When in doubt, choose Caslon*. So let's avoid Caslon altogether.
 
-![Submit Your Type Choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=404084&grpid=0&isprv=0&bp=0&ou=411208" title="Submit your type choice." target="_blank">![button-submit-type-choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}</a>
 
 ### Properties to Seek Out
 

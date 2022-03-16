@@ -4,9 +4,9 @@ serial: level-4-assignment-3-home
 ---
 Your wordmark needs to be a highly conceptual, type-only design.
 
-There are different types of logos. There are emblems, mascots, pictorial and other types. Wordmarks, or logotypes, are designed with type only. They depict the company name alone. They're appropriate for organizations and companies with short, distinct names. There are no pictorial elements, though some wordmarks have subtle, at times hidden, imagery within the letters. The combination of a novel company name and strong typography create a logotype which fosters strong brand recognition.
-
 Since a wordmark is heavily reliant on type, it is important that you select or create typography that is appropriate to the tone of the brand—think elegant or traditional or fun or minimal.
+
+> Your basic design will be based on a typeface. The concept will come from customization of the type.
 
 Your final wordmark needs to be:
 
