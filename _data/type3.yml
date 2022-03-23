@@ -188,9 +188,23 @@
     - outcome: "Devise type hierarchy for a multi-page publication."
     - outcome: "Design functional and decorative page elements like folios, shapes, colours and more."
     - outcome: "Select, then apply context-appropriate colours along with their tints and shades to create a colour theme."
+  brightspace:
+    - bs_link_title: "Magazine Style Tile (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379280&grpid=0&isprv=0&bp=0&ou=411208"
+    - bs_link_title: "Magazine Feedback (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379281&grpid=0&isprv=0&bp=0&ou=411208"
+    - bs_link_title: "Magazine Final Submission"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379285&grpid=0&isprv=0&bp=0&ou=411208"
+      
   videos:
-    - video_url: "https://youtube.com/"
-      video_title: "Document Setup Instructions"
+    - video_url: "https://www.youtube.com/watch?v=TIw4ZRjnt64"
+      video_title: "Page Layout Sketching Template"
+    - video_url: "https://youtu.be/UZWwpWKfgZs"
+      video_title: "Build a Better Text Frame"
+    - video_url: "https://youtu.be/kL9yGfVE0qM"
+      video_title: "Insert a story ender graphic in InDesign"
+    - video_url: "https://www.youtube.com/watch?v=uZmqolqoTzE"
+      video_title: "Baseline Grid Increment"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages

@@ -48,6 +48,20 @@ Take pencil to paper. Start with rough thumbnails to get ideas on the page. Make
 You have the choice of basing your design on existing type or drawing the whole wordmark. You can gain inspiration from existing type.
 {: .left-margin }
 
+Where to look for opportunities:
+{: .left-margin }
+
+Meanings behind the name
+: What is the meaning of the organization name? Why was it chosen? Is there a secondary meaning? Deep research is needed. Make a list of words that relate to those concepts. Even better, create a mind-map to flesh it out.
+{: .left-margin }
+
+Imagery related company info
+: Read through the information that was given to you about the company. Are there visuals to be gleaned from there?
+
+Shapes of letters
+: Now that you've done deep research, do the concepts you've found relate somehow to the shapes of the letters in their name? Do the shapes of the letters suggest opportunities to communicate that concept visually?
+{: .left-margin }
+
 ### 7. <a name="choose-colour">Choose colour carefully</a>
 
 We want to keep colour in mind all along the design process. I usually present a logo concept without colour to start. It makes for fewer considerations, simplifying decision-making early-on.

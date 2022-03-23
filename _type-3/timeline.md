@@ -164,19 +164,25 @@ title: Welcome to Type 3
 	<li><a href="/type-3/type-family-pairing/index.html" title="Type Family Pairing">Type Family Pairing</a> presentations</li>
 	<li><a href="/type-3/typographer-of-the-week/index.html" title="Typographer of the Week presentations">Typographer of the week</a> presentations</li>
 	<li><a href="/kb/index.html" title="Type Knowledge quiz">Type Knowledge</a> quiz</li>
+	<li>Present: <a href="/kb/same-type-different-foundry.html" title="Same Type, Different Foundry">Same type, different foundry</a></li>
 </ul>
 <ul class="hasBullets">
 	<li>Project: <a href="/type-3/magazine/index.html" title="Magazine Design">Magazine Design</a></li>
 	<li>Presentation:</li>
-	<li class="second"></li>
+	<li class="second">Modular grids</li>
+	<li class="second">Content inventory</li>
+	<li class="second">Type selection</li>
+	<li class="second">Type hierarchy</li>
+	<li class="second">Page element design</li>
+	<li class="second">Colour selection</li>
 	<li>Learning Activity: </li>
-	<li>Due Next: </li>
+	<li>Due Next: Magazine Style Tile</li>
 </ul>
 
 ### Week 11
 
 <ul class="hasBullets">
-	<li>Due before class: Grimm's Pages</li>
+	<li>Due before class: Magazine Style Tile</li>
 </ul>
 
 <ul class="hasBullets">
@@ -187,7 +193,7 @@ title: Welcome to Type 3
 <ul class="hasBullets">
 	<li>Project: <a href="/type-3/magazine/index.html" title="Magazine Design">Magazine Design</a></li>
 	<li>Presentation:</li>
-	<li class="second"></li>
+	<li class="second">Page construction</li>
 	<li class="second"></li>
 	<li class="second"></li>
 	<li>Learning Activity: </li>

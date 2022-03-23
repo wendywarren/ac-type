@@ -79,10 +79,8 @@ body
   src: url("../fonts/FiraMono-Medium.woff2") format("woff2");
 }
 
-p {
-	lang="en-CA"
-	hyphens: auto;
-}
+p { lang="en-CA" hyphens: auto; }
+
 img
 {
 	border: 0px solid rgba(100, 100, 100, 1);
@@ -94,7 +92,6 @@ img
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
 /* * * * * * * * * * General Type Stuff * * * * * * * * */
 /* * * * * * * * *  * * * * * * * * * * * * * * * * * * */
-
 .fs05 { font-size: 0.5rem; }
 .fs07 { font-size: 0.7rem; }
 .fs08 { font-size: 0.8rem; }
@@ -121,9 +118,10 @@ a:hover { color: var(--blue); }
 a:active { color: var(--orange100); }
 a:focus { outline: 2px solid black; }
 
-a.external[target="_blank"]::after {
-  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
-  margin: 0px 3px 0px 5px;
+a.external[target="_blank"]::after
+{
+	content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+	margin: 0px 3px 0px 5px;
 }
 
 .uppercase { text-transform: uppercase; }
@@ -144,6 +142,16 @@ a.external[target="_blank"]::after {
 {
 	display: block;
 	margin: .5rem auto;
+}
+
+/* I used this here: /type-4/comparative-analysis/considerations.html */
+#content .inline
+{
+	display: inline;
+	max-width: 30%;
+	border: 1px solid var(--mediumgrey);
+	padding: .2rem;
+	margin: 0;
 }
 
 figure
@@ -409,7 +417,6 @@ h2 { font-size: 1.2rem; }
 }
 
 #content p + p { margin-top: 1rem; }
-
 #content .left-margin { margin-left: 1.1rem; }
 #content .top-margin { margin-top: 1.0rem; }
 

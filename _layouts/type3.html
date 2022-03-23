@@ -76,6 +76,16 @@
 		{% endfor %}
 		{% endfor %}
 	</ul>
+	<h3>BrightSpace Submission Links</h3>
+	<ul class="hasBullets">
+	   {% for entry in site.data.type3 %}
+	   {% for item in entry.brightspace %}
+	   {% if page.serial == entry.serial %} 
+		   <li><a href="{{ item.bs_url}}" title="{{ item.bs_link_title }}" target="_blank">{{ item.bs_link_title }}</a></li>
+	   {% endif %} 
+	   {% endfor %}
+	   {% endfor %}
+	</ul>
 	<h3>Video Playlist</h3>
 	<ul class="hasBullets">
 	   {% for entry in site.data.type3 %}

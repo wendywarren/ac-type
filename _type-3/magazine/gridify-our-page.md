@@ -16,7 +16,7 @@ Your pages must:
 
 ### The Modular Grid
 
-Our magazine dimensions are going to be A4 size, that's 21cm x 29.7cm. This is our canvas. The grid needs to allow for:
+Our magazine dimensions are going to be A4 size, that's 21cm x 29.7cm. <a href="https://www.prepressure.com/library/paper-size" title="Paper sizes" class="external" target="_blank">Read more about ISO A page dimensions here</a>. This is our canvas. The grid needs to allow for:
 
 <ul class="hasBullets">
 	<li>Margins</li>
@@ -59,7 +59,7 @@ You must align your body copy to the baseline grid. The baseline grid is a set o
 
 ![Baseline Grids]({{site.url}}/svg/baseline-grids.svg){:width="90%"}
 
-<a href="https://www.youtube.com/watch?v=U_U3-RYLYlg" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="50%"}</a>
+<a href="https://www.youtube.com/watch?v=U_U3-RYLYlg" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="40%"}</a>
 
 We can have text aligned to the baseline whether it's left-aligned or left-justified. You **do not** need to align titles or any other text to the baseline grid.
 
@@ -67,4 +67,4 @@ We can have text aligned to the baseline whether it's left-aligned or left-justi
 
 You'll need to sketch page layouts. I usually print pages with a grid on them to guide me in my sketching. It also helps that the proportions are the same as my final printed piece.
 
-<a href="https://youtu.be/TIw4ZRjnt64" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="50%"}</a>
+<a href="https://youtu.be/TIw4ZRjnt64" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="40%"}</a>

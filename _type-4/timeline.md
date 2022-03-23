@@ -7,15 +7,19 @@ title: Welcome to Type 4
 
 <ul class="hasBullets">
 	<li>Project: <a href="/type-4/save-the-date/index.html" title="Save the Date">Save the Date</a></li>
-	<li>Presentation:</li>
-	<li class="second"></li>
-	<li class="second"></li>
-	<li class="second"></li>
+	<li>Presentation: Present the project</li>
+	<li class="second">Present invitation content</li>
+	<li class="second">Production specifications</li>
+	<li class="second">Minimalist design</li>
 	<li>Learning Activity: </li>
-	<li>Due Next: </li>
+	<li>Due Next: Your concept</li>
 </ul>
 
 ### Week 2
+
+<ul class="hasBullets">
+	<li>Due before class: Your concept</li>
+</ul>
 
 <ul class="hasBullets">
 	<li>Project: <a href="/type-4/save-the-date/index.html" title="Save the Date">Save the Date</a></li>
@@ -28,6 +32,10 @@ title: Welcome to Type 4
 </ul>
 
 ### Week 3
+
+<ul class="hasBullets">
+	<li>Due before class: Save the Date</li>
+</ul>
 
 <ul class="hasBullets">
 	<li>Project: <a href="/type-4/save-the-date/index.html" title="Save the Date">Save the Date</a></li>
@@ -100,10 +108,14 @@ title: Welcome to Type 4
 	<li class="second">Pantone colours: Edit colours in Illustrator</li>
 	<li class="second"></li>
 	<li>Learning Activity: </li>
-	<li>Due Next: </li>
+	<li>Due Next: Wordmark</li>
 </ul>
 
 ### Week 10
+
+<ul class="hasBullets">
+	<li>Due before class: Wordmark</li>
+</ul>
 
 <ul class="hasBullets">
 	<li>Project: <a href="/type-4/wordmark/index.html" title="Wordmark">Wordmark</a></li>

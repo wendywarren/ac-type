@@ -144,6 +144,8 @@
   videos:
     - video_title: "Prepare vector art for production"
       video_url: "https://youtu.be/XI_Zp5MAemU"
+    - video_title: "Find Pantone spot colours from CMYK colour."
+      video_url: "https://youtu.be/OZEC4FIfCyE"
   resource-links: |
     - 
   # Subpages
@@ -178,54 +180,48 @@
   value: "25%"
   serial: "level-4-assignment-4-comparative-analysis-home"
   url: type-4/comparative-analysis/index.html
-  deck: "You will design a booklet with a competitive analysis of two similar typefaces."
+  deck: "You will design a slide deck with a competitive analysis of two similar typefaces."
   download:
   pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
-    - outcome: "Design and construct a modular grid for a multi-page publication."
     - outcome: "Devise type hierarchy for a multi-page publication."
     - outcome: "Learn some pretty pro type facts so you can school your designer friends."
     - outcome: "Recognize the features of a typeface which determine its classification category."
     - outcome: "Research and organize historical typographic information."
     - outcome: "Select, then apply context-appropriate colours along with their tints and shades to create a colour theme."
-    - outcome: "Design functional and decorative page elements like folios, shapes, colours and more."
-    - outcome: "Build running headers, and automatic page numbering in a page layout application."
     - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
     - outcome: "Select a typeface for good legibility in a long document."
     - outcome: "Set type size, leading and spacing for a long document."
     - outcome: "Use the appropriate software tools and techniques to build the page."
     - outcome: "Organize files and folders for submission according to provided instructions."
-    - outcome: "Produce print-ready files."
   brightspace:
+    - bs_link_title: "Comparative Analysis Feedback"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=406629&grpid=0&isprv=0&bp=0&ou=411212"
     - bs_link_title: "Comparative Analysis"
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390792&grpid=0&isprv=0&bp=0&ou=411212"
   videos:
-    - video_title: "Some YouTube Video"
-      video_url: "https://youtu.be/"
+    - video_title: "Set PDF initial view"
+      video_url: "https://youtu.be/mENjHQ4KHG8"
   resource-links: |
     - 
   # Subpages
   pages:
-#   - title: "Type Pairs"
-#     serial: "level-4-assignment-4-comparative-analysis-subpage-type-pairs"
-#     url: type-4/comparative-analysis/type-pairs.html
-#     deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-#   - title: "Comparative Considerations"
-#     serial: "level-4-assignment-4-comparative-analysis-subpage-considerations"
-#     url: type-4/comparative-analysis/considerations.html
-#     deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-#   - title: "The Booklet"
-#     serial: "level-4-assignment-4-comparative-analysis-subpage-the-booklet"
-#     url: type-4/comparative-analysis/the-booklet.html
-#     deck: "This is the deck for the Comparative Analysis assignment in Type 4."
-#   - title: "Deliverables"
-#     serial: "level-4-assignment-4-comparative-analysis-subpage-deliverables"
-#     url: type-4/comparative-analysis/deliverables.html
-#     deck: "Gather all your stuff. It's time to send your assignment home."
-#     brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-#     criteria:
-#       - criterium: "This is the first criterium."
-#       - criterium: "You've submitted files as directed, ready for print."
+    - title: "Type Pairs"
+      serial: "level-4-assignment-4-comparative-analysis-subpage-type-pairs"
+      url: type-4/comparative-analysis/type-pairs.html
+      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+    - title: "Comparative Considerations"
+      serial: "level-4-assignment-4-comparative-analysis-subpage-considerations"
+      url: type-4/comparative-analysis/considerations.html
+      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+    - title: "Deliverables"
+      serial: "level-4-assignment-4-comparative-analysis-subpage-deliverables"
+      url: type-4/comparative-analysis/deliverables.html
+      deck: "Gather all your stuff. It's time to send your assignment home."
+      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+      criteria:
+        - criterium: "This is the first criterium."
+        - criterium: "You've submitted files as directed, ready for print."
 
 # [4] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Baseline Grids"

@@ -37,6 +37,7 @@ Create a single-page letter-sized bio in InDesign. The layout should be inspired
 	<li>Hoefler, Jonathan</li>
 	<li>Jenkins, Chester</li>
 	<li>Koch, Rudolf</li>
+	<li>Larabie, Ray</li>
 	<li>Licko, Zuzana</li>
 	<li>Lubalin, Herb</li>
 	<li>Miedinger, Max</li>
