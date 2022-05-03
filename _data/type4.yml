@@ -216,13 +216,13 @@
   # Subpages
   pages:
     - title: "Type Pairs"
-      serial: "level-4-assignment-4-comparative-analysis-subpage-type-pairs"
+      serial: "level-4-assignment-3-comparative-analysis-subpage-type-pairs"
       url: type-4/comparative-analysis/type-pairs.html
-      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+      deck: "These are the pairs of type families you've been given, on which you will base your analysis."
     - title: "Comparative Considerations"
       serial: "level-4-assignment-4-comparative-analysis-subpage-considerations"
       url: type-4/comparative-analysis/considerations.html
-      deck: "This is the deck for the Comparative Analysis assignment in Type 4."
+      deck: "Analyse the similarities and differences in two type families, comparing their places in historical context all the way down to minute details in letter-forms."
     - title: "Deliverables"
       serial: "level-4-assignment-4-comparative-analysis-subpage-deliverables"
       url: type-4/comparative-analysis/deliverables.html
