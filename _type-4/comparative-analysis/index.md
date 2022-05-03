@@ -6,9 +6,9 @@ This project is an analytical comparison of two type families which may appear t
 
 There is no limit to the number of slides in your presentation. What's more important is to include all the required elements of the comparison.
 
-Create it in InDesign so you have superior typographic control. These are the settings to use in your document.
+> No bullet lists are permitted in your layouts. Please find a more creative solution for laying out your content.
 
-> Each one of these settings is important!
+Create it in InDesign so you have superior typographic control. These are the settings to use in your document.
 
 | New Document    |               |
 |-----------------|---------------|

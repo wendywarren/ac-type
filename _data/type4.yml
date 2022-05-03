@@ -12,14 +12,17 @@
     - outcome: "Create hierarchy in a simple, single-page layout."
     - outcome: "Make a reasoned font pairing which suits a given context."
     - outcome: "Use typography, layout and colour to create an audience-appropriate design."
-    - outcome: "Implement learned type rules relating to italicization, quote marks, etc..."
+    - outcome: "Implement learned <a href=\"https://practicaltypography.com\" target=\"_blank\">type rules</a> relating to italicization, quote marks, etc..."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
     - bs_link_title: "Save The Date Concept"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=395227&grpid=0&isprv=0&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414022&grpid=0&isprv=0&bp=0&ou=448664"
     - bs_link_title: "Save the Date Final"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390790&grpid=0&isprv=0&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414028&grpid=0&isprv=0&bp=0&ou=448664"
+  videos:
+    - video_title: "Point Type Vs Area Type in Illustrator"
+      video_url: "https://youtu.be/g_7ytLhVQMo"
   resource-links: |
     - https://discover.typography.com/theme/save-the-date/
   # Subpages
@@ -60,11 +63,11 @@
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
     - bs_link_title: "Menu Concept"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=396417&grpid=0&isprv=0&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414023&grpid=0&isprv=0&bp=0&ou=448664"
     - bs_link_title: "Menu Feedback"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=396418&grpid=0&isprv=0&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414027&grpid=0&isprv=0&bp=0&ou=448664"
     - bs_link_title: "Menu"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390791&grpid=0&isprv=0&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414029&grpid=0&isprv=0&bp=0&ou=448664"
   videos:
     - video_title: "Remove Extraneous Paragraph Breaks in InDesign"
       video_url: "https://youtu.be/8-H7N1PzNb0"
@@ -136,11 +139,11 @@
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
     - bs_link_title: "Conceptual Wordmark"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=403346&grpid=0&isprv=&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414024&grpid=0&isprv=0&bp=0&ou=448664"
     - bs_link_title: "Wordmark Sketches"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=396419&grpid=0&isprv=&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414031&grpid=0&isprv=0&bp=0&ou=448664"
     - bs_link_title: "Final Wordmark"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=393815&grpid=0&isprv=&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414032&grpid=0&isprv=0&bp=0&ou=448664"
   videos:
     - video_title: "Prepare vector art for production"
       video_url: "https://youtu.be/XI_Zp5MAemU"
@@ -166,6 +169,10 @@
       serial: "level-4-assignment-3-wordmark-subpage-4-technical-requirements"
       url: type-4/wordmark/technical-requirements.html
       deck: "The wordmark needs to maintain its appearance and reproduce reliably."
+    - title: "Peer Evaluation"
+      serial: "level-4-assignment-3-wordmark-subpage-5-peer-evaluation"
+      url: type-4/wordmark/peer-evaluation.html
+      deck: "Please evaluate the three students who are listed next to your name in the tables below."
     - title: "Deliverables"
       serial: "level-4-assignment-3-subpage-deliverables"
       url: type-4/wordmark/deliverables.html
@@ -195,10 +202,12 @@
     - outcome: "Use the appropriate software tools and techniques to build the page."
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
+    - bs_link_title: "Flat Plan"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414025&grpid=0&isprv=0&bp=0&ou=448664"
     - bs_link_title: "Comparative Analysis Feedback"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=406629&grpid=0&isprv=0&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414026&grpid=0&isprv=0&bp=0&ou=448664"
     - bs_link_title: "Comparative Analysis"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=390792&grpid=0&isprv=0&bp=0&ou=411212"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414030&grpid=0&isprv=0&bp=0&ou=448664"
   videos:
     - video_title: "Set PDF initial view"
       video_url: "https://youtu.be/mENjHQ4KHG8"

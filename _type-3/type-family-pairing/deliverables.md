@@ -43,6 +43,6 @@ When you package your InDesign document with <span class="command">File > Packag
 
 Make sure your InDesign file is in good shape, save, then package it, including a PDF file.
 
-![InDesign Submission Folder]({{site.url}}/svg/submission-folder-indd.svg){:width="50%"}
+![InDesign Submission Folder]({{site.url}}/svg/submission-indesign-package.svg){:width="50%"}
 
 <a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379291&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

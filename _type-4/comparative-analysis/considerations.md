@@ -5,6 +5,10 @@ serial: level-4-assignment-4-comparative-analysis-subpage-considerations
 
 [Please see this page](/kb/anatomy-of-type.html) as a refresher on the anatomy of type so you use the correct terminology in your presentation.
 
+### Your Text
+
+Please do not copy-paste text from the Web, or any other source into your presentation. Compile all the information about your typefaces in a text editor. Organize and consolidate the content. Read everything to internalize the knowledge. In your presentation, write what you know **in your words**. Doing otherwise will be considered plagiarism.
+
 ### Historical Comparison
 
 <ul class="hasBullets">
@@ -22,6 +26,10 @@ serial: level-4-assignment-4-comparative-analysis-subpage-considerations
 	<li>Do the families include ornaments?</li>
 	<li>Are there multiple writing systems? Cyrillic, Greek, etc…</li>
 </ul>
+
+### Fonts in Use
+
+It's a good idea to include graphics of your two type families in use. They can be logos, advertisements, web pages, etc…
 
 ### General Shape
 

@@ -14,7 +14,7 @@ We must still have something with good readability. A tall x-height is good. A b
 
 #### Your Sans-Serif
 
-Here you want something with some real punch—likely [a grotesque](/kb/classification-categories.html#sans-serif). It should really have impact. Also, choose a large family so you have options when designing titles.
+Here you want something with some real punch—likely [a grotesque](/kb/grotesque-type.html). It should really have impact. Also, choose a large family so you have options when designing titles.
 
 ### Hierarchy
 

@@ -21,3 +21,4 @@ These are good to learn so you can better communicate with other designers.
 <img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/kb/anatomy-of-type/13.svg">
 <img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/kb/anatomy-of-type/14.svg">
 <img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/kb/anatomy-of-type/15.svg">
+<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/kb/anatomy-of-type/16.svg">

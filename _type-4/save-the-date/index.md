@@ -17,7 +17,7 @@ Champagne Brunch - <a href="https://www.dropbox.com/s/epqdnko278iynel/save-the-d
 Cocktail Party - <a href="https://www.dropbox.com/s/ll3t2q2ik2y2912/save-the-date-cocktail-party.zip?dl=1" title="Download the files" target="_blank">Download the files</a>
 : This promises to be an intimate, private cocktail party in Ottawa's Westborough neighbourhood. If you're fortunate enough to be invited, you may rub elbows with famed authors and stars of Canada's publishing community.
 
-Housewarming Party - <a href="https://www.dropbox.com/s/5iwag8smmwhsomu/save-the-date-housewarming-party.zip?dl=1" title="Download the files" target="_blank">Download the files</a>
+Housewarming Party - <a href="https://www.dropbox.com/s/5iwag8smmwhsomu/save-the-date-housewarming-party.zip?dl=0" title="Download the files" target="_blank">Download the files</a>
 : Jeff & Candace are a naturally likeable couple. They always enjoy the journey ahead of the destination. They are the hub of their social circle who just moved into a converted loft apartment with lots of exposed brick and ultra-high ceilings. The Smiths vinyl will be spinning. Cocktails will be flowing.
 
 Wedding Invitation - <a href="https://www.dropbox.com/s/qi0mhci7k9n969b/save-the-date-wedding-invitation.zip?dl=1" title="Download the files" target="_blank">Download the files</a>

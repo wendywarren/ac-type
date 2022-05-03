@@ -201,10 +201,18 @@
       video_title: "Page Layout Sketching Template"
     - video_url: "https://youtu.be/UZWwpWKfgZs"
       video_title: "Build a Better Text Frame"
-    - video_url: "https://youtu.be/kL9yGfVE0qM"
-      video_title: "Insert a story ender graphic in InDesign"
     - video_url: "https://www.youtube.com/watch?v=uZmqolqoTzE"
       video_title: "Baseline Grid Increment"
+    - video_url: "https://youtu.be/o0aubQ4T2_Y"
+      video_title: "Remove all double paragraph breaks and double spaces from your text"
+    - video_url: "https://www.youtube.com/watch?v=TUBfSw84wt8"
+      video_title: "Automatic page numbers on Parent Pages"
+    - video_url: "https://youtu.be/4Npyv18YZag"
+      video_title: "Create a parent paragraph style on which to base the other styles"
+    - video_url: "https://www.youtube.com/watch?v=AKPclQr00ro"
+      video_title: "Create a drop cap on your chapter opening page."
+    - video_url: "https://youtu.be/kL9yGfVE0qM"
+      video_title: "Insert a story ender graphic in InDesign"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages

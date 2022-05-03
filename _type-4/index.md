@@ -7,7 +7,11 @@ title: Welcome to Type 4
 
 Proficient typesetting allows a designer to compose and structure complex passages of content that are visually appealing in order to allow the information to be easily followed. Students combine text and imagery to craft professional layouts and informational documents.
 
-### Course Logistics
+#### Course Focus
+
+This semester is a continuation of your Fall semester, focusing on increasing typographical finesse. We want to improve our recognition of fine typographical detail. We'll begin with simple informal grids and grow from there. We'll end the semester having built more complex modular grids for a publication. Type selection and pairing is also consume a significant part of our attention.
+
+#### Course Logistics
 
 You can navigate all the semester's assignments to explore what you'll be learning. All course content is on this site. It includes theory, lesson instructions, examples and file downloads.
 
@@ -31,6 +35,10 @@ You can navigate all the semester's assignments to explore what you'll be learni
 	</tbody>
 </table>
 
+#### Remember Type 1 and 2 Rules?
+
+In your first and second semesters of Typography, you learned the fundamentals. These reles need to be adhered to for this semester. If you need to be reminded, [Butterick's Practical Typography](https://practicaltypography.com){:target="_blank"} web site is a good reference.
+
 #### Milestones
 
 The major projects will have milestones. This means that you'll have to submit files part-way through the design process. These submissions will be graded. This is done because design is a process, not only the final product.
@@ -52,7 +60,3 @@ You'll usually be packaging an InDesign document to submit your files. You'll ne
 #### Adobe Fonts Only
 
 Unless stated otherwise, we'll use only [Adobe Fonts](https://fonts.adobe.com) for the whole semester. It's just easier for everyone. They have a sufficient selection for us to work with.
-
-#### Course Focus
-
-This semester is a continuation of your Fall semester, focusing on increasing typographical finesse. We want to improve our recognition of fine typographical detail. We'll begin with simple informal grids and grow from there. We'll end the semester having built more complex modular grids for a publication. Type selection and pairing is also consume a significant part of our attention.

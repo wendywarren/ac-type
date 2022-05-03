@@ -4,8 +4,10 @@ serial: level-3-assignment-3-home
 Typefaces for Fiction Novels:
   - Baskerville
   - Calluna
+  - Cardo
   - Caslon
   - Chaparral
+  - Dashiell Text
   - Essonnes
   - Expo Serif
   - Filosofia
@@ -23,6 +25,7 @@ Typefaces for Fiction Novels:
   - Sabon
   - MVB Sirenne
   - Utopia
+  - Vendetta
   - Verdigris Pro
   - Warnock
 ---

@@ -31,6 +31,10 @@ You can navigate all the semester's assignments to explore what you'll be learni
 	</tbody>
 </table>
 
+#### Remember Type 1 and 2 Rules?
+
+In your first and second semesters of Typography, you learned the fundamentals. These reles need to be adhered to for this semester. If you need to be reminded, [Butterick's Practical Typography](https://practicaltypography.com){:target="_blank"} web site is a good reference.
+
 #### Classes
 
 Each class will start with three activities. Each of you will present a <a href="{{site.baseurl}}/type-3/type-family-pairing/index.html" title="Type family pairing">type family pairing</a> and a <a href="{{site.baseurl}}/type-3/typographer-of-the-week/index.html" title="Typographer of the week">typographer of the week</a>. These are short presentations accompanied by the submission of a single-page explainer.
