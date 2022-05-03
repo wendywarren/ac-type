@@ -6,25 +6,25 @@ serial: level-4-assignment-3-wordmark-subpage-2-your-clients
 {: .blue}
 
 About Us:
-: We're firing up our business for the summer of 2022. Our team of professional, accredited chefs are going to bring their skills to your grills. Our locally-sourced ingredients, our gourmet recipes and our innovative event design will create memorable, elegant and flawlessly executed experiences in your back yard. Whether you're planning an intimate evening with your closest friends or a rousing back yard bash for a large group, we'll be there to design an experience of a lifetime.
+: We're firing up our business for the summer of 2022. Our team of professional, accredited chefs are going to bring their skills to your grills. Our locally-sourced ingredients, our gourmet recipes and our innovative event design will create memorable, entertaining and flawlessly executed experiences in your back yard. Whether you're planning an intimate evening with your closest friends or a rousing back yard bash for a large group, we'll be there to design an entertainment experience of a lifetime.
 
 Descriptors:
-: gourmet, theatrical, bespoke, mouthwatering
+: fun, entertaining, gourmet, theatrical, bespoke, mouthwatering
 
 Reason:
 : We are a new company with no previous branding.
 
 Unique value proposition:
-: Our animated, innovative chefs, and their recipes are unique in themselves. Also, a *right in your backyard* experience like this isn't offered anywhere else. We are experts at setting a mood. We can do everything, to the smallest detail, like providing the perfect music playlist. Either that, or we can be seen and never heard, withdrawing to our grills with efficient silence.
+: Our animated, innovative chefs, and their recipes are unique in themselves. Also, a *right in your backyard* experience like this isn't offered anywhere else. We are experts at setting a mood. We can do everything, to the smallest detail, like providing the perfect music playlist.
 
 How do you want to be perceived?
-: We want to be the folks who fashion backyard memories. There should be tales of delicious food and drink, served with a tone befitting the occasion. Service to our clientele should go above and beyond.
+: We want to be the folks who fashion backyard memories. There should be tales of delicious food and drink, served in a theatrical setting. Service to our clientele should go above and beyond.
 
-### Dollar King
+### Dollar Fresh
 {: .blue}
 
 About Us:
-: At Dollar King, we stock the very best items you can buy for a buck or two. Our 459 retail locations are as clean as organized as any Target store. We carry endless inventory from beauty supplies to kitchen items to hardware goods.
+: At Dollar Fresh, we stock the very best items you can buy for a buck or two. Our 459 retail locations are as clean as organized as any Target store. We carry endless inventory from beauty supplies to kitchen items to hardware goods.
 
 Descriptors:
 : modern, organized, value focused, efficient
@@ -38,7 +38,8 @@ Unique value proposition:
 How do you want to be perceived?
 : No matter what it is, you'll find it quickly from our vast, value-oriented, well organized inventory in our well-lit, welcoming stores. Shopping in our numerous stores is effortless.
 
-### Elm Hill Kids
+
+### Bijou Luxe Clothing Co.
 {: .blue}
 
 About Us:
@@ -80,53 +81,9 @@ How do you want to be perceived?
 
 | Last Name           | First Name    | Client Name          | 
 |---------------------|---------------|----------------------| 
-| Adair               | Brittany      | Dollar King          | 
-| Aly                 | Aska          | Dollar King          | 
-| Anya Mengue         | Pierre        | Elm Hill Kids        | 
-| Bain                | Michael       | Avilion Resort & Spa | 
-| Boucher             | Julie         | Elm Hill Kids        | 
-| Bourquin            | Remy          | Sticky Fingers       | 
-| Buzzell             | Brianne       | Elm Hill Kids        | 
-| Calderon Chilquillo | Pamela        | Avilion Resort & Spa | 
-| Ching               | Sophia        | Avilion Resort & Spa | 
-| Ciliberto           | Chris         | Elm Hill Kids        | 
-| Cui                 | Zhikai        | Elm Hill Kids        | 
-| Dasilva             | Samantha      | Avilion Resort & Spa | 
-| Decarle             | Anna          | Sticky Fingers       | 
-| Demir               | Jodi          | Avilion Resort & Spa | 
-| Devolin             | Jordyn        | Sticky Fingers       | 
-| Drew                | Holly         | Elm Hill Kids        | 
-| Hadzimustafic       | Ema           | Sticky Fingers       | 
-| Hanselman           | Adrianna      | Dollar King          | 
-| Hardy               | Danielle      | Avilion Resort & Spa | 
-| Ikhlas              | Ayesha        | Avilion Resort & Spa | 
-| Johnstone           | Stacey        | Avilion Resort & Spa | 
-| Jolo                | Mary Arnie    | Dollar King          | 
-| Jones               | Hunter        | Dollar King          | 
-| Lipinska            | Gabriela      | Avilion Resort & Spa | 
-| Lu                  | Sophie        | Dollar King          | 
-| Ly                  | Minh Tu       | Dollar King          | 
-| McGregor            | Morgan        | Sticky Fingers       | 
-| Mclellan            | Gillian       | Dollar King          | 
-| Mcnair              | Arthur Connor | Dollar King          | 
-| Mendoza Garza       | Karen         | Dollar King          | 
-| Myshrall            | Shaylyn       | Elm Hill Kids        | 
-| Netchaev            | Alexei        | Dollar King          | 
-| Nguyen              | Huu Tri       | Elm Hill Kids        | 
-| Phan                | Andrea        | Elm Hill Kids        | 
-| Porovoznyk          | Marta         | Sticky Fingers       | 
-| Reitenbach          | Kieffer       | Sticky Fingers       | 
-| Ren                 | Xiaoyu        | Avilion Resort & Spa | 
-| Rodrigues Sales     | Isabela Maria | Dollar King          | 
-| Saunders            | Becca         | Avilion Resort & Spa | 
-| Schultz             | Maya          | Sticky Fingers       | 
-| Sweet               | Jennifer      | Elm Hill Kids        | 
-| Tighe               | Bridget       | Dollar King          | 
-| Tonkykh             | Darya         | Elm Hill Kids        | 
-| Vanberkel           | Melody        | Avilion Resort & Spa | 
-| Wascher             | Calista       | Avilion Resort & Spa | 
-| Wehrstedt           | Caj           | Dollar King          | 
-| Wong                | Alwin         | Elm Hill Kids        | 
-| Zhao                | Lenka         | Elm Hill Kids        | 
+| Last Name           | First Name    | Dollar Fresh         | 
+| Last Name           | First Name    | Bijou Luxe           | 
+| Last Name           | First Name    | Avilion Resort & Spa | 
+| Last Name           | First Name    | Sticky Fingers       | 
 
 <div class="text-right" style="margin-top: 3rem;">&#8613; <a href="#top">Top</a></div>
