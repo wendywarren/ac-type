@@ -2,7 +2,7 @@
 layout: type4
 serial: level-4-assignment-2-menu-subpage-the-type
 ---
-For this project, there are no specific limits on the use of type except for your judgement of what's appropriate for the client. You should be applying the rules you've learned to date. Of course, you must only be choosing from [Adobe Type](https://fonts.adobe.com){:target="_blank"}
+For this project, there are no specific limits on the use of type except for your judgement of what's appropriate for the client. You should be applying the rules you've learned to date. Of course, you must only be choosing from [Adobe Type](https://fonts.adobe.com){:target="_blank"}.
 
 ### Display Typefaces
 
@@ -28,7 +28,6 @@ The *minimum* elements of your menu design will include
 	<li class="second">item modifiers</li>
 	<li class="second">ingredient statements (vegan, nuts, etc…)</li>
 	<li class="second">call-outs for specials</li>
-	<li>Back</li>
 	<li class="second">contact information</li>
 	<li class="second">social media links</li>
 	<li class="second"><a href="https://svgqrcodes.com/?lang=en" title="QR Code Generator" target="_blank">QR code</a> to restaurant web site</li>

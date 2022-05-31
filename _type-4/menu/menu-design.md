@@ -26,7 +26,7 @@ We also want to ensure accessibility. Clients may come to the table with challen
 
 This is a thing. You can choose a wine or a beer to pair with one of your high-margin items. You can also suggest soups and salads with an appropriate meal pairing.
 
-You can also include modifiers as an up-sell. *Add chicken for $4.*
+You can also emphasize modifiers as an up-sell. *Add chicken for $4.*
 
 #### Popular and Profitable
 
@@ -44,7 +44,9 @@ Puzzlers
 : Highly profitable but not very popular. While not very popular, you’ll want to keep these profitable dishes and find ways to highlight them and turn them into stars. Once again, smart placement can help.
 
 Dogs
-: Not very popular or profitable. You may want to ‘86 these menu items. If certain dishes appeal to a specific customer segment, consider keeping them but limit their promotion.
+: Not very popular or profitable. You may want to 86 these menu items. If certain dishes appeal to a specific customer segment, consider keeping them but limit their promotion.
+
+### Typesetting Menu Items
 
 Depending on the style of your chosen restaurant and the cost of it's food items, you may wish to consider removing dollar signs ($). The repetition of this symbol seems to emphasize the cost of the meal. If items aren't that expensive, it's not really an issue.
 
