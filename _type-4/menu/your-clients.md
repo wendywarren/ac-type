@@ -8,7 +8,7 @@ Take the time to read the menu text content to see which is more appealing to yo
 
 ### Butcher's Daughter
 
-[Download the Text](https://www.dropbox.com/s/f7y3i6e7tcxxob4/menu-butcher%27s-daughter.txt.zip?dl=1)
+[Download the Text](https://www.dropbox.com/s/kzju6tb5f50h4oa/menu-butchers-daughter-2022-05.txt.zip?dl=1)
 
 [Web Site](https://www.thebutchersdaughter.com/brooklyn/){:target="_blank"}—The Butcher’s Daughter is a plant-based restaurant, café, juice bar and *vegetable slaughterhouse* where fruits and vegetables are treated as a butcher would meat. The kitchen chops and carves fresh produce into healthy vegetarian dishes and presses them into pretty juices. The daily-changing menu is 100% vegetarian, and mostly vegan and gluten-free.
 
@@ -16,19 +16,19 @@ It's your all-day vegetarian, juice and wine bar. The white-washed, sun filled s
 
 ### Mexican Sugar Cocina
 
-[Download the Text](https://www.dropbox.com/s/s4xyvvswtcwjjqx/menu-mexican-sugar-cocina.txt.zip?dl=1)
+[Download the Text](https://www.dropbox.com/s/rom6kc5ed8bf6h9/menu-mexican-sugar-cocina-2022-05.txt.zip?dl=1)
 
 [Web Site](https://www.mexicansugarcocina.com){:target="_blank"}—Sultry Latin Cuisine. A smart, stylish hacienda design meets the definitive southwest Tequila Library. We have redefined Latin dishes with bold flavor; created with locally sourced fresh ingredients. Discover unique small batch hand-crafted cocktails and the intoxicating combination of local ingredients that are fresh and authentically Latin, a live wood grill and sultry Latin rhythms for the perfect Mexican comfort experience.
 
 ### Curio
 
-[Download the Text](https://www.dropbox.com/s/vzlugezf9y5qcje/menu-curio.txt.zip?dl=1)
+[Download the Text](https://www.dropbox.com/s/wzzgicblq16df9l/menu-curio-2022-05.txt.zip?dl=1)
 
 [Web Site](https://www.curiobarsf.com){:target="_blank"}—A *curio* is an unusual, rare, or intriguing object. Located in the heart of San Francisco’s Mission District, Curio is at the center of the community, reflecting the free-spirited, artistic culture that defines this neighbourhood. From the design to the drinks and food, there is a unconventional style that reflects the vibe of the people who make up the bohemian community. Drawing inspiration from The Chapel’s past life as a mortuary, we explore the mystical, curious elements of life and time. Art installations include a multiplicity of clocks, victorian dioramas, vintage light fixtures, figurative paintings, and electric neon signs, creating an eclectic and mystical vibe throughout the variety of spaces.
 
 ### Leadbelly's
 
-[Download the Text](https://www.dropbox.com/s/5phyufqw4jftmx6/menu-leadbellys.txt.zip?dl=1)
+[Download the Text](https://www.dropbox.com/s/y4goba7kzgz0xf0/menu-leadbellys-2022-05.txt.zip?dl=1)
 
 [Web Site](https://www.leadbellysbar.co.uk){:target="_blank"}—Leadbelly’s brings a contemporary bar and dining space to the Canada Water area of south-east London—perfect for relaxed eating and drinking. All their food is fresh, with a focus on well-sourced ingredients; from brunch to lunch, to bar bites and Sunday roasts.
 
