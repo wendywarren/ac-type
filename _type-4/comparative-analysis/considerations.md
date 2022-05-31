@@ -6,6 +6,8 @@ serial: level-4-assignment-4-comparative-analysis-subpage-considerations
 
 Start with the broadest view, then work towards the specifics. What's below is minimum suggested content. Depending on your two families, there may be more elements to compare.
 
+You will **not** compare all the instances in the families. Choose the regular weight in each family to compare. You can also compare how they italicize.
+
 #### Broadest View
 
 <ul class="hasBullets">
@@ -24,6 +26,10 @@ Start with the broadest view, then work towards the specifics. What's below is m
 	<li>Are there multiple writing systems? Cyrillic, Greek, etc…</li>
 </ul>
 
+You can include a type waterfall if it's appropriate to your presentation. In the case of very large families, like *Acumin* displayed below, it can really showcase the enormous size of the family.
+
+![Type Waterfall]({{site.url}}/svg/comparative-analysis/type-waterfall.svg){:width="50%"}
+
 #### General Glyph Comparison
 
 These items are a minimum suggested elements to compare. Your families may have other elements to compare depending on their designs. These characters inform the proportions for the whole family.
@@ -35,6 +41,8 @@ These items are a minimum suggested elements to compare. Your families may have 
 	<li>cap height</li>
 	<li>stroke contrast</li>
 	<li>serifs or terminals</li>
+	<li>ascenders and descenders</li>
+	<li>more…</li>
 </ul>
 
 Note that the size of the ascenders and descenders is usually fixed across the family. It's what's *inside* this space that varies. The cap height, the x-height and the distance from the descender to the baseline all vary.
@@ -65,9 +73,9 @@ How do the terminals compare? Are they bracketed serifs? Angled sans-serif termi
 
 #### Stroke Contrast
 
-![Stroke contrast]({{site.url}}/svg/comparative-analysis/stroke-contrast.svg){:width="90%"}
-
 How does the thinnest part of a glyph compare to the thickest? How quickly does the thick-thin transition happen?
+
+![Stroke contrast]({{site.url}}/svg/comparative-analysis/stroke-contrast.svg){:width="90%"}
 
 #### Counters
 
