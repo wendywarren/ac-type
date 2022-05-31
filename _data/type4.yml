@@ -117,10 +117,6 @@
        serial: "level-4-assignment-2-menu-subpage-the-type"
        url: type-4/menu/the-type.html
        deck: "You'll have more freedom with type here. With more freedom comes more responsibility."
-     - title: "The Critique"
-       serial: "level-4-assignment-2-menu-subpage-the-critique"
-       url: type-4/menu/the-critique.html
-       deck: "<i>Critique</i> seems to cary such negative connotations. The goal of this type of design review is to improve the product, so that's what we'll do today."
      - title: "Deliverables"
        serial: "level-4-assignment-2-menu-subpage-deliverables"
        url: type-4/menu/deliverables.html
