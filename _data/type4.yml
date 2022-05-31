@@ -23,14 +23,20 @@
   videos:
     - video_title: "Point Type Vs Area Type in Illustrator"
       video_url: "https://youtu.be/g_7ytLhVQMo"
+    - video_title: "Create a die line with a bleed in Illustrator"
+      video_url: "https://youtu.be/hlAoyw1esTc"
   resource-links: |
     - https://discover.typography.com/theme/save-the-date/
   # Subpages
   pages:
+    - title: "Informal Grids"
+      serial: "level-4-assignment-1-save-the-date-subpage-informal-grids"
+      url: type-4/save-the-date/informal-grids.html
+      deck: "This is a review of informal grids and how to use them."
     - title: "The Process"
-      serial: "level-4-assignment-1-save-the-date-subpage-the-process"
-      url: type-4/save-the-date/the-process.html
-      deck: "Make sure to read through all the technical guidelines on this page."
+      serial: "level-4-assignment-1-save-the-date-subpage-your-concept"
+      url: type-4/save-the-date/your-concept.html
+      deck: "You'll learn about informal grids to design your invitation."
     - title: "Deliverables"
       serial: "level-4-assignment-1-subpage-deliverables"
       url: type-4/save-the-date/deliverables.html
@@ -70,17 +76,17 @@
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414029&grpid=0&isprv=0&bp=0&ou=448664"
   videos:
     - video_title: "Remove Extraneous Paragraph Breaks in InDesign"
-      video_url: "https://youtu.be/8-H7N1PzNb0"
+      video_url: "https://youtu.be/4P-xnLSqgkY"
     - video_title: "Remove Characters with Find/Change in InDesign"
-      video_url: "https://youtu.be/zfGdbwKosEA"
+      video_url: "https://youtu.be/awYqZbvBgSk"
     - video_title: "Style Prices with GREP in InDesign"
-      video_url: "https://youtu.be/DrCJM-lSXT4"
+      video_url: "https://youtu.be/goesgoTfwaY"
     - video_title: "Apply Paragraph Styles with GREP in InDesign"
-      video_url: "https://youtu.be/Pt8MocyNyOc"
+      video_url: "https://youtu.be/5m01pkpeD_U"
     - video_title: "Create & Style Tab Leaders"
-      video_url: "https://youtu.be/khYu_X1s0gw"
-    - video_url: "https://youtu.be/n-6dahnPJ-g"
-      video_title: "InDesign Anchored Objects"
+      video_url: "https://youtu.be/nlNowspux84"
+    - video_title: "InDesign Anchored Objects"
+      video_url: "https://youtu.be/fs693XlZo7g"
   resource-links: |
     - https://www.underconsideration.com/artofthemenu/
     - https://www.touchbistro.com/blog/51-examples-of-excellent-restaurant-menu-design/
@@ -91,6 +97,10 @@
     - https://www.leadbellysbar.co.uk
   # Subpages
   pages:
+     - title: "Stages of the Project"
+       serial: "level-4-assignment-2-menu-subpage-stages"
+       url: type-4/menu/stages.html
+       deck: "These are the stages of the project to develop a successful menu."
      - title: "Guidelines"
        serial: "level-4-assignment-2-menu-subpage-guidelines"
        url: type-4/menu/guidelines.html
@@ -146,7 +156,7 @@
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414032&grpid=0&isprv=0&bp=0&ou=448664"
   videos:
     - video_title: "Prepare vector art for production"
-      video_url: "https://youtu.be/XI_Zp5MAemU"
+      video_url: "https://youtu.be/A2hk0SI8mjM"
     - video_title: "Find Pantone spot colours from CMYK colour."
       video_url: "https://youtu.be/OZEC4FIfCyE"
   resource-links: |
@@ -210,7 +220,7 @@
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414030&grpid=0&isprv=0&bp=0&ou=448664"
   videos:
     - video_title: "Set PDF initial view"
-      video_url: "https://youtu.be/mENjHQ4KHG8"
+      video_url: "https://youtu.be/1BACQDQOzTc"
   resource-links: |
     - 
   # Subpages

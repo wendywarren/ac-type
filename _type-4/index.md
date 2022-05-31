@@ -15,6 +15,12 @@ This semester is a continuation of your Fall semester, focusing on increasing ty
 
 You can navigate all the semester's assignments to explore what you'll be learning. All course content is on this site. It includes theory, lesson instructions, examples and file downloads.
 
+This is an in-person, on-campus course. It is imperative that you attend all classes. If, for some vital reason, you cannot attend a class, it is your responsibility to catch up with the help of a classmate.
+
+If there is a deadline that you cannot adhere to for some critical reason, you must tell me in person or <a href="mailto:paradia@algonquincollege.com" title="Contact Alain Paradis">via e-mail</a> so we can make alternate arrangements.
+
+My goal is your success, but you need to keep the channels of communication open with your teachers.
+
 #### Grading 
 
 <table class="rubric">

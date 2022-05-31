@@ -117,7 +117,7 @@ a:visited { color: var(--darkgrey); }
 a:hover { color: var(--blue); }
 a:active { color: var(--orange100); }
 a:focus { outline: 2px solid black; }
-
+a.current { font-family: "FiraSans-Medium"; color: var(--orange) }
 a.external[target="_blank"]::after
 {
 	content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
