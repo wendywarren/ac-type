@@ -11,7 +11,7 @@ You will design one of the following invitations:
 Anniversary Gala - <a href="https://www.dropbox.com/s/8j8qo18qxeittm9/save-the-date-anniversary-gala.zip?dl=1" title="Download the files" target="_blank">Download the files</a>
 : This is an exclusive event at an Ottawa landmark. Its elegance and refinement will be unsurpassed. It will be attended by the who's-who of Canada's scientific community where these accomplished recipients will be honoured with the 2022 Whitford Prize.
 
-Champagne Brunch - <a href="https://www.dropbox.com/s/epqdnko278iynel/save-the-date-champagne-brunch.zip?dl=1" title="Download the files" target="_blank">Download the files</a>
+Champagne Brunch - <a href="https://www.dropbox.com/s/zbliw36baaza5iv/save-the-date-champagne-brunch.zip?dl=1" title="Download the files" target="_blank">Download the files</a>
 : The Springs Land Trust is a nature conservancy dedicated to wildlife habitats in and around Canada's National Capital. Dress is semi-formal. Guests will be donors to the conservancy, who are also avid users of the Capital's multi-use pathways for running, cycling, cross-country skiing, etc...
 
 Cocktail Party - <a href="https://www.dropbox.com/s/ll3t2q2ik2y2912/save-the-date-cocktail-party.zip?dl=1" title="Download the files" target="_blank">Download the files</a>
