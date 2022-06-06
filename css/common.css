@@ -117,7 +117,13 @@ a:visited { color: var(--darkgrey); }
 a:hover { color: var(--blue); }
 a:active { color: var(--orange100); }
 a:focus { outline: 2px solid black; }
-a.current { font-family: "FiraSans-Medium"; color: var(--orange) }
+
+a.current
+{
+	font-family: "FiraSans-Medium";
+	color: var(--orange);
+}
+
 a.external[target="_blank"]::after
 {
 	content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
@@ -145,7 +151,7 @@ a.external[target="_blank"]::after
 }
 
 /* I used this here: /type-4/comparative-analysis/considerations.html */
-#content .inline
+#content .inline-30-percent
 {
 	display: inline;
 	max-width: 30%;
@@ -153,6 +159,8 @@ a.external[target="_blank"]::after
 	padding: .2rem;
 	margin: 0;
 }
+
+#content .float-left { float: left; max-width: 50%;}
 
 figure
 {
@@ -298,11 +306,11 @@ ul.hasBullets
 {
 	margin-top: 1rem;
 	padding: 0;
-	padding-left: 2rem;
+	padding-left: 1rem;
 	list-style: none;
 }
 
-ul.hasBullets li { text-indent: -1rem; }
+ul.hasBullets li { text-indent: 0rem; }
 
 ul.hasBullets li:before
 {
@@ -311,11 +319,28 @@ ul.hasBullets li:before
 	font-size: 0.5rem;
 }
 
-ul.hasBullets li.second { text-indent: .25rem; }
+ul.hasBullets li.second
+{
+	text-indent: 1rem;
+	padding-left: -2rem;
+}
 
 ul.hasBullets li.second::before
 {
 	content: "\2043";
+	margin-right: 10px;
+	font-size: 1rem;
+}
+
+ul.hasBullets li.third
+{
+	text-indent: -3rem;
+	padding-left: 5rem;
+}
+
+ul.hasBullets li.third::before
+{
+	content: "\2022";
 	margin-right: 10px;
 	font-size: 1rem;
 }
