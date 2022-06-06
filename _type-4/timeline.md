@@ -56,9 +56,6 @@ For the 22S semester, this week's classes were canceled [due to the storm](https
 	<li>Project: <a href="/type-4/menu/index.html" title="The Art of the Menu">The Art of the Menu</a></li>
 	<li>Presentation:</li>
 	<li class="second"></li>
-	<li class="second"></li>
-	<li class="second"></li>
-	<li>Learning Activity: </li>
 	<li>Due Next: </li>
 </ul>
 
@@ -87,30 +84,29 @@ For the 22S semester, this week's classes were canceled [due to the storm](https
 
 <ul class="hasBullets">
 	<li>Quiz: The Manicule.</li>
-	<li>Present: <a href="https://type.algonquindesign.ca/kb/index.html" title="">???</a></li>
-	<li>Project: <a href="/type-4/menu/index.html" title="The Art of the Menu">The Art of the Menu</a></li>
+	<li>Present: <a href="https://practicaltypography.com/trademark-and-copyright-symbols.html" title="">Trademark & Copyright Symbols</a></li>
+	<li>Current Project: <a href="/type-4/menu/index.html" title="The Art of the Menu">The Art of the Menu</a></li>
 	<li>Presentation:</li>
-	<li class="second"></li>
-	<li class="second"></li>
-	<li class="second"></li>
-	<li>Learning Activity: </li>
-	<li class="second">Anchored objects. Use beer promo graphic.</li>
-	<li class="second">Typeset menu items. Tabs, prices with GREP, etc…</li>
-	<li class="second"></li>
-	<li class="second"></li>
-	<li>Due Next: </li>
+	<li class="second">Clean up text with GREP.</li>
+	<li class="second">My menu page.</li>
+	<li class="third">Anchored objects. Use beer promo graphic and fruit icons.</li>
+	<li class="third">Typeset menu items. Tabs, prices with GREP, etc…</li>
+	<li class="third">Accurate bleeds in InDesign</li>
+	<li>Due Next: Menu design pages WIP</li>
 </ul>
 
 ### Week 6
 
 <ul class="hasBullets">
-	<li>Due before class: Save the Date, Final</li>
+	<li>Due before class: Menu design WIP on Brightspace.</li>
 </ul>
 
 <ul class="hasBullets">
-	<li>Project: <a href="/type-4/baseline-grids/index.html" title="Baseline Grids">Baseline Grids</a></li>
+	<li>Quiz: Trademark & Copyright Symbols.</li>
+	<li>Present: </li>
+	<li>Project: <a href="/type-4/menu/index.html" title="The Art of the Menu">The Art of the Menu</a></li>
 	<li>Presentation:</li>
-	<li class="second"></li>
+	<li class="second">Feedback based on student WIP. Show examples of what to do and what to avoid.</li>
 	<li class="second"></li>
 	<li class="second"></li>
 	<li>Learning Activity: </li>
@@ -119,12 +115,8 @@ For the 22S semester, this week's classes were canceled [due to the storm](https
 
 ### Week 7
 
-- Mid-Term Break
-
-### Week 8
-
 <ul class="hasBullets">
-	<li>Project: <a href="/type-4/wordmark/index.html" title="Wordmark">Wordmark</a></li>
+	<li>Project: <a href="/type-4/baseline-grids/index.html" title="Baseline Grids">Baseline Grids</a></li>
 	<li>Presentation:</li>
 	<li class="second">Project presentation</li>
 	<li class="second"></li>
@@ -132,6 +124,10 @@ For the 22S semester, this week's classes were canceled [due to the storm](https
 	<li>Learning Activity: <a name="/type-4/wordmark/about-wordmarks.html" title="30 minute conceptual wordmark">30 minute conceptual wordmark</a></li>
 	<li>Due Next: </li>
 </ul>
+
+### Week 8
+
+- Mid-Term Break
 
 ### Week 9
 
@@ -213,3 +209,34 @@ For the 22S semester, this week's classes were canceled [due to the storm](https
 ### Week 15
 
 - Assessment Week
+
+### Quizzes for this cohort
+
+#### Type 3
+
+<ol>
+	<li>Monospaced Type</li>
+	<li>The Ampersand</li>
+	<li>Grotesque Type</li>
+	<li>Measuring Type</li>
+	<li>Old Style Figures</li>
+	<li>Faux Small Caps</li>
+	<li>Same Type, Different Foundry</li>
+	<li>Arial Vs. Helvetica</li>
+</ol>
+
+#### Type 4
+
+<ol>
+	<li>Variable Fonts</li>
+	<li>Slanted vs Italic</li>
+	<li>The Manicule</li>
+	<li>Trademark & Copyright Symbols</li>
+	<li>Anatomy of Serifs</li>
+	<li>Fat Face</li>
+	<li>Font File Formats</li>
+	<li>Overshoots</li>
+	<li>Ink Traps</li>
+	<li>The @ Symbol</li>
+	
+</ol>
