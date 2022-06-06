@@ -113,21 +113,21 @@ It's a good idea to include graphics of your two type families in use. They can 
 
 You can choose among these individual glyphs to highlight difference and similarities between the two families.
 
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/01.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/02.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/03.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/04.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/05.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/06.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/07.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/08.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/09.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/10.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/11.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/12.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/13.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/14.svg">
-<img class="inline" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/15.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/01.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/02.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/03.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/04.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/05.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/06.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/07.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/08.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/09.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/10.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/11.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/12.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/13.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/14.svg">
+<img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/15.svg">
 
 
 The entire shape of the ampersand should be compared, as well as numbers, punctuation marks and diacritics.
