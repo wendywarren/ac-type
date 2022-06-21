@@ -2,6 +2,24 @@
 layout: type4
 serial: level-4-assignment-3-wordmark-subpage-2-your-clients
 ---
+
+## Your Clients
+
+| Last Name       | First Name    | Client Name
+|-----------------|---------------|-----------------------|
+| Amos            | Alyssa        | Bijou Luxe            |
+| Boyd            | Brittany      | Sticky Fingers        |
+| Desilets        | Haley         | Dollar Fresh          |
+| Hassun          | Ragad         | Avilion Resort & Spa  |
+| Horner          | Lexy          | Bijou Luxe            |
+| Nicot           | Elisa         | Sticky Fingers        |
+| Poehlmann       | Adam          | Bijou Luxe            |
+| Sentner         | Curtis        | Avilion Resort & Spa  |
+| Sethi           | Seerath       | Dollar Fresh          |
+| Stewart         | Jessica       | Sticky Fingers        |
+| Vu              | Dreami        | Dollar Fresh          |
+
+
 ### Sticky Fingers BBQ Catering Co.
 {: .blue}
 
@@ -74,16 +92,5 @@ Unique value proposition:
 
 How do you want to be perceived?
 : We want to be known as a secluded spa to which couples can retreat to find themselves again. They can leave the city and their burdens behind to luxuriate in a natural, private restorative, worry-free environment. We want to bring to mind warm, relaxing baths, natural materials, succulent foods and de-stressing muscles.
-
-<div class="text-right" style="margin-top: 3rem;">&#8613; <a href="#top">Top</a></div>
-
-## Your Clients
-
-| Last Name           | First Name    | Client Name          | 
-|---------------------|---------------|----------------------| 
-| Last Name           | First Name    | Dollar Fresh         | 
-| Last Name           | First Name    | Bijou Luxe           | 
-| Last Name           | First Name    | Avilion Resort & Spa | 
-| Last Name           | First Name    | Sticky Fingers       | 
 
 <div class="text-right" style="margin-top: 3rem;">&#8613; <a href="#top">Top</a></div>
