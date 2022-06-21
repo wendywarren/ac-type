@@ -1,7 +1,7 @@
 ---
 layout: type
 type: home
-title: Type Knowledge Base
+title: Type Knowledge
 ---
 <ul class="hasBullets columns3">
 {% for kb_item in site.kb %}

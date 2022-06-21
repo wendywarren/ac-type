@@ -1,7 +1,7 @@
 ---
 layout: type
 serial: kb-subpage-single-two-storey
-title: Single or Two-Storey Glyphs
+title: Single or Two Storey Glyphs
 deck: "This relates two glyphs. a & g."
 ---
 

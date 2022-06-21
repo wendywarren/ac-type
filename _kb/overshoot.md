@@ -1,7 +1,7 @@
 ---
 layout: type
 serial: kb-subpage-overshoot
-title: Overshoots
+title: Overshoot
 deck: "Overshoots are optical size adjustments to make glyphs appear the correct size."
 ---
 
