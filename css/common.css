@@ -160,7 +160,11 @@ a.external[target="_blank"]::after
 	margin: 0;
 }
 
-#content .float-left { float: left; max-width: 50%;}
+#content .float-left
+{
+	float: left;
+	max-width: 50%;
+}
 
 figure
 {
@@ -305,12 +309,14 @@ ul.inline-list li { display: inline; }
 ul.hasBullets
 {
 	margin-top: 1rem;
-	padding: 0;
-	padding-left: 1rem;
 	list-style: none;
 }
 
-ul.hasBullets li { text-indent: 0rem; }
+ul.hasBullets li
+{
+	text-indent: -1rem;
+	margin-left: 1rem;
+}
 
 ul.hasBullets li:before
 {
