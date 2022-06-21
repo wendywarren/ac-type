@@ -17,3 +17,33 @@ The FedEx logotype famously has a hidden forward-pointing arrow in its negative 
 Our goal is to create a logotype or wordmark. These are type-centric. They can have imagery, but it's integrated with the type.
 
 ![Logo examples good and bad]({{site.url}}/svg/wordmark/examples-good-and-bad.svg){:width="80%"}
+
+### Let's Practice
+
+Let's practice this a little. Grab your word from below. You have 30 minutes to create a conceptual logo as shown above. As a matter of fact, create as many as you can, quickly. choose your best to show the class. 
+
+The ground rules:
+
+<ul class="hasBullets">
+	<li>Keep it simple! As simple as possible.</li>
+	<li>One type family only.</li>
+	<li>Use only black—no colour nor greys.</li>
+</ul>
+
+| Last Name           | First Name    | Concept       | 
+|---------------------|---------------|---------------| 
+| Amos                | Alyssa        | Catch         | 
+| Boyd                | Brittany      | Braille       | 
+| Desilets            | Haley         | Interview     | 
+| Hassun              | Ragad         | Pillar        | 
+| Horner              | Lexy          | Mailbox       | 
+| Nicot               | Elisa         | Launch        | 
+| Poehlmann           | Adam          | Bowling     | 
+| Sentner             | Curtis        | Drill       | 
+| Sethi               | Seerath       | Spool       | 
+| Stewart             | Jessica       | Unite       | 
+| Vu                  | Dreami        | Third       | 
+
+Save your file as a PDF, then submit it here.
+
+[![Submit on Brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="40%"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=403346&grpid=0&isprv=0&bp=0&ou=411212){: target="_blank"}
