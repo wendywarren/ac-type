@@ -1,6 +1,6 @@
 ---
 layout: type4
-serial: level-4-assignment-3-wordmark-subpage-4-technical-requirements
+serial: level-4-assignment-3-wordmark-subpage-5-technical-requirements
 ---
 ### Vectors
 
