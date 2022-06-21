@@ -16,4 +16,4 @@ There needs to be a cap-height grid set up so the top of the photo aligns with t
 
 The blue box has a custom 10pt baseline grid. It's set in *Myriad Variable Concept Condensed*.
 
-[![Download the Assignment Files]({{site.url}}/svg/button-download.svg){:width="50%"}](https://www.dropbox.com/s/kqz9dylt7xv9n8n/appleseed-johnny-0%230-baseline-grids.zip?dl=1){:target="_blank"}
+[![Download the Assignment Files]({{site.url}}/svg/button-download.svg){:width="40%"}](https://www.dropbox.com/s/kqz9dylt7xv9n8n/appleseed-johnny-0%230-baseline-grids.zip?dl=1){:target="_blank"}

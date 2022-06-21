@@ -15,6 +15,7 @@ You will **not** compare all the instances in the families. Choose the regular w
 	<li>When were they released?</li>
 	<li>Who are the designers?</li>
 	<li>Did they have a specific purpose when they were designed?</li>
+	<li>Show each of the families in paragraph form.</li>
 </ul>
 
 #### Family Comparison
@@ -107,7 +108,7 @@ Please do not copy-paste text from the Web, or any other source into your presen
 
 ### Fonts in Use
 
-It's a good idea to include graphics of your two type families in use. They can be logos, advertisements, web pages, etc… Are there famous applications of either of your typefaces?
+It's a good idea to include graphics of your two type families in use. They can be famous logos, advertisements, web pages, etc… Are there famous applications of either of your typefaces?
 
 ### Individual Glyphs
 
@@ -130,5 +131,5 @@ You can choose among these individual glyphs to highlight difference and similar
 <img class="inline-30-percent" alt="The Anatomy of Type" src="{{site.url}}/svg/comparative-analysis/15.svg">
 
 
-The entire shape of the ampersand should be compared, as well as numbers, punctuation marks and diacritics.
+The entire shape of the ampersand should be compared, as well as numbers, punctuation marks and diacritics (accents).
 

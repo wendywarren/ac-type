@@ -8,7 +8,7 @@ Before we begin building our grid, it's important to understand that this whole 
 
 We need to establish margins and the dimensions of the text area. We'll make it that the height of our text area is divisible by our chosen leading value.
 
-[![Download Formative Assets]({{site.url}}/svg/button-download.svg){:width="50%"}](https://www.dropbox.com/s/fo8frdz34twiyxl/Baseline-Grids-Formative.zip?dl=1){:target="_blank"}
+[![Download Formative Assets]({{site.url}}/svg/button-download.svg){:width="40%"}](https://www.dropbox.com/s/fo8frdz34twiyxl/Baseline-Grids-Formative.zip?dl=1){:target="_blank"}
 
 ### The Settings
 

@@ -6,7 +6,6 @@
   url: type-4/save-the-date/index.html
   deck: "We'll design an invitation with finesse and style."
   download:
-  pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
     - outcome: "Implement a design with an informal grid."
     - outcome: "Create hierarchy in a simple, single-page layout."
@@ -54,7 +53,6 @@
   url: type-4/menu/index.html
   deck: "We'll design a restaurant menu with the given content."
   download:
-  pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
     - outcome: "Design page layout grids for single-page and for long documents."
     - outcome: "Select two typefaces which create a harmonious pairing."
@@ -131,7 +129,6 @@
   url: type-4/wordmark/index.html
   deck: "We'll develop a wordmark with the given content."
   download:
-  pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
     - outcome: "Make a theme-appropriate type selection"
     - outcome: "Select and apply theme-appropriate colours."
@@ -146,7 +143,7 @@
   brightspace:
     - bs_link_title: "Conceptual Wordmark"
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414024&grpid=0&isprv=0&bp=0&ou=448664"
-    - bs_link_title: "Wordmark Sketches"
+    - bs_link_title: "Wordmark Feedback"
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414031&grpid=0&isprv=0&bp=0&ou=448664"
     - bs_link_title: "Final Wordmark"
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414032&grpid=0&isprv=0&bp=0&ou=448664"
@@ -171,14 +168,14 @@
       serial: "level-4-assignment-3-wordmark-subpage-3-concept-development"
       url: type-4/wordmark/concept-development.html
       deck: "This is where the heavy lifting happens. It's all about concept."
-    - title: "Technical Requirements"
-      serial: "level-4-assignment-3-wordmark-subpage-4-technical-requirements"
-      url: type-4/wordmark/technical-requirements.html
-      deck: "The wordmark needs to maintain its appearance and reproduce reliably."
     - title: "Peer Evaluation"
-      serial: "level-4-assignment-3-wordmark-subpage-5-peer-evaluation"
+      serial: "level-4-assignment-3-wordmark-subpage-4-peer-evaluation"
       url: type-4/wordmark/peer-evaluation.html
       deck: "Please evaluate the three students who are listed next to your name in the tables below."
+    - title: "Technical Requirements"
+      serial: "level-4-assignment-3-wordmark-subpage-5-technical-requirements"
+      url: type-4/wordmark/technical-requirements.html
+      deck: "The wordmark needs to maintain its appearance and reproduce reliably."
     - title: "Deliverables"
       serial: "level-4-assignment-3-subpage-deliverables"
       url: type-4/wordmark/deliverables.html
@@ -195,7 +192,6 @@
   url: type-4/comparative-analysis/index.html
   deck: "You will design a slide deck with a competitive analysis of two similar typefaces."
   download:
-  pinterest: "https://www.pinterest.ca/alainparadis/"
   outcomes:
     - outcome: "Devise type hierarchy for a multi-page publication."
     - outcome: "Learn some pretty pro type facts so you can school your designer friends."
@@ -246,13 +242,15 @@
   url: type-4/baseline-grids/index.html
   deck: "We'll create a type system that works entirely on a baseline grid."
   download:
-  pinterest: "https://pin.it/alainparadis"
   outcomes:
     - outcome: "Design a page grid including margins, columns, rows and gutters."
     - outcome: "Devise a page layout grid using a baseline grid which can accomodate a complete type system."
     - outcome: "Organize and maintain a sound file structure for graphic design projects."
     - outcome: "Organize files and folders for submission according to provided instructions."
     - outcome: "Use the appropriate software tools and techniques to build the design."
+  brightspace:
+    - bs_link_title: "Baseline Grids"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414033&grpid=0&isprv=0&bp=0&ou=448664"
   resource-links: |
     - https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/setting-up-a-baseline-grid?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2199673
   # Subpages
@@ -283,7 +281,6 @@
 #  url: type-4/type-4-item-2/index.html
 #  deck: "We'll build a single page with our type selections and hierarchy."
 #  download:
-#  pinterest: "https://pin.it/alainparadis"
 #  outcomes:
 #    - outcome: "Some outcome number 1"
 #  resource-links: |
@@ -312,7 +309,6 @@
 #  url: type-4/type-4-item-3/index.html
 #  deck: "This is the text for the deck for this assignment."
 #  download:
-#  pinterest: "https://pin.it/alainparadis"
 #  outcomes:
 #    - outcome: "Some outcome number 1"
 #  resource-links: |
@@ -341,7 +337,6 @@
 #  url: type-4/type-4-item-4/index.html
 #  deck: "This is the text for the deck for this assignment."
 #  download:
-#  pinterest: "https://pin.it/alainparadis"
 #  outcomes:
 #    - outcome: "Some outcome number 1"
 #  resource-links: |
