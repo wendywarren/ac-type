@@ -31,16 +31,16 @@ When a story jumps from one page to another, we need to direct the reader to the
 
 ![Story Jumps]({{site.url}}/svg/story-jumps.svg){:width="90%"}
 
-<a href="https://www.youtube.com/watch?v=_dkUnuqcoyg" title="Watch the video tutorial." target="_blank">![Video tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="50%"}</a>
+<a href="https://www.youtube.com/watch?v=_dkUnuqcoyg" title="Watch the video tutorial." target="_blank">![Video tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="40%"}</a>
 
 We also need to indicate when the story ends. This is where we can insert a small graphic to indicate the story does not continue on another page.
 
 ![Story Ender]({{site.url}}/svg/story-ender.svg){:width="45%"}
 
-<a href="https://www.youtube.com/watch?v=kL9yGfVE0qM" title="Watch the video tutorial." target="_blank">![Video tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="50%"}</a>
+<a href="https://www.youtube.com/watch?v=kL9yGfVE0qM" title="Watch the video tutorial." target="_blank">![Video tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="40%"}</a>
 
 ### Get Feedback
 
 As you progress with your layout, you can submit PDF files for me to provide feedback. Let's please be reasonable with this. Ask for feedback when you have a substantial amount of work completed.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=367213&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=372600" title="Submit on BrightSpace" target="_blank">![Submit a PDF for Feedback]({{site.url}}/svg/button-submit-for-feedback.svg){:width="50%"}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438415&grpid=0&isprv=&bp=0&ou=463708" title="Submit on BrightSpace" target="_blank">![Submit a PDF for Feedback]({{site.url}}/svg/button-submit-for-feedback.svg){:width="40%"}</a>
