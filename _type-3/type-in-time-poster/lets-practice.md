@@ -2,7 +2,7 @@
 layout: type3
 serial: level-3-assignment-1-subpage-lets-practice
 ---
-Let's launch InDesign to practice creating a layout with an informal grid. Start with activating one of the following families on Adobe Fonts.
+Let's open the Illustrator file linked below to practice creating a layout with an informal grid. Start with activating one of the following families on Adobe Fonts.
 
 <ul class="hasBullets">
 	<li><a href="https://fonts.adobe.com/fonts/baskerville-urw" title="Baskerville" target="_blank">Baskerville URW</a></li>
@@ -17,11 +17,7 @@ Let's launch InDesign to practice creating a layout with an informal grid. Start
 	<li><a href="https://fonts.adobe.com/fonts/rockwell" title="Rockwell">Rockwell Monotype</a></li>
 </ul>
 
-Activate your chosen type family. Create an InDesign document. Let's try a 10" square page. Choose your margins.
-
-Choose your own topic for your layout. I'm going to choose a title *Man's Best Friend*. A sub-title *Are dogs really man's best friend? How did this come to be?* Then a block of body copy.
-
-<a href="https://www.dropbox.com/s/zixxh4b1lnmx4oi/mans-best-friend.txt?dl=1" title="Download the text file for this practice assignment" target="_blank">![Download]({{site.url}}/svg/button-download.svg){:width="50%"}</a>
+<a href="https://www.dropbox.com/s/j04m6g1o2b1azqz/appleseed-johnny-%23-informal-grids.ai.zip?dl=1" title="Download the text file for this practice assignment" target="_blank">![Download]({{site.url}}/svg/button-download.svg){:width="40%"}</a>
 
 The whole idea of the informal grid is that we set one page element after another, starting with the most important. So let's set the title.
 
@@ -47,6 +43,6 @@ The last item is the block of body copy. Make sure to set proper leading and rea
 
 Once you're done, save your work, then save a copy of your file as a Print Ready PDF file.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379287&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit a PDF" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438421&grpid=0&isprv=&bp=0&ou=463708" title="Submit a PDF" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
 
 We'll do a quick critique of the result.

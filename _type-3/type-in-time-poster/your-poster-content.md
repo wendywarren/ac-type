@@ -10,7 +10,7 @@ Tell me the reason for your choice. No B.S. Make it honest. Take your time. What
 
 Do your research. Make your choice, then tell me.
 
-<a href="https://forms.office.com/r/1sSccGiZNQ" target="_blank" class="brightspace">![Submit your Type Choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=456617&grpid=0&isprv=0&bp=0&ou=463708" target="_blank" class="brightspace">![Submit your Type Choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}</a>
 
 #### Colour Treatment
 
@@ -23,7 +23,7 @@ These are pretty simple.
 <ul class="hasBullets">
 	<li>Dimensions: 24" x 36" plus ⅛" bleed</li>
 	<li>Colour: Four Colour Process (full colour)</li>
-	<li>InDesign is your tool of choice.</li>
+	<li>Illustrator is your tool of choice.</li>
 </ul>
 
 ### What to Include
@@ -36,9 +36,9 @@ You will include the following on your poster. These are *minimum* requirements.
 	<li>The classification category to which it belongs</li>
 	<li>A waterfall of the instances that make up the family</li>
 	<li>A block of paragraph text that describes the family</li>
-	<li>A bio of the typographer in a block of paragraph text.</li>
+	<li>A bio of the typographer in a block of paragraph text</li>
 	<li>Prominent display of stand-out glyphs from the family</li>
-	<li>Any other useful information you find</li>
+	<li>Any other useful information you may find</li>
 </ul>
 
 No photos are allowed on your poster. You can use lines, shapes and patterns.

@@ -57,7 +57,7 @@ Your text can either be left-justified or left aligned. Choose one alignment for
 
 You must align your body copy to the baseline grid. The baseline grid is a set of guides on which can align body copy so text baselines align from column to column. It makes the pages look a lot cleaner—more orderly.
 
-![Baseline Grids]({{site.url}}/svg/baseline-grids.svg){:width="90%"}
+![Baseline Grids]({{site.url}}/svg/baseline-grids/baseline-grids.svg){:width="90%"}
 
 <a href="https://www.youtube.com/watch?v=U_U3-RYLYlg" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="40%"}</a>
 

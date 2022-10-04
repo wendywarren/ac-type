@@ -4,12 +4,13 @@ serial: kb-subpage-oldstyle-figures
 title: Old Style Figures
 deck: "Oldstyle figures blend into running text better than tabular lining."
 ---
-
-The numbers we use ever day in the western world are called Arabic numerals. There are different ways of setting type with these figures.
+The numbers we use every day in the western world are called Arabic numerals. They were first discovered in Algeria by the Italian mathematician Fibonacci. There are different ways of setting type with these figures.
 
 ![Old Style Lining Figures]({{site.url}}/svg/kb/oldstyle-lining-figures.svg){:width="90%"}
 
 Lining figures are most common. They don't fit very well in running text. It's like they're written in ALL CAPS. They stand out too much.
+
+The second way of setting numerals in body copy is to use proportional old style figures.
 
 ![Old Style Proportional]({{site.url}}/svg/kb/oldstyle-proportional.svg){:width="90%"}
 
