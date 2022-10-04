@@ -86,6 +86,8 @@ We'll align all titles to the baseline. The first piece of text at the top of th
 
 In our case, the main title is second on the page. Its leading should be divisible by the leading value.
 
+<div class="text-right" style="margin-top: 3rem;">&#8613; <a href="#top">Top</a></div>
+
 ### Captions
 
 If we want our captions to be a smaller type size than the body copy, we can set the leading to value that has a common multiple to the baseline grid value.
@@ -119,3 +121,5 @@ This is an elegant, more relaxed way to align text to our baseline without actua
 In the end, we don't need to align all our text to the baseline grid. If we align only the first lines, then use leading values that are factors of a common number, everything will look like it's aligned. I call this *persuasive baseline alignment*, rather than *forced baseline alignment*.
 
 When we're working with different size text in neighbouring columns, We can also choose to align only the first line to the baseline grid. In that case, we should try to make the leading factors of a single number.
+
+<div class="text-right" style="margin-top: 3rem;">&#8613; <a href="#top">Top</a></div>
