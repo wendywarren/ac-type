@@ -26,13 +26,13 @@ Create a style tile which shows the elements of your design. It must include:
 
 [**See my example**](https://www.dropbox.com/s/a7vihd1f7oe6nrd/paradis-alain-010-style-tile.pdf?dl=1) [PDF] style tile for more reference info. You are free to add more, depending on your design.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379280&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">![Submit a Style Tile]({{site.url}}/svg/button-submit-style-tile.svg){:width="50%"}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438413&grpid=0&isprv=&bp=0&ou=463708" title="Submit on Brightspace" target="_blank">![Submit a Style Tile]({{site.url}}/svg/button-submit-style-tile.svg){:width="40%"}</a>
 
 ### Get Feedback
 
 As you progress with your layout, you can submit PDF files for me to provide feedback. Let's please be reasonable with this. Ask for feedback when you have a substantial amount of work completed.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379281&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">![Submit a PDF for Feedback]({{site.url}}/svg/button-submit-for-feedback.svg){:width="50%"}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438415&grpid=0&isprv=&bp=0&ou=463708" title="Submit on Brightspace" target="_blank">![Submit a PDF for Feedback]({{site.url}}/svg/button-submit-for-feedback.svg){:width="40%"}</a>
 
 ### Prepare Print-Ready Files
 
@@ -65,6 +65,6 @@ Note
 
 When you package your InDesign document with <span class="command">File > Package...</span> It will create a folder that's properly named if your file was well named to start with.
 
-![InDesign Submission Folder]({{site.url}}/svg/submission-folder-indd.svg){:width="50%"}
+![InDesign Submission Folder]({{site.url}}/svg/submission-indesign-package.svg){:width="50%"}
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379285&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438419&grpid=0&isprv=&bp=0&ou=463708" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

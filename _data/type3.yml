@@ -8,26 +8,37 @@
   pinterest: "https://www.pinterest.ca/alainparadis/type-classifications/"
   outcomes:
     - outcome: "Implement a design with an informal grid."
-    - outcome: "Recognize the features of a typeface which determine its classification category."
+    - outcome: "Recognize the features of a typeface which determine its <a href=\"/kb/classification-categories.html\" title=\"Type Classification Categories\">classification category</a>."
     - outcome: "Research and organize historical typographic information."
     - outcome: "Make the most of the glyphs in a given type family."
-    - outcome: "Implement learned type rules relating to italicization, quote marks, etc..."
+    - outcome: "Implement learned type rules relating to italicization, quote marks, etc…"
     - outcome: "Show off a type family's weights, widths at varied sizes and position on the page."
     - outcome: "Select and apply theme-appropriate colours."
     - outcome: "Use the appropriate software tools and techniques to build the page."
+  brightspace:
+    - bs_link_title: "Submit Your Type Choice"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=456617&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Informal Grids: Let's Practice!"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438421&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Poster Mood Board (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438422&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Poster WIP (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=458783&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Poster Final Submission"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438423&grpid=0&isprv=0&bp=0&ou=463708"
   videos:
     - video_title: "Illustrator poster document setup"
-      video_url: "https://youtu.be/vcsat_w1-Lc"
-    - video_title: "Illustrator Every-Line Composter"
-      video_url: "https://youtu.be/_vluUi5x1bk"
+      video_url: "https://youtu.be/ORFTK9WCCp8"
+    - video_title: "Illustrator Every-Line Composer"
+      video_url: "https://youtu.be/jRNpqWVqgbQ"
     - video_title: "Poster colour handling"
-      video_url: "https://youtu.be/p-_J40EDses"
-    - video_title: "Poster colour treatment"
-      video_url: "https://youtu.be/XQSCdbXN8Cw"
+      video_url: "https://youtu.be/nOhQGuaUYwc"
+    - video_title: "Poster colour contrast"
+      video_url: "https://youtu.be/1ftYihWNYfc"
     - video_title: "What to include on your poster."
-      video_url: "https://youtu.be/VhUfVQKb4gI"
+      video_url: "https://youtu.be/zHoFezxzSpE"
     - video_title: "Mood Board Design"
-      video_url: "https://youtu.be/QS8cy3_rZ08"
+      video_url: "https://youtu.be/V16zV1moHcI"
   resource-links: |
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch01.xhtml
     - https://learning.oreilly.com/library/view/The+Art+of+Type+and+Typography/9781315301532/xhtml/08_Chapter02.xhtml
@@ -40,10 +51,10 @@
     - title: "Let's Practice"
       serial: "level-3-assignment-1-subpage-lets-practice"
       url: type-3/type-in-time-poster/lets-practice.html
-      deck: "Let's build a page using a single type family and an informal grid."
-    - title: "Your Content"
+      deck: "Let's build pages using a single type family and an informal grid."
+    - title: "Your Poster Content"
       serial: "level-3-assignment-1-subpage-your-content"
-      url: type-3/type-in-time-poster/your-content.html
+      url: type-3/type-in-time-poster/your-poster-content.html
       deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
     - title: "Your Process"
       serial: "level-3-assignment-1-subpage-your-process"
@@ -53,7 +64,6 @@
       serial: "level-3-assignment-1-subpage-deliverables"
       url: type-3/type-in-time-poster/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351632&grpid=0&isprv=&bp=0&ou=372600"
       criteria:
         - criterium: "You've successfully classified your chosen type family."
         - criterium: "The information you've sourced about your chose typeface is plentiful and relevant."
@@ -79,12 +89,19 @@
     - outcome: "Manipulate type to create a pleasing, harmonious, context-appropriate design."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
+  brightspace:
+    - bs_link_title: "Style Board (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438417&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Sketches (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438418&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Grimm Dust Cover"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438420&grpid=0&isprv=0&bp=0&ou=463708"
   videos:
-    - video_url: "https://youtu.be/xzghRJJajoA"
+    - video_url: "https://youtu.be/lK1gGcu4zfo"
       video_title: "Dust cover document setup"
-    - video_url: "https://youtu.be/0OfvhLb63RQ"
+    - video_url: "https://youtu.be/eYNpwaezMVY"
       video_title: "Copy/Paste Vector Art Into Illustrator"
-    - video_url: "https://youtu.be/SpLvedjToNs"
+    - video_url: "https://youtu.be/_8hRyVs519c"
       video_title: "Dust Cover Sketching Template"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
@@ -114,7 +131,6 @@
       serial: "level-3-assignment-2-subpage-deliverables"
       url: type-3/grimm-dust-cover/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "Your submission adheres to the physical parameters."
         - criterium: "You successfully implemented a sound informal grid."
@@ -138,18 +154,22 @@
     - outcome: "Set type size, leading and spacing for a long document in order to achieve good page colour."
     - outcome: "Use stylistic elements in an appropriate context and manner."
     - outcome: "Use software tools effectively to build pages for a long document."
+  brightspace:
+    - bs_link_title: "Type Selection"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438414&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Grimm's Pages"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438416&grpid=0&isprv=0&bp=0&ou=463708"
   videos:
-    - video_url: "https://youtu.be/o0aubQ4T2_Y"
+    - video_url: "https://youtu.be/4P-xnLSqgkY"
       video_title: "Remove all double paragraph breaks and double spaces from your text."
-    - video_url: "https://www.youtube.com/watch?v=TUBfSw84wt8"
+    - video_url: "https://youtu.be/z3ZRuyycsZo"
       video_title: "Automatic page numbers on Parent Pages"
-    - video_url: "https://www.youtube.com/watch?v=fYPXkHnawN0"
+    - video_url: "https://youtu.be/z3ZRuyycsZo"
       video_title: "Running Headers in InDesign"
-    - video_url: "https://youtu.be/4Npyv18YZag"
+    - video_url: "https://youtu.be/YJsLZMQ8VoM"
       video_title: "Create a parent paragraph style on which to base the other styles"
-    - video_url: "https://www.youtube.com/watch?v=AKPclQr00ro"
+    - video_url: "https://youtu.be/JLo5qIBpyuE"
       video_title: "Drop Caps in InDesign"
-
   resource-links: |
     - https://learning.oreilly.com/library/view/the-type-project/9780136816034/ch31.xhtml
   # Subpages
@@ -170,7 +190,6 @@
       serial: "level-3-assignment-3-subpage-deliverables"
       url: type-3/grimms-pages/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 
 # [3] Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Magazine Design"
@@ -195,23 +214,22 @@
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379281&grpid=0&isprv=0&bp=0&ou=411208"
     - bs_link_title: "Magazine Final Submission"
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379285&grpid=0&isprv=0&bp=0&ou=411208"
-      
   videos:
-    - video_url: "https://www.youtube.com/watch?v=TIw4ZRjnt64"
+    - video_url: "https://youtu.be/Y1fQG0oTBU0"
       video_title: "Page Layout Sketching Template"
-    - video_url: "https://youtu.be/UZWwpWKfgZs"
+    - video_url: "https://youtu.be/dViEBvTGat0"
       video_title: "Build a Better Text Frame"
-    - video_url: "https://www.youtube.com/watch?v=uZmqolqoTzE"
+    - video_url: "https://youtu.be/wCobcIt8Dx8"
       video_title: "Baseline Grid Increment"
     - video_url: "https://youtu.be/o0aubQ4T2_Y"
       video_title: "Remove all double paragraph breaks and double spaces from your text"
-    - video_url: "https://www.youtube.com/watch?v=TUBfSw84wt8"
+    - video_url: "https://youtu.be/z3ZRuyycsZo"
       video_title: "Automatic page numbers on Parent Pages"
-    - video_url: "https://youtu.be/4Npyv18YZag"
+    - video_url: "https://youtu.be/YJsLZMQ8VoM"
       video_title: "Create a parent paragraph style on which to base the other styles"
-    - video_url: "https://www.youtube.com/watch?v=AKPclQr00ro"
+    - video_url: "https://youtu.be/JLo5qIBpyuE"
       video_title: "Create a drop cap on your chapter opening page."
-    - video_url: "https://youtu.be/kL9yGfVE0qM"
+    - video_url: "https://youtu.be/Q4QpsPmQIRc"
       video_title: "Insert a story ender graphic in InDesign"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
@@ -233,7 +251,6 @@
       serial: "level-3-magazine-subpage-deliverables"
       url: type-3/magazine/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
       criteria:
         - criterium: "This is the first criterium for the Magazine assignment."
         - criterium: "You've submitted files as directed, ready for print."
@@ -269,7 +286,7 @@
       serial: level-3-item-1-subpage-deliverables
       url: type-3/type-family-pairing/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=357712&grpid=0&isprv=0&bp=0&ou=372600"
+      brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438425&grpid=0&isprv=&bp=0&ou=463708"
       criteria:
         - criterium: "Your font selection is a successful match with the given family."
         - criterium: "You have adhered to the given technical specifications."
@@ -296,7 +313,7 @@
       serial: level-3-item-3-subpage-deliverables
       url: type-3/typographer-of-the-week/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=351644&grpid=0&isprv=0&bp=0&ou=372600"
+      brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438424&grpid=0&isprv=&bp=0&ou=463708"
       criteria:
         - criterium: "Your presentation includes at least the facts listed on the assignment page."
         - criterium: "You communicate the facts clearly, in an organized fashion."

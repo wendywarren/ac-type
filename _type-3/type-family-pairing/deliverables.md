@@ -45,4 +45,4 @@ Make sure your InDesign file is in good shape, save, then package it, including 
 
 ![InDesign Submission Folder]({{site.url}}/svg/submission-indesign-package.svg){:width="50%"}
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379291&amp;grpid=0&amp;isprv=0&amp;bp=0&amp;ou=411208" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438425&grpid=0&isprv=0&bp=0&ou=463708" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

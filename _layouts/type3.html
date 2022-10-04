@@ -77,7 +77,7 @@
 		{% endfor %}
 	</ul>
 	<h3>BrightSpace Submission Links</h3>
-	<ul class="hasBullets">
+	<ol>
 	   {% for entry in site.data.type3 %}
 	   {% for item in entry.brightspace %}
 	   {% if page.serial == entry.serial %} 
@@ -85,7 +85,7 @@
 	   {% endif %} 
 	   {% endfor %}
 	   {% endfor %}
-	</ul>
+	</ol>
 	<h3>Video Playlist</h3>
 	<ul class="hasBullets">
 	   {% for entry in site.data.type3 %}
