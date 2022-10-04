@@ -15,7 +15,7 @@ So, in one case a Grotesque is a synonym for sans-serif. In the second case, it'
 These are some grotesque faces on Adobe Fonts:
 
 <ul class="hasBullets columns3">
-	<li><a href="Alternate Gothic" target="_blank">Alternate Gothic</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/alternate-gothic" target="_blank">Alternate Gothic</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/aktiv-grotesk" target="_blank">Aktiv Grotesk</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/atf-alternate-gothic-compressed" target="_blank">ATF Alternate Gothic Compressed</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/atf-alternate-gothic-condensed" target="_blank">ATF Alternate Gothic Condensed</a></li>
