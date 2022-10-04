@@ -70,32 +70,31 @@
         - criterium: "You've made the most of the type family's various weights and widths."
         - criterium: "Your treatment demonstrates a confident handling of a limited number of colours, achieving a strong impact."
         - criterium: "You've submitted files as directed, ready for print."
-# [1] Grimm Dust Cover # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-- title: "Grimm Dust Cover"
+# [1] Sell Sheet # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+- title: "Sell Sheet"
   serial: "level-3-assignment-2-home"
   point-value: 20
-  url: type-3/grimm-dust-cover/index.html
-  deck: "A type-based book dust cover design is a great project on which to use an informal approach to our layout. You'll work with limited type and colours to create a very graphic design."
-  download: "https://www.dropbox.com/s/qtwu2cdf2xyd58y/type-3-grimm-dust-cover.zip?dl=1"
+  url: type-3/sell-sheet/index.html
+  deck: "This sell sheet design will have you create a two-sided page layout on a modular grid."
+  download: ""
   pinterest:
   outcomes:
-    - outcome: "Inventory, organize and prepare provided materials to use in a type-based design."
-    - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
-    - outcome: "Implement a design with an informal grid."
-    - outcome: "Use type to symbolically express a concept."
+    - outcome: "Implement a design with a modular grid."
     - outcome: "Devise type hierarchy for a single-page design."
+    - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
     - outcome: "Create an context-appropriate and technically correct colour theme."
     - outcome: "Make a reasoned font pairing which suits a given context."
     - outcome: "Manipulate type to create a pleasing, harmonious, context-appropriate design."
+    - outcome: "Inventory, organize and prepare provided materials to use in a type-based design."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
-    - bs_link_title: "Style Board (PDF)"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438417&grpid=0&isprv=0&bp=0&ou=463708"
-    - bs_link_title: "Sketches (PDF)"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438418&grpid=0&isprv=0&bp=0&ou=463708"
-    - bs_link_title: "Grimm Dust Cover"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438420&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Title"
+      bs_url: "URL"
+    - bs_link_title: "Title"
+      bs_url: "URL"
+    - bs_link_title: "Title"
+      bs_url: "URL"
   videos:
     - video_url: "https://youtu.be/lK1gGcu4zfo"
       video_title: "Dust cover document setup"
@@ -111,25 +110,17 @@
     - https://visme.co/blog/layout-design/
   # Subpages
   pages:
-    - title: "Choosing Your Type"
-      serial: "level-3-assignment-2-subpage-choosing-your-type"
-      url: type-3/grimm-dust-cover/choosing-your-type.html
-      deck: "You'll need two type families for this assignment. It's time to put your type pairing knowledge to work."
-    - title: "Explore Your Space"
-      serial: "level-3-assignment-2-subpage-explore-your-space"
-      url: type-3/grimm-dust-cover/explore-your-space.html
-      deck: "Some areas on the page will be reserved for given content. Others are yours to work with."
-    - title: "Layout Ingredients"
-      serial: "level-3-assignment-2-subpage-layout-ingredients"
-      url: type-3/grimm-dust-cover/layout-ingredients.html
-      deck: "This is where the rubber hits the road. The creativity takes place here. Create a style board that will communicate your design to the client."
-    - title: "Build Your Design"
-      serial: "level-3-assignment-2-subpage-build-your-design"
-      url: type-3/grimm-dust-cover/build-your-design.html
-      deck: "As if we were cooks in a kitchen, we’ll combine all the ingredients to date to create a delicious typographic dish."
+    - title: "Plan Your Design"
+      serial: "level-3-assignment-2-subpage-plan-your-design"
+      url: type-3/sell-sheet/plan-your-design.html
+      deck: "This is where the rubber hits the road. Sketch layout thumbnails. Choose your type. Create a colour palette."
+    - title: "Build It"
+      serial: "level-3-assignment-2-subpage-build-it"
+      url: type-3/sell-sheet/build-it.html
+      deck: "The creative part of your work is done. Your design is complete. Now it's time to build it according to your plan."
     - title: "Deliverables"
-      serial: "level-3-assignment-2-subpage-deliverables"
-      url: type-3/grimm-dust-cover/deliverables.html
+      serial: "level-3-assignment-1-subpage-deliverables"
+      url: type-3/sell-sheet/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
         - criterium: "Your submission adheres to the physical parameters."
