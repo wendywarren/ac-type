@@ -306,6 +306,11 @@ ul.inline-list li a
 
 ul.inline-list li { display: inline; }
 
+ol {
+	margin-top: 1rem;
+}
+ol li {	margin-left: -1.5rem; }
+
 ul.hasBullets
 {
 	margin-top: 1rem;
