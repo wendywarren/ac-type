@@ -83,25 +83,22 @@
     - outcome: "Devise type hierarchy for a single-page design."
     - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
     - outcome: "Create an context-appropriate and technically correct colour theme."
+    - outcome: "Combine the use of photography and typography to compose balanced page layouts."
     - outcome: "Make a reasoned font pairing which suits a given context."
     - outcome: "Manipulate type to create a pleasing, harmonious, context-appropriate design."
     - outcome: "Inventory, organize and prepare provided materials to use in a type-based design."
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
-    - bs_link_title: "Title"
-      bs_url: "URL"
-    - bs_link_title: "Title"
-      bs_url: "URL"
-    - bs_link_title: "Title"
-      bs_url: "URL"
+    - bs_link_title: "Mood Board (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438417&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Sketches (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438418&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Final Sell Sheet"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438420&grpid=0&isprv=0&bp=0&ou=463708"
   videos:
-    - video_url: "https://youtu.be/lK1gGcu4zfo"
-      video_title: "Dust cover document setup"
-    - video_url: "https://youtu.be/eYNpwaezMVY"
-      video_title: "Copy/Paste Vector Art Into Illustrator"
-    - video_url: "https://youtu.be/_8hRyVs519c"
-      video_title: "Dust Cover Sketching Template"
+    - video_url: "https://youtu.be/"
+      video_title: "Some video"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
     - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
@@ -119,7 +116,7 @@
       url: type-3/sell-sheet/build-it.html
       deck: "The creative part of your work is done. Your design is complete. Now it's time to build it according to your plan."
     - title: "Deliverables"
-      serial: "level-3-assignment-1-subpage-deliverables"
+      serial: "level-3-assignment-2-subpage-deliverables"
       url: type-3/sell-sheet/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       criteria:
