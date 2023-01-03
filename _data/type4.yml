@@ -262,27 +262,4 @@
 # [5] Quizzes # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Quizzes"
   type: "Quiz!"
-  value: "10%"
   serial: "level-4-assignment-6-home"
-  url: type-4/type-4-item-2/index.html
-#  deck: "We'll build a single page with our type selections and hierarchy."
-#  download:
-#  outcomes:
-#    - outcome: "Some outcome number 1"
-#  resource-links: |
-#    - https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/
-#  # Subpages
-#  pages:
-#   - title: "First Subpage Type 4 Micro #2"
-#     serial: "level-4-item-2-subpage-1"
-#     url: type-4/type-4-item-2/subpage1.html
-#     deck: "This is the text for the deck for Type 4 Micro 2 Subpage 1."
-#   - title: "Deliverables"
-#     serial: level-4-item-2-subpage-deliverables
-#     url: type-4/type-4-item-2/deliverables.html
-#     deck: "Gather all your stuff. It's time to send your assignment home."
-#      criteria:
-#        - criterium: "This is the first criteria item."
-#        - criterium: "The second criterium comes after the first."
-#        - criterium: "Never two without three criterium."
-#        - criterium: "Two plus two equals four criteria."
