@@ -1,6 +1,6 @@
 ---
 layout: type3
-serial: level-3-assignment-1-subpage-about-ad-hoc-grids
+serial: level-3-assignment-1-subpage-about-informal-grids
 ---
 ### Informal Grids
 
@@ -21,6 +21,8 @@ As we build our layout, we create hierarchy for each element using size, weight,
 In the example above, you can see that the main title logically takes the lead in the layout. The two remaining elements align with it. You can see how, even with so few elements, we've achieved harmony on the page.
 
 It's also obvious that the process of creating a layout in this manner is too tedious for long multi-page publications. That's what modular grids are for.
+
+#### Change This Illustrator Setting
 
 Be sure to change this important setting in Illustrator before you set any type.
 

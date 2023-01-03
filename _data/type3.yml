@@ -45,8 +45,8 @@
   # Subpages
   pages:
     - title: "About Informal Grids"
-      serial: "level-3-assignment-1-subpage-about-ad-hoc-grids"
-      url: type-3/type-in-time-poster/about-ad-hoc-grids.html
+      serial: "level-3-assignment-1-subpage-about-informal-grids"
+      url: type-3/type-in-time-poster/about-informal-grids.html
       deck: "The page is our foundational space. We need to take the geometry of our page into consideration to achieve harmony in the final product. The given space is the canvas for our informal grid."
     - title: "Let's Practice"
       serial: "level-3-assignment-1-subpage-lets-practice"
