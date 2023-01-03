@@ -7,7 +7,7 @@ title: Assessment
 
   Algonquin College's grading system is based on letter grades. You'll find a qualitative description as well as numerical equivalents of the letter grades below.
 
-  You need to maintain a GPA above 1.7, with no grades below C- to succeed in the program. There is information on calculating your grade point average <a href="https://www.algonquincollege.com/policies/files/2017/06/AA14.pdf" title="The collage's info on your GPA">here, on the College's site</a>.
+  You need to maintain a GPA above 1.7, with no grades below C- to succeed in the program. There is information on calculating your grade point average <a href="https://www.algonquincollege.com/policies/files/2022/04/AA14.pdf" title="The collage's info on your GPA">here, on the College's site</a>.
 
   If you've earned an A, or 85% and you find yourself wondering why you lost 15 points on an assignment, don't think of it that way. Your work must have been superior, but not excellent. The difference between 85% and 89% becomes irrelevant, because the whole range earns you a grade of A. Focus on the letter, not the number.
 

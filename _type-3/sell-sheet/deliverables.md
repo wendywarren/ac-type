@@ -1,6 +1,6 @@
 ---
 layout: type3
-serial: level-3-magazine-subpage-deliverables
+serial: level-3-sell-sheet-subpage-deliverables
 ---
 ### Prepare Print-Ready Files
 
@@ -22,11 +22,11 @@ As we'll only be using Adobe Fonts, there's not much to do here. No fonts will e
 
 If there's a font folder in your package folder, there's a problem. Look inside to see what's there. It's not an Adobe Font, so you need to go remove it from your InDesign file, then package it again.
 
-### Your Submission Folder
+### Digital Submission
 
 Be sure your InDesign document is named as usual:
 
-**appleseed-johnny-010-magazine.indd**
+**appleseed-johnny-010-sell-sheet.indd**
 
 Note
 : Never rename a file while it's open. Close it. Rename it in Finder, then re-open it.
@@ -35,4 +35,14 @@ When you package your InDesign document with <span class="command">File > Packag
 
 ![InDesign Submission Folder]({{site.url}}/svg/submission-indesign-package.svg){:width="50%"}
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438419&grpid=0&isprv=&bp=0&ou=463708" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="{{ site.data.type3[1].brightspace[1].bs_url }}" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+
+### Printed Submission
+
+You're going to print your sell sheet on colour duplex tabloid paper in the hallway printer.
+
+Export your completed InDesign layout to PDF. Be sure to to turn on Crop Marks and Use Document Bleed Settings in the Marks & Bleeds section of the PDF export dialogue. You'll get a two letter page PDF that has crop marks on it. This is what you're going to print.
+
+[![Printing Video Tutorial](/svg/button-video-tutorial.svg "button-video-tutorial.svg")](https://youtu.be/5AThvbsAjwo){:target="_blank"}
+
+This is a video tutorial to help you print your sell sheet. Hand in this tabloid sheet as-is on the due date. No envelope required.

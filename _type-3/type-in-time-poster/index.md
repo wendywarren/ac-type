@@ -2,7 +2,7 @@
 layout: type3
 serial: level-3-assignment-1-home
 ---
-This assignment will have you design a poster which describes and showcases a typeface from a given [classification category](/kb/classification-categories.html). The design must only contain type, shapes and/or patterns. Your type selection must be from [Adobe Fonts](https://fonts.adobe.com){: target="_blank"}. An informal grid will create the structure of your layout. Your application of colour should be restrained.
+This assignment will have you design a 24" x 36" poster which describes and showcases a typeface from a given [classification category](/kb/classification-categories.html). The design must only contain type, shapes and/or patterns. Your type selection must be from [Adobe Fonts](https://fonts.adobe.com){: target="_blank"}. An informal grid will create the structure of your layout. Your application of colour should be restrained.
 
 You need to put all the type rules you've learned to date into practice. This means italicizing where appropriate; use quotes where needed, etc…
 

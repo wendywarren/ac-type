@@ -9,4 +9,4 @@ Name your file as usual, **appleseed-johnny-save-the-date.ai**
 Add a PDF to the submission folder.
 
 ![Illustrator Submission Folder]({{site.url}}/svg/submission-folder-ai.svg){:width="33%"}
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414028&grpid=0&isprv=0&bp=0&ou=448664" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="{{ site.data.type4[0].brightspace[2].bs_url }}" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

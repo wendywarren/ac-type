@@ -23,7 +23,7 @@ You can navigate all the semester's assignments to explore what you'll be learni
 	</thead>
 	<tbody>
 	<tr><td>Poster</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
-	<tr><td>Grimm Dust Cover</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
+	<tr><td>Sell Sheet</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
 	<tr><td>Grimm's Pages</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
 	<tr><td>Publication</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
 	<tr><td>Presentations</td><td class="column-2">Presentations & Submissions</td><td class="column-3">10%</td></tr>

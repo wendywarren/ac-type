@@ -5,7 +5,11 @@ deck: "How does a font go from the typographer's mind to the market, to your pag
 ---
 ### The Typographer
 
-Typographers actually design typefaces. The start with a purpose or reason for a type design. What problem does it solve? What use-case hasn't been solved that this design will solve? Is the type meant for long text or headlines? Is it to mimic a old typewriter or a broad-tipped pen?
+Typographers actually design typefaces. The start with a purpose or reason for a type design. What problem does it solve? What use-case hasn't been solved that this design will satisfy? Is the type meant for long text or headlines? Is it to mimic a old typewriter or a broad-tipped pen?
+
+Typographers can sell their work in different ways. They can be independant, selling their type directly to the end-user, either through their own stores or through online distributors.
+
+Large corporations often hire typographers to create bespoke type for their brands, too.
 
 #### Historical Context
 
@@ -27,7 +31,7 @@ There are typefaces created for corporate use and some for general sale.
 
 It's complicated.
 
-There are two perspectives to consider. The owner of the copyrighted material and the user.
+There are two perspectives to consider. The owner of the copyrighted material and the user. You can [read more about it here](https://www.creativebloq.com/features/font-licensing).
 
 #### Design Quality
 

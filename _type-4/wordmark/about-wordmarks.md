@@ -46,4 +46,4 @@ The ground rules:
 
 Save your file as a PDF, then submit it here.
 
-[![Submit on Brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="40%"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=403346&grpid=0&isprv=0&bp=0&ou=411212){: target="_blank"}
+[![Submit on Brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}]({{ site.data.type4[2].brightspace[0].bs_url }}){: target="_blank"}

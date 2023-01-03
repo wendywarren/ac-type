@@ -22,6 +22,7 @@ These are some grotesque faces on Adobe Fonts:
 	<li><a href="https://fonts.adobe.com/fonts/atf-alternate-gothic-extra-condensed" target="_blank">ATF Alternate Gothic Extra Condensed</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/atf-alternate-gothic" target="_blank">ATF Alternate Gothic</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/atf-franklin-gothic" target="_blank">ATF Franklin Gothic</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/gibson" target="_blank">Gibson</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/atf-headline-gothic" target="_blank">ATF Headline Gothic</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/atf-poster-gothic-condensed" target="_blank">ATF Poster Gothic Condensed</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/atf-poster-gothic-extra-condensed" target="_blank">ATF Poster Gothic Extra Condensed</a></li>

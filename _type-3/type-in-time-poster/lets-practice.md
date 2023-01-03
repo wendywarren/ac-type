@@ -6,8 +6,7 @@ Let's open the Illustrator file linked below to practice creating a layout with 
 
 <ul class="hasBullets">
 	<li><a href="https://fonts.adobe.com/fonts/baskerville-urw" title="Baskerville" target="_blank">Baskerville URW</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/bodoni-urw" title="Bodoni" target="_blank">Bodoni URW</a></li>
-	<li><a href="https://fonts.adobe.com/fonts/adobe-caslon" title="Caslon" target="_blank">Adobe Caslon</a></li>
+	<li><a href="https://fonts.adobe.com/fonts/kings-caslon" title="King's Caslon" target="_blank">King's Caslon</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/garamond-premier" title="Adobe Garamond Premier" target="_blank">Adobe Garamond Premier</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/itc-franklin-gothic" title="ITC Franklin Gothic" target="_blank">ITC Franklin Gothic</a></li>
 	<li><a href="https://fonts.adobe.com/fonts/acumin" title="Acumin" target="_blank">Adobe Acumin</a></li>
@@ -43,6 +42,6 @@ The last item is the block of body copy. Make sure to set proper leading and rea
 
 Once you're done, save your work, then save a copy of your file as a Print Ready PDF file.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438421&grpid=0&isprv=&bp=0&ou=463708" title="Submit a PDF" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="{{ site.data.type3[0].brightspace[0].bs_url }}" title="Submit a PDF" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
 
 We'll do a quick critique of the result.

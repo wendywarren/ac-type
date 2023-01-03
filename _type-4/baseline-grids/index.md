@@ -8,6 +8,6 @@ Starting with the page as our canvas, we'll learn how to design a layout grid. W
 
 Aligning text to the baseline grid creates a structured and clean look with a vertical rhythm on the page.
 
-![Baseline Grids]({{site.url}}/svg/baseline-grids.svg){:width="90%"}
+![Baseline Grids]({{site.url}}/svg/baseline-grids/baseline-grids.svg){:width="90%"}
 
 An additional challenge is working with different size type which all aligns to the baseline grid.

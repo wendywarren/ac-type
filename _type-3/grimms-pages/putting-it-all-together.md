@@ -28,7 +28,7 @@ You're going to use all the text from your story. Let it take as many pages as n
 
 ### InDesign Work
 
-The important work is done at the outset. Document setup, margin setup and Parent Pages (previously called Master Pages) are where the action happens.
+The important work is done at the outset. Document setup, margin setup and Parent Pages are where the action happens.
 
 You'll want to create your pages to fit the dust cover you just completed. Remember that the front of the trimmed dust cover measured 12cm wide by 20cm tall. That means that each page will need to be three or four millimetres smaller than the cover. You need to figure out your dimensions.
 

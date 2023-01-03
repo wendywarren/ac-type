@@ -38,7 +38,7 @@ This is all about finesse. The basics of this assignment are simple to execute. 
 	<li>Research examples of fiction novel page treatments.</li>
 	<li>Research what makes a good typeface for a long document like a fiction novel.</li>
 	<li>Get the text of <a href="http://www-2.cs.cmu.edu/~spok/grimmtmp/" title="Get the text for your fairy tale." target="_blank">your fairy tale</a>.</li>
-	<li>Typeface selection</li>
+	<li>Make your typeface selection</li>
 	<li>Stylistic elements development</li>
 	<li>Set up InDesign with proper text composition & hyphenation settings.</li>
 	<li>Get my approval on your design</li>
@@ -86,7 +86,7 @@ Front matter pages are traditionally paginated with roman numerals.
 
 #### Content
 
-The main part of the book made of the actual manuscript. It'll have regular pages and chapter pages. **This is we're doing in this project.**
+The main part of the book made of the actual manuscript. It'll have regular pages and chapter pages. **This is what we're doing in this project.**
 
 The content pages may contain ornaments. You can use an ornament from your font on chapter opening pages or for breaks in the text. *These should not be distracting.*
 

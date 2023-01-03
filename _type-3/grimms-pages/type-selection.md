@@ -8,7 +8,7 @@ We want to make sure the colour of the page is uniform. Type size, width and wei
 
 There's on old adage by typesetters that says, *When in doubt, choose Caslon*. So let's avoid Caslon altogether.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=404084&grpid=0&isprv=0&bp=0&ou=411208" title="Submit your type choice." target="_blank">![button-submit-type-choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}</a>
+<a href="{{ site.data.type3[2].brightspace[0].bs_url }}" title="Submit your type choice." target="_blank">![button-submit-type-choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}</a>
 
 ### Properties to Seek Out
 
@@ -69,8 +69,6 @@ See how the block of text looks like a spider walked all over our page with ink 
 ![Ornaments]({{site.url}}/svg/ornaments.svg){:width="60%"}
 
 Ornaments are actually glyphs that are part of a font. The simplest way to choose one is to select a font, then open the glyphs panel to get a list. A majority of fonts don't have ornaments. They're a lot of work for the typographer to design.
-
-If you want to see an impressive array of ornaments, take a gander at [this PDF with details on the Warnock family](https://www.adobe.com/content/dam/acom/en/products/type/pdfs/WarnockPro.pdf){:target="_blank"}. Be sure to read how the story of the typeface began in the PDF. It'll surely bring a tear to your eye.
 
 Depending on the context, ornaments can create a visual break in reading and enhance the appearance of our pages.
 

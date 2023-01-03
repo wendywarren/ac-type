@@ -10,7 +10,7 @@ Tell me the reason for your choice. No B.S. Make it honest. Take your time. What
 
 Do your research. Make your choice, then tell me.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=456617&grpid=0&isprv=0&bp=0&ou=463708" target="_blank" class="brightspace">![Submit your Type Choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}</a>
+<a href="{{ site.data.type3[0].brightspace[1].bs_url }}" target="_blank" class="brightspace">![Submit your Type Choice]({{site.url}}/svg/button-submit-type-choice.svg){:width="50%"}</a>
 
 #### Colour Treatment
 

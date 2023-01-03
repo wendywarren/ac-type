@@ -14,8 +14,16 @@ Now that you have your whole design complete as sketches, colour palette and typ
 | Columns         | X          |
 | Gutter          | 1x Leading |
 | Margins         | 3x Leading |
-| Bleeds          | 0.125"     |
+| Bleeds          | 0p9"     |
 |------------------------------|
+
+### Units of Measure
+
+Points and Picas are often used in design for print. This is an explanation of these ancient units of measure.
+
+![Points, Picas and Inches](/svg/sell-sheet/points-picas-inches.svg "points-picas-inches.svg"){:width="80%"}
+
+It may take time for you to get used to using them, but they are useful. We use points to measure type. It stands to reason we'll use picas, too. They're all part of the same  [measurement system](https://type.algonquindesign.ca/kb/measuring-type.html).
 
 ### Colour Your World
 

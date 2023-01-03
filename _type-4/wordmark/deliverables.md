@@ -10,4 +10,4 @@ The PDF file is a contact sheet with the wordmark in each colour with its recipe
 
 ![InDesign Submission Folder]({{site.url}}/svg/wordmark/submission-wordmark.svg){:width="90%"}
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414032&grpid=0&isprv=&bp=0&ou=448664" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="{{ site.data.type4[2].brightspace[2].bs_url }}" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

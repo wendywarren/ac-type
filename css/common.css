@@ -309,7 +309,7 @@ ul.inline-list li { display: inline; }
 ol {
 	margin-top: 1rem;
 }
-ol li {	margin-left: -1.5rem; }
+ol li {	margin-left: -1rem; }
 
 ul.hasBullets
 {

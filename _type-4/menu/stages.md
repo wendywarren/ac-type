@@ -14,13 +14,13 @@ Propose your concept to the client. You can include type selection, hierarchy an
 
 Remember that you're pitching this to a non-designer. Organize the page layout so items are distinct from each other. You *could* make a page for colour, then a page for *type* and so on. Organize your pitch as you see fit. Just keep the client's point-of-view in mind.
 
-[![button-submit-your-concept]({{site.url}}/svg/button-submit-your-concept.svg){:width="50%"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=396417&grpid=0&isprv=0&bp=0&ou=411212){:target="_blank;"}
+[![button-submit-your-concept]({{site.url}}/svg/button-submit-your-concept.svg){:width="50%"}]({{ site.data.type4[1].brightspace[0].bs_url }}){:target="_blank;"}
 
 #### Development & Iteration
 
 Work on an overall plan for your menu. Draw this out on paper. You should end up with a high-fidelity rendering of your menu on paper. This should be presentable to the client.
 
-[![Submit a PDF for Feedback]({{site.url}}/svg/button-submit-for-feedback.svg){:width="40%"}](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=396418&grpid=0&isprv=&bp=0&ou=411212){:target="_blank;"}
+[![Submit a PDF for Feedback]({{site.url}}/svg/button-submit-for-feedback.svg){:width="40%"}]({{ site.data.type4[1].brightspace[1].bs_url }}){:target="_blank;"}
 
 #### Production
 

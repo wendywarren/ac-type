@@ -40,6 +40,8 @@ Show a colour palette. It's not necessary to show tints and shades. We know you'
 
 Choose a sans-serif for headlines, call-outs and more. Use a serif for the body copy. Keep the company in mind. Your type selection should suit the purpose of the company.
 
+> Be sure to include the names of your chosen typefaces on the mood board. Use a bit of actual text from the client, too.
+
 #### Type Hierarchy
 
 ![Type Hierarchy]({{site.url}}/svg/sell-sheet/hierarchy.svg){:width="50%"}

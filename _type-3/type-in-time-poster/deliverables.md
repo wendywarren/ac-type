@@ -6,6 +6,12 @@ Before you submit, be sure to go through the assignment pages to ensure you've f
 
 ### Submission
 
+#### Printed
+
+Print your final poster in colour. Include bleeds and the file info on your output. No envelope is needed. I'll have one in class.
+
+#### Digital
+
 Name your Illustrator document like this:
 
 **appleseed-johnny-010-poster.ai**
@@ -18,4 +24,4 @@ Then add a PDF file to the folder. Zip, then submit.
 
 ![Illustrator Submission folder]({{site.url}}/svg/submission-folder-ai.svg){:width="50%"}
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438423&grpid=0&isprv=&bp=0&ou=463708" title="Submit on BrightSpace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="{{ site.data.type3[0].brightspace[4].bs_url }}" title="Submit on BrightSpace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

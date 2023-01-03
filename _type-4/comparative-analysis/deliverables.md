@@ -46,4 +46,4 @@ Open your PDF in Adobe Acrobat. Hit <span class="command">⌘-d</span>. Choose t
 Save, then close your PDF file. Zip, then submit the whole InDesign package folder.
 
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414030&grpid=0&isprv=&bp=0&ou=448664" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="{{ site.data.type4[3].brightspace[2].bs_url }}" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

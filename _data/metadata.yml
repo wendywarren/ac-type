@@ -21,9 +21,7 @@ courses:
     brightspace: "https://brightspace.algonquincollege.com/d2l/home/411212"
 program-links:
   - name: "Algonquin Design"
-    url: "https://algonquindesign.ca"
-  - name: "Learn The Web"
-    url: "https://learn-the-web.algonquindesign.ca/"
+    url: "https://algonquindesign.ca/"
   - name: "Computer Graphics"
     url: "https://cg.algonquindesign.ca/"
   - name: "Book an Appointment"
@@ -37,3 +35,5 @@ other-links:
     url: "https://algonquincollege.libguides.com/slc/peer-tutoring"
   - name: "Ergonomics"
     url: "https://support.apple.com/en-ca/HT205655"
+  - name: "Your Price is Too High"
+    url: "/pages/your_price_is_too_high.html"

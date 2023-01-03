@@ -27,7 +27,7 @@ This style board is for your client (me). I should be able to envision your desi
 
 > Do not design the layout on your style board—only the ingredients.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438417&grpid=0&isprv=&bp=0&ou=463708" title="Submit on BrightSpace" target="_blank">![Submission Button]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="{{ site.data.type3[3].brightspace[1].bs_url }}" title="Submit on BrightSpace" target="_blank">![Submission Button]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
 
 ### Sketch Your Layout
 
@@ -37,4 +37,4 @@ The style board above lays out the ingredients for your design. The sketches hel
 
 You should have multiple pages of hand-drawn sketches. There should be clear progress towards a concept as you go. Once you have a concept with which you're satisfied, take clear photos at a right angle to your pages. Save them in a multipage PDF file.
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438418&grpid=0&isprv=&bp=0&ou=463708" title="Submit on BrightSpace" target="_blank">![Submission Button]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="{{ site.data.type3[3].brightspace[1].bs_url }}" title="Submit on BrightSpace" target="_blank">![Submission Button]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

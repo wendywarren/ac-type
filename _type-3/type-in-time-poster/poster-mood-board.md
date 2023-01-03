@@ -1,6 +1,6 @@
 ---
 layout: type3
-serial: level-3-assignment-1-subpage-your-process
+serial: level-3-assignment-1-subpage-poster-mood-board
 ---
 ### Creative Process
 
@@ -29,7 +29,7 @@ Create a single-page PDF mood board. If we were cooking, this would be all the i
 </ul>
 
 <span class="brightspace">
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438422&grpid=0&isprv=&bp=0&ou=463708" title="Submit your PDF on BrightSpace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a></span>
+<a href="{{ site.data.type3[0].brightspace[2].bs_url }}" title="Submit your PDF on BrightSpace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a></span>
 
 ### Type Size
 

@@ -10,4 +10,4 @@ Use InDesign's Package function to submit your file.
 
 ![InDesign Submission Folder]({{site.url}}/svg/submission-indesign-package.svg){:width="40%"}
 
-<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414033&grpid=0&isprv=&bp=0&ou=448664" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>
+<a href="{{ site.data.type4[4].brightspace[0].bs_url }}" title="Submit on Brightspace" target="_blank">![Submit on brightspace]({{site.url}}/svg/button-submit-brightspace.svg){:width="50%"}</a>

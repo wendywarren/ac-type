@@ -32,6 +32,8 @@ Here, we're going to take a more practical approach to our page layout. All we n
 
 ![Economical Layout]({{site.url}}/svg/economical-layout.svg){:width="80%"}
 
+Your pages will measure 11cm by 19cm. You'll choose your margins. The inside margins should be larger than the outside margins.
+
 ### The Colour of the Page
 
 The phrase *colour of the page* doesn't literally refer to colour itself. It refers to what the page looks like if you print one, hold it at arm's length, then blur your vision. How light or dark grey is the page? The density of the content is the colour of the page. There are many factors that affect page colour, type selection, type weight, leading and letter-spacing. See some examples in this PDF.
@@ -66,6 +68,8 @@ These numbers are a starting point. They're not written in stone. They're better
 You'll know you're settings are incorrect if there is yellow highlighting on your InDesign pages. You can see bad and good justified text in the PDF file linked below.
 
 <a href="https://www.dropbox.com/s/tceqy4n160vpwsn/good-vs-bad-justification.pdf?dl=1" title="Good Vs Bad Justification" target="_blank">![Download a PDF]({{site.url}}/svg/button-download-pdf.svg){:width="40%"}</a>
+
+> Remember! You're using first line indents—not spaces between paragraphs.
 
 #### Rivers
 

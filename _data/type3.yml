@@ -16,16 +16,16 @@
     - outcome: "Select and apply theme-appropriate colours."
     - outcome: "Use the appropriate software tools and techniques to build the page."
   brightspace:
-    - bs_link_title: "Submit Your Type Choice"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=456617&grpid=0&isprv=0&bp=0&ou=463708"
     - bs_link_title: "Informal Grids: Let's Practice!"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438421&grpid=0&isprv=0&bp=0&ou=463708"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480488&grpid=0&isprv=0&bp=0&ou=503881"
+    - bs_link_title: "Submit Your Type Choice"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480490&grpid=0&isprv=0&bp=0&ou=503881"
     - bs_link_title: "Poster Mood Board (PDF)"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438422&grpid=0&isprv=0&bp=0&ou=463708"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480494&grpid=0&isprv=0&bp=0&ou=503881"
     - bs_link_title: "Poster WIP (PDF)"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=458783&grpid=0&isprv=0&bp=0&ou=463708"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480497&grpid=0&isprv=0&bp=0&ou=503881"
     - bs_link_title: "Poster Final Submission"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438423&grpid=0&isprv=0&bp=0&ou=463708"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480498&grpid=0&isprv=0&bp=0&ou=503881"
   videos:
     - video_title: "Illustrator poster document setup"
       video_url: "https://youtu.be/ORFTK9WCCp8"
@@ -56,9 +56,9 @@
       serial: "level-3-assignment-1-subpage-your-content"
       url: type-3/type-in-time-poster/your-poster-content.html
       deck: "The content of your poster will give the viewer a full profile of the typeface you've chosen."
-    - title: "Your Process"
-      serial: "level-3-assignment-1-subpage-your-process"
-      url: type-3/type-in-time-poster/your-process.html
+    - title: "Poster Mood Board"
+      serial: "level-3-assignment-1-subpage-poster-mood-board"
+      url: type-3/type-in-time-poster/poster-mood-board.html
       deck: "While this is not a software assignment, your file needs to be built properly in order to go to production. Then there's the creative process, too."
     - title: "Deliverables"
       serial: "level-3-assignment-1-subpage-deliverables"
@@ -82,7 +82,7 @@
     - outcome: "Implement a design with a modular grid."
     - outcome: "Devise type hierarchy for a single-page design."
     - outcome: "Sketch page layouts on paper as thumbnails and higher fidelity mockups."
-    - outcome: "Create an context-appropriate and technically correct colour theme."
+    - outcome: "Create a context-appropriate and technically correct colour theme."
     - outcome: "Combine the use of photography and typography to compose balanced page layouts."
     - outcome: "Make a reasoned font pairing which suits a given context."
     - outcome: "Manipulate type to create a pleasing, harmonious, context-appropriate design."
@@ -90,15 +90,23 @@
     - outcome: "Produce print-ready files."
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
-    - bs_link_title: "Mood Board (PDF)"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438417&grpid=0&isprv=0&bp=0&ou=463708"
-    - bs_link_title: "Sketches (PDF)"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438418&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Mood Board & Sketches (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480489&grpid=0&isprv=0&bp=0&ou=503881"
+    - bs_link_title: "Sell Sheet WIP"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480491&grpid=0&isprv=0&bp=0&ou=503881"
     - bs_link_title: "Final Sell Sheet"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438420&grpid=0&isprv=0&bp=0&ou=463708"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480493&grpid=0&isprv=0&bp=0&ou=503881"
   videos:
-    - video_url: "https://youtu.be/"
-      video_title: "Some video"
+    - video_url: "https://youtu.be/Y1fQG0oTBU0"
+      video_title: "Page layout sketching template"
+    - video_url: "https://youtu.be/YJsLZMQ8VoM"
+      video_title: "<i>Based on</i> paragraph styles"
+    - video_url: "https://youtu.be/dViEBvTGat0"
+      video_title: "Build a better text frame in InDesign"
+    - video_url: "https://youtu.be/5AThvbsAjwo"
+      video_title: "Print your sell sheet"
+    - video_url: "https://youtu.be/LK2Dd9lwbFY"
+      video_title: "Place Photos in InDesign in CMYK at 300dpi and at 100%"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
     - https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
@@ -143,16 +151,18 @@
     - outcome: "Use stylistic elements in an appropriate context and manner."
     - outcome: "Use software tools effectively to build pages for a long document."
   brightspace:
-    - bs_link_title: "Type Selection"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438414&grpid=0&isprv=0&bp=0&ou=463708"
+    - bs_link_title: "Grimm's Type Selection"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480487&grpid=0&isprv=0&bp=0&ou=503881"
+    - bs_link_title: "Grimm's Pages WIP"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480492&grpid=0&isprv=0&bp=0&ou=503881"
     - bs_link_title: "Grimm's Pages"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438416&grpid=0&isprv=0&bp=0&ou=463708"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480496&grpid=0&isprv=0&bp=0&ou=503881"
   videos:
     - video_url: "https://youtu.be/4P-xnLSqgkY"
       video_title: "Remove all double paragraph breaks and double spaces from your text."
     - video_url: "https://youtu.be/z3ZRuyycsZo"
       video_title: "Automatic page numbers on Parent Pages"
-    - video_url: "https://youtu.be/z3ZRuyycsZo"
+    - video_url: "https://youtu.be/IXYR0Kd1rso"
       video_title: "Running Headers in InDesign"
     - video_url: "https://youtu.be/YJsLZMQ8VoM"
       video_title: "Create a parent paragraph style on which to base the other styles"
@@ -197,19 +207,21 @@
     - outcome: "Select, then apply context-appropriate colours along with their tints and shades to create a colour theme."
   brightspace:
     - bs_link_title: "Magazine Style Tile (PDF)"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379280&grpid=0&isprv=0&bp=0&ou=411208"
-    - bs_link_title: "Magazine Feedback (PDF)"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379281&grpid=0&isprv=0&bp=0&ou=411208"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480486&grpid=0&isprv=0&bp=0&ou=503881"
+    - bs_link_title: "Magazine WIP (PDF)"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480495&grpid=0&isprv=0&bp=0&ou=503881"
     - bs_link_title: "Magazine Final Submission"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=379285&grpid=0&isprv=0&bp=0&ou=411208"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480499&grpid=0&isprv=0&bp=0&ou=503881"
   videos:
     - video_url: "https://youtu.be/Y1fQG0oTBU0"
       video_title: "Page Layout Sketching Template"
     - video_url: "https://youtu.be/dViEBvTGat0"
       video_title: "Build a Better Text Frame"
+    - video_url: "https://youtu.be/qk3e90t3hvs"
+      video_title: "Align text to the baseline grid."
     - video_url: "https://youtu.be/wCobcIt8Dx8"
       video_title: "Baseline Grid Increment"
-    - video_url: "https://youtu.be/o0aubQ4T2_Y"
+    - video_url: "https://youtu.be/awYqZbvBgSk"
       video_title: "Remove all double paragraph breaks and double spaces from your text"
     - video_url: "https://youtu.be/z3ZRuyycsZo"
       video_title: "Automatic page numbers on Parent Pages"
@@ -217,8 +229,14 @@
       video_title: "Create a parent paragraph style on which to base the other styles"
     - video_url: "https://youtu.be/JLo5qIBpyuE"
       video_title: "Create a drop cap on your chapter opening page."
+    - video_url: "https://youtu.be/IXYR0Kd1rso"
+      video_title: "Create Running Headers"
     - video_url: "https://youtu.be/Q4QpsPmQIRc"
       video_title: "Insert a story ender graphic in InDesign"
+    - video_url: "https://youtu.be/9q1rQadZBR8"
+      video_title: "Create a story jump."
+    - video_url: "https://youtu.be/G2FQrROGaaE"
+      video_title: "Optical Margin Alignment"
   resource-links: |
     - https://learning.oreilly.com/library/view/the-art-of/9781315301532/xhtml/14_Chapter08.xhtml
   # Subpages
@@ -235,6 +253,10 @@
       serial: "level-3-magazine-subpage-assembly-work"
       url: type-3/magazine/assembly-work.html
       deck: "This is the text for the deck for the magazine assignment."
+    - title: "Concept Development"
+      serial: "level-3-magazine-subpage-concept-development"
+      url: type-3/magazine/concept-development.html
+      deck: "Develop your concept with the help of a mood board. Submit for feedback on your design."
     - title: "Deliverables"
       serial: "level-3-magazine-subpage-deliverables"
       url: type-3/magazine/deliverables.html
@@ -247,10 +269,16 @@
 - title: "Type Family Pairing"
   url: type-3/type-family-pairing/index.html
   point-value: 5
-  serial: level-3-item-1-home
+  serial: level-3-assignment-5-home
   deck: "What makes a pair of type families harmonious versus another that simply clash? Are there any clues to get us started in making compatible matches? We'll delve deep into the witchcraft of type pairs."
   outcomes:
     - outcome: "Discern the characteristics of type families which show they harmonize."
+    - outcome: "Your font selection is a successful match with the given family."
+    - outcome: "You have adhered to the given technical specifications."
+    - outcome: "Your layout visually demonstrates that the families harmonize well."
+    - outcome: "You've clearly verbally explained why you think these families are a sound pairing. You've communicated drawbacks, if any."
+    - outcome: "Your text is properly written and error-free."
+    - outcome: "You've submitted files as directed, ready for print."
   resource-links: |
     - https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b
     - https://learning.oreilly.com/library/view/design-school-type/9781631594397/xhtml/ch05.xhtml
@@ -263,29 +291,24 @@
     - https://www.typography.com/blog/typographic-doubletakes
   pages:
     - title: "Examples, Good & Bad"
-      serial: level-3-item-1-subpage-examples-good-and-bad
+      serial: "level-3-item-1-subpage-examples-good-and-bad"
       url: type-3/type-family-pairing/examples-good-and-bad.html
       deck: "Let's look at some type families to see how they pair up, or don't."
     - title: "Your Assignment"
-      serial: level-3-item-1-subpage-your-assignment
+      serial: "level-3-item-1-subpage-your-assignment"
       url: type-3/type-family-pairing/your_assignment.html
       deck: "Given one type family, match it with a second. Tell me why they go well together. Where would you use them? Show me a sample treatment to demonstrate that."
     - title: "Deliverables"
-      serial: level-3-item-1-subpage-deliverables
+      serial: "level-3-item-1-subpage-deliverables"
       url: type-3/type-family-pairing/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438425&grpid=0&isprv=&bp=0&ou=463708"
-      criteria:
-        - criterium: "Your font selection is a successful match with the given family."
-        - criterium: "You have adhered to the given technical specifications."
-        - criterium: "Your layout visually demonstrates that the families harmonize well."
-        - criterium: "You've clearly verbally explained why you think these families are a sound pairing. You've communicated drawbacks, if any."
-        - criterium: "Your text is properly written and error-free."
-        - criterium: "You've submitted files as directed, ready for print."
+  brightspace:
+    - bs_link_title: "Pairing Deliverables"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480501&grpid=0&isprv=0&bp=0&ou=503881"
 
 # [5] Typographer of the Week # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Typographer of the Week"
-  serial: level-3-item-3-home
+  serial: level-3-assignment-6-home
   point-value: 5
   url: type-3/typographer-of-the-week/index.html
   deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
@@ -293,24 +316,29 @@
   pinterest: "https://pin.it/alainparadis"
   outcomes:
     - outcome: "Gain a historical knowledge of the typographers behind the typefaces."
+    - outcome: "Your presentation includes at least the facts listed on the assignment page."
+    - outcome: "Your text is your own, properly written and error-free."
+    - outcome: "You communicate the facts clearly, in an organized fashion."
+    - outcome: "You've submitted files as directed, ready for print."
   resource-links: |
     - https://learning.oreilly.com/library/view/typography-referenced/9781592537020/
   # Subpages
   pages:
+    - title: "Your Task"
+      serial: "level-3-assignment-6-subpage-your-task"
+      url: type-3/typographer-of-the-week/your-task.html
+      deck: "Write a bio of your given typographer."
     - title: "Deliverables"
-      serial: level-3-item-3-subpage-deliverables
+      serial: "level-3-assignment-6-subpage-deliverables"
       url: type-3/typographer-of-the-week/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=438424&grpid=0&isprv=&bp=0&ou=463708"
-      criteria:
-        - criterium: "Your presentation includes at least the facts listed on the assignment page."
-        - criterium: "You communicate the facts clearly, in an organized fashion."
-        - criterium: "Your presentation is properly written and error-free."
-        - criterium: "You've submitted files as directed on the assignment page."
+  brightspace:
+    - bs_link_title: "Typographer Deliverables"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480500&grpid=0&isprv=0&bp=0&ou=503881"
 
-# [6] Type Knowledge Base # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- title: "Type Knowledge Base"
-  serial: level-3-item-4-home
+# [6] Type Knowledge # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+- title: "Type Knowledge"
+  serial: level-3-assignment-7-home
   point-value: 5
   url: kb/index.html
   deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."

@@ -34,9 +34,11 @@ Our magazine dimensions are going to be A4 size, that's 21cm x 29.7cm. <a href="
 
 ### Your Grid
 
-I suggest you divide your page into 6 columns. That way, you can mostly use them as a three columns, with halves built-in
+I suggest you use 6 columns on most of your pages. A few of them will work better with an 8 column grid. That way, you can mostly use them as a three or four columns, with halves built-in.
 
 ![Six Column Page Layout Grid]({{site.url}}/svg/6-column-page-grid.svg){:width="90%"}
+
+![Eight Column Page Layout Grid]({{site.url}}/svg/8-column-page-grid.svg){:width="90%"}
 
 ### Bleeds
 
@@ -59,7 +61,7 @@ You must align your body copy to the baseline grid. The baseline grid is a set o
 
 ![Baseline Grids]({{site.url}}/svg/baseline-grids/baseline-grids.svg){:width="90%"}
 
-<a href="https://www.youtube.com/watch?v=U_U3-RYLYlg" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="40%"}</a>
+<a href="https://youtu.be/qk3e90t3hvs" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="40%"}</a>
 
 We can have text aligned to the baseline whether it's left-aligned or left-justified. You **do not** need to align titles or any other text to the baseline grid.
 
@@ -67,4 +69,4 @@ We can have text aligned to the baseline whether it's left-aligned or left-justi
 
 You'll need to sketch page layouts. I usually print pages with a grid on them to guide me in my sketching. It also helps that the proportions are the same as my final printed piece.
 
-<a href="https://youtu.be/TIw4ZRjnt64" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="40%"}</a>
+<a href="https://youtu.be/Y1fQG0oTBU0" title="View the video tutorial" target="_blank">![Video Tutorial]({{site.url}}/svg/button-video-tutorial.svg){:width="40%"}</a>

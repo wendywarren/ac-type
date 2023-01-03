@@ -16,3 +16,11 @@ Note that small caps are sometimes slightly larger than the x-height of the lowe
 ![Scaled Capitals]({{site.url}}/svg/kb/scaled-capitals.svg){:width="90%"}
 
 Either way, it is generally frowned upon to scale a letter within a word. The weights of each character are affected. It just looks bad.
+
+### How do I know?
+
+You should be able to see the difference between real small caps and faked ones. If you're concerned you can't, simply consult the Glyphs panel to see if they're there.
+
+![Faux Small Caps Example]({{site.url}}/svg/kb/faux-small-caps-example.svg){:width="90%"}
+
+In the example above you can see how the weight of the capital compared to the rest of the phrase is incorrect in the lower example. It's a fairly subtle difference, but it's there.

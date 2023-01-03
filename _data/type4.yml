@@ -16,9 +16,11 @@
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
     - bs_link_title: "Save The Date Concept"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414022&grpid=0&isprv=0&bp=0&ou=448664"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480629&grpid=0&isprv=0&bp=0&ou=503884"
+    - bs_link_title: "Save the Date WIP"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480747&grpid=0&isprv=0&bp=0&ou=503884"
     - bs_link_title: "Save the Date Final"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414028&grpid=0&isprv=0&bp=0&ou=448664"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480635&grpid=0&isprv=0&bp=0&ou=503884"
   videos:
     - video_title: "Point Type Vs Area Type in Illustrator"
       video_url: "https://youtu.be/g_7ytLhVQMo"
@@ -32,18 +34,15 @@
       serial: "level-4-assignment-1-save-the-date-subpage-informal-grids"
       url: type-4/save-the-date/informal-grids.html
       deck: "This is a review of informal grids and how to use them."
-    - title: "The Process"
+    - title: "Your Concept"
       serial: "level-4-assignment-1-save-the-date-subpage-your-concept"
       url: type-4/save-the-date/your-concept.html
-      deck: "You'll learn about informal grids to design your invitation."
+      deck: "Create a mood board to communicate your concept to the client."
     - title: "Deliverables"
       serial: "level-4-assignment-1-subpage-deliverables"
       url: type-4/save-the-date/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-      criteria:
-        - criterium: "This is the first criterium."
-        - criterium: "You've submitted files as directed, ready for print."
 
 # [1] Menu Design # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "The Art of the Menu"
@@ -67,11 +66,11 @@
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
     - bs_link_title: "Menu Concept"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414023&grpid=0&isprv=0&bp=0&ou=448664"
-    - bs_link_title: "Menu Feedback"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414027&grpid=0&isprv=0&bp=0&ou=448664"
-    - bs_link_title: "Menu"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414029&grpid=0&isprv=0&bp=0&ou=448664"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480630&grpid=0&isprv=0&bp=0&ou=503884"
+    - bs_link_title: "Menu WIP"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480634&grpid=0&isprv=0&bp=0&ou=503884"
+    - bs_link_title: "Final Menu"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480636&grpid=0&isprv=0&bp=0&ou=503884"
   videos:
     - video_title: "Remove Extraneous Paragraph Breaks in InDesign"
       video_url: "https://youtu.be/4P-xnLSqgkY"
@@ -119,9 +118,8 @@
        serial: "level-4-assignment-2-menu-subpage-deliverables"
        url: type-4/menu/deliverables.html
        deck: "Gather all your stuff. It's time to send your assignment home."
-       brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 
-# [3] Assignment #4 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# [2] Wordmark # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Wordmark"
   type: "File Submission"
   value: "20%"
@@ -142,11 +140,11 @@
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
     - bs_link_title: "Conceptual Wordmark"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414024&grpid=0&isprv=0&bp=0&ou=448664"
-    - bs_link_title: "Wordmark Feedback"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414031&grpid=0&isprv=0&bp=0&ou=448664"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480631&grpid=0&isprv=0&bp=0&ou=503884"
+    - bs_link_title: "Wordmark Sketches"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480638&grpid=0&isprv=0&bp=0&ou=503884"
     - bs_link_title: "Final Wordmark"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414032&grpid=0&isprv=0&bp=0&ou=448664"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480639&grpid=0&isprv=0&bp=0&ou=503884"
   videos:
     - video_title: "Prepare vector art for production"
       video_url: "https://youtu.be/A2hk0SI8mjM"
@@ -180,9 +178,6 @@
       serial: "level-4-assignment-3-subpage-deliverables"
       url: type-4/wordmark/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-  criteria:
-        - criterium: "This is the first criterium."
-        - criterium: "You've submitted files as directed, ready for print."
 
 # [3] Comparative Analysis # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Comparative Analysis"
@@ -205,11 +200,11 @@
     - outcome: "Organize files and folders for submission according to provided instructions."
   brightspace:
     - bs_link_title: "Flat Plan"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414025&grpid=0&isprv=0&bp=0&ou=448664"
-    - bs_link_title: "Comparative Analysis Feedback"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414026&grpid=0&isprv=0&bp=0&ou=448664"
-    - bs_link_title: "Comparative Analysis"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414030&grpid=0&isprv=0&bp=0&ou=448664"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480632&grpid=0&isprv=0&bp=0&ou=503884"
+    - bs_link_title: "Comparative Analysis WIP"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480633&grpid=0&isprv=0&bp=0&ou=503884"
+    - bs_link_title: "Final Comparative Analysis"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480637&grpid=0&isprv=0&bp=0&ou=503884"
   videos:
     - video_title: "Set PDF initial view"
       video_url: "https://youtu.be/1BACQDQOzTc"
@@ -229,16 +224,12 @@
       serial: "level-4-assignment-4-comparative-analysis-subpage-deliverables"
       url: type-4/comparative-analysis/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-      criteria:
-        - criterium: "This is the first criterium."
-        - criterium: "You've submitted files as directed, ready for print."
 
-# [4] Type 4 Micro #1 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# [4] Baseline Grids # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Baseline Grids"
   type: "File Submission"
   value: "10%"
-  serial: "level-4-item-1-home"
+  serial: "level-4-assignment-5-home"
   url: type-4/baseline-grids/index.html
   deck: "We'll create a type system that works entirely on a baseline grid."
   download:
@@ -250,7 +241,7 @@
     - outcome: "Use the appropriate software tools and techniques to build the design."
   brightspace:
     - bs_link_title: "Baseline Grids"
-      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=414033&grpid=0&isprv=0&bp=0&ou=448664"
+      bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480640&grpid=0&isprv=0&bp=0&ou=503884"
   resource-links: |
     - https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/setting-up-a-baseline-grid?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2199673
   # Subpages
@@ -267,18 +258,13 @@
     serial: level-4-item-1-subpage-deliverables
     url: type-4/baseline-grids/deliverables.html
     deck: "Gather all your stuff. It's time to send your assignment home."
-  criteria:
-    - criterium: "This is the first criteria item."
-    - criterium: "The second criterium comes after the first."
-    - criterium: "Never two without three criterium."
-    - criterium: "Two plus two equals four criteria."
 
-# [5] Type 4 Micro #2 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# [5] Quizzes # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Quizzes"
   type: "Quiz!"
   value: "10%"
-#  serial: "level-4-item-2-home"
-#  url: type-4/type-4-item-2/index.html
+  serial: "level-4-assignment-6-home"
+  url: type-4/type-4-item-2/index.html
 #  deck: "We'll build a single page with our type selections and hierarchy."
 #  download:
 #  outcomes:
