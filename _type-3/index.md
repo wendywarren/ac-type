@@ -22,12 +22,13 @@ You can navigate all the semester's assignments to explore what you'll be learni
 	</tr>
 	</thead>
 	<tbody>
-	<tr><td>Poster</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
-	<tr><td>Sell Sheet</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
-	<tr><td>Grimm's Pages</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
-	<tr><td>Publication</td><td class="column-2">File Submission</td><td class="column-3">20%</td></tr>
-	<tr><td>Presentations</td><td class="column-2">Presentations & Submissions</td><td class="column-3">10%</td></tr>
-	<tr><td>Quiz Pool</td><td class="column-2">Lots o' Quizzes</td><td class="column-3">10%</td></tr>
+	<tr><td>{{ site.data.type3[0].title }}</td><td class="column-2">{{ site.data.type3[0].type }}</td><td class="column-3">{{ site.data.type3[0].value }}</td></tr>
+	<tr><td>{{ site.data.type3[1].title }}</td><td class="column-2">{{ site.data.type3[1].type }}</td><td class="column-3">{{ site.data.type3[1].value }}</td></tr>
+	<tr><td>{{ site.data.type3[2].title }}</td><td class="column-2">{{ site.data.type3[2].type }}</td><td class="column-3">{{ site.data.type3[2].value }}</td></tr>
+	<tr><td>{{ site.data.type3[3].title }}</td><td class="column-2">{{ site.data.type3[3].type }}</td><td class="column-3">{{ site.data.type3[3].value }}</td></tr>
+	<tr><td>{{ site.data.type3[4].title }}</td><td class="column-2">{{ site.data.type3[4].type }}</td><td class="column-3">{{ site.data.type3[4].value }}</td></tr>
+	<tr><td>{{ site.data.type3[5].title }}</td><td class="column-2">{{ site.data.type3[5].type }}</td><td class="column-3">{{ site.data.type3[5].value }}</td></tr>
+	<tr><td>{{ site.data.type3[6].title }}</td><td class="column-2">{{ site.data.type3[6].type }}</td><td class="column-3">{{ site.data.type3[6].value }}</td></tr>
 	</tbody>
 </table>
 

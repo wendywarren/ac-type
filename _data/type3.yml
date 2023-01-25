@@ -1,7 +1,8 @@
 # [0] Poster # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type in Time Poster"
+  type: "Digital & Print"
   serial: "level-3-assignment-1-home"
-  point-value: 20
+  value: "20%"
   url: type-3/type-in-time-poster/index.html
   deck: "Type classification is a mirky business. We're not going to let that stop us! We'll discover what goes where in the grand timeline of typography. The product will be a poster design from a chosen classification."
   download:
@@ -15,6 +16,7 @@
     - outcome: "Show off a type family's weights, widths at varied sizes and position on the page."
     - outcome: "Select and apply theme-appropriate colours."
     - outcome: "Use the appropriate software tools and techniques to build the page."
+    - outcome: "You've submitted files as directed, ready for print."
   brightspace:
     - bs_link_title: "Informal Grids: Let's Practice!"
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480488&grpid=0&isprv=0&bp=0&ou=503881"
@@ -27,8 +29,6 @@
     - bs_link_title: "Poster Final Submission"
       bs_url: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=480498&grpid=0&isprv=0&bp=0&ou=503881"
   videos:
-    - video_title: "Illustrator poster document setup"
-      video_url: "https://youtu.be/ORFTK9WCCp8"
     - video_title: "Illustrator Every-Line Composer"
       video_url: "https://youtu.be/jRNpqWVqgbQ"
     - video_title: "Poster colour handling"
@@ -64,16 +64,12 @@
       serial: "level-3-assignment-1-subpage-deliverables"
       url: type-3/type-in-time-poster/deliverables.html
       deck: "Gather all your stuff. It's time to send your assignment home."
-      criteria:
-        - criterium: "You've successfully classified your chosen type family."
-        - criterium: "The information you've sourced about your chose typeface is plentiful and relevant."
-        - criterium: "You've made the most of the type family's various weights and widths."
-        - criterium: "Your treatment demonstrates a confident handling of a limited number of colours, achieving a strong impact."
-        - criterium: "You've submitted files as directed, ready for print."
+
 # [1] Sell Sheet # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Sell Sheet"
+  type: "Digital & Print"
   serial: "level-3-assignment-2-home"
-  point-value: 20
+  value: "20%"
   url: type-3/sell-sheet/index.html
   deck: "This sell sheet design will have you create a two-sided page layout on a modular grid."
   download: ""
@@ -137,8 +133,9 @@
 
 # [2] Grimms Pages # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Grimm's Pages"
+  type: "Digital & Print"
   serial: "level-3-assignment-3-home"
-  point-value: 20
+  value: "20%"
   url: type-3/grimms-pages/index.html
   deck: "In this assignment, we'll design a mock-up for our client. It will show them our design for their fiction novel with all its typographic elements."
   download:
@@ -191,8 +188,9 @@
 
 # [3] Magazine # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Magazine Design"
+  type: "Digital & Print"
   url: type-3/magazine/index.html
-  point-value: 20
+  value: "20%"
   serial: "level-3-magazine-assignment-home"
   deck: "With this assignment, we increase the complexity of our layouts. We'll design a modular grid, type and image treatments."
   download:
@@ -267,8 +265,9 @@
 
 # [4] Font Pairing # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type Family Pairing"
+  type: "Digital & Presentation"
   url: type-3/type-family-pairing/index.html
-  point-value: 5
+  value: "5%"
   serial: level-3-assignment-5-home
   deck: "What makes a pair of type families harmonious versus another that simply clash? Are there any clues to get us started in making compatible matches? We'll delve deep into the witchcraft of type pairs."
   outcomes:
@@ -308,8 +307,9 @@
 
 # [5] Typographer of the Week # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Typographer of the Week"
+  type: "Digital & Presentation"
   serial: level-3-assignment-6-home
-  point-value: 5
+  value: "5%"
   url: type-3/typographer-of-the-week/index.html
   deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
   download:
@@ -338,8 +338,9 @@
 
 # [6] Type Knowledge # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Type Knowledge"
+  type: "Lot's of Quizzes"
   serial: level-3-assignment-7-home
-  point-value: 5
+  value: "10%"
   url: kb/index.html
   deck: "Choosing and using typefaces is the main goal of this course. But who's behind the creation of the typefaces we choose? Let's get to know the very creative detail-oriented folks behind the gorgeous typefaces we use every day."
   download:

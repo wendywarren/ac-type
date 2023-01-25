@@ -22,7 +22,15 @@ As we'll only be using Adobe Fonts, there's not much to do here. No fonts will e
 
 If there's a font folder in your package folder, there's a problem. Look inside to see what's there. It's not an Adobe Font, so you need to go remove it from your InDesign file, then package it again.
 
-### Your Submission Folder
+### Print Submission
+
+Before you print your pages, please add a rectangle on the parent pages at the trim line so I can see your margins more clearly when you print them. Make it a 0.5pt black stroke.
+
+![Grimms Pages Print Example]({{site.url}}/svg/grimms-pages/grimms-pages-print-example.svg){:width="50%"}
+
+Print your Grimm's Pages on letter pages, two-sided with crop marks and file info. Staple your sheets together. I'll show you a sample in class.
+
+### Digital Submission
 
 Be sure your InDesign document is named as usual:
 

@@ -21,3 +21,19 @@ As we build our layout, we create hierarchy for each element using size, weight,
 In the example above, you can see that the main title logically takes the lead in the layout. The two remaining elements align with it. You can see how, even with so few elements, we've achieved harmony on the page.
 
 It's also obvious that the process of creating a layout in this manner is too tedious for long multi-page publications. That's what modular grids are for.
+
+These are some variables you can work with to achieve hierarchy;
+
+<ul class="hasBullets columns3">
+	<li>size</li>
+	<li>weight</li>
+	<li>width</li>
+	<li>case</li>
+	<li>tints & shades</li>
+	<li>strokes</li>
+	<li>columns</li>
+	<li>diagonal</li>
+	<li>italics</li>
+	<li>reversed</li>
+	<li>tracking</li>
+</ul>

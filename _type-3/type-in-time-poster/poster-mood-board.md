@@ -14,7 +14,7 @@ Produce lots. Show me. Rinse and repeat.
 
 #### High(er)-Fidelity Rendering
 
-Once you've refined your concepts, you can create a higher fidelity version of your poster. This can be on a full letter or tabloid sized sheet. Remember to use the proportions of the final poster. It measures 24" x 36". That's a 2:3 ratio, so you can make your high-fi rendering 6" by 9" on a letter sheet or 8" by 12" on a tabloid sheet.
+Once you've refined your concepts, you can create a higher fidelity version of your poster. This can be on a full letter or tabloid sized sheet. Remember to use the proportions of the final poster. It measures 12" x 18". That's a 2:3 ratio, so you can make your high-fi rendering 6" by 9" on a letter sheet or 8" by 12" on a tabloid sheet.
 
 This is what you'll base your final poster on. Once you have this done, the creative process is pretty much complete. On to building the final file for production!
 

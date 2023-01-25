@@ -33,6 +33,7 @@ These are some variables you can work with:
 	<li>diagonal</li>
 	<li>italics</li>
 	<li>reversed</li>
+	<li>tracking</li>
 </ul>
 
 

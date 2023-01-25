@@ -1,6 +1,6 @@
 # [0] Save the Date # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Save The Date"
-  type: "File Submission"
+  type: "Digital & Print"
   value: "10%"
   serial: "level-4-assignment-1-home"
   url: type-4/save-the-date/index.html
@@ -46,7 +46,7 @@
 
 # [1] Menu Design # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "The Art of the Menu"
-  type: "File Submission"
+  type: "Digital & Print"
   value: "25%"
   serial: "level-4-assignment-2-menu-home"
   url: type-4/menu/index.html
@@ -121,7 +121,7 @@
 
 # [2] Wordmark # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 - title: "Wordmark"
-  type: "File Submission"
+  type: "Digital & Print"
   value: "20%"
   serial: "level-4-assignment-3-home"
   url: type-4/wordmark/index.html
@@ -181,7 +181,7 @@
 
 # [3] Comparative Analysis # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Comparative Analysis"
-  type: "File Submission"
+  type: "Digital & Print"
   value: "25%"
   serial: "level-4-assignment-4-comparative-analysis-home"
   url: type-4/comparative-analysis/index.html
@@ -227,7 +227,7 @@
 
 # [4] Baseline Grids # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Baseline Grids"
-  type: "File Submission"
+  type: "Digital & Print"
   value: "10%"
   serial: "level-4-assignment-5-home"
   url: type-4/baseline-grids/index.html
@@ -261,5 +261,6 @@
 
 # [5] Quizzes # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 - title: "Quizzes"
-  type: "Quiz!"
+  type: "Lot's of Quizzes"
+  value: "10%"
   serial: "level-4-assignment-6-home"

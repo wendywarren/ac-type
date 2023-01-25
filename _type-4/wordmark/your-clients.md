@@ -5,20 +5,42 @@ serial: level-4-assignment-3-wordmark-subpage-2-your-clients
 
 ## Your Clients
 
-| Last Name       | First Name    | Client Name
-|-----------------|---------------|-----------------------|
-| Amos            | Alyssa        | Bijou Luxe            |
-| Boyd            | Brittany      | Sticky Fingers        |
-| Desilets        | Haley         | Dollar Fresh          |
-| Hassun          | Ragad         | Avilion Resort & Spa  |
-| Horner          | Lexy          | Bijou Luxe            |
-| Nicot           | Elisa         | Sticky Fingers        |
-| Poehlmann       | Adam          | Bijou Luxe            |
-| Sentner         | Curtis        | Avilion Resort & Spa  |
-| Sethi           | Seerath       | Dollar Fresh          |
-| Stewart         | Jessica       | Sticky Fingers        |
-| Vu              | Dreami        | Dollar Fresh          |
-
+| Name                     | Client                          |
+| ------------------------ | ------------------------------- |
+| Bellehumeur, Sophia      | Sticky Fingers BBQ Catering Co. |
+| Boucher, Alex            | Dollar Fresh                    |
+| Buccini, Molly           | Bijou Luxe Clothing Co.         |
+| Dingman, Cassidy         | Avilion Resort & Spa            |
+| Gendreau, Xavier         | Sticky Fingers BBQ Catering Co. |
+| Hamblin, Dillon          | Dollar Fresh                    |
+| Hillier, Bryar           | Bijou Luxe Clothing Co.         |
+| Lehto, Milo              | Avilion Resort & Spa            |
+| Neilson, Daniel          | Sticky Fingers BBQ Catering Co. |
+| Norman, Rachel           | Dollar Fresh                    |
+| Offord, Rachel           | Bijou Luxe Clothing Co.         |
+| Salisbury, Laura         | Avilion Resort & Spa            |
+| Soytas, Zeyneb           | Sticky Fingers BBQ Catering Co. |
+|                          |                                 |
+| Allen, Reid              | Dollar Fresh                    |
+| Archer, Tiegan           | Bijou Luxe Clothing Co.         |
+| Assaad, Ray              | Avilion Resort & Spa            |
+| Bailey, Kae              | Sticky Fingers BBQ Catering Co. |
+| Carchidi, Eric           | Dollar Fresh                    |
+| Carkner-Botte, Hanna     | Bijou Luxe Clothing Co.         |
+| Celone, Teah             | Avilion Resort & Spa            |
+| Cousineau, Brianna       | Sticky Fingers BBQ Catering Co. |
+| Desmedt, Emily           | Dollar Fresh                    |
+| Elmelegy, Sara           | Bijou Luxe Clothing Co.         |
+| Golshanpanah, Omid       | Avilion Resort & Spa            |
+| Graham, Harmony          | Sticky Fingers BBQ Catering Co. |
+| Lau, Serena              | Sticky Fingers BBQ Catering Co. |
+| Lee, Kiersten            | Dollar Fresh                    |
+| Payman, Sophia           | Bijou Luxe Clothing Co.         |
+| Pennington, Michel       | Avilion Resort & Spa            |
+| Pinsent, Abby            | Sticky Fingers BBQ Catering Co. |
+| Pitre-Desrochers, Andrea | Dollar Fresh                    |
+| Shecapio Lacroix, Mariah | Bijou Luxe Clothing Co.         |
+| Vu, Vincent              | Avilion Resort & Spa            |
 
 ### Sticky Fingers BBQ Catering Co.
 {: .blue}

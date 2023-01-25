@@ -22,7 +22,11 @@ As we'll only be using Adobe Fonts, there's not much to do here. No fonts will e
 
 If there's a font folder in your package folder, there's a problem. Look inside to see what's there. It's not an Adobe Font, so you need to go remove it from your InDesign file, then package it again.
 
-### Your Submission Folder
+### Print Submission
+
+Print a full mock-up of your menu in full colour. You'll have to print this at the college's Print Shop or at your local print shop.
+
+### Digital Submission
 
 Be sure your InDesign document is named as usual:
 
